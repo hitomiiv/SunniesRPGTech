@@ -14193,13 +14193,184 @@
             "fabric"
           ]
         }
+      },
+      {
+        "name": "Balm",
+        "version": "7.3.9+fabric-1.20.1",
+        "optional": true,
+        "file": "balm-fabric-1.20.1-7.3.9.jar",
+        "type": "mods",
+        "description": "Abstraction Layer (but not really)™ for Blay's multiplatform mods",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "modrinthProject": {
+          "id": "MBAkmtvl",
+          "slug": "balm",
+          "project_type": "mod",
+          "team": "c1tw4qzj",
+          "title": "Balm",
+          "description": "Abstraction Layer (but not really)™ for Blay's multiplatform mods",
+          "body": "<p>\n    <a style=\"text-decoration: none;\" href=\"https://modrinth.com/mod/balm\"> \n        <img src=\"https://blay09.net/files/brand/requires_balm.png\" alt=\"Requires Balm\" width=\"217\" height=\"51\" /> \n    </a>\n    <img src=\"https://blay09.net/files/brand/spacer.png\" alt=\"\" width=\"21\" height=\"51\" /> \n    <a style=\"text-decoration: none;\" href=\"https://discord.gg/VAfZ2Nau6j\">\n        <img src=\"https://blay09.net/files/brand/discord.png\" alt=\"Join our Discord\" width=\"51\" height=\"51\" />\n    </a>\n</p>\n\n[![](https://mods.twelveiterations.com/img/sponsor.png)](https://mods.twelveiterations.com/sponsor)\n\n## What is this?\n\nAbstraction Layer (but not really)™ for Blay's multiplatform mods. This is a library mod, it does not add anything on its own.\n\nI do not recommend other modders to build on this as I will ruthlessly break backwards-compatibility as needed for my mods.\n\nNote that this is not a magic solution for running Forge and Fabric mods together, it's only a library my mods will depend on to make publishing for both versions easier.\n\n## Why is this?\n\nI can't just switch to Fabric and abandon all existing Forge users, but I also don't want to miss a Fabric train if there is one.\n\nTrying a port for fun showed that most of the platform-specific things can easily be hidden away from the actual mod code which doesn't have to care about modloader backends, which should hopefully make it much easier to support both mods at the same time.\n\nThere's other libraries that do the same thing, but given the amount of mods I maintain I don't want to put all my money on one boat only to deal with headaches once those other mods stop being supported.\n\n## How does this?\n\nIt just wraps all platform-specific code behind a unified API (in the simplest way possible, there is no magic involved) and provides superclasses to use in cases where platform-specific methods are added to Vanilla classes.\n\nIt also adds a simple network system (similar to Forge's) and a config layer with sync support.\n\n## Who is this?\n\nHi, I'm Blay and my Twitter is at [@BlayTheNinth](https://twitter.com/BlayTheNinth).",
+          "published": "2022-06-14T18:11:16.556742Z",
+          "updated": "2024-08-19T19:54:02.203733Z",
+          "status": "approved",
+          "license": {
+            "id": "LicenseRef-All-Rights-Reserved",
+            "name": "",
+            "url": "https://mods.twelveiterations.com/permissions"
+          },
+          "client_side": "required",
+          "server_side": "required",
+          "categories": [
+            "library"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/MBAkmtvl/icon.png",
+          "issues_url": "https://github.com/TwelveIterationMods/Balm/issues",
+          "source_url": "https://github.com/TwelveIterationMods/Balm",
+          "wiki_url": "https://mods.twelveiterations.com/",
+          "discord_url": "https://discord.gg/VAfZ2Nau6j",
+          "donation_urls": [
+            {
+              "id": "github",
+              "platform": "Github",
+              "url": "https://github.com/BlayTheNinth"
+            },
+            {
+              "id": "patreon",
+              "platform": "Patreon",
+              "url": "https://www.patreon.com/BlayTheNinth"
+            }
+          ],
+          "gallery": []
+        },
+        "modrinthVersion": {
+          "id": "5sowswPx",
+          "project_id": "MBAkmtvl",
+          "author_id": "WE4nCeiO",
+          "name": "7.3.9+fabric-1.20.1",
+          "version_number": "7.3.9+fabric-1.20.1",
+          "changelog": "- Fixed crash on dedicated servers\n- Fixed potential crash with other mods in regards to the dummy milk fluid",
+          "date_published": "2024-08-19T19:50:18.138773Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha512": "7b19c6b603027f715bb7630bc1da7015a92e6323730f425334e4a449a64d2e5bf292732e96f2153a77cd3581e9b24847ab5205bc6daf26da8d57c1f8b29aaed8",
+                "sha1": "e2ffe6bfb56ca7baffb96b83ffd49aa836b2a1fe"
+              },
+              "url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/5sowswPx/balm-fabric-1.20.1-7.3.9.jar",
+              "filename": "balm-fabric-1.20.1-7.3.9.jar",
+              "primary": true,
+              "size": 411276
+            }
+          ],
+          "dependencies": [
+            {
+              "project_id": "P7dR8mSH",
+              "dependency_type": "required"
+            }
+          ],
+          "game_versions": [
+            "1.20",
+            "1.20.1"
+          ],
+          "loaders": [
+            "fabric"
+          ]
+        }
+      },
+      {
+        "name": "Waystones",
+        "version": "14.1.4+fabric-1.20",
+        "optional": true,
+        "file": "waystones-fabric-1.20-14.1.4.jar",
+        "type": "mods",
+        "description": "Teleport back to activated waystones. For Survival, Adventure or Servers.",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "modrinthProject": {
+          "id": "LOpKHB2A",
+          "slug": "waystones",
+          "project_type": "mod",
+          "team": "cPt0ZaJz",
+          "title": "Waystones",
+          "description": "Teleport back to activated waystones. For Survival, Adventure or Servers.",
+          "body": "![](https://blay09.net/files/brand/waystones.png)\n\n[![](https://mods.twelveiterations.com/img/sponsor.png)](https://mods.twelveiterations.com/sponsor)\n\nThis mod adds waystone blocks that the player can return to once they've been activated, either through a Warp Scroll, a rechargeable Warp Stone, or by using an existing waystone to hop from one to the other.\n\nIt can be used in Survival Mode, for Adventure Maps or on Multiplayer Servers as an alternative to /warp and /home commands. Waystones can be made globally available for all players and a configurable inventory button can be set up to allow warping without any additional items.\n\n<p>\n    <a style=\"text-decoration: none;\" href=\"https://modrinth.com/mod/balm\"> \n        <img src=\"https://blay09.net/files/brand/requires_balm.png\" alt=\"Requires Balm\" width=\"217\" height=\"51\" /> \n    </a>\n    <img src=\"https://blay09.net/files/brand/spacer.png\" alt=\"\" width=\"21\" height=\"51\" /> \n    <a style=\"text-decoration: none;\" href=\"https://discord.gg/VAfZ2Nau6j\">\n        <img src=\"https://blay09.net/files/brand/discord.png\" alt=\"Join our Discord\" width=\"51\" height=\"51\" />\n    </a>\n</p>\n\n## Features\n\n- Craftable Waystones for Survival Mode\n- Teleporting between Waystones or using a Warp Scroll or rechargeable Warp Stone\n- Sharing of activated Waystones through Bound Scrolls\n- Optional Inventory Button for warping without any items\n- Global Waystones for Multiplayer Servers and Adventure Maps\n- Generation of Random Waystones in the World\n\n[Mod Showcase by Krzair](https://www.youtube.com/watch?v=mI3aV8OKaWQ)\n\n![](https://blay09.net/files/brand/waystones_2.png)\n\n## Additional Credits\n\nThe Return Scroll and Warp Stone item icons included are by [@JoeCreates](https://twitter.com/JoeCreates) and were publically released under the CC-BY-SA 3.0 license [here](https://www.curseforge.com/linkout?remoteUrl=https%253a%252f%252fopengameart.org%252fcontent%252froguelikerpg-items).",
+          "published": "2022-06-15T19:00:57.637340Z",
+          "updated": "2024-08-13T05:48:08.443909Z",
+          "status": "approved",
+          "license": {
+            "id": "LicenseRef-All-Rights-Reserved",
+            "name": "",
+            "url": "https://mods.twelveiterations.com/permissions"
+          },
+          "client_side": "required",
+          "server_side": "required",
+          "categories": [
+            "adventure",
+            "magic",
+            "transportation"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/LOpKHB2A/icon.png",
+          "issues_url": "https://github.com/TwelveIterationMods/Waystones/issues",
+          "source_url": "https://github.com/TwelveIterationMods/Waystones",
+          "wiki_url": "https://mods.twelveiterations.com/mc/waystones",
+          "discord_url": "https://discord.gg/VAfZ2Nau6j",
+          "donation_urls": [
+            {
+              "id": "patreon",
+              "platform": "Patreon",
+              "url": "https://www.patreon.com/BlayTheNinth"
+            }
+          ],
+          "gallery": []
+        },
+        "modrinthVersion": {
+          "id": "wgUtWmqB",
+          "project_id": "LOpKHB2A",
+          "author_id": "WE4nCeiO",
+          "name": "14.1.4+fabric-1.20",
+          "version_number": "14.1.4+fabric-1.20",
+          "changelog": "- Fixed Waystones sometimes restricting structure parts containing the word \"waystone\" from spawning (which caused the top of Towers of the Wild to sometimes be missing)",
+          "date_published": "2024-07-04T06:36:39.823679Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha1": "6f318ab37fe1353ef0ce5bd97e03548505d3f7ad",
+                "sha512": "5e921791dbdb29baa56bf9d33b7f0288872533e37ca27596946a7c36befb94bcf737d4db68e8eab2667d2d1d4957a6208d437873e9289b28922afdee515fa8eb"
+              },
+              "url": "https://cdn.modrinth.com/data/LOpKHB2A/versions/wgUtWmqB/waystones-fabric-1.20-14.1.4.jar",
+              "filename": "waystones-fabric-1.20-14.1.4.jar",
+              "primary": true,
+              "size": 483252
+            }
+          ],
+          "dependencies": [
+            {
+              "project_id": "MBAkmtvl",
+              "dependency_type": "required"
+            }
+          ],
+          "game_versions": [
+            "1.20",
+            "1.20.1"
+          ],
+          "loaders": [
+            "fabric"
+          ]
+        }
       }
     ],
     "ignoredUpdates": [],
     "ignoreAllUpdates": false,
     "vanillaInstance": true,
-    "lastPlayed": 1724534314245,
-    "numPlays": 23
+    "lastPlayed": 1724535817376,
+    "numPlays": 24
   },
   "id": "1.20.1",
   "complianceLevel": 1,
