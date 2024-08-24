@@ -4308,13 +4308,2949 @@
             "quilt"
           ]
         }
+      },
+      {
+        "name": "MVS - Moog's Voyager Structures",
+        "version": "MVS - Moog's Voyager Structures 4.1.3-1.20.6-fabric",
+        "optional": true,
+        "file": "mvs-4.1.3-1.20.6.jar",
+        "type": "mods",
+        "description": "adds 87+ vanilla style structures to your world to bring it alive, using vanilla blocks. Includes dungeons and enemies to fight!",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 656977,
+        "curseForgeFileId": 5485672,
+        "curseForgeProject": {
+          "id": 656977,
+          "name": "MVS - Moog's Voyager Structures",
+          "authors": [
+            {
+              "id": 102321336,
+              "name": "finndog_123",
+              "url": "https://www.curseforge.com/members/finndog_123"
+            },
+            {
+              "id": 103661711,
+              "name": "olver____",
+              "url": "https://www.curseforge.com/members/olver____"
+            },
+            {
+              "id": 102522375,
+              "name": "havococcultist",
+              "url": "https://www.curseforge.com/members/havococcultist"
+            },
+            {
+              "id": 102397032,
+              "name": "TFA120",
+              "url": "https://www.curseforge.com/members/tfa120"
+            }
+          ],
+          "gameId": 432,
+          "summary": "160+ structures made with vanilla blocks and entities bringing life to your world! Discover loot, enemies, & villagers along the way!",
+          "categories": [
+            {
+              "name": "Adventure and RPG",
+              "slug": "adventure-rpg",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/adventure-rpg",
+              "dateModified": "2014-05-08T17:42:09.54Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 422,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/37/635351497295252123.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "World Gen",
+              "slug": "world-gen",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen",
+              "dateModified": "2017-10-16T21:40:11.473Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 406,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/26/635351494599748860.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Structures",
+              "slug": "world-structures",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen/world-structures",
+              "dateModified": "2014-05-08T17:37:17.173Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 409,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/24/635351494371736208.png",
+              "parentCategoryId": 406,
+              "classId": 6
+            },
+            {
+              "name": "Cosmetic",
+              "slug": "cosmetic",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/cosmetic",
+              "dateModified": "2014-05-08T17:42:35.597Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 424,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/39/635351497555976928.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 409,
+          "classId": 6,
+          "slug": "moogs-voyager-structures",
+          "isFeatured": false,
+          "dateModified": "2024-07-04T19:08:21.47Z",
+          "dateCreated": "2022-08-07T15:30:38.49Z",
+          "dateReleased": "2024-07-04T19:04:07.853Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/moogs-voyager-structures",
+            "wikiUrl": "https://github.com/FinnSetchell/MoogsVanillaStructuresV2/wiki",
+            "issuesUrl": "https://github.com/FinnSetchell/MoogsVoyagerStructures/issues",
+            "sourceUrl": "https://github.com/FinnSetchell/MoogsVanillaStructuresV2"
+          },
+          "logo": {
+            "id": 869885,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/869/885/256/256/638285724433169131.png",
+            "title": "638285724433169131.png",
+            "url": "https://media.forgecdn.net/avatars/869/885/638285724433169131.png",
+            "modId": 656977
+          },
+          "allowModDistribution": true,
+          "screenshots": [
+            {
+              "id": 647314,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/647/314/310/172/eight.png",
+              "title": "horse pen, barn, gallows, deepslate house and large tree",
+              "url": "https://media.forgecdn.net/attachments/647/314/eight.png",
+              "modId": 656977
+            },
+            {
+              "id": 647301,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/647/301/310/172/three.png",
+              "title": "jungle tower and crystal",
+              "url": "https://media.forgecdn.net/attachments/647/301/three.png",
+              "modId": 656977
+            },
+            {
+              "id": 647320,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/647/320/310/172/eleven.png",
+              "title": "end scraps 1-4",
+              "url": "https://media.forgecdn.net/attachments/647/320/eleven.png",
+              "modId": 656977
+            },
+            {
+              "id": 647318,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/647/318/310/172/ten.png",
+              "title": "campsite, duck, bee dome and desert pump",
+              "url": "https://media.forgecdn.net/attachments/647/318/ten.png",
+              "modId": 656977
+            },
+            {
+              "id": 647309,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/647/309/310/172/seven.png",
+              "title": "calcite house, tall house, house and small swamp house",
+              "url": "https://media.forgecdn.net/attachments/647/309/seven.png",
+              "modId": 656977
+            },
+            {
+              "id": 647325,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/647/325/310/172/fithteen.png",
+              "title": "ruined beacon, stone pillars, tree monument, log ruin and castle ruin",
+              "url": "https://media.forgecdn.net/attachments/647/325/fithteen.png",
+              "modId": 656977
+            },
+            {
+              "id": 647323,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/647/323/310/172/fourteen.png",
+              "title": "rare well, railway, lamp chest, stone fountain, out house and lecturn garden",
+              "url": "https://media.forgecdn.net/attachments/647/323/fourteen.png",
+              "modId": 656977
+            },
+            {
+              "id": 647316,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/647/316/310/172/nine.png",
+              "title": "azalea house, desert house and flower hole",
+              "url": "https://media.forgecdn.net/attachments/647/316/nine.png",
+              "modId": 656977
+            },
+            {
+              "id": 647299,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/647/299/310/172/two.png",
+              "title": "cart, cart 1 and cart 2",
+              "url": "https://media.forgecdn.net/attachments/647/299/two.png",
+              "modId": 656977
+            },
+            {
+              "id": 647332,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/647/332/310/172/eighteen.png",
+              "title": "various biome wells",
+              "url": "https://media.forgecdn.net/attachments/647/332/eighteen.png",
+              "modId": 656977
+            },
+            {
+              "id": 647322,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/647/322/310/172/thirteen.png",
+              "title": "fox hut, small ruin, villager statue, fire camp and small statue",
+              "url": "https://media.forgecdn.net/attachments/647/322/thirteen.png",
+              "modId": 656977
+            },
+            {
+              "id": 647297,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/647/297/310/172/one.png",
+              "title": "cathedral",
+              "url": "https://media.forgecdn.net/attachments/647/297/one.png",
+              "modId": 656977
+            },
+            {
+              "id": 647331,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/647/331/310/172/seventeen.png",
+              "title": "orange, pink blue and red stalls",
+              "url": "https://media.forgecdn.net/attachments/647/331/seventeen.png",
+              "modId": 656977
+            },
+            {
+              "id": 647303,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/647/303/310/172/four.png",
+              "title": "mushroom pond, rock and floating islands",
+              "url": "https://media.forgecdn.net/attachments/647/303/four.png",
+              "modId": 656977
+            },
+            {
+              "id": 647321,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/647/321/310/172/twelve.png",
+              "title": "nether devil, nether well and crimson enchanting table",
+              "url": "https://media.forgecdn.net/attachments/647/321/twelve.png",
+              "modId": 656977
+            },
+            {
+              "id": 647330,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/647/330/310/172/sixteen.png",
+              "title": "sunzi gate, small well, well, shed, mushroom statue and small ship",
+              "url": "https://media.forgecdn.net/attachments/647/330/sixteen.png",
+              "modId": 656977
+            },
+            {
+              "id": 647333,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/647/333/310/172/nineteen.png",
+              "title": "various biome wells",
+              "url": "https://media.forgecdn.net/attachments/647/333/nineteen.png",
+              "modId": 656977
+            },
+            {
+              "id": 647305,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/647/305/310/172/five.png",
+              "title": "various log piles",
+              "url": "https://media.forgecdn.net/attachments/647/305/five.png",
+              "modId": 656977
+            },
+            {
+              "id": 647306,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/647/306/310/172/six.png",
+              "title": "large floating island",
+              "url": "https://media.forgecdn.net/attachments/647/306/six.png",
+              "modId": 656977
+            }
+          ],
+          "mainFileId": 5502542
+        },
+        "curseForgeFile": {
+          "id": 5485672,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "MVS 4.1.3 1.20.6 [FABRIC]",
+          "fileName": "mvs-4.1.3-1.20.6.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2024-06-29T14:40:21.277Z",
+          "fileLength": 3691028,
+          "dependencies": [],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 548900195,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 1675696372,
+              "name": "architectury_inject_MoogsVoyagerStructures_common_da9179b999c94e3f9e1d86d7f85b7558_24c6a44c8f2770bddcba88e3457f73eba5665fe1ab855702a8d27c273ba4e235mvs4131206devjar"
+            },
+            {
+              "fingerprint": 2455349328,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 1356288116,
+              "name": "com"
+            },
+            {
+              "fingerprint": 3812057608,
+              "name": "data"
+            },
+            {
+              "fingerprint": 1857005018,
+              "name": "fabric.mod.json"
+            },
+            {
+              "fingerprint": 2455349328,
+              "name": "icon.png"
+            },
+            {
+              "fingerprint": 3425077607,
+              "name": "mvs-common-refmap.json"
+            },
+            {
+              "fingerprint": 2404317449,
+              "name": "mvs-common.mixins.json"
+            },
+            {
+              "fingerprint": 2070803687,
+              "name": "mvs-fabric-refmap.json"
+            },
+            {
+              "fingerprint": 2365185420,
+              "name": "mvs-fabric.mixins.json"
+            },
+            {
+              "fingerprint": 1162451074,
+              "name": "mvs.accesswidener"
+            },
+            {
+              "fingerprint": 774099918,
+              "name": "pack.mcmeta"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "c24e7aa972781272c1025b661bb0ed1fe5635a27",
+              "algo": 1
+            },
+            {
+              "value": "d4f9731239a7b19903e4d621782bf4fd",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000005",
+              "gameVersion": "1.20.5",
+              "gameVersionReleaseDate": "2024-04-23T15:00:48.803Z",
+              "gameVersionName": "1.20.5"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-09-01T00:00:00Z",
+              "gameVersionName": "Fabric"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000006",
+              "gameVersion": "1.20.6",
+              "gameVersionReleaseDate": "2024-04-29T15:15:44.67Z",
+              "gameVersionName": "1.20.6"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Server"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-05-26T00:00:00Z",
+              "gameVersionName": "Quilt"
+            }
+          ],
+          "gameVersions": [
+            "1.20.5",
+            "Fabric",
+            "1.20.6",
+            "Server",
+            "Quilt"
+          ],
+          "fileFingerprint": 2278219496,
+          "modId": 656977
+        },
+        "modrinthProject": {
+          "id": "OQAgZMH1",
+          "slug": "moogs-voyager-structures",
+          "project_type": "mod",
+          "team": "JO8zYlq4",
+          "title": "MVS - Moog's Voyager Structures",
+          "description": "adds 87+ vanilla style structures to your world to bring it alive, using vanilla blocks. Includes dungeons and enemies to fight!",
+          "body": "<p><img src=\"https://imgur.com/ZiAlaF7.png\" alt=\"banner\" width=\"2543\" height=\"854\" /></p>\n<hr />\n<p style=\"text-align: center;\"><a href=\"https://ko-fi.com/D1D8LKA5N\" target=\"_blank\" rel=\"noopener noreferrer\"> <img src=\"https://ko-fi.com/img/githubbutton_sm.svg\" /> </a></p>\n<p style=\"text-align: center;\"><a href=\"https://discord.com/invite/S5nffJbuvA\" target=\"_blank\" rel=\"noopener noreferrer\"> <img src=\"https://img.shields.io/discord/869218732650688543?color=3e72b3&amp;label=DISCORD&amp;style=for-the-badge\" alt=\"Discord\" width=\"177\" height=\"28\" /> </a></p>\n<p><a href=\"https://www.curseforge.com/members/finndog_123/projects\" target=\"_blank\" rel=\"noopener noreferrer\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://img.shields.io/badge/My-projects-3e72b3?style=for-the-badge&amp;logo=curseforge\" width=\"175\" height=\"28\" /></a></p>\n<hr />\n<p style=\"text-align: left;\">&nbsp;</p>\n<p><img src=\"https://imgur.com/3kdFRDw.png\" alt=\"Overview\" width=\"2543\" height=\"250\" /></p>\n<hr />\n<p>&nbsp;<span style=\"font-size: 18px; color: #3e72b3;\"><strong>FEEDBACK</strong></span></p>\n<p><span style=\"font-size: 14px;\">Please comment any ideas you may have to improve this mod. Any and all feedback is greatly appreciated :)</span></p>\n<p>&nbsp;</p>\n<p><span style=\"font-size: 14px;\"><span style=\"color: #3e72b3; font-size: 18px;\"><strong>FORGE AND FABRIC</strong></span>&nbsp;</span></p>\n<p><span style=\"font-size: 14px;\">Look for files marked with <strong>[FORGE] </strong>or<strong>&nbsp;[FABRIC]</strong>.</span> <br /><span style=\"font-size: 14px;\"><em><strong>Fabric</strong> mods are marked with <strong>BETA</strong> so that they show up on the side, but they are actually <strong>RELEASE's</strong></em></span></p>\n<p>&nbsp;</p>\n<p><span style=\"font-size: 18px; color: #3e72b3;\"><strong>ABOUT</strong></span></p>\n<p><span style=\"font-size: 14px;\">Moogs Voyager Structures brings life, fun and variety to your Minecraft world! Explore awesome new structures made with vanilla blocks and entities, and discover loot, enemies, and villagers along the way. This mod is compatible with any modpack and keeps the vanilla feel of the game!<br /><br />To see all of the structures, head to the <a href=\"https://www.curseforge.com/minecraft/mc-mods/moogs-voyager-structures/screenshots\">images tab</a>&nbsp;or the <a href=\"https://imgur.com/gallery/Gypu4hD\">imgur post</a></span></p>\n<p>&nbsp;</p>\n<p><span style=\"color: #3e72b3; font-size: 18px;\"><strong>Config pack</strong></span></p>\n<p><span style=\"font-size: 14px;\"><a href=\"https://modrinth.com/datapack/mvs-moogs-voyager-structure-config-pack\" target=\"_blank\" rel=\"noopener noreferrer\">link</a></span></p>\n<p><span style=\"font-size: 14px;\">A datapack you can use to configure the mod.</span></p>\n<p>&nbsp;</p>\n<p><strong style=\"color: #3e72b3; font-size: 18px;\">Installation</strong></p>\n<p><span style=\"font-size: 14px;\">1. simply download the version you need</span><br /><span style=\"font-size: 14px;\">2. then add it to your mods folder</span><br /><span style=\"font-size: 14px;\">It does not require any settings to be changed for it and should work with all mods</span></p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<hr />\n<p><img src=\"https://imgur.com/YX7wWfE.png\" alt=\"features\" width=\"2543\" height=\"251\" /><img src=\"https://i.imgur.com/epC7vBE.png\" alt=\"collage\" width=\"1800\" height=\"3600\" /></p>\n<hr />\n<p><img src=\"https://imgur.com/FbfpnOm.png\" alt=\"showcase\" width=\"2543\" height=\"252\" /></p>\n<hr />\n<p><span style=\"font-size: 14px; color: #3e72b3;\"><strong>If you have any modpacks/videos using this mod that you want featured here, then message me on discord!</strong></span></p>\n<p>&nbsp;</p>\n<p><span style=\"font-size: 18px;\"><span style=\"color: #3e72b3;\"><strong>VIDEOS:</strong></span>&nbsp;</span></p>\n<p><iframe allowfullscreen=\"allowfullscreen\" src=\"https://www.youtube.com/embed/z0HMHeHAlZ4?wmode=transparent\" height=\"180\" width=\"320\"></iframe> <iframe allowfullscreen=\"allowfullscreen\" src=\"https://www.youtube.com/embed/8e1M7q9xczE?wmode=transparent\" height=\"180\" width=\"320\"></iframe> <iframe allowfullscreen=\"allowfullscreen\" src=\"https://www.youtube.com/embed/uZTwDSCTnCI?wmode=transparent\" height=\"180\" width=\"320\"></iframe></p>\n<p><iframe allowfullscreen=\"allowfullscreen\" src=\"https://www.youtube.com/embed/s6vgsSyxLpY?wmode=transparent\" height=\"180\" width=\"320\"></iframe> <iframe allowfullscreen=\"allowfullscreen\" src=\"https://www.youtube.com/embed/3cCg77xneF4?wmode=transparent\" height=\"180\" width=\"320\"></iframe></p>\n<p>&nbsp;</p>\n<p><span style=\"font-size: 18px; color: #3e72b3;\"><strong>MODPACKS</strong></span></p>\n<p><span style=\"font-size: 14px;\">see all modpacks <a title=\"here\" href=\"https://www.modpackindex.com/modpack/finder?included_mods=37802\" target=\"_blank\" rel=\"noopener noreferrer\">here</a></span></p>\n<p>&nbsp;</p>\n<hr />\n<p><img src=\"https://imgur.com/5oPQ5Rj.png\" /></p>\n<hr />\n<p><span style=\"font-size: 18px; color: #3e72b3;\"><strong>The best and fastest way to get replies is to join our <a href=\"https://discord.gg/S5nffJbuvA\" target=\"_blank\" rel=\"noopener noreferrer\">discord server</a></strong></span></p>\n<p>&nbsp;</p>\n<p><span style=\"font-size: 18px;\"><a title=\"discord invite\" href=\"https://discord.gg/S5nffJbuvA\" target=\"_blank\" rel=\"noopener noreferrer\"><span style=\"color: #3e72b3;\"><strong><img src=\"https://i.imgur.com/sfAmR3Y.png\" alt=\"discord\" width=\"292\" height=\"76\" /></strong></span></a></span></p>\n<p>&nbsp;</p>\n<hr />\n<p style=\"text-align: center;\">&nbsp;<br /><a href=\"https://bisecthosting.com/moogsmods\"><img src=\"https://imgur.com/BwGCkGv.png\" alt=\"BHsponser\" width=\"2543\" height=\"609\" /></a></p>",
+          "published": "2022-10-31T20:21:52.568927Z",
+          "updated": "2024-07-04T19:05:28.354633Z",
+          "status": "approved",
+          "license": {
+            "id": "MIT",
+            "name": "MIT License"
+          },
+          "client_side": "unsupported",
+          "server_side": "required",
+          "categories": [
+            "adventure",
+            "decoration",
+            "worldgen"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/OQAgZMH1/5c6c979b306869d96441ffaa686c1d611a209f75.png",
+          "issues_url": "https://github.com/FinnSetchell/MoogsVoyagerStructures/issues",
+          "source_url": "https://github.com/FinnSetchell/MoogsVoyagerStructures",
+          "wiki_url": "https://github.com/FinnSetchell/MoogsVoyagerStructures/wiki",
+          "discord_url": "https://discord.com/invite/S5nffJbuvA",
+          "donation_urls": [
+            {
+              "id": "ko-fi",
+              "platform": "Ko-fi",
+              "url": "https://ko-fi.com/finndog"
+            }
+          ],
+          "gallery": [
+            {
+              "url": "https://cdn.modrinth.com/data/OQAgZMH1/images/084019128337984779a2370e4955496564a7e379.png",
+              "featured": false,
+              "created": "2024-04-14T10:33:37.117992Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/OQAgZMH1/images/141d58d653e8b9cd365853a8ce7018b89d96f9d8.png",
+              "featured": false,
+              "created": "2024-04-14T10:31:38.925082Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/OQAgZMH1/images/27524cfa488e87dd3d6025554073cdaabd748eaa.png",
+              "featured": false,
+              "created": "2024-04-14T10:32:23.129525Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/OQAgZMH1/images/2a83a7d2b086fd8e17c3bac4a83a35baa6a51f9d.png",
+              "featured": false,
+              "created": "2024-04-14T10:33:44.365874Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/OQAgZMH1/images/3317523c3d3a88b7561dfd191075df5a5bc592af.png",
+              "featured": false,
+              "created": "2024-04-14T10:31:14.640056Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/OQAgZMH1/images/333cc97973473a01e55b252e810532156cadbf0a.png",
+              "featured": false,
+              "created": "2024-04-14T10:31:04.255203Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/OQAgZMH1/images/417e66346ad7df0eca4c6a6dff04df27ca0e9260.png",
+              "featured": false,
+              "created": "2024-04-14T10:33:10.874511Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/OQAgZMH1/images/45a466a0e9960933bfbb3a9c34ddd58e848aa10f.png",
+              "featured": false,
+              "created": "2024-04-14T10:32:39.395428Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/OQAgZMH1/images/5c07c4a5559af017ccad3bcbdb56dcb6b3c8706e.png",
+              "featured": false,
+              "created": "2024-04-14T10:32:31.327985Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/OQAgZMH1/images/92aeab9aebc1a456c356e235f11ab50cfdb79fd6.png",
+              "featured": false,
+              "created": "2024-04-14T10:32:06.071085Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/OQAgZMH1/images/b101b32678047545ab6db785e32c6d54a48aeae2.png",
+              "featured": false,
+              "created": "2024-04-14T10:33:29.187980Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/OQAgZMH1/images/bf66d3d01ea9795aa16c22678a97a7b3f44db6c1.png",
+              "featured": false,
+              "created": "2024-04-14T10:32:14.915239Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/OQAgZMH1/images/bf9a6ff3d06ea0353be6a5ebebe35c8591684668.png",
+              "featured": false,
+              "created": "2024-04-14T10:33:01.815302Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/OQAgZMH1/images/c401ac3276404cbdd3323cf5aae32df0e1d17d60.png",
+              "featured": false,
+              "created": "2024-04-14T10:31:47.413129Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/OQAgZMH1/images/c5629932efc1ea1c7e95c30965a651aba1479918.png",
+              "featured": true,
+              "created": "2024-04-14T10:30:51.383798Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/OQAgZMH1/images/cacc9d2e33244155ad92cffdd08e521c3f8236a8.png",
+              "featured": false,
+              "created": "2024-04-14T10:33:19.704384Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/OQAgZMH1/images/d34c02bc23077e0db0030e3233b3f9fc745648b0.png",
+              "featured": false,
+              "created": "2024-04-14T10:31:55.412324Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/OQAgZMH1/images/f30f14796df44f9e1941261c5150f33e862a41da.png",
+              "featured": false,
+              "created": "2024-04-14T10:31:27.987396Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/OQAgZMH1/images/fce2ec3dded0e6cb41fffcc62abdb81ef0cbf4e8.png",
+              "featured": false,
+              "created": "2024-04-14T10:32:48.127387Z",
+              "ordering": 0.0
+            }
+          ]
+        },
+        "modrinthVersion": {
+          "id": "VpOxJpz5",
+          "project_id": "OQAgZMH1",
+          "author_id": "eR2brCFq",
+          "name": "MVS - Moog's Voyager Structures 4.1.3-1.20.6-fabric",
+          "version_number": "4.1.3-1.20.6-fabric",
+          "changelog": "updated for 1.20.5 and 6\nremoved unused jigsaw blocks\nfixed deepslate house not generating\nfixed large floating island not generating\n",
+          "date_published": "2024-06-29T14:41:57.515379Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha512": "eb6b01b217f99225f02cdaa1bbdedbfa04c18d0b6a7d6b49cba34b3f804d939d301f0c9bb4e03a5dfa3a431ed3a41655aea2117dde5ca894344e69d218114fe5",
+                "sha1": "c24e7aa972781272c1025b661bb0ed1fe5635a27"
+              },
+              "url": "https://cdn.modrinth.com/data/OQAgZMH1/versions/VpOxJpz5/mvs-4.1.3-1.20.6.jar",
+              "filename": "mvs-4.1.3-1.20.6.jar",
+              "primary": true,
+              "size": 3691028
+            }
+          ],
+          "dependencies": [],
+          "game_versions": [
+            "1.20.5",
+            "1.20.6"
+          ],
+          "loaders": [
+            "fabric"
+          ]
+        }
+      },
+      {
+        "name": "Remove Terralith Intro Message",
+        "version": "[Mod] v1.1",
+        "optional": true,
+        "file": "remove-terralith-intro-message-1.1.jar",
+        "type": "mods",
+        "description": "A datapack/mod to remove the intro message that appears with Terralith.",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "modrinthProject": {
+          "id": "sk4iFZGy",
+          "slug": "remove-terralith-intro-message",
+          "project_type": "mod",
+          "team": "9DC3WeOt",
+          "title": "Remove Terralith Intro Message",
+          "description": "A datapack/mod to remove the intro message that appears with Terralith.",
+          "body": "This is a simple datapack/mod that removes Terralith's introduction message when creating a world.\n\nModpack devs are free to use this if they so desire; just stick it in your modpack and it should effectively prevent Terralith from making any chat messages on first world load. This is especially useful for modpack devs that don't want a ton of chat spam on first load, or don't want users confusingly joining the wrong Discord server.",
+          "published": "2023-02-22T20:53:35.948190Z",
+          "updated": "2024-08-12T20:19:40.010657Z",
+          "status": "approved",
+          "license": {
+            "id": "LicenseRef-Stardust-Labs-License",
+            "name": "",
+            "url": "https://github.com/Stardust-Labs-MC/license/blob/main/license.txt"
+          },
+          "client_side": "optional",
+          "server_side": "required",
+          "categories": [
+            "utility"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/sk4iFZGy/d0e13cdf0cfafe8f206a4187ebc4666c25f6ab54.png",
+          "issues_url": "https://github.com/Stardust-Labs-MC/Terralith/issues",
+          "source_url": "https://github.com/Stardust-Labs-MC/Terralith",
+          "wiki_url": "https://stardustlabs.miraheze.org/",
+          "discord_url": "https://discord.gg/stardustlabs",
+          "donation_urls": [
+            {
+              "id": "patreon",
+              "platform": "Patreon",
+              "url": "https://patreon.com/stardustlabs"
+            },
+            {
+              "id": "ko-fi",
+              "platform": "Ko-fi",
+              "url": "https://ko-fi.com/stardustlabs"
+            }
+          ],
+          "gallery": [
+            {
+              "url": "https://cdn.modrinth.com/data/sk4iFZGy/images/5221718fb9735b732ec1e8fc6fe65d357ad0845f.png",
+              "featured": true,
+              "title": "The Intro Message",
+              "created": "2023-02-22T21:21:47.279253Z",
+              "ordering": 0.0
+            }
+          ]
+        },
+        "modrinthVersion": {
+          "id": "Ad77N3iX",
+          "project_id": "sk4iFZGy",
+          "author_id": "SR8MIsEo",
+          "name": "[Mod] v1.1",
+          "version_number": "1.1+mod",
+          "changelog": "- Supports 1.21\n- Updated very outdated license",
+          "date_published": "2024-08-12T20:19:40.504611Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha1": "709d1300b4b35bf6a8c6bfc0d5c9d918484ba462",
+                "sha512": "62391dc2948f14ea0bebab89bdd88bf768bacf458a1832dcd53f95b709c1caf3dde3470cb5b12f3efe5d6904c72410452c56fce952b03f474d9d7a5dc932dfbb"
+              },
+              "url": "https://cdn.modrinth.com/data/sk4iFZGy/versions/Ad77N3iX/remove-terralith-intro-message-1.1.jar",
+              "filename": "remove-terralith-intro-message-1.1.jar",
+              "primary": true,
+              "size": 98580
+            }
+          ],
+          "dependencies": [
+            {
+              "project_id": "8oi3bsk5",
+              "dependency_type": "required"
+            }
+          ],
+          "game_versions": [
+            "1.18",
+            "1.18.1",
+            "1.18.2",
+            "1.19",
+            "1.19.1",
+            "1.19.2",
+            "1.19.3",
+            "1.19.4",
+            "1.20",
+            "1.20.1",
+            "1.20.2",
+            "1.20.3",
+            "1.20.4",
+            "1.20.5",
+            "1.20.6",
+            "1.21",
+            "1.21.1"
+          ],
+          "loaders": [
+            "fabric",
+            "forge",
+            "neoforge",
+            "quilt"
+          ]
+        }
+      },
+      {
+        "name": "MSS - Moog's Soaring Structures",
+        "version": "MSS - Moog's Soaring Structures 1.1.2-1.20.6-fabric",
+        "optional": true,
+        "file": "mss-1.1.2-1.20.6.jar",
+        "type": "mods",
+        "description": "Lots of awesome vanilla style floating islands full of loot, mobs and dungeons for you to explore!",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 1040210,
+        "curseForgeFileId": 5552034,
+        "curseForgeProject": {
+          "id": 1040210,
+          "name": "MSS - Moog's Soaring Structures",
+          "authors": [
+            {
+              "id": 102321336,
+              "name": "finndog_123",
+              "url": "https://www.curseforge.com/members/finndog_123"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Lots of awesome vanilla style floating islands full of loot, mobs and dungeons for you to explore!",
+          "categories": [
+            {
+              "name": "World Gen",
+              "slug": "world-gen",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen",
+              "dateModified": "2017-10-16T21:40:11.473Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 406,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/26/635351494599748860.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Structures",
+              "slug": "world-structures",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen/world-structures",
+              "dateModified": "2014-05-08T17:37:17.173Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 409,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/24/635351494371736208.png",
+              "parentCategoryId": 406,
+              "classId": 6
+            },
+            {
+              "name": "Adventure and RPG",
+              "slug": "adventure-rpg",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/adventure-rpg",
+              "dateModified": "2014-05-08T17:42:09.54Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 422,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/37/635351497295252123.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 409,
+          "classId": 6,
+          "slug": "mss-moogs-soaring-structures",
+          "isFeatured": false,
+          "dateModified": "2024-08-09T17:20:09.503Z",
+          "dateCreated": "2024-06-19T18:15:47.567Z",
+          "dateReleased": "2024-07-21T18:27:19.177Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/mss-moogs-soaring-structures",
+            "wikiUrl": "https://github.com/FinnSetchell/MoogsSoaringStructures/wiki",
+            "sourceUrl": "https://github.com/FinnSetchell/MoogsSoaringStructures"
+          },
+          "logo": {
+            "id": 1017780,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/1017/780/256/256/638544186354409472.png",
+            "title": "638544186354409472.png",
+            "url": "https://media.forgecdn.net/avatars/1017/780/638544186354409472.png",
+            "modId": 1040210
+          },
+          "allowModDistribution": true,
+          "screenshots": [
+            {
+              "id": 921894,
+              "description": "2024-07-21_19.41.30.png",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/921/894/310/172/2024-07-21_19.png",
+              "title": "2024-07-21_19.41.30.png",
+              "url": "https://media.forgecdn.net/attachments/921/894/2024-07-21_19.png",
+              "modId": 1040210
+            },
+            {
+              "id": 921901,
+              "description": "2024-07-21_19.44.16.png",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/921/901/310/172/2024-07-21_19.png",
+              "title": "2024-07-21_19.44.16.png",
+              "url": "https://media.forgecdn.net/attachments/921/901/2024-07-21_19.png",
+              "modId": 1040210
+            },
+            {
+              "id": 921889,
+              "description": "2024-07-21_19.39.18.png",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/921/889/310/172/2024-07-21_19.png",
+              "title": "2024-07-21_19.39.18.png",
+              "url": "https://media.forgecdn.net/attachments/921/889/2024-07-21_19.png",
+              "modId": 1040210
+            },
+            {
+              "id": 921910,
+              "description": "2024-07-21_19.48.44.png",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/921/910/310/172/2024-07-21_19.png",
+              "title": "2024-07-21_19.48.44.png",
+              "url": "https://media.forgecdn.net/attachments/921/910/2024-07-21_19.png",
+              "modId": 1040210
+            },
+            {
+              "id": 921909,
+              "description": "2024-07-21_19.47.57.png",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/921/909/310/172/2024-07-21_19.png",
+              "title": "2024-07-21_19.47.57.png",
+              "url": "https://media.forgecdn.net/attachments/921/909/2024-07-21_19.png",
+              "modId": 1040210
+            },
+            {
+              "id": 921888,
+              "description": "2024-07-21_19.38.29.png",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/921/888/310/172/2024-07-21_19.png",
+              "title": "2024-07-21_19.38.29.png",
+              "url": "https://media.forgecdn.net/attachments/921/888/2024-07-21_19.png",
+              "modId": 1040210
+            },
+            {
+              "id": 921905,
+              "description": "2024-07-21_19.46.26.png",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/921/905/310/172/2024-07-21_19.png",
+              "title": "2024-07-21_19.46.26.png",
+              "url": "https://media.forgecdn.net/attachments/921/905/2024-07-21_19.png",
+              "modId": 1040210
+            },
+            {
+              "id": 921891,
+              "description": "2024-07-21_19.40.03.png",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/921/891/310/172/2024-07-21_19.png",
+              "title": "2024-07-21_19.40.03.png",
+              "url": "https://media.forgecdn.net/attachments/921/891/2024-07-21_19.png",
+              "modId": 1040210
+            },
+            {
+              "id": 921906,
+              "description": "2024-07-21_19.46.52.png",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/921/906/310/172/2024-07-21_19.png",
+              "title": "2024-07-21_19.46.52.png",
+              "url": "https://media.forgecdn.net/attachments/921/906/2024-07-21_19.png",
+              "modId": 1040210
+            },
+            {
+              "id": 921898,
+              "description": "2024-07-21_19.42.54.png",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/921/898/310/172/2024-07-21_19.png",
+              "title": "2024-07-21_19.42.54.png",
+              "url": "https://media.forgecdn.net/attachments/921/898/2024-07-21_19.png",
+              "modId": 1040210
+            },
+            {
+              "id": 921912,
+              "description": "2024-07-21_19.49.33.png",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/921/912/310/172/2024-07-21_19.png",
+              "title": "2024-07-21_19.49.33.png",
+              "url": "https://media.forgecdn.net/attachments/921/912/2024-07-21_19.png",
+              "modId": 1040210
+            },
+            {
+              "id": 921897,
+              "description": "2024-07-21_19.42.42.png",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/921/897/310/172/2024-07-21_19.png",
+              "title": "2024-07-21_19.42.42.png",
+              "url": "https://media.forgecdn.net/attachments/921/897/2024-07-21_19.png",
+              "modId": 1040210
+            },
+            {
+              "id": 921904,
+              "description": "2024-07-21_19.46.10.png",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/921/904/310/172/2024-07-21_19.png",
+              "title": "2024-07-21_19.46.10.png",
+              "url": "https://media.forgecdn.net/attachments/921/904/2024-07-21_19.png",
+              "modId": 1040210
+            },
+            {
+              "id": 921900,
+              "description": "2024-07-21_19.43.56.png",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/921/900/310/172/2024-07-21_19.png",
+              "title": "2024-07-21_19.43.56.png",
+              "url": "https://media.forgecdn.net/attachments/921/900/2024-07-21_19.png",
+              "modId": 1040210
+            },
+            {
+              "id": 921890,
+              "description": "2024-07-21_19.39.38.png",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/921/890/310/172/2024-07-21_19.png",
+              "title": "2024-07-21_19.39.38.png",
+              "url": "https://media.forgecdn.net/attachments/921/890/2024-07-21_19.png",
+              "modId": 1040210
+            },
+            {
+              "id": 921892,
+              "description": "2024-07-21_19.40.41.png",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/921/892/310/172/2024-07-21_19.png",
+              "title": "2024-07-21_19.40.41.png",
+              "url": "https://media.forgecdn.net/attachments/921/892/2024-07-21_19.png",
+              "modId": 1040210
+            },
+            {
+              "id": 921895,
+              "description": "2024-07-21_19.42.18.png",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/921/895/310/172/2024-07-21_19.png",
+              "title": "2024-07-21_19.42.18.png",
+              "url": "https://media.forgecdn.net/attachments/921/895/2024-07-21_19.png",
+              "modId": 1040210
+            },
+            {
+              "id": 921899,
+              "description": "2024-07-21_19.43.10.png",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/921/899/310/172/2024-07-21_19.png",
+              "title": "2024-07-21_19.43.10.png",
+              "url": "https://media.forgecdn.net/attachments/921/899/2024-07-21_19.png",
+              "modId": 1040210
+            },
+            {
+              "id": 921902,
+              "description": "2024-07-21_19.44.23.png",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/921/902/310/172/2024-07-21_19.png",
+              "title": "2024-07-21_19.44.23.png",
+              "url": "https://media.forgecdn.net/attachments/921/902/2024-07-21_19.png",
+              "modId": 1040210
+            },
+            {
+              "id": 921903,
+              "description": "2024-07-21_19.46.00.png",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/921/903/310/172/2024-07-21_19.png",
+              "title": "2024-07-21_19.46.00.png",
+              "url": "https://media.forgecdn.net/attachments/921/903/2024-07-21_19.png",
+              "modId": 1040210
+            },
+            {
+              "id": 921907,
+              "description": "2024-07-21_19.47.14.png",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/921/907/310/172/2024-07-21_19.png",
+              "title": "2024-07-21_19.47.14.png",
+              "url": "https://media.forgecdn.net/attachments/921/907/2024-07-21_19.png",
+              "modId": 1040210
+            },
+            {
+              "id": 921908,
+              "description": "2024-07-21_19.47.42.png",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/921/908/310/172/2024-07-21_19.png",
+              "title": "2024-07-21_19.47.42.png",
+              "url": "https://media.forgecdn.net/attachments/921/908/2024-07-21_19.png",
+              "modId": 1040210
+            },
+            {
+              "id": 921911,
+              "description": "2024-07-21_19.49.13.png",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/921/911/310/172/2024-07-21_19.png",
+              "title": "2024-07-21_19.49.13.png",
+              "url": "https://media.forgecdn.net/attachments/921/911/2024-07-21_19.png",
+              "modId": 1040210
+            },
+            {
+              "id": 921913,
+              "description": "2024-07-21_19.50.00.png",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/921/913/310/172/2024-07-21_19.png",
+              "title": "2024-07-21_19.50.00.png",
+              "url": "https://media.forgecdn.net/attachments/921/913/2024-07-21_19.png",
+              "modId": 1040210
+            },
+            {
+              "id": 921914,
+              "description": "2024-07-21_19.50.14.png",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/921/914/310/172/2024-07-21_19.png",
+              "title": "2024-07-21_19.50.14.png",
+              "url": "https://media.forgecdn.net/attachments/921/914/2024-07-21_19.png",
+              "modId": 1040210
+            },
+            {
+              "id": 921915,
+              "description": "2024-07-21_19.50.39.png",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/921/915/310/172/2024-07-21_19.png",
+              "title": "2024-07-21_19.50.39.png",
+              "url": "https://media.forgecdn.net/attachments/921/915/2024-07-21_19.png",
+              "modId": 1040210
+            },
+            {
+              "id": 921916,
+              "description": "2024-07-21_19.50.45.png",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/921/916/310/172/2024-07-21_19.png",
+              "title": "2024-07-21_19.50.45.png",
+              "url": "https://media.forgecdn.net/attachments/921/916/2024-07-21_19.png",
+              "modId": 1040210
+            },
+            {
+              "id": 921917,
+              "description": "2024-07-21_19.51.17.png",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/921/917/310/172/2024-07-21_19.png",
+              "title": "2024-07-21_19.51.17.png",
+              "url": "https://media.forgecdn.net/attachments/921/917/2024-07-21_19.png",
+              "modId": 1040210
+            },
+            {
+              "id": 921918,
+              "description": "2024-07-21_19.51.24.png",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/921/918/310/172/2024-07-21_19.png",
+              "title": "2024-07-21_19.51.24.png",
+              "url": "https://media.forgecdn.net/attachments/921/918/2024-07-21_19.png",
+              "modId": 1040210
+            },
+            {
+              "id": 921919,
+              "description": "2024-07-21_19.51.51.png",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/921/919/310/172/2024-07-21_19.png",
+              "title": "2024-07-21_19.51.51.png",
+              "url": "https://media.forgecdn.net/attachments/921/919/2024-07-21_19.png",
+              "modId": 1040210
+            },
+            {
+              "id": 921920,
+              "description": "2024-07-21_19.52.07.png",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/921/920/310/172/2024-07-21_19.png",
+              "title": "2024-07-21_19.52.07.png",
+              "url": "https://media.forgecdn.net/attachments/921/920/2024-07-21_19.png",
+              "modId": 1040210
+            },
+            {
+              "id": 921921,
+              "description": "2024-07-21_19.53.00.png",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/921/921/310/172/2024-07-21_19.png",
+              "title": "2024-07-21_19.53.00.png",
+              "url": "https://media.forgecdn.net/attachments/921/921/2024-07-21_19.png",
+              "modId": 1040210
+            },
+            {
+              "id": 921922,
+              "description": "2024-07-21_19.53.36.png",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/921/922/310/172/2024-07-21_19.png",
+              "title": "2024-07-21_19.53.36.png",
+              "url": "https://media.forgecdn.net/attachments/921/922/2024-07-21_19.png",
+              "modId": 1040210
+            }
+          ],
+          "mainFileId": 5552206
+        },
+        "curseForgeFile": {
+          "id": 5552034,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "MSS 1.1.2 1.20.6 [FABRIC]",
+          "fileName": "mss-1.1.2-1.20.6.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2024-07-21T17:33:39.353Z",
+          "fileLength": 3115853,
+          "dependencies": [],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 7179695,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 254562092,
+              "name": "architectury_inject_MoogsSoaringStructures_common_7cbec31a930b4ff3a06489ff2b6b9291_6d975a18ab8f22bef6cdfcafd7b4994a7e00e1ab152cd007a5d922370c60a06bmss1121206devjar"
+            },
+            {
+              "fingerprint": 3331395002,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 8774710,
+              "name": "com"
+            },
+            {
+              "fingerprint": 1000638564,
+              "name": "data"
+            },
+            {
+              "fingerprint": 4193605945,
+              "name": "fabric.mod.json"
+            },
+            {
+              "fingerprint": 3331395002,
+              "name": "icon.png"
+            },
+            {
+              "fingerprint": 132436945,
+              "name": "mss-common-refmap.json"
+            },
+            {
+              "fingerprint": 4016416278,
+              "name": "mss-common.mixins.json"
+            },
+            {
+              "fingerprint": 2343038773,
+              "name": "mss-fabric-refmap.json"
+            },
+            {
+              "fingerprint": 2763300347,
+              "name": "mss-fabric.mixins.json"
+            },
+            {
+              "fingerprint": 1162451074,
+              "name": "mss.accesswidener"
+            },
+            {
+              "fingerprint": 774099918,
+              "name": "pack.mcmeta"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "d6981d0f1ca8e055067eec58cee5a3b72e3e8691",
+              "algo": 1
+            },
+            {
+              "value": "485c4ad8cb228046d9ce12152d24ef26",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000005",
+              "gameVersion": "1.20.5",
+              "gameVersionReleaseDate": "2024-04-23T15:00:48.803Z",
+              "gameVersionName": "1.20.5"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-09-01T00:00:00Z",
+              "gameVersionName": "Fabric"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000006",
+              "gameVersion": "1.20.6",
+              "gameVersionReleaseDate": "2024-04-29T15:15:44.67Z",
+              "gameVersionName": "1.20.6"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Server"
+            }
+          ],
+          "gameVersions": [
+            "1.20.5",
+            "Fabric",
+            "1.20.6",
+            "Server"
+          ],
+          "fileFingerprint": 2690454843,
+          "modId": 1040210
+        },
+        "modrinthProject": {
+          "id": "RJCLIx7k",
+          "slug": "mss-moogs-soaring-structures",
+          "project_type": "mod",
+          "team": "x0A8kXkR",
+          "title": "MSS - Moog's Soaring Structures",
+          "description": "Lots of awesome vanilla style floating islands full of loot, mobs and dungeons for you to explore!",
+          "body": "![banner](https://www.bisecthosting.com/images/CF/Moogs_Soaring_Structure/BH_MSS_header.webp)\n\n[![](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D8LKA5N)\n\n[![Discord](https://img.shields.io/discord/869218732650688543?color=14822e&label=DISCORD&style=for-the-badge)](https://discord.com/invite/S5nffJbuvA)\n\n[![](https://img.shields.io/badge/My-projects-14822e?style=for-the-badge&logo=curseforge)](https://www.curseforge.com/members/finndog_123/projects)\n\n![Overview](https://www.bisecthosting.com/images/CF/Moogs_Soaring_Structure/BH_MSS_overview.webp)\n\n **FEEDBACK**\n\nPlease comment any ideas you may have to improve this mod. Any and all feedback is greatly appreciated :)\n\n**FORGE AND FABRIC** \n\nThis Mod works for Forge, Fabric, NeoForge and Quilt! It can also be installed server side only.  \n\n**ABOUT**\n\nMoogs Soaring Structures brings life, fun and variety to your Minecraft world by adding lots of floating islands with cool buildings and more to explore! Explore awesome new structures made with vanilla blocks and entities, and discover loot, enemies, and villagers along the way. This mod is compatible with any modpack  and can even be installed only on the server!  \n  \nTo see some of the structures, head to the [images tab](https://modrinth.com/project/mss-moogs-soaring-structures/gallery)\n\n**Config pack**\n\n[link](https://www.curseforge.com/minecraft/texture-packs/mvs-moogs-soaring-structure-config-pack)\n\nA datapack you can use to configure the mod.\n\n![features](https://www.bisecthosting.com/images/CF/Moogs_Soaring_Structure/BH_MSS_features.webp)\n\nimages coming...\n\n![showcase](https://www.bisecthosting.com/images/CF/Moogs_Soaring_Structure/BH_MSS_others.webp)\n\n**MODPACKS**\n\nsee all modpacks [here](https://www.modpackindex.com/modpack/finder?included_mods=61020)\n\n![](https://www.bisecthosting.com/images/CF/Moogs_Soaring_Structure/BH_MSS_discord.webp)\n\n* * *\n\n**The best and fastest way to get replies is to join our [discord server](https://discord.gg/S5nffJbuvA)**\n\n[**![discord](https://i.imgur.com/sfAmR3Y.png)**](https://discord.gg/S5nffJbuvA)\n\n   \n[![BHsponser](https://www.bisecthosting.com/images/CF/Moogs_Soaring_Structure/BH_MSS_promo.webp)](https://bisecthosting.com/moogsmods)",
+          "published": "2024-07-10T12:25:57.654019Z",
+          "updated": "2024-07-21T18:33:45.997806Z",
+          "status": "approved",
+          "license": {
+            "id": "GPL-3.0-only",
+            "name": "GNU General Public License v3.0 only"
+          },
+          "client_side": "unsupported",
+          "server_side": "required",
+          "categories": [
+            "adventure",
+            "worldgen"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/RJCLIx7k/7f24153b661cdf1c73034d7ebc200cfd115b6a98.png",
+          "issues_url": "https://github.com/FinnSetchell/MoogsSoaringStructures/issues",
+          "source_url": "https://github.com/FinnSetchell/MoogsSoaringStructures",
+          "wiki_url": "https://github.com/FinnSetchell/MoogsSoaringStructures/wiki",
+          "discord_url": "https://discord.gg/S5nffJbuvA",
+          "donation_urls": [
+            {
+              "id": "ko-fi",
+              "platform": "Ko-fi",
+              "url": "https://ko-fi.com/finndog"
+            }
+          ],
+          "gallery": [
+            {
+              "url": "https://cdn.modrinth.com/data/RJCLIx7k/images/051a444443fd6a6e738305f354b2a2373dd10012.png",
+              "featured": false,
+              "created": "2024-07-21T20:05:27.648510Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/RJCLIx7k/images/05e5df3b73e655f488c0c14c6bda695b236bf629.png",
+              "featured": true,
+              "created": "2024-07-21T20:06:35.545393Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/RJCLIx7k/images/067c2f09a3bd53259e65857983e2422e0ba48cc7.png",
+              "featured": false,
+              "created": "2024-07-21T20:06:30.094695Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/RJCLIx7k/images/085ae1bacf98d678fb7b75f1cf7a93a89970bb56.png",
+              "featured": false,
+              "created": "2024-07-21T20:06:10.075464Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/RJCLIx7k/images/218d229b67bd69611740635da09e5d38e1dabfe8.png",
+              "featured": false,
+              "created": "2024-07-21T20:06:16.589652Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/RJCLIx7k/images/22dadc17c505d95922b80d99a577715274072fdf.png",
+              "featured": false,
+              "created": "2024-07-21T20:08:09.051627Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/RJCLIx7k/images/2422146e8240b2dcca2c739b0836a1072b9e6d96.png",
+              "featured": false,
+              "created": "2024-07-21T20:06:38.923506Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/RJCLIx7k/images/361616d9e334ca36cfae6585f7b6b8ae1121fc2e.png",
+              "featured": false,
+              "created": "2024-07-21T20:06:19.778109Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/RJCLIx7k/images/43f29c5288995ac0a0cc45c661d0d7778ea67394.png",
+              "featured": false,
+              "created": "2024-07-21T20:05:14.358446Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/RJCLIx7k/images/46adae8e438911c91201142a6a0af869520f334b.png",
+              "featured": false,
+              "created": "2024-07-10T12:35:31.257687Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/RJCLIx7k/images/4efe2dc941cbd7b36c37bb987017a00dc3ae831f.png",
+              "featured": false,
+              "created": "2024-07-21T20:06:13.208591Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/RJCLIx7k/images/53cd8586f746ff1c7544f221b81067e7ff530498.png",
+              "featured": false,
+              "created": "2024-07-21T20:07:30.488365Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/RJCLIx7k/images/54107a5849748f22831c3c076d7775443cf34e5f.png",
+              "featured": false,
+              "created": "2024-07-21T20:05:40.610427Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/RJCLIx7k/images/55f5cb84e532eb46e9b849fb2eead8bd54513e87.png",
+              "featured": false,
+              "created": "2024-07-10T12:35:25.904882Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/RJCLIx7k/images/59f0e99381ba8b83d8b234bd91831fdcc828511a.png",
+              "featured": false,
+              "created": "2024-07-10T12:35:44.299189Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/RJCLIx7k/images/6181b7b17b7605d1b2a2bbcbda22e2c23d9030b6.png",
+              "featured": false,
+              "created": "2024-07-21T20:07:38.300950Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/RJCLIx7k/images/6c510d7f14d771cf12a5eff35fcdd87a7c4e156d.png",
+              "featured": false,
+              "created": "2024-07-21T20:07:58.730521Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/RJCLIx7k/images/6e3162120266e556320bbdf832be30333163d37d.png",
+              "featured": false,
+              "created": "2024-07-21T20:08:19.803485Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/RJCLIx7k/images/7287589a9703ae0bbde2415440db63e0b133319d.png",
+              "featured": false,
+              "created": "2024-07-21T20:07:34.744964Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/RJCLIx7k/images/79005ccf47d121c57ed8941714f747ed3a30d924.png",
+              "featured": false,
+              "created": "2024-07-10T12:35:40.069456Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/RJCLIx7k/images/7b81d5f2576808d6e72bc79aa947d9cc549f337a.png",
+              "featured": false,
+              "created": "2024-07-21T20:05:43.898876Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/RJCLIx7k/images/7e61717a7bc39c9e47a7fc165cabc00cf9757179.png",
+              "featured": false,
+              "created": "2024-07-21T20:06:43.252873Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/RJCLIx7k/images/849ac7cad59b29ae5d80617391c4019c565ca84f.png",
+              "featured": false,
+              "created": "2024-07-21T20:07:26.594155Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/RJCLIx7k/images/89504807c1b44316fbee9b01461c323d210586f0.png",
+              "featured": false,
+              "created": "2024-07-21T20:08:02.949572Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/RJCLIx7k/images/8df71cbaf0c13bec244a6ad889ab72a428da229f.png",
+              "featured": false,
+              "created": "2024-07-21T20:08:15.927008Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/RJCLIx7k/images/909d3e30363ea9d651902bd6b7c29801b90c5285.png",
+              "featured": false,
+              "created": "2024-07-21T20:07:19.410457Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/RJCLIx7k/images/99705266f0e73da14dc3ae6059249ff593b87132.png",
+              "featured": false,
+              "created": "2024-07-10T12:35:35.997695Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/RJCLIx7k/images/a2119019bbd6f2adb8ed6553d0a90987809b3642.png",
+              "featured": false,
+              "created": "2024-07-21T20:05:31.593289Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/RJCLIx7k/images/b0cc48dc429a8b5e602dea7d4481523894f21d6c.png",
+              "featured": false,
+              "created": "2024-07-21T20:06:50.071652Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/RJCLIx7k/images/b894683f07abe873e2e5398ffeec75ce467eac67.png",
+              "featured": false,
+              "created": "2024-07-21T20:05:35.292068Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/RJCLIx7k/images/c5245887ade1f2828e6095739058a3873fa245c3.png",
+              "featured": false,
+              "created": "2024-07-21T20:08:12.543671Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/RJCLIx7k/images/c723d351bd2f159ce1ef6e2a16c81f712894c8c7.png",
+              "featured": false,
+              "created": "2024-07-21T20:06:26.314528Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/RJCLIx7k/images/cf9dc0cb61096e546fdd36c72c1c59e556046cef.png",
+              "featured": false,
+              "created": "2024-07-21T20:06:06.840751Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/RJCLIx7k/images/d23fb77a00b96143224cb38fd26c8951948cab72.png",
+              "featured": false,
+              "created": "2024-07-21T20:08:06.197291Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/RJCLIx7k/images/d4fcbd88d5c452058d9baf4dafdfd665d59337f4.png",
+              "featured": false,
+              "created": "2024-07-21T20:07:55.814501Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/RJCLIx7k/images/dbf452dc0d30e770a9ec6ba23c750a06d2554bb4.png",
+              "featured": false,
+              "created": "2024-07-21T20:07:23.523185Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/RJCLIx7k/images/ea825ed683ab02726a5a16728da23e3bdb014535.png",
+              "featured": false,
+              "created": "2024-07-10T12:35:16.474355Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/RJCLIx7k/images/f0c7a94abdd1ed5abc29cd5411f40d8411490fbe.png",
+              "featured": false,
+              "created": "2024-07-21T20:06:03.382715Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/RJCLIx7k/images/fe4b39041947bdadb75710d3e53224b5a9c1d5e2.png",
+              "featured": false,
+              "created": "2024-07-21T20:06:46.889579Z",
+              "ordering": 0.0
+            }
+          ]
+        },
+        "modrinthVersion": {
+          "id": "FIajKdo1",
+          "project_id": "RJCLIx7k",
+          "author_id": "eR2brCFq",
+          "name": "MSS - Moog's Soaring Structures 1.1.2-1.20.6-fabric",
+          "version_number": "1.1.2-1.20.6-fabric",
+          "changelog": "added many more islands, some big some small!",
+          "date_published": "2024-07-21T18:30:43.425494Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha1": "d6981d0f1ca8e055067eec58cee5a3b72e3e8691",
+                "sha512": "dab22736ab26d8ea553f9b288e5aef5da904690ba1f7223f68ea0f28dca06590b0998cc824b4243815fd55961fd84be2ed718239be96df362d829c2dd5cf3ff7"
+              },
+              "url": "https://cdn.modrinth.com/data/RJCLIx7k/versions/FIajKdo1/mss-1.1.2-1.20.6.jar",
+              "filename": "mss-1.1.2-1.20.6.jar",
+              "primary": true,
+              "size": 3115853
+            }
+          ],
+          "dependencies": [],
+          "game_versions": [
+            "1.20.5",
+            "1.20.6"
+          ],
+          "loaders": [
+            "fabric"
+          ]
+        }
+      },
+      {
+        "name": "MES - Moog's End Structures",
+        "version": "MES - Moog's End Structures 1.3.2-1.20.6-fabric",
+        "optional": true,
+        "file": "mes-1.3.2-1.20.6.jar",
+        "type": "mods",
+        "description": "Lots of Vanilla styled structrues to fill up the end dimension with life!",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 892382,
+        "curseForgeFileId": 5492208,
+        "curseForgeProject": {
+          "id": 892382,
+          "name": "MES - Moog's End Structures",
+          "authors": [
+            {
+              "id": 102321336,
+              "name": "finndog_123",
+              "url": "https://www.curseforge.com/members/finndog_123"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Lots of Vanilla styled structures to fill up the end dimension with life!",
+          "categories": [
+            {
+              "name": "Adventure and RPG",
+              "slug": "adventure-rpg",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/adventure-rpg",
+              "dateModified": "2014-05-08T17:42:09.54Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 422,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/37/635351497295252123.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "World Gen",
+              "slug": "world-gen",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen",
+              "dateModified": "2017-10-16T21:40:11.473Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 406,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/26/635351494599748860.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Dimensions",
+              "slug": "world-dimensions",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen/world-dimensions",
+              "dateModified": "2014-05-08T17:37:26.84Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 410,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/25/635351494468414756.png",
+              "parentCategoryId": 406,
+              "classId": 6
+            },
+            {
+              "name": "Structures",
+              "slug": "world-structures",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen/world-structures",
+              "dateModified": "2014-05-08T17:37:17.173Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 409,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/24/635351494371736208.png",
+              "parentCategoryId": 406,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 409,
+          "classId": 6,
+          "slug": "moogs-end-structures",
+          "isFeatured": false,
+          "dateModified": "2024-07-21T16:58:32.493Z",
+          "dateCreated": "2023-07-22T23:29:27.62Z",
+          "dateReleased": "2024-07-21T16:50:58.753Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/moogs-end-structures",
+            "wikiUrl": "https://github.com/FinnSetchell/MoogsEndStructures/wiki",
+            "sourceUrl": "https://github.com/FinnSetchell/MoogsEndStructures"
+          },
+          "logo": {
+            "id": 869886,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/869/886/256/256/638285725964513688.png",
+            "title": "638285725964513688.png",
+            "url": "https://media.forgecdn.net/avatars/869/886/638285725964513688.png",
+            "modId": 892382
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 5551899
+        },
+        "curseForgeFile": {
+          "id": 5492208,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "MES 1.3.2 1.20.6 [FABRIC]",
+          "fileName": "mes-1.3.2-1.20.6.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2024-07-01T12:52:13.4Z",
+          "fileLength": 407692,
+          "dependencies": [],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 548900195,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 3672803297,
+              "name": "architectury_inject_MoogsEndStructures_common_327853080dd3453aaaacdbb874be94f8_cfca8571b977a9197d6bcde161cf27747b2f793a900420d4a38d3da57c4c097ames1321206devjar"
+            },
+            {
+              "fingerprint": 1621632388,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 2871032621,
+              "name": "com"
+            },
+            {
+              "fingerprint": 3295256829,
+              "name": "data"
+            },
+            {
+              "fingerprint": 2579718420,
+              "name": "fabric.mod.json"
+            },
+            {
+              "fingerprint": 1621632388,
+              "name": "icon.png"
+            },
+            {
+              "fingerprint": 3111088673,
+              "name": "mes-common-refmap.json"
+            },
+            {
+              "fingerprint": 1770341619,
+              "name": "mes-common.mixins.json"
+            },
+            {
+              "fingerprint": 3639796041,
+              "name": "mes-fabric-refmap.json"
+            },
+            {
+              "fingerprint": 719149029,
+              "name": "mes-fabric.mixins.json"
+            },
+            {
+              "fingerprint": 1162451074,
+              "name": "mes.accesswidener"
+            },
+            {
+              "fingerprint": 774099918,
+              "name": "pack.mcmeta"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "0d274f2b4bc1a797d32128df58b5f5cff1739781",
+              "algo": 1
+            },
+            {
+              "value": "cc24e892d62078adc5836364d6f17969",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000005",
+              "gameVersion": "1.20.5",
+              "gameVersionReleaseDate": "2024-04-23T15:00:48.803Z",
+              "gameVersionName": "1.20.5"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-09-01T00:00:00Z",
+              "gameVersionName": "Fabric"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000006",
+              "gameVersion": "1.20.6",
+              "gameVersionReleaseDate": "2024-04-29T15:15:44.67Z",
+              "gameVersionName": "1.20.6"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Server"
+            }
+          ],
+          "gameVersions": [
+            "1.20.5",
+            "Fabric",
+            "1.20.6",
+            "Server"
+          ],
+          "fileFingerprint": 536802313,
+          "modId": 892382
+        },
+        "modrinthProject": {
+          "id": "r4PuRGfV",
+          "slug": "mes-moogs-end-structures",
+          "project_type": "mod",
+          "team": "I4pmxO7w",
+          "title": "MES - Moog's End Structures",
+          "description": "Lots of Vanilla styled structrues to fill up the end dimension with life!",
+          "body": "<p><img src=\"https://www.bisecthosting.com/images/CF/MES/BH_ME_HEADER.webp\" alt=\"banner\" width=\"2543\" height=\"854\" /></p>\n<hr />\n<p style=\"text-align: center;\"><a href=\"https://ko-fi.com/D1D8LKA5N\" target=\"_blank\" rel=\"noopener noreferrer\"> <img src=\"https://ko-fi.com/img/githubbutton_sm.svg\" /> </a></p>\n<p style=\"text-align: center;\"><a href=\"https://discord.com/invite/S5nffJbuvA\" target=\"_blank\" rel=\"noopener noreferrer\"> <img src=\"https://img.shields.io/discord/869218732650688543?color=f9f9c5&amp;label=DISCORD&amp;style=for-the-badge\" alt=\"Discord\" width=\"177\" height=\"28\" /> </a></p>\n<p><a href=\"https://www.curseforge.com/members/finndog_123/projects\" target=\"_blank\" rel=\"noopener noreferrer\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://img.shields.io/badge/My-projects-f9f9c5?style=for-the-badge&amp;logo=curseforge\" width=\"175\" height=\"28\" /></a></p>\n<hr />\n<p style=\"text-align: left;\">&nbsp;</p>\n<p><img src=\"https://www.bisecthosting.com/images/CF/MES/BH_ME_BANNER1.webp\" alt=\"Overview\" width=\"2543\" height=\"250\" /></p>\n<hr />\n<p><span style=\"font-size: 18px;\"><strong>FEEDBACK</strong></span></p>\n<p><span style=\"font-size: 14px;\">Please comment any ideas you may have to improve this mod. Any and all feedback is greatly appreciated :)</span></p>\n<p>&nbsp;</p>\n<p><span style=\"font-size: 18px;\"><strong>ABOUT</strong></span></p>\n<p><span style=\"font-size: 14px;\">Moog's End Structures brings life, fun and variety to your Minecraft world! Explore awesome new structures made with vanilla blocks and entities, and discover loot, enemies, and challenges along the way. This mod is compatible with any modpack and keeps the vanilla feel of the game!</span></p>\n<p>&nbsp;</p>\n<p><span style=\"font-size: 14px;\">To see all of the structures, head to the <a href=\"https://www.curseforge.com/minecraft/mc-mods/moogs-end-structures/screenshots\">images tab</a>&nbsp;or the <a href=\"https://imgur.com/gallery/JwvSu3q\">imgur post</a><br /><br />See our main structure mod <a href=\"https://www.curseforge.com/minecraft/mc-mods/moogs-voyager-structures\">here</a></span></p>\n<hr />\n<p><img src=\"https://www.bisecthosting.com/images/CF/MES/BH_ME_BANNER2.webp\" alt=\"features\" width=\"2543\" height=\"251\" /><img src=\"https://imgur.com/YPIvnN1.png\" alt=\"collage\" width=\"1800\" height=\"3600\" /></p>\n<hr />\n<p><img src=\"https://www.bisecthosting.com/images/CF/MES/BH_ME_BANNER3.webp\" /></p>\n<hr />\n<p><span style=\"font-size: 18px; color: #9033af;\"><strong>The best and fastest way to get replies is to join our <a href=\"https://discord.gg/S5nffJbuvA\" target=\"_blank\" rel=\"noopener noreferrer\">discord server</a></strong></span></p>\n<p>&nbsp;</p>\n<p style=\"text-align: center;\"><span style=\"font-size: 18px;\"><a title=\"discord invite\" href=\"https://discord.gg/S5nffJbuvA\" target=\"_blank\" rel=\"noopener noreferrer\"><span style=\"color: #9033af;\"><strong><img src=\"https://i.imgur.com/sfAmR3Y.png\" alt=\"discord\" width=\"292\" height=\"76\" /></strong></span></a></span></p>\n<p>&nbsp;</p>\n<hr />\n<p style=\"text-align: center;\">&nbsp;<br /><a href=\"https://bisecthosting.com/moogsmods\"><img src=\"https://www.bisecthosting.com/images/CF/MES/BH_ME_PROMO.webp\" alt=\"BHsponser\" width=\"2543\" height=\"609\" /></a></p>",
+          "published": "2023-07-23T15:06:58.199746Z",
+          "updated": "2024-07-01T13:39:47.558250Z",
+          "status": "approved",
+          "license": {
+            "id": "LGPL-3.0-only",
+            "name": "GNU Lesser General Public License v3.0 only"
+          },
+          "client_side": "unsupported",
+          "server_side": "required",
+          "categories": [
+            "adventure",
+            "decoration",
+            "worldgen"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/r4PuRGfV/aa76123d14a0a6aa373aaed689e5b400a50e8f48.png",
+          "issues_url": "https://github.com/FinnSetchell/MoogsEndStructures/issues",
+          "source_url": "https://github.com/FinnSetchell/MoogsEndStructures",
+          "wiki_url": "https://github.com/FinnSetchell/MoogsEndStructures/wiki",
+          "discord_url": "https://discord.gg/S5nffJbuvA",
+          "donation_urls": [
+            {
+              "id": "ko-fi",
+              "platform": "Ko-fi",
+              "url": "https://ko-fi.com/finndog"
+            }
+          ],
+          "gallery": [
+            {
+              "url": "https://cdn.modrinth.com/data/r4PuRGfV/images/03ff364cc75a313a50463216b54ae7b6e953bcb0.png",
+              "featured": false,
+              "created": "2023-07-23T15:11:20.607610Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/r4PuRGfV/images/0d55d7105c0fe457e0b8f587a6fbc9f3d44acf0c.png",
+              "featured": false,
+              "created": "2023-07-23T15:10:45.099758Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/r4PuRGfV/images/1292b63ff676e95359db91813c84e7fcd6735e03.png",
+              "featured": false,
+              "created": "2023-07-23T15:10:39.614907Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/r4PuRGfV/images/1b05cc8889635ef98239f3d5e8ab2652ae274161.png",
+              "featured": false,
+              "created": "2023-07-23T15:12:06.424598Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/r4PuRGfV/images/1d4865086917b2c69d032a8c8604282b0c5b6221.png",
+              "featured": false,
+              "created": "2023-07-23T15:12:10.274641Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/r4PuRGfV/images/1eae5a3c3c8e209b91f4904b00e2cbee409bd61a.png",
+              "featured": false,
+              "created": "2023-07-23T15:11:10.371060Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/r4PuRGfV/images/4efe1fd4aa903082bb45dd7496f1f0ac9cd99a2c.png",
+              "featured": false,
+              "created": "2023-07-23T15:10:56.937314Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/r4PuRGfV/images/544e9b6f12db6b05fe013e7e66bb1347c6e60065.png",
+              "featured": false,
+              "created": "2023-07-23T15:11:51.874377Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/r4PuRGfV/images/561d93669d12b763f1eeee54268b08be672db1da.png",
+              "featured": false,
+              "created": "2023-07-23T15:10:50.911339Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/r4PuRGfV/images/623aa3f32d2834c533ff28c9da79e37fdc6d806f.png",
+              "featured": false,
+              "created": "2023-07-23T15:11:36.715656Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/r4PuRGfV/images/713eeed2b7c022cb34e199d786b49d9c5903a059.png",
+              "featured": false,
+              "created": "2023-07-23T15:11:42.310207Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/r4PuRGfV/images/71a3b3d71df5ae7217227d27641929ef37f36429.png",
+              "featured": false,
+              "created": "2023-07-23T15:11:25.388483Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/r4PuRGfV/images/7e6ae72c4d44aa2beffc25047b4b2a94b0456a07.png",
+              "featured": false,
+              "created": "2023-07-23T15:11:45.806374Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/r4PuRGfV/images/99129c773585a6782317777986f8ddaf4f49a103.png",
+              "featured": false,
+              "created": "2023-07-23T15:11:30.094757Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/r4PuRGfV/images/c948d1cc3b671a9c1a3188627d4275f4a3d09723.png",
+              "featured": false,
+              "created": "2023-07-23T15:11:02.776081Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/r4PuRGfV/images/ea9e32be77b0afacc83931b3234f82d99473cd37.png",
+              "featured": true,
+              "created": "2023-07-23T15:10:22.350644Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/r4PuRGfV/images/f0dcc50eaabedcce91453eaff2851ea63f572423.png",
+              "featured": false,
+              "created": "2023-07-23T15:11:57.454799Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/r4PuRGfV/images/f1cef9964e2ab0a18bbbabe9765facb030e1ec16.png",
+              "featured": false,
+              "created": "2023-07-23T15:12:02.084523Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/r4PuRGfV/images/f48558be5f8532b1b3e75ae422db32c39d317c19.png",
+              "featured": false,
+              "created": "2023-07-23T15:10:31.976191Z",
+              "ordering": 0.0
+            }
+          ]
+        },
+        "modrinthVersion": {
+          "id": "o2LGbXuz",
+          "project_id": "r4PuRGfV",
+          "author_id": "eR2brCFq",
+          "name": "MES - Moog's End Structures 1.3.2-1.20.6-fabric",
+          "version_number": "1.3.2-1.20.6-fabric",
+          "changelog": "Updated for 1.20.5 and 6\nadded mystical archway structure",
+          "date_published": "2024-07-01T12:55:08.723115Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha512": "42834280480f9456f16964b72bfb4b9370dbecdf2b388068b6b6e4b7db2e4dfcaee2779feda8e597900e0fdd23a0807af579f2d807ad47d17b7da950d9652344",
+                "sha1": "0d274f2b4bc1a797d32128df58b5f5cff1739781"
+              },
+              "url": "https://cdn.modrinth.com/data/r4PuRGfV/versions/o2LGbXuz/mes-1.3.2-1.20.6.jar",
+              "filename": "mes-1.3.2-1.20.6.jar",
+              "primary": true,
+              "size": 407692
+            }
+          ],
+          "dependencies": [],
+          "game_versions": [
+            "1.20.5",
+            "1.20.6"
+          ],
+          "loaders": [
+            "fabric"
+          ]
+        }
+      },
+      {
+        "name": "MNS - Moog's Nether Structures",
+        "version": "MNS - Moog's Nether Structures 1.0.2-1.20.6-fabric",
+        "optional": true,
+        "file": "mns-1.0.2-1.20.6.jar",
+        "type": "mods",
+        "description": "loads of structures made with vanilla blocks and entities bringing life to your world! Discover loot, enemies, & more along the way!",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 967466,
+        "curseForgeFileId": 5492489,
+        "curseForgeProject": {
+          "id": 967466,
+          "name": "MNS - Moog's Nether Structures",
+          "authors": [
+            {
+              "id": 102321336,
+              "name": "finndog_123",
+              "url": "https://www.curseforge.com/members/finndog_123"
+            }
+          ],
+          "gameId": 432,
+          "summary": "loads of structures made with vanilla blocks and entities bringing life to your world! Discover loot, enemies, & more along the way!",
+          "categories": [
+            {
+              "name": "Cosmetic",
+              "slug": "cosmetic",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/cosmetic",
+              "dateModified": "2014-05-08T17:42:35.597Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 424,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/39/635351497555976928.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Adventure and RPG",
+              "slug": "adventure-rpg",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/adventure-rpg",
+              "dateModified": "2014-05-08T17:42:09.54Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 422,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/37/635351497295252123.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Structures",
+              "slug": "world-structures",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen/world-structures",
+              "dateModified": "2014-05-08T17:37:17.173Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 409,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/24/635351494371736208.png",
+              "parentCategoryId": 406,
+              "classId": 6
+            },
+            {
+              "name": "World Gen",
+              "slug": "world-gen",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen",
+              "dateModified": "2017-10-16T21:40:11.473Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 406,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/26/635351494599748860.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 409,
+          "classId": 6,
+          "slug": "mns-moogs-nether-structures",
+          "isFeatured": false,
+          "dateModified": "2024-07-01T15:04:54.623Z",
+          "dateCreated": "2024-01-27T14:14:16Z",
+          "dateReleased": "2024-07-01T15:01:19.56Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/mns-moogs-nether-structures"
+          },
+          "logo": {
+            "id": 939604,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/939/604/256/256/638419616560253774.png",
+            "title": "638419616560253774.png",
+            "url": "https://media.forgecdn.net/avatars/939/604/638419616560253774.png",
+            "modId": 967466
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 5492562
+        },
+        "curseForgeFile": {
+          "id": 5492489,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "MNS 1.0.2 1.20 [FABRIC]",
+          "fileName": "mns-1.0.2-1.20.6.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2024-07-01T14:36:55.563Z",
+          "fileLength": 352693,
+          "dependencies": [],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 548900195,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 3784757042,
+              "name": "architectury_inject_MoogsNetherStructures_common_762bfd12466c4a5a84a9f1aa70c4bf0a_5f6528c26052e58b0f0d2f17ce9e7ee01d19762fe231107f7440f6a86b251634mns1021206devjar"
+            },
+            {
+              "fingerprint": 1621632388,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 2678373055,
+              "name": "com"
+            },
+            {
+              "fingerprint": 504496972,
+              "name": "data"
+            },
+            {
+              "fingerprint": 1039672505,
+              "name": "fabric.mod.json"
+            },
+            {
+              "fingerprint": 1621632388,
+              "name": "icon.png"
+            },
+            {
+              "fingerprint": 3930956375,
+              "name": "mns-common-refmap.json"
+            },
+            {
+              "fingerprint": 295664558,
+              "name": "mns-common.mixins.json"
+            },
+            {
+              "fingerprint": 675808109,
+              "name": "mns-fabric-refmap.json"
+            },
+            {
+              "fingerprint": 274878608,
+              "name": "mns-fabric.mixins.json"
+            },
+            {
+              "fingerprint": 1162451074,
+              "name": "mns.accesswidener"
+            },
+            {
+              "fingerprint": 774099918,
+              "name": "pack.mcmeta"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "826c372f88c6fa6108df793a8241003d12aeff99",
+              "algo": 1
+            },
+            {
+              "value": "08c856946057f1b1f2d9fea9cf1c96f4",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000005",
+              "gameVersion": "1.20.5",
+              "gameVersionReleaseDate": "2024-04-23T15:00:48.803Z",
+              "gameVersionName": "1.20.5"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-09-01T00:00:00Z",
+              "gameVersionName": "Fabric"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000006",
+              "gameVersion": "1.20.6",
+              "gameVersionReleaseDate": "2024-04-29T15:15:44.67Z",
+              "gameVersionName": "1.20.6"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Server"
+            }
+          ],
+          "gameVersions": [
+            "1.20.5",
+            "Fabric",
+            "1.20.6",
+            "Server"
+          ],
+          "fileFingerprint": 997566216,
+          "modId": 967466
+        },
+        "modrinthProject": {
+          "id": "nGUXvjTa",
+          "slug": "mns-moogs-nether-structures",
+          "project_type": "mod",
+          "team": "lShLKlLK",
+          "title": "MNS - Moog's Nether Structures",
+          "description": "loads of structures made with vanilla blocks and entities bringing life to your world! Discover loot, enemies, & more along the way!",
+          "body": "![banner](https://www.bisecthosting.com/images/CF/Moogs_Nether_Structures/BH_MNS_header.webp)\n\n* * *\n\n[![](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D8LKA5N)\n\n[![Discord](https://img.shields.io/discord/869218732650688543?color=c20045&label=DISCORD&style=for-the-badge)](https://discord.com/invite/S5nffJbuvA)\n\n[![](https://img.shields.io/badge/My-projects-c20045?style=for-the-badge&logo=curseforge)](https://www.curseforge.com/members/finndog_123/projects)\n\n* * *\n\n![Overview](https://www.bisecthosting.com/images/CF/Moogs_Nether_Structures/BH_MNS_overview.webp)\n\n* * *\n\n**FEEDBACK**\n\nPlease comment any ideas you may have to improve this mod. Any and all feedback is greatly appreciated :)\n\n**FORGE AND FABRIC**\n\nLook for files marked with **\\[FORGE\\]** or **\\[FABRIC\\]**.  \n_**Fabric** mods are marked with **BETA** so that they show up on the side, but they are actually **RELEASE's**_\n\n**ABOUT**\n\nMoogs Nether Structures brings life, fun and variety to your Minecraft world! Explore awesome new structures made with vanilla blocks and entities, and discover loot, enemies, and villagers along the way. This mod is compatible with any modpack and keeps the vanilla feel of the game!\n\nTo see all of the structures, head to the [images tab](https://modrinth.com/mod/mns-moogs-nether-structures/gallery) or the [imgur post](https://imgur.com/gallery/Gypu4hD)\n\n**Config pack**\n\n[link](https://www.curseforge.com/minecraft/texture-packs/mns-moogs-voyager-structure-config-pack)\n\nA datapack you can use to configure the mod.\n\n**Installation**\n\n1\\. simply download the version you need  \n2\\. then add it to your mods folder  \nIt does not require any settings to be changed for it and should work with all mods\n\n* * *\n\n![features](https://www.bisecthosting.com/images/CF/Moogs_Nether_Structures/BH_MNS_features.webp)![collage](https://i.imgur.com/epC7vBEREPLACE.png)\n\n* * *\n\n![](https://www.bisecthosting.com/images/CF/Moogs_Nether_Structures/BH_MNS_discord.webp)\n\n* * *\n\n**The best and fastest way to get replies is to join our [discord server](https://discord.gg/S5nffJbuvA)**\n\n[**![discord](https://i.imgur.com/sfAmR3Y.png)**](https://discord.gg/S5nffJbuvA \"discord invite\")\n\n* * *\n\n  \n[![BHsponser](https://www.bisecthosting.com/images/CF/Moogs_Nether_Structures/BH_MNS_promo.webp)](https://bisecthosting.com/moogsmods)",
+          "published": "2024-01-12T21:01:06.616528Z",
+          "updated": "2024-07-01T15:02:34.241956Z",
+          "status": "approved",
+          "license": {
+            "id": "LGPL-3.0-only",
+            "name": "GNU Lesser General Public License v3.0 only"
+          },
+          "client_side": "unsupported",
+          "server_side": "required",
+          "categories": [
+            "worldgen"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/nGUXvjTa/7a44ac2298a58d2fbe717b128f89b2019b1b8898.png",
+          "issues_url": "https://github.com/FinnSetchell/MoogsNetherStructures/issues",
+          "source_url": "https://github.com/FinnSetchell/MoogsNetherStructures",
+          "wiki_url": "https://github.com/FinnSetchell/MoogsNetherStructures/wiki",
+          "discord_url": "https://discord.gg/S5nffJbuvA",
+          "donation_urls": [
+            {
+              "id": "ko-fi",
+              "platform": "Ko-fi",
+              "url": "https://ko-fi.com/finndog"
+            }
+          ],
+          "gallery": [
+            {
+              "url": "https://cdn.modrinth.com/data/nGUXvjTa/images/11c05a38bcdcb065eba31c2fc23c17f6352ac4fc.png",
+              "featured": false,
+              "created": "2024-01-12T21:25:19.735487Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/nGUXvjTa/images/2602d611900ff9c516d3d8de9e6aeb1b41f42f8b.png",
+              "featured": false,
+              "created": "2024-01-12T21:25:01.048535Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/nGUXvjTa/images/2ba357e83ab9ca5e43b388e72b273243eb23f5f0.png",
+              "featured": false,
+              "created": "2024-01-12T21:24:45.719935Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/nGUXvjTa/images/577a406b5e10da639aa6964b9b2f1c40e75ea083.png",
+              "featured": false,
+              "created": "2024-01-12T21:25:07.720661Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/nGUXvjTa/images/6298b6c7b3f89e95e795bdda3e00f485a0918624.png",
+              "featured": false,
+              "created": "2024-01-12T21:24:53.556200Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/nGUXvjTa/images/706ac87263531c75300294aa9de0d237b487dc25.png",
+              "featured": false,
+              "created": "2024-01-12T21:24:30.756915Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/nGUXvjTa/images/7585549df36503ea0ac7c920cca204114198f844.png",
+              "featured": false,
+              "created": "2024-01-12T21:24:22.323381Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/nGUXvjTa/images/acbfe8ce1db2d3af800dbcfc723fb6cf9cd0b325.png",
+              "featured": false,
+              "created": "2024-01-12T21:25:13.927907Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/nGUXvjTa/images/e34cbfb93691f515c3c8601757a632a0b3dda7ed.png",
+              "featured": false,
+              "created": "2024-01-12T21:24:06.711241Z",
+              "ordering": 0.0
+            }
+          ]
+        },
+        "modrinthVersion": {
+          "id": "ln4ZUNUT",
+          "project_id": "nGUXvjTa",
+          "author_id": "eR2brCFq",
+          "name": "MNS - Moog's Nether Structures 1.0.2-1.20.6-fabric",
+          "version_number": "1.0.2-1.20.6-fabric",
+          "changelog": "Updated to 1.20.5 and 6\nadded back the large house seen in the banner",
+          "date_published": "2024-07-01T14:38:07.399623Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha512": "ba69d6a5ae5a916eb5841f007be03a33555985115a55d8ddc5e62cb56262a9bc46bbf9f86423ff2f165519b10366e2f93138262fd43c07e77d1e43b6096bb69d",
+                "sha1": "826c372f88c6fa6108df793a8241003d12aeff99"
+              },
+              "url": "https://cdn.modrinth.com/data/nGUXvjTa/versions/ln4ZUNUT/mns-1.0.2-1.20.6.jar",
+              "filename": "mns-1.0.2-1.20.6.jar",
+              "primary": true,
+              "size": 352693
+            }
+          ],
+          "dependencies": [],
+          "game_versions": [
+            "1.20.5",
+            "1.20.6"
+          ],
+          "loaders": [
+            "fabric"
+          ]
+        }
+      },
+      {
+        "name": "Lithostitched",
+        "version": "1.1.8 ~ Fabric 1.20.6",
+        "optional": true,
+        "file": "lithostitched-fabric-1.20.5-1.1.8.jar",
+        "type": "mods",
+        "description": "Library mod with new configurability and compatibility enhancements for worldgen",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 936015,
+        "curseForgeFileId": 5570060,
+        "curseForgeProject": {
+          "id": 936015,
+          "name": "Lithostitched",
+          "authors": [
+            {
+              "id": 103472802,
+              "name": "Apollo",
+              "url": "https://www.curseforge.com/members/apollo"
+            },
+            {
+              "id": 51432627,
+              "name": "SmellyModder",
+              "url": "https://www.curseforge.com/members/smellymodder"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Library mod with new configurability and compatibility enhancements for worldgen",
+          "categories": [
+            {
+              "name": "API and Library",
+              "slug": "library-api",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/library-api",
+              "dateModified": "2014-05-23T03:21:44.06Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 421,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/36/635351496947765531.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Miscellaneous",
+              "slug": "mc-miscellaneous",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-miscellaneous",
+              "dateModified": "2014-06-15T04:27:14.543Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 425,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/40/635351497693711265.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "World Gen",
+              "slug": "world-gen",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen",
+              "dateModified": "2017-10-16T21:40:11.473Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 406,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/26/635351494599748860.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 425,
+          "classId": 6,
+          "slug": "lithostitched",
+          "isFeatured": false,
+          "dateModified": "2024-08-18T17:39:44.697Z",
+          "dateCreated": "2023-11-11T05:18:00.093Z",
+          "dateReleased": "2024-08-18T17:34:17.35Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/lithostitched",
+            "wikiUrl": "https://github.com/Apollounknowndev/lithostitched/wiki",
+            "issuesUrl": "https://github.com/Apollounknowndev/lithostitched/issues",
+            "sourceUrl": "https://github.com/Apollounknowndev/lithostitched"
+          },
+          "logo": {
+            "id": 903937,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/903/937/256/256/638353757551138885.png",
+            "title": "638353757551138885.png",
+            "url": "https://media.forgecdn.net/avatars/903/937/638353757551138885.png",
+            "modId": 936015
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 5641220
+        },
+        "curseForgeFile": {
+          "id": 5570060,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "1.1.8 ~ Fabric 1.20.6",
+          "fileName": "lithostitched-fabric-1.20.5-1.1.8.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2024-07-27T03:46:18.617Z",
+          "fileLength": 162916,
+          "dependencies": [],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 2062770047,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 2937811447,
+              "name": "LICENSE_Lithostitched"
+            },
+            {
+              "fingerprint": 285441730,
+              "name": "data"
+            },
+            {
+              "fingerprint": 3123910540,
+              "name": "dev"
+            },
+            {
+              "fingerprint": 147274911,
+              "name": "fabric.mod.json"
+            },
+            {
+              "fingerprint": 4195303669,
+              "name": "lithostitched.accesswidener"
+            },
+            {
+              "fingerprint": 876339780,
+              "name": "lithostitched.fabric.mixins.json"
+            },
+            {
+              "fingerprint": 2139682725,
+              "name": "lithostitched.mixins.json"
+            },
+            {
+              "fingerprint": 2741721205,
+              "name": "lithostitched.refmap.json"
+            },
+            {
+              "fingerprint": 3354803122,
+              "name": "pack.mcmeta"
+            },
+            {
+              "fingerprint": 4244913670,
+              "name": "pack.png"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "7c9aedc5e371056b4e777c1134eea54efda9bf7b",
+              "algo": 1
+            },
+            {
+              "value": "d83769bf6efb8a1b21ed1a703aa03e95",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000005",
+              "gameVersion": "1.20.5",
+              "gameVersionReleaseDate": "2024-04-23T15:00:48.803Z",
+              "gameVersionName": "1.20.5"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-09-01T00:00:00Z",
+              "gameVersionName": "Fabric"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000006",
+              "gameVersion": "1.20.6",
+              "gameVersionReleaseDate": "2024-04-29T15:15:44.67Z",
+              "gameVersionName": "1.20.6"
+            }
+          ],
+          "gameVersions": [
+            "1.20.5",
+            "Fabric",
+            "1.20.6"
+          ],
+          "fileFingerprint": 4194973817,
+          "modId": 936015
+        },
+        "modrinthProject": {
+          "id": "XaDC71GB",
+          "slug": "lithostitched",
+          "project_type": "mod",
+          "team": "V5sujL1J",
+          "title": "Lithostitched",
+          "description": "Library mod with new configurability and compatibility enhancements for worldgen",
+          "body": "# Lithostitched\n\nLithostitched is a library mod for Fabric and Neoforge with new configurability and compatibility enhancements for worldgen.\n\n## Description\n\nThis mod introduces new tools for datapack and modded worldgen developers to utilize, with the aim of increasing inter-project compatibility and expanding configurability in general. Currently, there are features such as:\n- Biome modifiers\n- Template pool injectors\n- Surface rule modifiers\n- Guaranteed pieces in jigsaw structures\n\nAll of these new capabilities are **data-driven**! Take a look at the [Lithostitched Wiki](https://github.com/Apollounknowndev/lithostitched/wiki) for more information.",
+          "published": "2023-08-03T19:55:34.133706Z",
+          "updated": "2024-08-18T17:34:17.391157Z",
+          "status": "approved",
+          "license": {
+            "id": "MIT",
+            "name": "MIT License"
+          },
+          "client_side": "unsupported",
+          "server_side": "required",
+          "categories": [
+            "library",
+            "utility",
+            "worldgen"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/XaDC71GB/bc3425bcb318176adc7da99b6eec48787eed98d3.png",
+          "issues_url": "https://github.com/Apollounknowndev/lithostitched/issues",
+          "source_url": "https://github.com/Apollounknowndev/lithostitched/",
+          "wiki_url": "https://github.com/Apollounknowndev/lithostitched/wiki",
+          "donation_urls": [
+            {
+              "id": "ko-fi",
+              "platform": "Ko-fi",
+              "url": "https://ko-fi.com/apollodev"
+            }
+          ],
+          "gallery": []
+        },
+        "modrinthVersion": {
+          "id": "DzU5aqhv",
+          "project_id": "XaDC71GB",
+          "author_id": "MllXIwZc",
+          "name": "1.1.8 ~ Fabric 1.20.6",
+          "version_number": "1.1.8",
+          "changelog": "- Internal code adjustments",
+          "date_published": "2024-07-27T03:46:18.708855Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha512": "4558cacdcfc33aebcceb20e279e24a6421f53502bc5a777d76f915641c9f605552a5bc1dccffbedaa03a4df209461290cbee668331a0406c5d94c0bda48a3667",
+                "sha1": "7c9aedc5e371056b4e777c1134eea54efda9bf7b"
+              },
+              "url": "https://cdn.modrinth.com/data/XaDC71GB/versions/DzU5aqhv/lithostitched-fabric-1.20.5-1.1.8.jar",
+              "filename": "lithostitched-fabric-1.20.5-1.1.8.jar",
+              "primary": true,
+              "size": 162916
+            }
+          ],
+          "dependencies": [],
+          "game_versions": [
+            "1.20.5",
+            "1.20.6"
+          ],
+          "loaders": [
+            "fabric"
+          ]
+        }
+      },
+      {
+        "name": "ChoiceTheorem's Overhauled Village",
+        "version": "[Fabric]CTOV-v3.4.6",
+        "optional": true,
+        "file": "[Fabric]CTOV-v3.4.6.jar",
+        "type": "mods",
+        "description": "Enhances and creates new villages and pillager outposts, that perfectly fit into your Minecraft world.",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 623908,
+        "curseForgeFileId": 5532168,
+        "curseForgeProject": {
+          "id": 623908,
+          "name": "ChoiceTheorem's Overhauled Village",
+          "authors": [
+            {
+              "id": 103039176,
+              "name": "ChoiceTheorem",
+              "url": "https://www.curseforge.com/members/choicetheorem"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Enhances and creates new villages and pillager outposts, that perfectly fit into your Minecraft world.",
+          "categories": [
+            {
+              "name": "Structures",
+              "slug": "world-structures",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen/world-structures",
+              "dateModified": "2014-05-08T17:37:17.173Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 409,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/24/635351494371736208.png",
+              "parentCategoryId": 406,
+              "classId": 6
+            },
+            {
+              "name": "World Gen",
+              "slug": "world-gen",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen",
+              "dateModified": "2017-10-16T21:40:11.473Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 406,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/26/635351494599748860.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 406,
+          "classId": 6,
+          "slug": "choicetheorems-overhauled-village",
+          "isFeatured": false,
+          "dateModified": "2024-08-03T15:45:48.693Z",
+          "dateCreated": "2022-05-16T03:29:16.293Z",
+          "dateReleased": "2024-08-03T11:51:33.807Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/choicetheorems-overhauled-village",
+            "wikiUrl": "https://github.com/ChoiceTheorem/ChoiceTheorem-s-overhauled-village/wiki",
+            "issuesUrl": "https://github.com/ChoiceTheorem/ChoiceTheorem-s-overhauled-village/issues",
+            "sourceUrl": "https://github.com/ChoiceTheorem/ChoiceTheorem-s-overhauled-village"
+          },
+          "logo": {
+            "id": 834260,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/834/260/256/256/638224736286948659.png",
+            "title": "638224736286948659.png",
+            "url": "https://media.forgecdn.net/avatars/834/260/638224736286948659.png",
+            "modId": 623908
+          },
+          "allowModDistribution": true,
+          "screenshots": [
+            {
+              "id": 475557,
+              "description": "Japanese-themed Mountain Village by ChoiceTheorem",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/475/557/310/172/resized-image-promo-1.jpeg",
+              "title": "Japanese Mountain Village",
+              "url": "https://media.forgecdn.net/attachments/475/557/resized-image-promo-1.jpeg",
+              "modId": 623908
+            },
+            {
+              "id": 484285,
+              "description": "Jungle pillager outpost in Terralith terrain",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/484/285/310/172/4.png",
+              "title": "Jungle Pillager Outpost",
+              "url": "https://media.forgecdn.net/attachments/484/285/4.png",
+              "modId": 623908
+            },
+            {
+              "id": 465343,
+              "description": "Savanna Village on Terralith Volcano taken by Mugloved",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/465/343/310/172/screenshot_21.png",
+              "title": "Savanna Village",
+              "url": "https://media.forgecdn.net/attachments/465/343/screenshot_21.png",
+              "modId": 623908
+            },
+            {
+              "id": 484287,
+              "description": "Desert Village with Terralith terrain",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/484/287/310/172/13.png",
+              "title": "Desert Village",
+              "url": "https://media.forgecdn.net/attachments/484/287/13.png",
+              "modId": 623908
+            },
+            {
+              "id": 467115,
+              "description": "Two plains village next to each other in Terralith plains. I took it myself.",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/467/115/310/172/2022-06-06_10.png",
+              "title": "Plains village",
+              "url": "https://media.forgecdn.net/attachments/467/115/2022-06-06_10.png",
+              "modId": 623908
+            },
+            {
+              "id": 484289,
+              "description": "Savanna Village on Terralith Terrain",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/484/289/310/172/14.png",
+              "title": "Savanna Village",
+              "url": "https://media.forgecdn.net/attachments/484/289/14.png",
+              "modId": 623908
+            },
+            {
+              "id": 461701,
+              "description": "Christmas Village with Terralith terrain taken by Mugloved",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/461/701/310/172/screenshot_18.png",
+              "title": "Christmas Village",
+              "url": "https://media.forgecdn.net/attachments/461/701/screenshot_18.png",
+              "modId": 623908
+            },
+            {
+              "id": 470355,
+              "description": "Fortified swamp village with terralith terrain",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/470/355/310/172/2022-06-19_15.png",
+              "title": "Swamp village",
+              "url": "https://media.forgecdn.net/attachments/470/355/2022-06-19_15.png",
+              "modId": 623908
+            },
+            {
+              "id": 484286,
+              "description": "Plains Village with Terralith terrain",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/484/286/310/172/12.png",
+              "title": "Plains Village",
+              "url": "https://media.forgecdn.net/attachments/484/286/12.png",
+              "modId": 623908
+            }
+          ],
+          "mainFileId": 5592409
+        },
+        "curseForgeFile": {
+          "id": 5532168,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "[Fabric]CTOV-v3.4.6",
+          "fileName": "[Fabric]CTOV-v3.4.6.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2024-07-14T16:24:05.127Z",
+          "fileLength": 5613013,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 936015,
+              "relationType": 3
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 3179717428,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 3015920083,
+              "name": "architectury_inject_ChoiceTheoremsoverhauledvillage_common_ab27f93c099b454ba583a81010729d01_81c04a86c5d1d265044d2dbb0079e162cfeb4939c24551088a3ce14924b146bectov346devjar"
+            },
+            {
+              "fingerprint": 1249084634,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 2206421251,
+              "name": "ctov-common.mixins.json"
+            },
+            {
+              "fingerprint": 2666369883,
+              "name": "ctov-croptopia-add-on"
+            },
+            {
+              "fingerprint": 1207166809,
+              "name": "ctov-savage-and-ravage-add-on"
+            },
+            {
+              "fingerprint": 3941206721,
+              "name": "ctov.accesswidener"
+            },
+            {
+              "fingerprint": 1661476342,
+              "name": "ctov.mixins.json"
+            },
+            {
+              "fingerprint": 1129006915,
+              "name": "data"
+            },
+            {
+              "fingerprint": 1256493297,
+              "name": "fabric.mod.json"
+            },
+            {
+              "fingerprint": 3093191900,
+              "name": "net"
+            },
+            {
+              "fingerprint": 2944427244,
+              "name": "pack.mcmeta"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "9a4bd24dd4d5e2d31202b80a8ecb4895783ea069",
+              "algo": 1
+            },
+            {
+              "value": "066fbd980f869155ab8f8790e07cccc4",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000002",
+              "gameVersion": "1.20.2",
+              "gameVersionReleaseDate": "2023-09-21T15:25:15.053Z",
+              "gameVersionName": "1.20.2"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000005",
+              "gameVersion": "1.20.5",
+              "gameVersionReleaseDate": "2024-04-23T15:00:48.803Z",
+              "gameVersionName": "1.20.5"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-09-01T00:00:00Z",
+              "gameVersionName": "Fabric"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000003",
+              "gameVersion": "1.20.3",
+              "gameVersionReleaseDate": "2023-12-05T17:24:10.113Z",
+              "gameVersionName": "1.20.3"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020",
+              "gameVersion": "1.20",
+              "gameVersionReleaseDate": "2023-06-07T00:00:00Z",
+              "gameVersionName": "1.20"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000006",
+              "gameVersion": "1.20.6",
+              "gameVersionReleaseDate": "2024-04-29T15:15:44.67Z",
+              "gameVersionName": "1.20.6"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000004",
+              "gameVersion": "1.20.4",
+              "gameVersionReleaseDate": "2023-12-07T15:17:47.907Z",
+              "gameVersionName": "1.20.4"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Server"
+            }
+          ],
+          "gameVersions": [
+            "1.20.2",
+            "1.20.5",
+            "Fabric",
+            "1.20.3",
+            "1.20.1",
+            "1.20",
+            "1.20.6",
+            "1.20.4",
+            "Server"
+          ],
+          "fileFingerprint": 1061906977,
+          "modId": 623908
+        },
+        "modrinthProject": {
+          "id": "fgmhI8kH",
+          "slug": "ct-overhaul-village",
+          "project_type": "mod",
+          "team": "Zs08w8wX",
+          "title": "ChoiceTheorem's Overhauled Village",
+          "description": "Enhances and creates new villages and pillager outposts, that perfectly fit into your Minecraft world.",
+          "body": "**![](https://www.bisecthosting.com/images/CF/CT_Overhauled_Village/BH_CT_HEADER.webp)**\n**![](https://www.bisecthosting.com/images/CF/CT_Overhauled_Village/BH_CT_BANNER1.webp)**\n\n**ChoiceTheorem's Overhauled Village (CTOV) is a mod that adds new and improved villages and pillager outposts to Minecraft.** It is available for both Forge and Fabric, and it works with most world-generation and structure mods. CTOV adds 23 village variants and 14 pillager outpost variants, each of which is tailored to the terrain, theme, and biome of your Minecraft world.\n\nCTOV will not be backported beyond 1.18.2 for the mod version and 1.17 for the datapack version. This means that if you are playing an older version of Minecraft, you will not be able to use CTOV.\n\n<details><summary>FAQs</summary>\n\n1.  **Is it safe to update CTOV to a newer version?**\nYes, it is safe to update CTOV to a newer version. However, if you do experience any problems, please let the mod author know so that they can fix them.\n\n2.  **Is it safe to add CTOV to an already existing world?**\nYes, it is safe to add CTOV to an already existing world. However, the new structures will only spawn in newly generated chunks.\n\n3.  **Is this mod for Forge or Fabric/Quilt?**\nCTOV is available for all three mod loaders: Forge, Fabric, and Quilt.\n\n4.  **How can I locate the new structures?**\nTo locate the new structures, you can use the `/locate` command.\n    For 1.18.2, you would use the following command:\n    >  /locate ctov:\\[structure\\_from\\_list\\] <br>\n\n    For 1.19+, you would use the following command:\n    >  /locate structure ctov:[structure_from_list] <br>\n\n    The `[structure_from_list]` part of the command is the name of the structure that you want to locate. You can find a list of all the available structures in the CTOV documentation.\n\n5.  **Does CTOV modify existing vanilla structures?**\nThe only structures that are modified by CTOV are vanilla villages in older versions. In newer versions, CTOV creates its own structures that are separate from vanilla villages.\n\n6.  **What about the loot of these structures?**\nThe vast majority of structures use vanilla loot tables for better mod compatibility. However, they also use some custom loot tables to integrate said structures into the world better. You will still find pillager outpost loot in pillager outposts, profession chests in villages, as well as bells, workstations, etc., but you may also find new stuff like food, armour, and other goodies.\n\n7.  **How can I report bugs/issues/suggestions?**\nTo report bugs, issues, or suggestions, please go to the CTOV GitHub repo and create an issue. You can also message the mod author on Discord.\n\n8.  **Can I include CTOV in my modpack?**\nYes, you can include CTOV in your modpack. However, please be sure to give credit to the mod author and provide a link to their page.\n\n9.  **Can I have CTOV for 1.x.x, please?**\nIf it's lower than 1.18.2, no. Please don't ask this question. The technical limit is too high here.\n\n10.  **Can I give Choicetheorem any commission or support?**\nThe mod author does not accept commissions or monetary support. They are doing this as a hobby and do not want to be paid for their work.\n\nI hope this answers all of your questions.\n</details>\n\n**![](https://www.bisecthosting.com/images/CF/CT_Overhauled_Village/BH_CT_BANNER4.webp)**\n\n\nChoiceTheorem's Overhauled Village (CTOV) is compatible with most world-generation and structure mods. Full documentation is [here](https://github.com/ChoiceTheorem/ChoiceTheorem-s-overhauled-village/wiki/Compatibility)\n\nIt also works with Guard Villager and other structure packs by ChoiceTheorem.\nMods that add new villagers will need compatibility packs.\n\nHere are some more details about the compatibility of CTOV with other mods:\n\n- **World-generation mods:** CTOV relies on vanilla biome Tags, so almost all world-generation mods like Terralith, Oh Biome You'll Go, and Biomes O'plenty will have appropriate CTOV villages in their biomes.\n- **Structure mods:** Various structure mods like Town&Tower and Repurposed structures also work well with CTOV. However, it is important to exercise caution when using too many mods, as this can cause instability. The same applies to Better Village.\n- **Other mods:** Any other mod that doesn't affect villages and villagers will be compatible by default.\n- Mods that add new villagers will need compatibility packs, which can be found on the CurseForge website.\n\nMod integration\n\nAs a rule of thumb, it's compatible. If it isn't yet, It will be. Read this [wiki page](https://github.com/ChoiceTheorem/ChoiceTheorem-s-overhauled-village/wiki/Compatibility) for details!\n\nYou can suggest more mods in my GitHub Issue section.\n</details>\n\n\n![](https://www.bisecthosting.com/images/CF/CT_Overhauled_Village/BH_CT_BANNER5.webp)\n\n[![discord-plural](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/social/discord-plural_64h.png)](https://discord.gg/JzYEw7PxQv) \n[![github-plural](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/social/github-plural_64h.png)](https://github.com/ChoiceTheorem/ChoiceTheorem-s-overhauled-village) \n[![twitter-plural](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/social/twitter-plural_64h.png)](https://twitter.com/ChoiceTheorem)\n[![youtube-plural](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/social/youtube-plural_64h.png)](https://www.youtube.com/channel/UCUSv0t-aWToQkpP5eonHmlA)\n\n**Credits**\n-----------\n\n*   Vichy0623 for codesigning the builds\n*   Robified for converting this datapack into a mod.\n\n[![](https://www.bisecthosting.com/images/CF/CT_Overhauled_Village/BH_CT_PROMO.webp)](https://bisecthosting.com/CT)",
+          "published": "2022-05-16T03:06:55.644362Z",
+          "updated": "2024-08-03T12:58:35.022255Z",
+          "status": "approved",
+          "license": {
+            "id": "CC-BY-NC-ND-4.0",
+            "name": "Creative Commons Attribution Non Commercial No Derivatives 4.0 International"
+          },
+          "client_side": "unsupported",
+          "server_side": "required",
+          "categories": [
+            "adventure",
+            "worldgen"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/fgmhI8kH/76dd7230a35c12d4956985317ffd0c079d6a9148.jpeg",
+          "issues_url": "https://github.com/ChoiceTheorem/ChoiceTheorem-s-overhauled-village/issues",
+          "source_url": "https://github.com/ChoiceTheorem/ChoiceTheorem-s-overhauled-village",
+          "discord_url": "https://discord.gg/JzYEw7PxQv",
+          "donation_urls": [],
+          "gallery": [
+            {
+              "url": "https://cdn.modrinth.com/data/fgmhI8kH/images/15d7bf1aa1b7174fde4a5dac2ed81d4b8adb4b06.png",
+              "featured": true,
+              "title": "Alpine-style mountain village",
+              "description": "Alpine-style mountain village next to a birch forest nearby",
+              "created": "2023-02-16T14:59:08.479569Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/fgmhI8kH/images/2f7b8e2fc46cbb9e7a83368a93ab1ba1feb110ed.webp",
+              "featured": false,
+              "title": "Banner image",
+              "created": "2023-08-30T14:36:27.082900Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/fgmhI8kH/images/576fb3e920f242512932434a51cba40b14da2750.png",
+              "featured": false,
+              "title": "Christmas styled village ",
+              "description": "Christmas styled village on Terralith mountainsCredit: Mugloved",
+              "created": "2022-05-16T03:14:39.271847Z",
+              "ordering": 0.0
+            }
+          ]
+        },
+        "modrinthVersion": {
+          "id": "LKEra9cd",
+          "project_id": "fgmhI8kH",
+          "author_id": "srhKvhLi",
+          "name": "[Fabric]CTOV-v3.4.6",
+          "version_number": "3.4.6",
+          "changelog": "### What's changed\n\n- Added Jewelry Compat\n- Added Archers Compat\n- Added Rogues Compat\n- All RPG series mod buildings will be restricted to 1 building per villages.",
+          "date_published": "2024-07-14T16:19:11.146Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha512": "604ee4b46788652e2644eff8db9b146c44521adbc7dc8a72f09d9b4c1855b4639ef535dbc698fe16befea06fb710a10865e716806a9f6d710d0a8d00530d1524",
+                "sha1": "9a4bd24dd4d5e2d31202b80a8ecb4895783ea069"
+              },
+              "url": "https://cdn.modrinth.com/data/fgmhI8kH/versions/LKEra9cd/%5BFabric%5DCTOV-v3.4.6.jar",
+              "filename": "[Fabric]CTOV-v3.4.6.jar",
+              "primary": true,
+              "size": 5613013
+            }
+          ],
+          "dependencies": [
+            {
+              "project_id": "XaDC71GB",
+              "dependency_type": "required"
+            }
+          ],
+          "game_versions": [
+            "1.20",
+            "1.20.1",
+            "1.20.2",
+            "1.20.3",
+            "1.20.4",
+            "1.20.5",
+            "1.20.6"
+          ],
+          "loaders": [
+            "fabric"
+          ]
+        }
+      },
+      {
+        "name": "Roguelike Dungeons",
+        "version": "Roguelike Dungeons 2.0.5beta-1.20.6-fabric",
+        "optional": true,
+        "file": "RoguelikeDungeons-2.0.5beta-1.20.6-fabric.jar",
+        "type": "mods",
+        "description": "Large procedurally generated dungeon structures with randomized loot.",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "modrinthProject": {
+          "id": "MFpvbNGE",
+          "slug": "roguelikedungeons",
+          "project_type": "mod",
+          "team": "OaEP0OEK",
+          "title": "Roguelike Dungeons",
+          "description": "Large procedurally generated dungeon structures with randomized loot.",
+          "body": "## What is Roguelike Dungeons\n\nAn old fashioned dungeon crawler hewn into the dirt and stone of the overworld.\n\nRoguelike Dungeons aims to provide an alternative progression path to the early game, as well as something fun to do in the late game. The loot is designed to support entering and surviving on the first day you create your world.\n\n## Vanilla-like\n\nA key objective of this mod is to stick to vanilla blocks, entities, items, and mechanics. Meaning that everything that's added is something which could also be built in vanilla creative.\n\n## Inspiration\n\nRoguelike Dungeons started as a project to enhance and build on the experience of the original Minecraft box style dungeons by linking rooms together with corridors and stairwells.\n\nThe design of these dungeons was inspired by the 404 Challenge, and Vechs' SuperHostile maps. Amnesia the Dark Descent inspired the tone and themes throughout.\n\nThe title comes from the genre of old dungeon crawlers by the same name.\n\n## Roguelike Challenge\n\nTry to enter a dungeon on your first day and don't leave until you've explored the entire structure. The loot and difficulty are designed to make this a rewarding experience.\n\n## Commands and Gamerules\n\nRoguelike Dungeons generate in the world naturally, however you can directly control the placement if you wish.\n\nThe \"roguelike\" command can be used to generate a dungeon at the caller's position by calling \"roguelike dungeon here\". This command will be expanded later.\n\nThe \"roguelikeDungeonsGenerate\" Gamerule (defaults to true) can be used to disable natural generation.\n\n## FAQ\n\n### Why beta? Is this mod stable?\nThis mod is stable as far as I know. I'll remove the beta status when core systems are no longer under construction. Soon.\n\n### How do I find the dungeon? Does locate work?\nThe locate command does not work because these dungeons are not generated as part of the vanilla structure system. You'll usually find them near villages, so locate those instead.\n\n### Can I add this mod to an existing world?\nYes. New dungeons will naturally spawn in new chunks. If you want to add a dungeon to old terrain you can do so using the \"roguelike\" command.\n\n### What happens if I remove this mod?\nNothing will break if you remove this mod after generating dungeons. Mob Spawners will no longer generate fancy mob equipment, and that's about it.\n\n### Do players who join a multiplayer world need to have this mod installed?\nNo. This mod is entirely vanilla compatible, and does not need to be installed on the client side.\n\n### Can I add this mod to a modpack?\nYes. Do whatever you like.\n\n### Can I change the loot?\nCurrently, no. Eventually I'll add a vanilla style loot table option.\n\n### Can I add my own rooms?\nNo, this dungeon is generated procedurally. It's not possible to add content without changing the source code. If it were easy to add this capability I would.\n",
+          "published": "2024-05-09T19:46:45.944828Z",
+          "updated": "2024-06-30T18:36:06.236986Z",
+          "status": "approved",
+          "license": {
+            "id": "GPL-3.0-only",
+            "name": "GNU General Public License v3.0 only"
+          },
+          "client_side": "unsupported",
+          "server_side": "required",
+          "categories": [
+            "worldgen"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/MFpvbNGE/7924258a1539a59316e2224ae60f65f50574e550.png",
+          "issues_url": "https://github.com/Greymerk/minecraft-roguelike/issues",
+          "source_url": "https://github.com/Greymerk/minecraft-roguelike",
+          "discord_url": "https://discord.gg/8pXfCG2vvm",
+          "donation_urls": [],
+          "gallery": [
+            {
+              "url": "https://cdn.modrinth.com/data/MFpvbNGE/images/506049a0eddf88bcd619417532490011e4572f67.png",
+              "featured": true,
+              "title": "Menacing",
+              "description": "Dungeons typically spawn near villages.",
+              "created": "2024-05-09T22:49:23.122649Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/MFpvbNGE/images/88946f0602739d8b1161df3bebbde62a80649f22.png",
+              "featured": false,
+              "title": "Spacious",
+              "description": "Features large rooms.",
+              "created": "2024-05-09T22:50:50.434050Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/MFpvbNGE/images/a870bf269975801f37432d1a132709cdc6ef11c8.png",
+              "featured": false,
+              "title": "Labyrinthine",
+              "description": "Explore the randomized twisting dark corridors",
+              "created": "2024-05-09T22:56:22.057779Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/MFpvbNGE/images/a8aa6e99e4551730c89dbfd8bb6aa4cfda8c0b84.png",
+              "featured": false,
+              "title": "Fashionable",
+              "description": "Mobs randomly equipped with modern looking gear (only from spawners in the dungeon).",
+              "created": "2024-05-09T22:54:28.838544Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/MFpvbNGE/images/e67baaee302b9a8c79d8e3dfdeeae52b4d44e348.png",
+              "featured": false,
+              "title": "Cozy",
+              "description": "Make it your home. Stay a while. Stay forever!",
+              "created": "2024-05-09T22:58:43.980850Z",
+              "ordering": 0.0
+            }
+          ]
+        },
+        "modrinthVersion": {
+          "id": "FiSyTRyw",
+          "project_id": "MFpvbNGE",
+          "author_id": "cQF8R1fO",
+          "name": "Roguelike Dungeons 2.0.5beta-1.20.6-fabric",
+          "version_number": "2.0.5beta-1.20.6-fabric",
+          "changelog": "- Added prison cells\n- Added banquet room\n- Added Sculk room\n- Added giant fungus\n- Added soul fireplaces",
+          "date_published": "2024-06-06T22:17:44.746310Z",
+          "version_type": "beta",
+          "files": [
+            {
+              "hashes": {
+                "sha512": "9c435b9870666f5a2e577a5cde824a34a60a4a4291c43646965d10afef2a449ad0083406ce3a3142b73e961450ec08c6936d53380552d498a5c6ffb908732498",
+                "sha1": "b8764048c3fb33ac3ffcdbe5cccaed442e34662d"
+              },
+              "url": "https://cdn.modrinth.com/data/MFpvbNGE/versions/FiSyTRyw/RoguelikeDungeons-2.0.5beta-1.20.6-fabric.jar",
+              "filename": "RoguelikeDungeons-2.0.5beta-1.20.6-fabric.jar",
+              "primary": true,
+              "size": 587549
+            }
+          ],
+          "dependencies": [
+            {
+              "project_id": "P7dR8mSH",
+              "dependency_type": "required"
+            }
+          ],
+          "game_versions": [
+            "1.20.6"
+          ],
+          "loaders": [
+            "fabric"
+          ]
+        }
       }
     ],
     "ignoredUpdates": [],
     "ignoreAllUpdates": false,
     "vanillaInstance": true,
-    "lastPlayed": 1724525565452,
-    "numPlays": 12
+    "lastPlayed": 1724527037987,
+    "numPlays": 14
   },
   "id": "1.20.6",
   "complianceLevel": 1,
