@@ -1,0 +1,11 @@
+# Catch all
+/*/
+/*
+
+# Excludes
+!/resourcepacks/
+!/shaderpacks/
+!/mods/
+!/config/
+!.gitignore
+!/options.txt
