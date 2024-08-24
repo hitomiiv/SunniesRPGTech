@@ -3693,13 +3693,628 @@
             "quilt"
           ]
         }
+      },
+      {
+        "name": "Continents",
+        "version": "v1.1.5 ~ 1.20.x",
+        "optional": true,
+        "file": "Continents_1.20.x_v1.1.5.jar",
+        "type": "mods",
+        "description": "Reshapes the world to consist of continents, separated by large oceans and small islands.",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 682515,
+        "curseForgeFileId": 5351599,
+        "curseForgeProject": {
+          "id": 682515,
+          "name": "Continents",
+          "authors": [
+            {
+              "id": 100241219,
+              "name": "Starmute",
+              "url": "https://www.curseforge.com/members/starmute"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Explore the seas to find realistic continents & islands. Works with most mods!",
+          "categories": [
+            {
+              "name": "World Gen",
+              "slug": "world-gen",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen",
+              "dateModified": "2017-10-16T21:40:11.473Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 406,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/26/635351494599748860.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 406,
+          "classId": 6,
+          "slug": "continents",
+          "isFeatured": false,
+          "dateModified": "2024-06-13T19:28:07.54Z",
+          "dateCreated": "2022-09-29T01:40:08.567Z",
+          "dateReleased": "2024-06-13T19:12:32.583Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/continents",
+            "wikiUrl": ""
+          },
+          "logo": {
+            "id": 615460,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/615/460/256/256/638001221544295486.png",
+            "title": "638001221544295486.png",
+            "url": "https://media.forgecdn.net/avatars/615/460/638001221544295486.png",
+            "modId": 682515
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 5424929
+        },
+        "curseForgeFile": {
+          "id": 5351599,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "v1.1.5 ~ 1.20.x",
+          "fileName": "Continents_1.20.x_v1.1.5.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2024-05-17T19:51:47.037Z",
+          "fileLength": 59456,
+          "dependencies": [],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 757226689,
+              "name": "data"
+            },
+            {
+              "fingerprint": 2326634279,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 1525342688,
+              "name": "fabric.mod.json"
+            },
+            {
+              "fingerprint": 34964521,
+              "name": "license.txt"
+            },
+            {
+              "fingerprint": 3836767716,
+              "name": "pack.mcmeta"
+            },
+            {
+              "fingerprint": 1158521447,
+              "name": "pack.png"
+            },
+            {
+              "fingerprint": 3883817515,
+              "name": "patrons.txt"
+            },
+            {
+              "fingerprint": 2702376942,
+              "name": "quilt.mod.json"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "6792f74125a40b2ef7caf8c4c8aa784021078ae1",
+              "algo": 1
+            },
+            {
+              "value": "a3c823f9d7837f2eba889dea9baa4b69",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000002",
+              "gameVersion": "1.20.2",
+              "gameVersionReleaseDate": "2023-09-21T15:25:15.053Z",
+              "gameVersionName": "1.20.2"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000005",
+              "gameVersion": "1.20.5",
+              "gameVersionReleaseDate": "2024-04-23T15:00:48.803Z",
+              "gameVersionName": "1.20.5"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-09-01T00:00:00Z",
+              "gameVersionName": "Fabric"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2023-07-25T00:00:00Z",
+              "gameVersionName": "NeoForge"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000003",
+              "gameVersion": "1.20.3",
+              "gameVersionReleaseDate": "2023-12-05T17:24:10.113Z",
+              "gameVersionName": "1.20.3"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020",
+              "gameVersion": "1.20",
+              "gameVersionReleaseDate": "2023-06-07T00:00:00Z",
+              "gameVersionName": "1.20"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000006",
+              "gameVersion": "1.20.6",
+              "gameVersionReleaseDate": "2024-04-29T15:15:44.67Z",
+              "gameVersionName": "1.20.6"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000004",
+              "gameVersion": "1.20.4",
+              "gameVersionReleaseDate": "2023-12-07T15:17:47.907Z",
+              "gameVersionName": "1.20.4"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-05-26T00:00:00Z",
+              "gameVersionName": "Quilt"
+            }
+          ],
+          "gameVersions": [
+            "1.20.2",
+            "1.20.5",
+            "Fabric",
+            "NeoForge",
+            "1.20.3",
+            "1.20.1",
+            "Forge",
+            "1.20",
+            "1.20.6",
+            "1.20.4",
+            "Quilt"
+          ],
+          "fileFingerprint": 1320375494,
+          "modId": 682515
+        },
+        "modrinthProject": {
+          "id": "bQ5TJA1E",
+          "slug": "continents",
+          "project_type": "mod",
+          "team": "GmCLAfOX",
+          "title": "Continents",
+          "description": "Reshapes the world to consist of continents, separated by large oceans and small islands.",
+          "body": "\n# Continents\n\n[![Latest Version](https://img.shields.io/github/v/release/Stardust-Labs-MC/Continents?color=blueviolet&logo=github \"View latest release\")](https://github.com/Stardust-Labs-MC/Continents/releases) [![Discord Badge](https://img.shields.io/discord/738046951236567162?color=blue&logo=discord \"Join our Discord Server\")](https://discord.gg/stardustlabs) [![Modrinth Badge](https://img.shields.io/modrinth/dt/continents?label=Modrinth&logo=modrinth \"View our Modrinth page\")](https://modrinth.com/mod/continents) [![License Badge](https://img.shields.io/badge/license-Stardust_Labs-green \"View the Stardust Labs License\")](https://github.com/Stardust-Labs-MC/license) [![Wiki Badge](https://img.shields.io/badge/wiki-Miraheze-yellow \"View our Wiki\")](https://discord.gg/stardustlabs) [![Issues Badge](https://img.shields.io/github/issues/Stardust-Labs-MC/Continents?color=orange&logo=github \"View or open an issue\")](https://github.com/Stardust-Labs-MC/Continents/issues) [![Weblate Badge](https://img.shields.io/weblate/progress/stardust-labs?server=https%3A%2F%2Fweblate.catter.dev&logo=weblate \"Translate here\")](https://weblate.catter.dev/projects/stardust-labs)\n\nContinents is a small add-on mod to reshape the world so that landmasses are further apart, varying in size and shape.\n\n![Continents Banner](https://user-images.githubusercontent.com/63272345/224796762-4d07bc2e-c7a9-4dc1-a77a-32596ca1860d.png)\n\n## Notes\n- See how the continent world layout looks per seed using [jacobsjo](https://github.com/jacobsjo)'s [Minecraft Datapack Map](https://map.jacobsjo.eu/)\n- Continents is compatible with most worldgen datapacks, including Terralith\n- Large Biomes works with this - unless Terralith or another similar datapack is installed\n\n## Description\nOne of the most popular requests we've seen, Continents lets you sail massive oceans, and stumble across huge continents. In between continents are plenty of islands to keep your sailing interesting. When you spawn in your world, you are guarenteed to always spawn on a medium-sized continent, which averages around 1k blocks in size.\n__ __\n\n[![Patron Ad](https://user-images.githubusercontent.com/63272345/224786738-7baefaf8-267f-41b6-8ac5-53cc4bd5707e.png \"Join our Patreon!\")](https://www.patreon.com/stardustlabs)\n\n[![Bisect Hosting Ad](https://user-images.githubusercontent.com/63272345/224786219-f87f21d2-fb51-4d78-82df-a16e83fe25c9.png \"Use code STARDUST\")](https://www.bisecthosting.com/stardust)\n    ",
+          "published": "2022-11-23T00:59:13.926134Z",
+          "updated": "2024-06-13T19:12:30.634164Z",
+          "status": "approved",
+          "license": {
+            "id": "LicenseRef-Custom",
+            "name": "",
+            "url": "https://github.com/Stardust-Labs-MC/license/blob/main/license.txt"
+          },
+          "client_side": "unsupported",
+          "server_side": "required",
+          "categories": [
+            "worldgen"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/bQ5TJA1E/24d971d6f7661d03bd81195111c9afd5a9eaa537.png",
+          "issues_url": "https://github.com/Stardust-Labs-MC/Continents/issues",
+          "source_url": "https://github.com/Stardust-Labs-MC/Continents",
+          "wiki_url": "https://stardustlabs.miraheze.org/wiki/Continents",
+          "discord_url": "https://discord.gg/stardustlabs",
+          "donation_urls": [
+            {
+              "id": "patreon",
+              "platform": "Patreon",
+              "url": "https://www.patreon.com/stardustlabs"
+            },
+            {
+              "id": "ko-fi",
+              "platform": "Ko-fi",
+              "url": "https://ko-fi.com/stardustlabs"
+            }
+          ],
+          "gallery": []
+        },
+        "modrinthVersion": {
+          "id": "IM8IL8wv",
+          "project_id": "bQ5TJA1E",
+          "author_id": "oRXQvVNJ",
+          "name": "v1.1.5 ~ 1.20.x",
+          "version_number": "1.1.5",
+          "changelog": "# Continents 1.1.5\n- Updated to 1.20.5 (supports 1.20-1.20.6)\n- Now supports Neoforge",
+          "date_published": "2024-05-17T19:51:46.346950Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha512": "37929230558aaf52a443c6c7a9a63e5dfd7d166011d8b3a297528faa6577f21eb00884386d105db07bbc43b57745c52d901f50ce4d9d4d6ffd584bca96c82bf2",
+                "sha1": "6792f74125a40b2ef7caf8c4c8aa784021078ae1"
+              },
+              "url": "https://cdn.modrinth.com/data/bQ5TJA1E/versions/IM8IL8wv/Continents_1.20.x_v1.1.5.jar",
+              "filename": "Continents_1.20.x_v1.1.5.jar",
+              "primary": true,
+              "size": 59456
+            }
+          ],
+          "dependencies": [],
+          "game_versions": [
+            "1.20",
+            "1.20.1",
+            "1.20.2",
+            "1.20.3",
+            "1.20.4",
+            "1.20.5",
+            "1.20.6"
+          ],
+          "loaders": [
+            "fabric",
+            "forge",
+            "neoforge",
+            "quilt"
+          ]
+        }
+      },
+      {
+        "name": "Incendium",
+        "version": "v5.3.5 ~ 1.20.x",
+        "optional": true,
+        "file": "Incendium_1.20.x_v5.3.5.jar",
+        "type": "mods",
+        "description": "A nether biome overhaul combined with challenging structures to conquer, unique weapons to obtain, and tricky mobs to defeat.",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 591388,
+        "curseForgeFileId": 5351562,
+        "curseForgeProject": {
+          "id": 591388,
+          "name": "Incendium",
+          "authors": [
+            {
+              "id": 100241219,
+              "name": "Starmute",
+              "url": "https://www.curseforge.com/members/starmute"
+            }
+          ],
+          "gameId": 432,
+          "summary": "New biomes and structures with the vanilla blocks! (1.18+)",
+          "categories": [
+            {
+              "name": "Dimensions",
+              "slug": "world-dimensions",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen/world-dimensions",
+              "dateModified": "2014-05-08T17:37:26.84Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 410,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/25/635351494468414756.png",
+              "parentCategoryId": 406,
+              "classId": 6
+            },
+            {
+              "name": "Biomes",
+              "slug": "world-biomes",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen/world-biomes",
+              "dateModified": "2014-05-08T17:34:59.587Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 407,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/22/635351492995856506.png",
+              "parentCategoryId": 406,
+              "classId": 6
+            },
+            {
+              "name": "World Gen",
+              "slug": "world-gen",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen",
+              "dateModified": "2017-10-16T21:40:11.473Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 406,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/26/635351494599748860.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 406,
+          "classId": 6,
+          "slug": "incendium",
+          "isFeatured": false,
+          "dateModified": "2024-05-17T19:42:10.223Z",
+          "dateCreated": "2022-03-09T17:52:07.743Z",
+          "dateReleased": "2024-05-17T19:39:10.887Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/incendium",
+            "wikiUrl": ""
+          },
+          "logo": {
+            "id": 506247,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/506/247/256/256/637824451278245383.png",
+            "title": "637824451278245383.png",
+            "url": "https://media.forgecdn.net/avatars/506/247/637824451278245383.png",
+            "modId": 591388
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 5351562
+        },
+        "curseForgeFile": {
+          "id": 5351562,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "v5.3.5 ~ 1.20.x",
+          "fileName": "Incendium_1.20.x_v5.3.5.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2024-05-17T19:39:10.887Z",
+          "fileLength": 4638945,
+          "dependencies": [],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 1244784664,
+              "name": "1-20-2-overlay"
+            },
+            {
+              "fingerprint": 275066506,
+              "name": "1-20-3-overlay"
+            },
+            {
+              "fingerprint": 643371259,
+              "name": "1-20-5-overlay"
+            },
+            {
+              "fingerprint": 1776872349,
+              "name": "data"
+            },
+            {
+              "fingerprint": 34964521,
+              "name": "license.txt"
+            },
+            {
+              "fingerprint": 3866927760,
+              "name": "pack.mcmeta"
+            },
+            {
+              "fingerprint": 1384668682,
+              "name": "pack.png"
+            },
+            {
+              "fingerprint": 3883817515,
+              "name": "patrons.txt"
+            },
+            {
+              "fingerprint": 2730067425,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 3516014222,
+              "name": "fabric.mod.json"
+            },
+            {
+              "fingerprint": 469524558,
+              "name": "quilt.mod.json"
+            },
+            {
+              "fingerprint": 2314549115,
+              "name": "assets"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "484556937b1b2dde2682144e7953e79bff717104",
+              "algo": 1
+            },
+            {
+              "value": "783705058e0b778ca1c80ac5cc8698f6",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000002",
+              "gameVersion": "1.20.2",
+              "gameVersionReleaseDate": "2023-09-21T15:25:15.053Z",
+              "gameVersionName": "1.20.2"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000005",
+              "gameVersion": "1.20.5",
+              "gameVersionReleaseDate": "2024-04-23T15:00:48.803Z",
+              "gameVersionName": "1.20.5"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-09-01T00:00:00Z",
+              "gameVersionName": "Fabric"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2023-07-25T00:00:00Z",
+              "gameVersionName": "NeoForge"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000003",
+              "gameVersion": "1.20.3",
+              "gameVersionReleaseDate": "2023-12-05T17:24:10.113Z",
+              "gameVersionName": "1.20.3"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020",
+              "gameVersion": "1.20",
+              "gameVersionReleaseDate": "2023-06-07T00:00:00Z",
+              "gameVersionName": "1.20"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000006",
+              "gameVersion": "1.20.6",
+              "gameVersionReleaseDate": "2024-04-29T15:15:44.67Z",
+              "gameVersionName": "1.20.6"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000004",
+              "gameVersion": "1.20.4",
+              "gameVersionReleaseDate": "2023-12-07T15:17:47.907Z",
+              "gameVersionName": "1.20.4"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-05-26T00:00:00Z",
+              "gameVersionName": "Quilt"
+            }
+          ],
+          "gameVersions": [
+            "1.20.2",
+            "1.20.5",
+            "Fabric",
+            "NeoForge",
+            "1.20.3",
+            "1.20.1",
+            "Forge",
+            "1.20",
+            "1.20.6",
+            "1.20.4",
+            "Quilt"
+          ],
+          "fileFingerprint": 52166841,
+          "modId": 591388
+        },
+        "modrinthProject": {
+          "id": "ZVzW5oNS",
+          "slug": "incendium",
+          "project_type": "mod",
+          "team": "LySsSrT8",
+          "title": "Incendium",
+          "description": "A nether biome overhaul combined with challenging structures to conquer, unique weapons to obtain, and tricky mobs to defeat.",
+          "body": "\n# Incendium\n\n[![Latest Version](https://img.shields.io/github/v/release/Stardust-Labs-MC/Incendium?color=blueviolet&logo=github \"View latest release\")](https://github.com/Stardust-Labs-MC/Incendium/releases) [![Discord Badge](https://img.shields.io/discord/738046951236567162?color=blue&logo=discord \"Join our Discord Server\")](https://discord.gg/stardustlabs) [![Modrinth Badge](https://img.shields.io/modrinth/dt/incendium?label=Modrinth&logo=modrinth \"View our Modrinth page\")](https://modrinth.com/mod/incendium) [![License Badge](https://img.shields.io/badge/license-Stardust_Labs-green \"View the Stardust Labs License\")](https://github.com/Stardust-Labs-MC/license) [![Wiki Badge](https://img.shields.io/badge/wiki-Miraheze-yellow \"View our Wiki\")](https://stardustlabs.miraheze.org/) [![Issues Badge](https://img.shields.io/github/issues/Stardust-Labs-MC/Incendium?color=orange&logo=github \"View or open an issue\")](https://github.com/Stardust-Labs-MC/Incendium/issues) [![Weblate Badge](https://img.shields.io/weblate/progress/stardust-labs?server=https%3A%2F%2Fweblate.catter.dev&logo=weblate \"Translate here\")](https://weblate.catter.dev/projects/stardust-labs)\n\nIncendium is a datapack that completely revamps the nether, way more than what Minecraft did in the 1.16 Nether Update.\n\n![Incendium Banner](https://user-images.githubusercontent.com/63272345/224804955-2c8a39b1-d015-462b-a28c-dde27f747c90.png)\n\n## Notes\n- Incendium has an optional resourcepack called [Sparkles](https://modrinth.com/resourcepack/sparkles)! This is __not__ required, but it allows all items to have their own beautiful textures.\n- Incendium is **not** compatible with Amplified Nether\n- Do not add this to an existing nether - reset yours first, or use a new world\n- View the structures and biomes per seed using [jacobsjo](https://github.com/jacobsjo)'s [Minecraft Datapack Map](https://map.jacobsjo.eu/)\n\n## Description\n### Biomes\nIncendium adds 8 unique biomes to the nether. Do you bravely venture through the perilous **Quartz Flats**, wander the mysterious **Withered Forest**, or battle your way through the steep **Infernal Dunes**? Each biome has a unique personality and story to tell. With unique block themes in each biomes, opportunities for new farms for technical players, 3D biomes, and stunning terrain, there is truly something for everyone.\n\n### Structures\nTo compliment the lovely biomes, there are 9+ structures for you to explore and conquer. In the Ash Barrens, the **Foribdden Castle** stands forbodingly, with courageous Piglins defending its treasured loot - one of the largest and complex random structures in Minecraft! Alternatively, you can conquer the ominous **Sanctum** with its illagers defending dark secrets and strong weapons. The skeleton chef Torte defends his **Quartz Kitchen**, and the Withered Director his **Nether Reactor**. What will you conquer first?\n\n### Items\nEvery mob you defeat and structure you conquer has its reward - Incendium pays you handsomely with both rick loot and custom weapons! Defeating the Hovering Inferno could earn you the **Trailblazer** - a flame-spewing bow. A high damage, but taxing **Greatsword of Sacrifice** hides within the Forbidden Castle's walls, along with the helpful **Hefty Pickaxe**. Or maybe you prefer to find the **Hazmat Suit** to protect you from all types of poisonous attacks. There are over 25 items to forge your own playstyle with!\n\n### Mobs\nNo datapack would be complete without its own mobs to fight you. The Toxic Heap is home of the agile **Toxic Slimes**, and the Withered Forest is haunted by the **Restless Spirits**. On the other hand, you could go on a rescue missue to save the **Ghastling** from the Abandoned Tower - in return, it will defend you from Ghasts. If none of this is challenging, you can summon the all-powerful **Hovering Inferno** boss for a difficult and dirty battle.\n__ __\n\n[![Patron Ad](https://user-images.githubusercontent.com/63272345/224786738-7baefaf8-267f-41b6-8ac5-53cc4bd5707e.png \"Join our Patreon!\")](https://www.patreon.com/stardustlabs)\n\n[![Bisect Hosting Ad](https://user-images.githubusercontent.com/63272345/224786219-f87f21d2-fb51-4d78-82df-a16e83fe25c9.png \"Use code STARDUST\")](https://www.bisecthosting.com/stardust)\n    ",
+          "published": "2022-11-23T00:20:14.180965Z",
+          "updated": "2024-05-17T19:39:08.072456Z",
+          "status": "approved",
+          "license": {
+            "id": "LicenseRef-Custom",
+            "name": "",
+            "url": "https://github.com/Stardust-Labs-MC/license/blob/main/license.txt"
+          },
+          "client_side": "unsupported",
+          "server_side": "required",
+          "categories": [
+            "adventure",
+            "worldgen"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/ZVzW5oNS/65c8dcaaf260e5b2182c228a1a442c792a7c4782.jpeg",
+          "issues_url": "https://github.com/Stardust-Labs-MC/Incendium/issues",
+          "source_url": "https://github.com/Stardust-Labs-MC/Incendium",
+          "wiki_url": "https://stardustlabs.miraheze.org/wiki/Incendium",
+          "discord_url": "https://discord.gg/stardustlabs",
+          "donation_urls": [
+            {
+              "id": "ko-fi",
+              "platform": "Ko-fi",
+              "url": "https://ko-fi.com/stardustlabs"
+            },
+            {
+              "id": "patreon",
+              "platform": "Patreon",
+              "url": "https://www.patreon.com/stardustlabs"
+            }
+          ],
+          "gallery": []
+        },
+        "modrinthVersion": {
+          "id": "uUqarp2H",
+          "project_id": "ZVzW5oNS",
+          "author_id": "oRXQvVNJ",
+          "name": "v5.3.5 ~ 1.20.x",
+          "version_number": "5.3.5",
+          "changelog": "# Incendium 5.3.5\n\n**MASSIVE** thanks to Rei for making this update happen! Without Rei, Incendium would have completely skipped 1.20.5. So many things broke in 1.20.5, and it was simply not worth my time. Thank you!\n\n- Updated to 1.20.5 (supports 1.20-1.20.6)\n- Now supports Neoforge\n- Scout's Battle Helm now uses an emerald Sentry trim\n- Custom banners and potions have been renamed, or given a name if there was not one already\n- Custom banners and potions are now split into their own loot tables for easier use\n- New particles for Necrotic and Radiation shields, and they should trigger their effects properly\n- In 1.20.5 only, Ghastling now appears as a mini-Ghast\n- Voltaic Trident should now work properly\n- Holy Wrath is removed from a loot table it shouldn't have been in\n- Fixed issue where Piglin Villagers would not move\n- Greatsword of Sacrifice's self-damage has been rebalanced\n- Restless Spirits *should* no longer starve to death\n- Fixed issue where a new marker entity would generate on every single world load\n- Fixed a malformed JSON strings that could spawm console on Spigot-based servers",
+          "date_published": "2024-05-17T19:39:09.602406Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha1": "484556937b1b2dde2682144e7953e79bff717104",
+                "sha512": "04944dcbf3aa7ee8ea8785549e00f74a417ca17aa5760593e39090733ab0a9e38ebce078e4f5af544030759a5459c371003601ff5a7feebbc09765f8c712bb25"
+              },
+              "url": "https://cdn.modrinth.com/data/ZVzW5oNS/versions/uUqarp2H/Incendium_1.20.x_v5.3.5.jar",
+              "filename": "Incendium_1.20.x_v5.3.5.jar",
+              "primary": true,
+              "size": 4638945
+            }
+          ],
+          "dependencies": [
+            {
+              "project_id": "wXiGiyGX"
+            },
+            {
+              "project_id": "HfNmMQ9E",
+              "dependency_type": "optional"
+            }
+          ],
+          "game_versions": [
+            "1.20",
+            "1.20.1",
+            "1.20.2",
+            "1.20.3",
+            "1.20.4",
+            "1.20.5",
+            "1.20.6"
+          ],
+          "loaders": [
+            "fabric",
+            "forge",
+            "neoforge",
+            "quilt"
+          ]
+        }
       }
     ],
     "ignoredUpdates": [],
     "ignoreAllUpdates": false,
     "vanillaInstance": true,
-    "lastPlayed": 1724522038119,
-    "numPlays": 10
+    "lastPlayed": 1724525565452,
+    "numPlays": 12
   },
   "id": "1.20.6",
   "complianceLevel": 1,
