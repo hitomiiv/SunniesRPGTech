@@ -12143,13 +12143,2063 @@
             "fabric"
           ]
         }
+      },
+      {
+        "name": "playerAnimator",
+        "version": "1.0.2-rc1+1.20-fabric",
+        "optional": true,
+        "file": "player-animation-lib-fabric-1.0.2-rc1+1.20.jar",
+        "type": "mods",
+        "description": "animate the player",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 658587,
+        "curseForgeFileId": 4587215,
+        "curseForgeProject": {
+          "id": 658587,
+          "name": "playerAnimator",
+          "authors": [
+            {
+              "id": 100940600,
+              "name": "KosmX",
+              "url": "https://www.curseforge.com/members/kosmx"
+            }
+          ],
+          "gameId": 432,
+          "summary": "player animation library",
+          "categories": [
+            {
+              "name": "API and Library",
+              "slug": "library-api",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/library-api",
+              "dateModified": "2014-05-23T03:21:44.06Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 421,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/36/635351496947765531.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Cosmetic",
+              "slug": "cosmetic",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/cosmetic",
+              "dateModified": "2014-05-08T17:42:35.597Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 424,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/39/635351497555976928.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 421,
+          "classId": 6,
+          "slug": "playeranimator",
+          "isFeatured": false,
+          "dateModified": "2024-01-13T17:09:19.233Z",
+          "dateCreated": "2022-08-11T19:38:51.503Z",
+          "dateReleased": "2024-01-13T16:55:45.567Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/playeranimator",
+            "issuesUrl": "https://github.com/KosmX/fabricPlayerAnimation/issues",
+            "sourceUrl": "https://github.com/KosmX/fabricPlayerAnimation"
+          },
+          "logo": {
+            "id": 588418,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/588/418/256/256/637958435315527412.png",
+            "title": "637958435315527412.png",
+            "url": "https://media.forgecdn.net/avatars/588/418/637958435315527412.png",
+            "modId": 658587
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 4446526
+        },
+        "curseForgeFile": {
+          "id": 4587215,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "player-animation-lib-fabric-1.0.2-rc1+1.20.jar",
+          "fileName": "player-animation-lib-fabric-1.0.2-rc1+1.20.jar",
+          "releaseType": 2,
+          "fileStatus": 4,
+          "fileDate": "2023-06-14T20:02:12.117Z",
+          "fileLength": 181008,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 623373,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 623373,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 623373,
+              "relationType": 2
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 131385269,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 2700216132,
+              "name": "playerAnimator.accesswidener"
+            },
+            {
+              "fingerprint": 907504978,
+              "name": "playerAnimator-common.mixins.json"
+            },
+            {
+              "fingerprint": 3714730442,
+              "name": "player-animation-lib-minecraft_common-refmap.json"
+            },
+            {
+              "fingerprint": 1288453583,
+              "name": "fabric.mod.json"
+            },
+            {
+              "fingerprint": 3069241565,
+              "name": "dev"
+            },
+            {
+              "fingerprint": 780814189,
+              "name": "architectury_inject_playerAnimator_common_765447b17e1f41a38bb0bd7682916577_0db32c24c6813ff118dd188c199cffa263a6a65cb423d8a2fc8f772f0988000dplayeranimationlib102rc1120devjar"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "9182c38bcf614d0ed7091b15f7e099a7f2fb3617",
+              "algo": 1
+            },
+            {
+              "value": "03dfb09aabe5c2c8167568cd5c32666b",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000002",
+              "gameVersion": "1.20.2",
+              "gameVersionReleaseDate": "2023-09-21T15:25:15.053Z",
+              "gameVersionName": "1.20.2"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-09-01T00:00:00Z",
+              "gameVersionName": "Fabric"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000003",
+              "gameVersion": "1.20.3",
+              "gameVersionReleaseDate": "2023-12-05T17:24:10.113Z",
+              "gameVersionName": "1.20.3"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020",
+              "gameVersion": "1.20",
+              "gameVersionReleaseDate": "2023-06-07T00:00:00Z",
+              "gameVersionName": "1.20"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000004",
+              "gameVersion": "1.20.4",
+              "gameVersionReleaseDate": "2023-12-07T15:17:47.907Z",
+              "gameVersionName": "1.20.4"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-05-26T00:00:00Z",
+              "gameVersionName": "Quilt"
+            }
+          ],
+          "gameVersions": [
+            "1.20.2",
+            "Fabric",
+            "1.20.3",
+            "1.20.1",
+            "1.20",
+            "1.20.4",
+            "Quilt"
+          ],
+          "fileFingerprint": 750341031,
+          "modId": 658587
+        },
+        "modrinthProject": {
+          "id": "gedNE4y2",
+          "slug": "playeranimator",
+          "project_type": "mod",
+          "team": "f913Xl1r",
+          "title": "playerAnimator",
+          "description": "animate the player",
+          "body": "# Player animation library,  \n## animate the player using keyframes.\n\n\nFor users/modpack devs, just put the jar into the mods folder.  \n\nFor mod developers, you may find more details [here - KosmX/PlayerAnimator](https://github.com/KosmX/fabricPlayerAnimation)  \n\nIt might use [bendy-lib](https://modrinth.com/mod/bendy-lib) for extra good animations.  \n\n",
+          "published": "2022-08-11T21:42:36.070921Z",
+          "updated": "2024-01-13T16:55:42.890816Z",
+          "status": "approved",
+          "license": {
+            "id": "MIT",
+            "name": "MIT License"
+          },
+          "client_side": "required",
+          "server_side": "required",
+          "categories": [
+            "library"
+          ],
+          "issues_url": "https://github.com/KosmX/fabricPlayerAnimation/issues",
+          "source_url": "https://github.com/KosmX/fabricPlayerAnimation",
+          "donation_urls": [],
+          "gallery": []
+        },
+        "modrinthVersion": {
+          "id": "yDqYTUaf",
+          "project_id": "gedNE4y2",
+          "author_id": "TpFRtZg9",
+          "name": "1.0.2-rc1+1.20-fabric",
+          "version_number": "1.0.2-rc1+1.20-fabric",
+          "changelog": "1.20 update release candidate",
+          "date_published": "2023-06-14T20:02:11.838917Z",
+          "version_type": "beta",
+          "files": [
+            {
+              "hashes": {
+                "sha512": "4ed2659c9e9c1a1fa8936523f7d6de1b8012d8e06e6c58ef65ea5c7acef2b3a113afe584b3a31d70eee00423dbe533c06022cc5f169ab5a2ddf8167acf259ec8",
+                "sha1": "9182c38bcf614d0ed7091b15f7e099a7f2fb3617"
+              },
+              "url": "https://cdn.modrinth.com/data/gedNE4y2/versions/yDqYTUaf/player-animation-lib-fabric-1.0.2-rc1%2B1.20.jar",
+              "filename": "player-animation-lib-fabric-1.0.2-rc1+1.20.jar",
+              "primary": true,
+              "size": 181008
+            }
+          ],
+          "dependencies": [
+            {
+              "project_id": "aRnIEV0F",
+              "dependency_type": "optional"
+            }
+          ],
+          "game_versions": [
+            "1.20",
+            "1.20.1"
+          ],
+          "loaders": [
+            "fabric",
+            "quilt"
+          ]
+        }
+      },
+      {
+        "name": "Better Combat",
+        "version": "1.8.6+1.20.1",
+        "optional": true,
+        "file": "bettercombat-fabric-1.8.6+1.20.1.jar",
+        "type": "mods",
+        "description": "⚔️ Easy, spectacular and fun melee combat system from Minecraft Dungeons.",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 639842,
+        "curseForgeFileId": 5625715,
+        "curseForgeProject": {
+          "id": 639842,
+          "name": "Better Combat [Fabric & Forge]",
+          "authors": [
+            {
+              "id": 103343666,
+              "name": "daedelus_dev",
+              "url": "https://www.curseforge.com/members/daedelus_dev"
+            }
+          ],
+          "gameId": 432,
+          "summary": "⚔️ Easy, spectacular and fun melee combat system from Minecraft Dungeons.",
+          "categories": [
+            {
+              "name": "Utility & QoL",
+              "slug": "utility-qol",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/utility-qol",
+              "dateModified": "2021-11-17T11:45:09.143Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 5191,
+              "iconUrl": "https://media.forgecdn.net/avatars/456/558/637727379086405233.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Adventure and RPG",
+              "slug": "adventure-rpg",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/adventure-rpg",
+              "dateModified": "2014-05-08T17:42:09.54Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 422,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/37/635351497295252123.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "API and Library",
+              "slug": "library-api",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/library-api",
+              "dateModified": "2014-05-23T03:21:44.06Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 421,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/36/635351496947765531.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Armor, Tools, and Weapons",
+              "slug": "armor-weapons-tools",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/armor-weapons-tools",
+              "dateModified": "2014-05-08T17:44:39.057Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 434,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/47/635351498790409758.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 434,
+          "classId": 6,
+          "slug": "better-combat-by-daedelus",
+          "isFeatured": false,
+          "dateModified": "2024-08-21T19:13:49.31Z",
+          "dateCreated": "2022-07-04T14:57:47.22Z",
+          "dateReleased": "2024-08-21T17:55:54.33Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/better-combat-by-daedelus",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/ZsoltMolnarrr/BetterCombat/issues",
+            "sourceUrl": "https://github.com/ZsoltMolnarrr/BetterCombat"
+          },
+          "logo": {
+            "id": 566413,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/566/413/256/256/637925434672465483.png",
+            "title": "637925434672465483.png",
+            "url": "https://media.forgecdn.net/avatars/566/413/637925434672465483.png",
+            "modId": 639842
+          },
+          "allowModDistribution": true,
+          "screenshots": [
+            {
+              "id": 474153,
+              "description": "logo",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/474/153/310/172/logo.png",
+              "title": "logo",
+              "url": "https://media.forgecdn.net/attachments/474/153/logo.png",
+              "modId": 639842
+            },
+            {
+              "id": 474202,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/474/202/310/172/one_handed_stab-280.gif",
+              "title": "One handed stab 280",
+              "url": "https://media.forgecdn.net/attachments/474/202/one_handed_stab-280.gif",
+              "modId": 639842
+            },
+            {
+              "id": 474206,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/474/206/310/172/one_handed_stab-260.gif",
+              "title": "One handes stab 260",
+              "url": "https://media.forgecdn.net/attachments/474/206/one_handed_stab-260.gif",
+              "modId": 639842
+            },
+            {
+              "id": 474203,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/474/203/310/172/one_handed_slam-280.gif",
+              "title": "One handed slam 280",
+              "url": "https://media.forgecdn.net/attachments/474/203/one_handed_slam-280.gif",
+              "modId": 639842
+            },
+            {
+              "id": 474201,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/474/201/310/172/one_handed_slash-280.gif",
+              "title": "One handed slash 280",
+              "url": "https://media.forgecdn.net/attachments/474/201/one_handed_slash-280.gif",
+              "modId": 639842
+            },
+            {
+              "id": 474169,
+              "description": "separator",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/474/169/310/172/separator.png",
+              "title": "separator",
+              "url": "https://media.forgecdn.net/attachments/474/169/separator.png",
+              "modId": 639842
+            }
+          ],
+          "mainFileId": 5650598
+        },
+        "curseForgeFile": {
+          "id": 5625715,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "bettercombat-fabric-1.8.6+1.20.1.jar",
+          "fileName": "bettercombat-fabric-1.8.6+1.20.1.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2024-08-13T20:09:17.207Z",
+          "fileLength": 902833,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 348521,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 306612,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 658587,
+              "relationType": 3
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 3055493225,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 1465847431,
+              "name": "LICENSE_tinyconfig"
+            },
+            {
+              "fingerprint": 3396046431,
+              "name": "architectury_inject_bettercombat_common_251d22cd1322440a91a6311f0d6120c4_004ec36fb0465bff42bedfdf466a833d66c1a124e83ca7a7bc4eeb6ff9305d1fbettercombatcommon1861201devjar"
+            },
+            {
+              "fingerprint": 1098020876,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 1913531847,
+              "name": "bettercombat-common-common-refmap.json"
+            },
+            {
+              "fingerprint": 2857297766,
+              "name": "bettercombat-fabric-fabric-refmap.json"
+            },
+            {
+              "fingerprint": 288922675,
+              "name": "bettercombat-fabric.mixins.json"
+            },
+            {
+              "fingerprint": 2259095789,
+              "name": "bettercombat.mixins.json"
+            },
+            {
+              "fingerprint": 3044176131,
+              "name": "data"
+            },
+            {
+              "fingerprint": 2561202030,
+              "name": "fabric.mod.json"
+            },
+            {
+              "fingerprint": 1396823048,
+              "name": "net"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "92355cccfe5f1ddff1f03e6079bc7a764e63a6f7",
+              "algo": 1
+            },
+            {
+              "value": "8d474709e691da55e5d3bd6169184dbc",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-09-01T00:00:00Z",
+              "gameVersionName": "Fabric"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020",
+              "gameVersion": "1.20",
+              "gameVersionReleaseDate": "2023-06-07T00:00:00Z",
+              "gameVersionName": "1.20"
+            }
+          ],
+          "gameVersions": [
+            "Fabric",
+            "1.20.1",
+            "1.20"
+          ],
+          "fileFingerprint": 3324594525,
+          "modId": 639842
+        },
+        "modrinthProject": {
+          "id": "5sy6g3kz",
+          "slug": "better-combat",
+          "project_type": "mod",
+          "team": "fVvaiaa2",
+          "title": "Better Combat",
+          "description": "⚔️ Easy, spectacular and fun melee combat system from Minecraft Dungeons.",
+          "body": "![Better Combat](https://cdn.modrinth.com/data/5sy6g3kz/images/6d65cbe745229c36b7b97cb608926374724d8174.png)\n\n\n# Easy, spectacular and fun melee combat system from Minecraft Dungeons.\n\n&zwnj;\n[![Modloader](https://img.shields.io/badge/Loader-Fabric%20|%20Forge-ecebe6?labelColor=263768&style=for-the-badge)](https://fabricmc.net)\n[![Discord](https://img.shields.io/discord/973561601519149057.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2&style=for-the-badge)](https://discord.gg/KN9b3pjFTM)\n\n### ✨ Looking for vanilla-friendly content? Try these!\n\n[![Archers](https://cdn.modrinth.com/data/XIpMGI6r/images/cd19a95a79f1157b33f31818aa615a280b206912.png \"Archers\")](https://modrinth.com/mod/archers \"\")[![Paladins](https://cdn.modrinth.com/data/XIpMGI6r/images/3f19359bfd7521ba17bec818f125e87e09ef277e.png \"Paladins\")](https://modrinth.com/mod/paladins-and-priests \"\")[![Wizards](https://cdn.modrinth.com/data/XIpMGI6r/images/a7da965aa108daf95c10448c01423be49ce2338d.png \"Wizards\")](https://modrinth.com/mod/wizards \"\")\n\n# 🗡 Features\n\n![slash](https://cdn.modrinth.com/data/5sy6g3kz/images/38efa008bc297aa49572761bed1eff2399a1b2dc.gif \"\")\n![stab](https://cdn.modrinth.com/data/5sy6g3kz/images/d05e3c914008be42cb89db190ae73f767ca97873.gif \"\")\n![slam](https://cdn.modrinth.com/data/5sy6g3kz/images/89422bcaa8fcc18a05834da0b1027b07751e9722.gif \"\")\n\n### Fancy attack animations\nThis mod includes several one-handed, two-handed and dual wielded attack animation resources.\n### Accurate weapon collision detection\nNo more pixel hunting with your cursor, you can now just swing your weapon and hit whatever is in the way. Enjoy playing in third person view. :)\n### Natural look and feel\nAttacks have an upswing phase before the hit is actually performed, like in real life.\n### Weapon combos\nSome weapons have a sequence of different attacks.\n### Dual wielding\nDual wield any one handed weapons! Use the attack hotkey to alternately attack with main-hand and off-hand.\n### Reworked Sweeping Edge\nWeapon swing hitting multiple enemies deal reduced damage. To deal full weapon damage against all targets, you need to have Sweeping Edge enchantment.\n### Hold to attack\nHold the attack hotkey to spam attacks on cooldown (configurable).\n### Swing thru grass\nAttack instead of mining zero hardness blocks (configurable).\n### Support any item from any mod (with data files)\nAutomatic compatibility with most mods (weapons without attribute file, will be automatically assigned a matching weapon preset, based on item id).\n\nSuper easy to add dedicated compatibility, support via Discord for partnering modders.\n\n&zwnj;\n\n&zwnj;\n\n# 🔨 Add compatibility to any weapon\n&zwnj;\n\nAdd uniquely created or out of the box behaviour to any weapon from any mod, by just creating **JSON** data files.\n\nCheck out our integration guide [here](https://github.com/ZsoltMolnarrr/BetterCombat#-integrate-your-mod \"integration guide\").\n\n&zwnj;\n\n# 🔧 Configuration\n&zwnj;\n\n**Client side** settings can be accessed via the [Mod Menu](https://github.com/TerraformersMC/ModMenu).\n\n**Server side** config can be found at:\n\n- General properties: `config/bettercombat/server.conf`\n\n- Fallback compatibility: `config/bettercombat/fallback_config.conf`\n\nAutomatically created with default values, upon loading any game world for the first time. \n\n&zwnj;\n\n# ⛓ Compatibility\n\n&zwnj;\n\nWith an open source and modular mindset, this project is aiming for maximal compatibility. However, mods trying to change the same mechanics will never be compatible (such as dual wielding mods).\n\n&zwnj;\n\n## 🤝 Partnerships\n\n&zwnj;\n\nWe partnered up with the following mods, to fully utilise the JSON API of Better Combat:\n\n- [MC Dungeons Weapons](https://www.curseforge.com/minecraft/mc-mods/mcdw)\n\n- [MCDoom](https://www.curseforge.com/minecraft/mc-mods/mcdoom)\n\n- [MedievalWeapons](https://www.curseforge.com/minecraft/mc-mods/medievalweapons)\n\n- [Mythic Metals](https://www.curseforge.com/minecraft/mc-mods/mythicmetals)\n\n- [Simply Swords](https://www.curseforge.com/minecraft/mc-mods/simply-swords)\n\n- [Spectrum](https://www.curseforge.com/minecraft/mc-mods/spectrum)",
+          "published": "2022-07-04T18:54:33.189896Z",
+          "updated": "2024-08-21T17:55:51.391391Z",
+          "status": "approved",
+          "license": {
+            "id": "GPL-3.0-only",
+            "name": "GNU General Public License v3.0 only"
+          },
+          "client_side": "required",
+          "server_side": "required",
+          "categories": [
+            "adventure",
+            "equipment",
+            "library"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/5sy6g3kz/icon.png",
+          "issues_url": "https://github.com/ZsoltMolnarrr/BetterCombat/issues",
+          "source_url": "https://github.com/ZsoltMolnarrr/BetterCombat",
+          "wiki_url": "https://github.com/ZsoltMolnarrr/BetterCombat",
+          "discord_url": "https://discord.gg/KN9b3pjFTM",
+          "donation_urls": [],
+          "gallery": [
+            {
+              "url": "https://cdn.modrinth.com/data/5sy6g3kz/images/38efa008bc297aa49572761bed1eff2399a1b2dc.gif",
+              "featured": false,
+              "title": "One handed slash",
+              "created": "2022-07-04T19:06:54.784203Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/5sy6g3kz/images/6d65cbe745229c36b7b97cb608926374724d8174.png",
+              "featured": false,
+              "title": "logo",
+              "created": "2022-07-20T15:11:44.355491Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/5sy6g3kz/images/89422bcaa8fcc18a05834da0b1027b07751e9722.gif",
+              "featured": false,
+              "title": "One handed slam",
+              "created": "2022-07-04T19:06:55.907477Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/5sy6g3kz/images/d05e3c914008be42cb89db190ae73f767ca97873.gif",
+              "featured": false,
+              "title": "One handed stab",
+              "created": "2022-07-04T19:06:55.351982Z",
+              "ordering": 0.0
+            }
+          ]
+        },
+        "modrinthVersion": {
+          "id": "qxfX3jsR",
+          "project_id": "5sy6g3kz",
+          "author_id": "CUHgJfv9",
+          "name": "1.8.6+1.20.1",
+          "version_number": "1.8.6+1.20.1-fabric",
+          "changelog": "# 1.8.6\n\n- Fix fallback compat causing some crashes\n- Fix some sneaking related render glitches\n",
+          "date_published": "2024-08-13T20:09:14.774770Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha1": "92355cccfe5f1ddff1f03e6079bc7a764e63a6f7",
+                "sha512": "be6f596a3466263559a32c29cf524084961ae3912401960f65fcd0b701854941c78a053a21b22abb10f858e150cc73a76810e0f7c3b9fbca8860c80ecd25273c"
+              },
+              "url": "https://cdn.modrinth.com/data/5sy6g3kz/versions/qxfX3jsR/bettercombat-fabric-1.8.6%2B1.20.1.jar",
+              "filename": "bettercombat-fabric-1.8.6+1.20.1.jar",
+              "primary": true,
+              "size": 902833
+            }
+          ],
+          "dependencies": [
+            {
+              "project_id": "9s6osm5g",
+              "dependency_type": "required"
+            },
+            {
+              "project_id": "P7dR8mSH",
+              "dependency_type": "required"
+            },
+            {
+              "project_id": "gedNE4y2",
+              "dependency_type": "required"
+            }
+          ],
+          "game_versions": [
+            "1.20",
+            "1.20.1"
+          ],
+          "loaders": [
+            "fabric"
+          ]
+        }
+      },
+      {
+        "name": "Combat Roll",
+        "version": "1.3.3+1.20.1",
+        "optional": true,
+        "file": "combatroll-fabric-1.3.3+1.20.1.jar",
+        "type": "mods",
+        "description": "🧶 Adds combat roll ability, with related attributes and enchantments.",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 678036,
+        "curseForgeFileId": 5625934,
+        "curseForgeProject": {
+          "id": 678036,
+          "name": "Combat Roll [Fabric & Forge]",
+          "authors": [
+            {
+              "id": 103343666,
+              "name": "daedelus_dev",
+              "url": "https://www.curseforge.com/members/daedelus_dev"
+            }
+          ],
+          "gameId": 432,
+          "summary": "🧶 Adds combat roll ability, with related attributes and enchantments.",
+          "categories": [
+            {
+              "name": "Adventure and RPG",
+              "slug": "adventure-rpg",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/adventure-rpg",
+              "dateModified": "2014-05-08T17:42:09.54Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 422,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/37/635351497295252123.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "API and Library",
+              "slug": "library-api",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/library-api",
+              "dateModified": "2014-05-23T03:21:44.06Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 421,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/36/635351496947765531.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Utility & QoL",
+              "slug": "utility-qol",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/utility-qol",
+              "dateModified": "2021-11-17T11:45:09.143Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 5191,
+              "iconUrl": "https://media.forgecdn.net/avatars/456/558/637727379086405233.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 422,
+          "classId": 6,
+          "slug": "combat-roll",
+          "isFeatured": false,
+          "dateModified": "2024-08-17T20:03:08.893Z",
+          "dateCreated": "2022-09-19T17:02:33.973Z",
+          "dateReleased": "2024-08-17T19:49:17.227Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/combat-roll",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/ZsoltMolnarrr/CombatRoll/issues",
+            "sourceUrl": "https://github.com/ZsoltMolnarrr/CombatRoll"
+          },
+          "logo": {
+            "id": 610552,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/610/552/256/256/637992878478315173.png",
+            "title": "637992878478315173.png",
+            "url": "https://media.forgecdn.net/avatars/610/552/637992878478315173.png",
+            "modId": 678036
+          },
+          "allowModDistribution": true,
+          "screenshots": [
+            {
+              "id": 498217,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/498/217/310/172/screenshot-2022-09-21-at-19.png",
+              "title": "iron_legs",
+              "url": "https://media.forgecdn.net/attachments/498/217/screenshot-2022-09-21-at-19.png",
+              "modId": 678036
+            },
+            {
+              "id": 497986,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/497/986/310/172/title.png",
+              "title": "title",
+              "url": "https://media.forgecdn.net/attachments/497/986/title.png",
+              "modId": 678036
+            },
+            {
+              "id": 498215,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/498/215/310/172/screenshot-2022-09-21-at-19.png",
+              "title": "iron_helmet",
+              "url": "https://media.forgecdn.net/attachments/498/215/screenshot-2022-09-21-at-19.png",
+              "modId": 678036
+            },
+            {
+              "id": 498221,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/498/221/310/172/screenshot-2022-09-21-at-19.png",
+              "title": "leather_boots",
+              "url": "https://media.forgecdn.net/attachments/498/221/screenshot-2022-09-21-at-19.png",
+              "modId": 678036
+            },
+            {
+              "id": 498219,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/498/219/310/172/screenshot-2022-09-21-at-19.png",
+              "title": "leather_helmet",
+              "url": "https://media.forgecdn.net/attachments/498/219/screenshot-2022-09-21-at-19.png",
+              "modId": 678036
+            },
+            {
+              "id": 498220,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/498/220/310/172/screenshot-2022-09-21-at-19.png",
+              "title": "leather_legs",
+              "url": "https://media.forgecdn.net/attachments/498/220/screenshot-2022-09-21-at-19.png",
+              "modId": 678036
+            },
+            {
+              "id": 498218,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/498/218/310/172/screenshot-2022-09-21-at-19.png",
+              "title": "iron_boots",
+              "url": "https://media.forgecdn.net/attachments/498/218/screenshot-2022-09-21-at-19.png",
+              "modId": 678036
+            },
+            {
+              "id": 498216,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/498/216/310/172/screenshot-2022-09-21-at-19.png",
+              "title": "iron_chest",
+              "url": "https://media.forgecdn.net/attachments/498/216/screenshot-2022-09-21-at-19.png",
+              "modId": 678036
+            }
+          ],
+          "mainFileId": 5638469
+        },
+        "curseForgeFile": {
+          "id": 5625934,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "combatroll-fabric-1.3.3+1.20.1.jar",
+          "fileName": "combatroll-fabric-1.3.3+1.20.1.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2024-08-13T21:15:24.24Z",
+          "fileLength": 191873,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 306612,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 348521,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 658587,
+              "relationType": 3
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 2362651426,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 1465847431,
+              "name": "LICENSE_tinyconfig"
+            },
+            {
+              "fingerprint": 3667832263,
+              "name": "architectury_inject_CombatRoll_common_3344fddae67046aea070f5b9f99a9efd_4cec50919d986845102dbcff08242aa139abad626872e18be806ca4a2a4f6e92combatrollcommon1331201devjar"
+            },
+            {
+              "fingerprint": 71143248,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 594949694,
+              "name": "combatroll-common-common-refmap.json"
+            },
+            {
+              "fingerprint": 477811081,
+              "name": "combatroll.mixins.json"
+            },
+            {
+              "fingerprint": 4173449167,
+              "name": "fabric.mod.json"
+            },
+            {
+              "fingerprint": 1277841285,
+              "name": "icon.png"
+            },
+            {
+              "fingerprint": 4217234614,
+              "name": "net"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "7711c08770aa5d15f215093b6884c473350e2e1f",
+              "algo": 1
+            },
+            {
+              "value": "96f6261f2e2153f195785d6836813f1d",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-09-01T00:00:00Z",
+              "gameVersionName": "Fabric"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020",
+              "gameVersion": "1.20",
+              "gameVersionReleaseDate": "2023-06-07T00:00:00Z",
+              "gameVersionName": "1.20"
+            }
+          ],
+          "gameVersions": [
+            "Fabric",
+            "1.20.1",
+            "1.20"
+          ],
+          "fileFingerprint": 2416426154,
+          "modId": 678036
+        },
+        "modrinthProject": {
+          "id": "wGKYL7st",
+          "slug": "combat-roll",
+          "project_type": "mod",
+          "team": "oKdlkn0S",
+          "title": "Combat Roll",
+          "description": "🧶 Adds combat roll ability, with related attributes and enchantments.",
+          "body": "![Combat Roll](https://cdn.modrinth.com/data/wGKYL7st/images/a76b8371abdb17c1f502b293eb1fc9f6a259fb9d.png)\n\nEver wanted to roll/dodge/dash in Minecraft? Here is your chance!\n------------------\n[![Modloader](https://img.shields.io/badge/Loader-Fabric%20|%20Forge-ecebe6?labelColor=263768&style=for-the-badge)](https://fabricmc.net)\n[![Discord](https://img.shields.io/discord/973561601519149057.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2&style=for-the-badge)](https://discord.gg/KN9b3pjFTM)\n\n\n&zwnj;\n\n# 🧶️ Features\n\n&zwnj;\n\n## Adds Combat Roll ability\nPress `R` to roll (by default). You can roll into any direction you are heading (forwards, backwards, sideways, etc...)\n\nThe combat roll ability has 4 seconds cooldown by default.  (Server side configurable)\n\nCooldown of your combat roll ability can be seen on the main UI (aka HUD). (Client side configurable)\n\nExhaust (aka hunger) is added to the player upon rolling (Server side configurable)\n\nRoll ability can only be used when player is: not using item, not jumping, not swimming.\n\n**New!** Now with invulnerability frames! (Disabled by default, can be turned on at `config/combatroll/server.json5`)\n\n&zwnj;\n\n## Attributes\n\nThese new entity attributes determine the properties of the combat roll ability.\n\n`combatroll:distance` determines how far the player rolls (the default distance is 3 blocks, server configurable). For example:\n\n`/give @s leather_boots{AttributeModifiers:[{AttributeName:\"combatroll:distance\", Name:\"testing\", Amount:3.0, Operation:0,Slot:\"feet\",UUID:[I; 66453, 79497593, -201178, -16957605]}]} 1`\n\n`combatroll:recharge` determines how quickly the cooldown of the roll ability recovers. For example: \n\n`/give @s leather_leggings{AttributeModifiers:[{AttributeName:\"combatroll:recharge\", Name:\"testing\", Amount:0.5, Operation:1,Slot:\"legs\",UUID:[I; 66453, 79497593, -201177, -16957605]}]} 1`\n\n`combatroll:count` determines how many times a player can roll before having to wait for recharging (by default a player has 1 roll). For example: \n\n`/give @s leather_helmet{AttributeModifiers:[{AttributeName:\"combatroll:count\", Name:\"testing\", Amount:2, Operation:0,Slot:\"head\",UUID:[I; 66453, 79497594, -201177, -16957605]}]} 1`\n\n&zwnj;\n\n## Enchantments\nImprove various aspects of your combat roll ability with these enchantments.\n\n### Mulit-Roll\nCan be enchanted on helmets - Grants extra rolls (+1 roll / level)\n\n### Acrobat\nCan be enchanted on chests and legs - Increases the recharge speed of the roll cooldown (by +10% / level)\n\n### Longfooted\nCan be enchanted on boots - Increases the distance of your rolls (by 1 block / level).\n\n&zwnj;\n\n# 🔧 Configuration\n\n&zwnj;\n\n### Fabric\n\nClient side settings can be accessed via the [Mod Menu](https://github.com/TerraformersMC/ModMenu).\n\n### Forge\n\nClient side settings can be accessed in Main Menu &gt; Mods &gt; Combat Roll &gt; Config.\n\n### Server\n\n**Server side** configuration can be found in the `config` directory, after running the game with the mod installed.",
+          "published": "2022-09-19T17:04:44.140047Z",
+          "updated": "2024-08-17T19:49:11.397700Z",
+          "status": "approved",
+          "license": {
+            "id": "GPL-3.0-only",
+            "name": "GNU General Public License v3.0 only"
+          },
+          "client_side": "required",
+          "server_side": "required",
+          "categories": [
+            "adventure",
+            "game-mechanics",
+            "library"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/wGKYL7st/ec708f6b60ed75fceab14e0848e9906f99dd84e1.png",
+          "issues_url": "https://github.com/ZsoltMolnarrr/CombatRoll/issues",
+          "source_url": "https://github.com/ZsoltMolnarrr/CombatRoll",
+          "discord_url": "https://discord.gg/KN9b3pjFTM",
+          "donation_urls": [],
+          "gallery": [
+            {
+              "url": "https://cdn.modrinth.com/data/wGKYL7st/images/a76b8371abdb17c1f502b293eb1fc9f6a259fb9d.png",
+              "featured": false,
+              "title": "title",
+              "created": "2022-09-20T16:32:49.285246Z",
+              "ordering": 0.0
+            }
+          ]
+        },
+        "modrinthVersion": {
+          "id": "FyOp03FS",
+          "project_id": "wGKYL7st",
+          "author_id": "CUHgJfv9",
+          "name": "1.3.3+1.20.1",
+          "version_number": "1.3.3+1.20.1-fabric",
+          "changelog": "# 1.3.3\n\n- Fix roll charges even when paused #45\n",
+          "date_published": "2024-08-13T21:15:21.055395Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha512": "6703c3b2b6e6b063102b50e65aa4be29bc4b46f7830cf3a396bfb5fac78c3a29d1bcfe2b796fbe2c79f948bdb098931d076bee58f5ce5ff37a40ad699544ff04",
+                "sha1": "7711c08770aa5d15f215093b6884c473350e2e1f"
+              },
+              "url": "https://cdn.modrinth.com/data/wGKYL7st/versions/FyOp03FS/combatroll-fabric-1.3.3%2B1.20.1.jar",
+              "filename": "combatroll-fabric-1.3.3+1.20.1.jar",
+              "primary": true,
+              "size": 191873
+            }
+          ],
+          "dependencies": [
+            {
+              "project_id": "P7dR8mSH",
+              "dependency_type": "required"
+            },
+            {
+              "project_id": "9s6osm5g",
+              "dependency_type": "required"
+            },
+            {
+              "project_id": "gedNE4y2",
+              "dependency_type": "required"
+            }
+          ],
+          "game_versions": [
+            "1.20",
+            "1.20.1"
+          ],
+          "loaders": [
+            "fabric"
+          ]
+        }
+      },
+      {
+        "name": "FallingTree",
+        "version": "1.20.1-4.3.4",
+        "optional": true,
+        "file": "FallingTree-1.20.1-4.3.4.jar",
+        "type": "mods",
+        "description": "Break down your trees by only cutting one piece of it",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 1012424,
+        "curseForgeFileId": 5310779,
+        "curseForgeProject": {
+          "id": 1012424,
+          "name": "Craft Shack",
+          "authors": [
+            {
+              "id": 109710313,
+              "name": "grave_ardinghelli58",
+              "url": "https://www.curseforge.com/members/grave_ardinghelli58"
+            }
+          ],
+          "gameId": 432,
+          "summary": "ez",
+          "categories": [
+            {
+              "name": "MCreator",
+              "slug": "mc-creator",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-creator",
+              "dateModified": "2021-05-10T11:13:12.27Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 4906,
+              "iconUrl": "https://media.forgecdn.net/avatars/380/489/637562419922532076.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 2,
+          "primaryCategoryId": 4906,
+          "classId": 6,
+          "slug": "craft-shack",
+          "isFeatured": false,
+          "dateModified": "2024-05-02T18:51:43.137Z",
+          "dateCreated": "2024-05-02T18:40:55.44Z",
+          "dateReleased": "2024-05-02T18:40:55.44Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/craft-shack"
+          },
+          "logo": {
+            "id": 989884,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/989/884/256/256/638502720556268800.png",
+            "title": "638502720556268800.png",
+            "url": "https://media.forgecdn.net/avatars/989/884/638502720556268800.png",
+            "modId": 1012424
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 0
+        },
+        "curseForgeFile": {
+          "id": 5310779,
+          "gameId": 432,
+          "isAvailable": false,
+          "displayName": "FallingTree-1.20.1-4.3.4.jar",
+          "fileName": "FallingTree-1.20.1-4.3.4.jar",
+          "releaseType": 1,
+          "fileStatus": 3,
+          "fileDate": "2024-05-02T18:43:35.57Z",
+          "fileLength": 420181,
+          "dependencies": [],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 2673040693,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 586171808,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 166639380,
+              "name": "fabric.fallingtree.refmap.json"
+            },
+            {
+              "fingerprint": 3833275777,
+              "name": "fabric.mod.json"
+            },
+            {
+              "fingerprint": 2605560998,
+              "name": "fallingtree.accesswidener"
+            },
+            {
+              "fingerprint": 1752131390,
+              "name": "fallingtree.mixins.json"
+            },
+            {
+              "fingerprint": 2741184644,
+              "name": "fr"
+            },
+            {
+              "fingerprint": 2777834276,
+              "name": "logo.png"
+            },
+            {
+              "fingerprint": 2752645236,
+              "name": "pack.mcmeta"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "617b79628fca3968979c1cc5f42edda882a55adb",
+              "algo": 1
+            },
+            {
+              "value": "260303e64027dabb008d5b8ee4f39a7e",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            }
+          ],
+          "gameVersions": [
+            "1.20.1",
+            "Forge"
+          ],
+          "fileFingerprint": 3437523781,
+          "modId": 1012424
+        },
+        "modrinthProject": {
+          "id": "Fb4jn8m6",
+          "slug": "fallingtree",
+          "project_type": "mod",
+          "team": "ZF72r4Yn",
+          "title": "FallingTree",
+          "description": "Break down your trees by only cutting one piece of it",
+          "body": "[![Discord Server](https://img.shields.io/discord/1007349372444491856.svg?logo=Discord&colorB=7289da)](https://discord.gg/uXWsRftdy7)\n[![Curseforge Downloads](http://cf.way2muchnoise.eu/short_349559_downloads.svg)](https://www.curseforge.com/minecraft/mc-mods/falling-tree)\n[![Modrinth Downloads](https://img.shields.io/modrinth/dt/fallingtree?logo=Modrinth)](https://modrinth.com/mod/fallingtree)\n\nThis mod will change the way you break trees. 4 modes are available:\n* Instantaneous: Break one log and the whole tree will fall\n* Shift down: Break a block and the log will slowly shift down as you cut it (good if you don't want to \"cheat\" too much but are lazy to go cut top log blocks 😛)\n* Fall items: Break one log and the whole tree will fall with an animation\n* Fall blocks: Break one log and the whole tree will fall on the floor with an animation\n\n![Demonstration of breaking a tree](https://github.com/Rakambda/FallingTree/raw/minecraft/1.20.1/assets/demo.gif)\n![Another demonstration of breaking a tree](https://github.com/Rakambda/FallingTree/raw/minecraft/1.20.1/assets/demo2.gif)\n\nSeveral options are available in the config file:\n\n* Customize what is considered as a tree (log blocks & leave blocks).\n* Customize what tools can be used (add more axes, allow everything, ...).\n* Turn leaf breaking on/off.\n* Option to disable the effect of the mod by sneaking (can be reversed).\n* Change speed depending on the tree size.\n* Damage tools or not (can set it to break the tool by the amount of blocks there were in the tree).\n* Let tools at 1 durability if it's going to break.\n\nCheck out the [wiki](https://github.com/Rakambda/FallingTree/wiki) for some more information.\n\n---\n\n* For Fabric users, **Fabric API** is required.\n* For Neoforge/Forge users, **Cloth Config API** is optional on the client and allows you to have a config GUI in game.\n  Starting Minecraft 1.21, enchantments needs to be added separately through a datapack [available here](https://modrinth.com/datapack/fallingtree-enchantments).\n\nNOTE: On servers this mod can be server-side only, client isn't required (except if you use the change speed feature and/or enchants configurations).",
+          "published": "2021-01-11T19:27:26.315086Z",
+          "updated": "2024-08-20T16:03:52.088012Z",
+          "status": "approved",
+          "license": {
+            "id": "LGPL-3.0-only",
+            "name": "GNU Lesser General Public License v3.0 only"
+          },
+          "client_side": "unsupported",
+          "server_side": "required",
+          "categories": [
+            "utility"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/Fb4jn8m6/icon.png",
+          "issues_url": "https://github.com/RakambdaOrg/FallingTree/issues",
+          "source_url": "https://github.com/RakambdaOrg/FallingTree",
+          "wiki_url": "https://github.com/RakambdaOrg/FallingTree/wiki",
+          "discord_url": "https://discord.gg/uXWsRftdy7",
+          "donation_urls": [
+            {
+              "id": "github",
+              "platform": "Github",
+              "url": "https://github.com/sponsors/RakSrinaNa"
+            }
+          ],
+          "gallery": []
+        },
+        "modrinthVersion": {
+          "id": "NrtzFkZE",
+          "project_id": "Fb4jn8m6",
+          "author_id": "fYPSlcba",
+          "name": "1.20.1-4.3.4",
+          "version_number": "1.20.1-4.3.4",
+          "changelog": "[Changelog on GitHub](https://github.com/RakambdaOrg/FallingTree/releases/tag/4.3.4)\n\n<!-- Release notes generated using configuration in .github/release.yml at minecraft/1.20.1 -->\n\n## What's Changed\n### 🚀 Features\n* Respect leaves breaking settings for FALL_XXX breaking modes by @Rakambda in https://github.com/RakambdaOrg/FallingTree/pull/658\n\n\n**Full Changelog**: https://github.com/RakambdaOrg/FallingTree/compare/4.3.3...4.3.4",
+          "date_published": "2024-01-05T20:31:19.975883Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha1": "617b79628fca3968979c1cc5f42edda882a55adb",
+                "sha512": "487cd36886cb791a3f252c90818d5c1cedeec5080a7f874b0bfafff328c8fcc9b2acee03fe40f8397355e8a2a092d2f34cb40671c786c0d9d035728c971d4e9c"
+              },
+              "url": "https://cdn.modrinth.com/data/Fb4jn8m6/versions/NrtzFkZE/FallingTree-1.20.1-4.3.4.jar",
+              "filename": "FallingTree-1.20.1-4.3.4.jar",
+              "primary": true,
+              "size": 420181
+            }
+          ],
+          "dependencies": [
+            {
+              "project_id": "9s6osm5g",
+              "dependency_type": "optional"
+            },
+            {
+              "project_id": "P7dR8mSH",
+              "dependency_type": "optional"
+            },
+            {
+              "project_id": "mOgUt4GM",
+              "dependency_type": "optional"
+            }
+          ],
+          "game_versions": [
+            "1.20.1"
+          ],
+          "loaders": [
+            "fabric",
+            "forge"
+          ]
+        }
+      },
+      {
+        "name": "Keep Some Inventory",
+        "version": "Keep Some Inventory | Mod",
+        "optional": true,
+        "file": "KeepSomeInventory-v1.3.3.jar",
+        "type": "mods",
+        "description": "Don't lose equipment but drop resources when dying",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "modrinthProject": {
+          "id": "VHSdL301",
+          "slug": "keep-some-inventory",
+          "project_type": "mod",
+          "team": "vEcdOoPe",
+          "title": "Keep Some Inventory",
+          "description": "Don't lose equipment but drop resources when dying",
+          "body": "# <img src=\"https://raw.githubusercontent.com/PuckiSilver/KeepSomeInventory/main/src/pack.png\" height=25 width=25> Keep Some Inventory\n\n<font color=\"#14CC14\">**Isn't it annoying when you die and your items are far away and surrounded by danger?**</font>\n\nWith this data pack no longer, since you <font color=\"#14CC14\">**keep your fighting equipment**</font> like weapons, tools and armor <font color=\"#14CC14\">**on you when dying**</font>!\n\n## Overview\n**Personally I don't like** playing with the `keepInventory` gamerule set to `true` because it feels cheap to go somewhere dangerous **without the risk** of losing anything.\nThis data pack aims to give dangerous areas their **risk back** while still allowing you to **use your best equipment** that you spent hours on farming, crafting and enchanting.\n\n## Features\n- When dying, you **keep all your equipment** on you while still **dropping your resources**.\n- Your items **will not splatter**, they all stay at the exact location you died at, **no items flying into lava or off of cliffs**.\n- At the location of your death you can collect **all your experience** and it is **not limited** to about 7 levels, like in vanilla minecraft.\n- After dying, your **items and experience will despawn after 10 minutes** instead of despawning after the normal 5 minutes.\n\n## Compatability\n- This pack will most likely **not work** together with grave packs or packs doing anything to items on death.\n- This pack makes use of **vanilla item tags** and the **convention of common `c` tags** used by mod loaders, and may therefore be compatible with mods - no guarantee.\n- You can **modify the items that should be dropped** on death by opening the zip/jar and modifying the tag located at `data/pskeep2/tags/item/drop.json`.\n\n---\n[![PuckiSilver on GitHub](https://raw.githubusercontent.com/PuckiSilver/static-files/main/link_logos/GitHub.png)](https://github.com/PuckiSilver)[![PuckiSilver on modrinth](https://raw.githubusercontent.com/PuckiSilver/static-files/main/link_logos/modrinth.png)](https://modrinth.com/user/PuckiSilver)[![PuckiSilver on PlanetMinecraft](https://raw.githubusercontent.com/PuckiSilver/static-files/main/link_logos/PlanetMinecraft.png)](https://planetminecraft.com/m/PuckiSilver)[![PuckiSilver on PayPal](https://raw.githubusercontent.com/PuckiSilver/static-files/main/link_logos/PayPal.png)](https://paypal.me/puckisilver)\n",
+          "published": "2023-01-01T19:36:47.117235Z",
+          "updated": "2024-08-05T20:37:28.209706Z",
+          "status": "approved",
+          "license": {
+            "id": "MIT",
+            "name": "MIT License",
+            "url": "https://github.com/PuckiSilver/KeepSomeInventory/blob/main/LICENSE"
+          },
+          "client_side": "optional",
+          "server_side": "required",
+          "categories": [
+            "adventure",
+            "game-mechanics",
+            "utility"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/VHSdL301/aae6a0b1b19296e32293abb88b7e73246e419197.png",
+          "issues_url": "https://github.com/PuckiSilver/KeepSomeInventory/issues",
+          "source_url": "https://github.com/PuckiSilver/KeepSomeInventory",
+          "donation_urls": [
+            {
+              "id": "paypal",
+              "platform": "Paypal",
+              "url": "https://www.paypal.me/puckisilver"
+            }
+          ],
+          "gallery": [
+            {
+              "url": "https://cdn.modrinth.com/data/VHSdL301/images/5378ebfcf265087e03588014d2ed6fab3daf55e5.png",
+              "featured": true,
+              "title": "Keep Some Inventory",
+              "description": "Don't lose equipment but drop resources when dying",
+              "created": "2023-01-01T20:09:54.170675Z",
+              "ordering": -1.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/VHSdL301/images/8319071c4a7e9119a3083633c747e42ff1585a63.png",
+              "featured": false,
+              "title": "Enemies",
+              "description": "When getting back to your loot with your armor and weapons, you will be well-equipped to take on any enemy that previously overpowered you",
+              "created": "2023-01-01T21:53:13.148317Z",
+              "ordering": 2.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/VHSdL301/images/3bfcced94dec1818f5251b3c5eec233543a5f27a.png",
+              "featured": false,
+              "title": "Danger",
+              "description": "No matter where you die, close to lava and with all you expensive equipment on you...",
+              "created": "2023-01-01T20:23:22.927936Z",
+              "ordering": 3.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/VHSdL301/images/dee91cf223aac3a6184143dfa93debe44defcc4c.png",
+              "featured": false,
+              "title": "Respawn",
+              "description": "You keep your valuable equipment through death, ready to throw yourself back into the danger...",
+              "created": "2023-01-01T20:25:07.461014Z",
+              "ordering": 4.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/VHSdL301/images/c35b9ac2e0cf27377e14110ec01aa1cd96ec1c52.png",
+              "featured": false,
+              "title": "Remains",
+              "description": "Your resources and experience will wait for you to fight your way back and retrieve them savely",
+              "created": "2023-01-01T20:30:47.701785Z",
+              "ordering": 5.0
+            }
+          ]
+        },
+        "modrinthVersion": {
+          "id": "Lf0FctN4",
+          "project_id": "VHSdL301",
+          "author_id": "ZwzOLUjQ",
+          "name": "Keep Some Inventory | Mod",
+          "version_number": "v1.3.3+mod",
+          "changelog": "- Actually fix 'unknown scoreboard' error",
+          "date_published": "2024-01-22T20:20:01.145912Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha512": "ef0dadfc5b89d060b2327e6b89f9b47ff21bef8e4f283d8af3a078a70b3d7c9f5a4adab3cc8ca67eae089dc4eed36462b8d7aac444d2270d56dd5b35af8ae724",
+                "sha1": "b8a56d8977b89d4c42701c8c9df5fc1778123b7b"
+              },
+              "url": "https://cdn.modrinth.com/data/VHSdL301/versions/Lf0FctN4/KeepSomeInventory-v1.3.3.jar",
+              "filename": "KeepSomeInventory-v1.3.3.jar",
+              "primary": true,
+              "size": 112397
+            }
+          ],
+          "dependencies": [],
+          "game_versions": [
+            "1.15",
+            "1.15.1",
+            "1.15.2",
+            "1.16",
+            "1.16.1",
+            "1.16.2",
+            "1.16.3",
+            "1.16.4",
+            "1.16.5",
+            "1.17",
+            "1.17.1",
+            "1.18",
+            "1.18.1",
+            "1.18.2",
+            "1.19",
+            "1.19.1",
+            "1.19.2",
+            "1.19.3",
+            "1.19.4",
+            "1.20",
+            "1.20.1",
+            "1.20.2",
+            "1.20.3",
+            "1.20.4"
+          ],
+          "loaders": [
+            "fabric",
+            "forge",
+            "neoforge",
+            "quilt"
+          ]
+        }
+      },
+      {
+        "name": "AzureLib",
+        "version": "fabric 2.0.30",
+        "optional": true,
+        "file": "azurelib-fabric-1.20.1-2.0.30.jar",
+        "type": "mods",
+        "description": "Based off Geckolib but now just for my own needs.",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 817423,
+        "curseForgeFileId": 5546655,
+        "curseForgeProject": {
+          "id": 817423,
+          "name": "AzureLib",
+          "authors": [
+            {
+              "id": 27597203,
+              "name": "AzureDoomC",
+              "url": "https://www.curseforge.com/members/azuredoomc"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Based off Geckolib but now just for my own needs. ",
+          "categories": [
+            {
+              "name": "API and Library",
+              "slug": "library-api",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/library-api",
+              "dateModified": "2014-05-23T03:21:44.06Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 421,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/36/635351496947765531.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 421,
+          "classId": 6,
+          "slug": "azurelib",
+          "isFeatured": false,
+          "dateModified": "2024-08-08T18:41:13.99Z",
+          "dateCreated": "2023-01-24T07:52:24.277Z",
+          "dateReleased": "2024-08-08T18:36:40.43Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/azurelib",
+            "wikiUrl": "https://wiki.azuredoom.com/",
+            "issuesUrl": "https://github.com/AzureDoom/AzureLib",
+            "sourceUrl": "https://github.com/AzureDoom/AzureLib"
+          },
+          "logo": {
+            "id": 826765,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/826/765/256/256/638213292333907530.png",
+            "title": "638213292333907530.png",
+            "url": "https://media.forgecdn.net/avatars/826/765/638213292333907530.png",
+            "modId": 817423
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 5608668
+        },
+        "curseForgeFile": {
+          "id": 5546655,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "fabric 2.0.30",
+          "fileName": "azurelib-fabric-1.20.1-2.0.30.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2024-07-19T19:22:52.61Z",
+          "fileLength": 792162,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 306612,
+              "relationType": 3
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 1130234414,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 179075966,
+              "name": "LICENSE_AzureLib"
+            },
+            {
+              "fingerprint": 2969187450,
+              "name": "pack.mcmeta"
+            },
+            {
+              "fingerprint": 1083690893,
+              "name": "fabric.mod.json"
+            },
+            {
+              "fingerprint": 1492430400,
+              "name": "data"
+            },
+            {
+              "fingerprint": 1834172962,
+              "name": "azurelib.png"
+            },
+            {
+              "fingerprint": 4066715744,
+              "name": "azurelib.mixins.json"
+            },
+            {
+              "fingerprint": 2713944577,
+              "name": "azurelib.fabric.mixins.json"
+            },
+            {
+              "fingerprint": 3162777971,
+              "name": "azurelib.aw"
+            },
+            {
+              "fingerprint": 1310070780,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 3128735106,
+              "name": "azurelib.refmap.json"
+            },
+            {
+              "fingerprint": 2058256709,
+              "name": "mod"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "543b3ea24bcae0a1e215895572be5c5b365a6622",
+              "algo": 1
+            },
+            {
+              "value": "a3c826f49677d77ff6e51e014e872e51",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-09-01T00:00:00Z",
+              "gameVersionName": "Fabric"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-05-26T00:00:00Z",
+              "gameVersionName": "Quilt"
+            }
+          ],
+          "gameVersions": [
+            "Fabric",
+            "1.20.1",
+            "Quilt"
+          ],
+          "fileFingerprint": 2102775263,
+          "modId": 817423
+        },
+        "modrinthProject": {
+          "id": "7zlUOZvb",
+          "slug": "azurelib",
+          "project_type": "mod",
+          "team": "QhkAYHHd",
+          "title": "AzureLib",
+          "description": "Based off Geckolib but now just for my own needs.",
+          "body": "<center>\n<a href=\"https://wiki.azuredoom.com/\"> <img src=\"https://www.bisecthosting.com/images/CF/AzureLib/BH_AL_header.png\" alt=\"logo\"/> </a>\n\n<a href=\"https://discord.azuredoom.com/\"> <img src=\"https://img.shields.io/discord/574529906076286996?color=red&label=Discord&logo=Discord&logoColor=red&style=for-the-badge\" alt=\"discord\"/> </a>\n</br>\n<font size=+1><b>\n<img src=\"https://www.bisecthosting.com/images/CF/AzureLib/BH_AL_about.png\" alt=\"logo\"/> \nAzureLib represents a branch derived from Geckolib 4.x, serving as an animation engine tailored for Minecraft Mods. It boasts various features, including support for intricate 3D keyframe-driven animations, over 30 different easing functions, concurrent animation capabilities, sound and particle keyframes, event-based keyframes, and numerous other functionalities. Currently, I'll focus on maintaining and supporting AzureLib; no help will be given to Geckolib.\n \n</br>\n\nThis library is compatible with the following Minecraft versions:\n\nForge: 1.16.5, 1.17.1, 1.18.2, 1.19.2, 1.19.3, 1.19.4, and 1.20.1.\n\nNeoForge: 1.20.1\n\nFabric: 1.16.5, 1.17.1, 1.18.2, 1.19.2, 1.19.3, 1.19.4, 1.20.1, and 1.20.2.\n\n</br></br>\nAre you a developer and want to use this library in your mod? Add the following to your build.gradle\n</b>\n</center>\n\n\n```\nrepositories {\n    // The Maven with the mods source\n    maven {url 'https://libs.azuredoom.com:4443/mods'}\n}\n\ndependencies {\n    //Fabric or Quilt\n    modImplementation \"mod.azure.azurelib:azurelib-fabric-MCVERSION:MODVERSION\"\n\n    //Forge\n    implementation fg.deobf(\"mod.azure.azurelib:azurelib-forge-MCVERSION:MODVERSION\")\n\t\t\n    //NeoForge\n    implementation fg.deobf(\"mod.azure.azurelib:azurelib-neo-MCVERSION:MODVERSION\")\n}\n```\n\n\n<center>\n</br>\n</br>\n\nNeed a server to play with friends? Don't know how to setup one? Just rent an already configured server from BisectHosting!\n<a href=\"https://bisecthosting.com/azuredoom\"> <img src=\"https://www.bisecthosting.com/images/CF/AzureLib/BH_AL_promo.png\" alt=\"logo\"/> </a>\n\nClick on the picture above, select plan(at least 4GB), and use my code azuredoom to get 25% off your first month and enjoy playing with your friends!\n</font>\n</center>",
+          "published": "2023-01-24T08:01:23.547440Z",
+          "updated": "2024-08-08T18:36:40.503187Z",
+          "status": "approved",
+          "license": {
+            "id": "MIT",
+            "name": "MIT License"
+          },
+          "client_side": "required",
+          "server_side": "required",
+          "categories": [
+            "game-mechanics",
+            "library",
+            "utility"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/7zlUOZvb/a722b12250c1f42c63dd269f2e4aeefd7611f8fd.png",
+          "issues_url": "https://github.com/AzureDoom/AzureLib/issues",
+          "source_url": "https://github.com/AzureDoom/AzureLib",
+          "wiki_url": "https://wiki.azuredoom.com/",
+          "discord_url": "https://discord.azuredoom.com/",
+          "donation_urls": [],
+          "gallery": [
+            {
+              "url": "https://cdn.modrinth.com/data/7zlUOZvb/images/648061e53f606f4c757968ae575b82cfa5d098ab.png",
+              "featured": true,
+              "title": "Header",
+              "created": "2023-06-17T13:22:35.447209Z",
+              "ordering": 0.0
+            }
+          ]
+        },
+        "modrinthVersion": {
+          "id": "Nj3DO9WH",
+          "project_id": "7zlUOZvb",
+          "author_id": "eQORCpQI",
+          "name": "fabric 2.0.30",
+          "version_number": "2.0.30",
+          "changelog": "v2.0.31\r\n\r\n- Move the buffer rebuilding to earlier to avoid using buffers that aren't building.\r\n- Fixes configuration thread not closing on datagen for Fabric.\r\n- Fixes error if config folder is missing on first run only.\r\n- Closes configuration thread in a safer way.",
+          "date_published": "2024-07-19T19:22:53.640035Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha1": "543b3ea24bcae0a1e215895572be5c5b365a6622",
+                "sha512": "770e57db440c2c4e1d279c9a4fce17dcd0c1eb662dd17c42c356a8002d64bc300501bd72d443d1b7af3bb50d21a43382684e1fd795eb5f09047a4679d1deae97"
+              },
+              "url": "https://cdn.modrinth.com/data/7zlUOZvb/versions/Nj3DO9WH/azurelib-fabric-1.20.1-2.0.30.jar",
+              "filename": "azurelib-fabric-1.20.1-2.0.30.jar",
+              "primary": true,
+              "size": 792162
+            }
+          ],
+          "dependencies": [
+            {
+              "project_id": "P7dR8mSH",
+              "dependency_type": "required"
+            }
+          ],
+          "game_versions": [
+            "1.20.1"
+          ],
+          "loaders": [
+            "fabric",
+            "quilt"
+          ]
+        }
+      },
+      {
+        "name": "Wall Jumped",
+        "version": "1.4.4",
+        "optional": true,
+        "file": "walljump-fabric-1.20.1-1.4.4.jar",
+        "type": "mods",
+        "description": "A Fabric 1.19.4 port of Updated Wall-Jump! as both previous projects are no longer maintained.",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 858060,
+        "curseForgeFileId": 4865635,
+        "curseForgeProject": {
+          "id": 858060,
+          "name": "Wall Jumped",
+          "authors": [
+            {
+              "id": 27597203,
+              "name": "AzureDoomC",
+              "url": "https://www.curseforge.com/members/azuredoomc"
+            }
+          ],
+          "gameId": 432,
+          "summary": "A Fabric 1.19.4 port of Updated Wall-Jump! as both previous projects are no longer maintained.",
+          "categories": [
+            {
+              "name": "Player Transport",
+              "slug": "technology-player-transport",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/technology/technology-player-transport",
+              "dateModified": "2014-05-08T17:38:58.357Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 414,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/29/635351495383551178.png",
+              "parentCategoryId": 412,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 414,
+          "classId": 6,
+          "slug": "wall-jumped",
+          "isFeatured": false,
+          "dateModified": "2023-11-14T02:26:05.203Z",
+          "dateCreated": "2023-05-04T18:25:59.367Z",
+          "dateReleased": "2023-11-14T01:56:01.357Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/wall-jumped",
+            "issuesUrl": "https://github.com/AzureDoom/Wall-Jump/issues",
+            "sourceUrl": "https://github.com/AzureDoom/Wall-Jump"
+          },
+          "logo": {
+            "id": 813609,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/813/609/256/256/638188215593951736.png",
+            "title": "638188215593951736.png",
+            "url": "https://media.forgecdn.net/avatars/813/609/638188215593951736.png",
+            "modId": 858060
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 4865641
+        },
+        "curseForgeFile": {
+          "id": 4865635,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "walljump-fabric-1.20.1-1.4.4.jar",
+          "fileName": "walljump-fabric-1.20.1-1.4.4.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2023-11-14T01:53:44.837Z",
+          "fileLength": 6929745,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 817423,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 306612,
+              "relationType": 3
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 1167009108,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 2060624349,
+              "name": "LICENSE"
+            },
+            {
+              "fingerprint": 1337642875,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 373571487,
+              "name": "fabric.mod.json"
+            },
+            {
+              "fingerprint": 2680836397,
+              "name": "genandnic"
+            },
+            {
+              "fingerprint": 3852643113,
+              "name": "walljump-fabric-1.20.1-refmap.json"
+            },
+            {
+              "fingerprint": 2208051408,
+              "name": "walljump.aw"
+            },
+            {
+              "fingerprint": 4190489818,
+              "name": "walljump.mixins.json"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "7413559ed4bb213479fe6227be30a7b7e842d30c",
+              "algo": 1
+            },
+            {
+              "value": "53963bfb74541d4671e625358475837f",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-09-01T00:00:00Z",
+              "gameVersionName": "Fabric"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            }
+          ],
+          "gameVersions": [
+            "Fabric",
+            "1.20.1"
+          ],
+          "fileFingerprint": 3258912966,
+          "modId": 858060
+        },
+        "modrinthProject": {
+          "id": "ulUgV6dN",
+          "slug": "wall-jumped",
+          "project_type": "mod",
+          "team": "CJjZrmgt",
+          "title": "Wall Jumped",
+          "description": "A Fabric 1.19.4 port of Updated Wall-Jump! as both previous projects are no longer maintained.",
+          "body": "<font size=+2>\n<center>\nThis is for <b>Fabric</b> only and requires Fabric API.\n</br>\n</br>\n<a href=\"https://discord.gg/4vEKxfK\"> <img src=\"https://img.shields.io/discord/574529906076286996?color=red&label=Discord&logo=Discord&logoColor=red&style=for-the-badge\" alt=\"discord\"/> </a>\n<a href=\"https://www.patreon.com/azurezdoom\"> <img src=\"https://img.shields.io/endpoint.svg?url=https://shieldsio-patreon.vercel.app/api?username=azurezdoom&type=patrons&style=for-the-badge\" alt=\"patreon\"/> </a>\n<a href=\"https://modrinth.com/mod/connector\"> <img src=\"https://raw.githubusercontent.com/Sinytra/.github/main/badges/connector/compact.svg\" alt=\"connector\"/> </a>\n</br>\n</br>\n\nThis is a 1.19.4 (and possibly beyond) port of [Updated Wall Jump](https://legacy.curseforge.com/minecraft/mc-mods/updated-wall-jump). This is the same mod written by genandnic of [Wall Jump](https://legacy.curseforge.com/minecraft/mc-mods/wall-jump-fabric), but it's for 1.19.4.\n\n<font size=\"10\">\nWall-to-wall platforming in Minecraft! \n</br></br>\n<font size=+1>\n\nWith this mod installed, players can perform new movements that will allow them to navigate their environment more dynamically.\n\nWall jumping allows players to jump off walls to gain additional height or reach areas that might otherwise be out of reach. To perform a wall jump, the player must jump towards a wall and then jump again off of the wall at the right moment. Timing is crucial, as the player must hit the wall at the correct angle and jump off at the right time to gain the maximum height.\n\nDouble jumping allows players to jump twice in quick succession, providing even more mobility and allowing them to reach even higher places. To perform a double jump, the player must jump once, then jump again while still in midair. This technique is helpful in reaching higher ledges or avoiding obstacles in the player's path.\n\nPlease see the following on how to do the various actions ingame!\n\n<b>Wall Cling</b>: Jump towards a wall and hold the wall jump key (LSHIFT). \n\n<b>Wall Jump</b>: While wall clinging, keep holding W and let go of LSHIFT to wall jump.\n\n<b>Double Jump</b>: Optional mid-air jump that you can use to your advantage.\n\n</font></font></font></font></center>",
+          "published": "2023-05-04T18:21:23.797356Z",
+          "updated": "2023-11-14T01:56:07.596451Z",
+          "status": "approved",
+          "license": {
+            "id": "GPL-3.0-only",
+            "name": "GNU General Public License v3.0 only"
+          },
+          "client_side": "required",
+          "server_side": "unsupported",
+          "categories": [
+            "game-mechanics"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/ulUgV6dN/1e026932468f5dc227444892b11cc5e06f1587a7.png",
+          "issues_url": "https://github.com/AzureDoom/Wall-Jump/issues",
+          "source_url": "https://github.com/AzureDoom/Wall-Jump",
+          "donation_urls": [],
+          "gallery": []
+        },
+        "modrinthVersion": {
+          "id": "S8hgsE3p",
+          "project_id": "ulUgV6dN",
+          "author_id": "eQORCpQI",
+          "name": "1.4.4",
+          "version_number": "1.4.4",
+          "changelog": "v1.4.4\n\n- Fixes Enchantments applying non-armor items.",
+          "date_published": "2023-11-14T01:53:52.530467Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha512": "e6323cf397ae0ed3cafba6ba161f55a24bc74815bca3d92f8ad8b903329b8be34902a736400495f286ac4cf2ff2927559224d07a65fac0a9d49c0c70bf1664f6",
+                "sha1": "7413559ed4bb213479fe6227be30a7b7e842d30c"
+              },
+              "url": "https://cdn.modrinth.com/data/ulUgV6dN/versions/S8hgsE3p/walljump-fabric-1.20.1-1.4.4.jar",
+              "filename": "walljump-fabric-1.20.1-1.4.4.jar",
+              "primary": true,
+              "size": 6929745
+            }
+          ],
+          "dependencies": [
+            {
+              "project_id": "7zlUOZvb",
+              "dependency_type": "required"
+            },
+            {
+              "project_id": "P7dR8mSH",
+              "dependency_type": "required"
+            }
+          ],
+          "game_versions": [
+            "1.20.1"
+          ],
+          "loaders": [
+            "fabric",
+            "quilt"
+          ]
+        }
+      },
+      {
+        "name": "Diggus Maximus",
+        "version": "Diggus Maximus 1.5.9-1.20",
+        "optional": true,
+        "file": "diggusmaximus-1.5.9-1.20.jar",
+        "type": "mods",
+        "description": "Lightweight vein mining for Fabric 1.14+",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 341888,
+        "curseForgeFileId": 4597689,
+        "curseForgeProject": {
+          "id": 341888,
+          "name": "Diggus Maximus",
+          "authors": [
+            {
+              "id": 8602880,
+              "name": "Kyrptonaught",
+              "url": "https://www.curseforge.com/members/kyrptonaught"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Lightweight vein mining for Fabric 1.14+",
+          "categories": [
+            {
+              "name": "Miscellaneous",
+              "slug": "mc-miscellaneous",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-miscellaneous",
+              "dateModified": "2014-06-15T04:27:14.543Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 425,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/40/635351497693711265.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Ores and Resources",
+              "slug": "world-ores-resources",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen/world-ores-resources",
+              "dateModified": "2014-05-08T17:36:41.233Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 408,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/23/635351494012336510.png",
+              "parentCategoryId": 406,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 425,
+          "classId": 6,
+          "slug": "diggus-maximus",
+          "isFeatured": false,
+          "dateModified": "2023-06-19T22:08:58.493Z",
+          "dateCreated": "2019-09-16T19:47:11.793Z",
+          "dateReleased": "2023-06-19T22:02:18.543Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/diggus-maximus",
+            "wikiUrl": "",
+            "sourceUrl": "https://github.com/kyrptonaught/DiggusMaximus"
+          },
+          "logo": {
+            "id": 225974,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/225/974/256/256/637042640078429384.png",
+            "title": "637042640078429384.png",
+            "url": "https://media.forgecdn.net/avatars/225/974/637042640078429384.png",
+            "modId": 341888
+          },
+          "allowModDistribution": true,
+          "screenshots": [
+            {
+              "id": 263630,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/263/630/310/172/2019-09-22_19.png",
+              "title": "Config",
+              "url": "https://media.forgecdn.net/attachments/263/630/2019-09-22_19.png",
+              "modId": 341888
+            },
+            {
+              "id": 263629,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/263/629/310/172/2019-09-22_19.png",
+              "title": "Blacklist",
+              "url": "https://media.forgecdn.net/attachments/263/629/2019-09-22_19.png",
+              "modId": 341888
+            }
+          ],
+          "mainFileId": 4597689
+        },
+        "curseForgeFile": {
+          "id": 4597689,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "diggusmaximus-1.5.9-1.20.jar",
+          "fileName": "diggusmaximus-1.5.9-1.20.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2023-06-19T22:02:18.543Z",
+          "fileLength": 227087,
+          "dependencies": [],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 3311529462,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 1926976397,
+              "name": "LICENSE_diggusmaximus"
+            },
+            {
+              "fingerprint": 2981577944,
+              "name": "fabric.mod.json"
+            },
+            {
+              "fingerprint": 851321946,
+              "name": "diggusmaximus.mixins.json"
+            },
+            {
+              "fingerprint": 296296259,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 490518897,
+              "name": "diggusmaximus-refmap.json"
+            },
+            {
+              "fingerprint": 2953959872,
+              "name": "net"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "7b36c55155d6320287007491818a23bd1c23b2b3",
+              "algo": 1
+            },
+            {
+              "value": "525708f779aea4f06e478bac77a8eaa5",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-09-01T00:00:00Z",
+              "gameVersionName": "Fabric"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Client"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020",
+              "gameVersion": "1.20",
+              "gameVersionReleaseDate": "2023-06-07T00:00:00Z",
+              "gameVersionName": "1.20"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Server"
+            }
+          ],
+          "gameVersions": [
+            "Fabric",
+            "Client",
+            "1.20.1",
+            "1.20",
+            "Server"
+          ],
+          "fileFingerprint": 1885235573,
+          "modId": 341888
+        },
+        "modrinthProject": {
+          "id": "S4LrRnI7",
+          "slug": "diggus-maximus",
+          "project_type": "mod",
+          "team": "sE3Ljeg6",
+          "title": "Diggus Maximus",
+          "description": "Lightweight vein mining for Fabric 1.14+",
+          "body": "Diggus Maximus is a mod for Fabric bringing quick and easy \"Vein Mining\".\n\nPlease be sure to check out all the mods that this mod has been inspired by, [EasyExcavate](https://www.curseforge.com/minecraft/mc-mods/easyexcavate), [Ore Excavation](https://www.curseforge.com/minecraft/mc-mods/ore-excavation), [VeinMiner](https://www.curseforge.com/minecraft/mc-mods/veinminer).\n\nA mod created to make mining veins of the same blocks significantly easier. Simply hold the \"excavate\" key(bound to ~ by default,configurable) while mining a block and all the connected blocks will be mined as well, saving you the time from mining each individually.\n\n![](https://media.giphy.com/media/fAD8Jrt4HVqn8BEHF2/giphy.gif \"\")\n![](https://media.giphy.com/media/WTRhcX7JxVw2mpIiUW/giphy.gif \"\")\n\nDiggus Maximus is highly configurable, featuring:\n\n*   Automatically picking up the mined blocks\n*   maximum number of blocks to mine\n*   max distance from start block to spread\n*   the ability to excavate with your hand\n*   Tool durability\n*   Player exhaustion\n*   A blacklist/whitelist\n*  Auto stopping before tool breaks\n*  Support for mining BlockTags\n\nDiggus Maximus is required to be installed on both the client, and the server. While playing on a server, the server config will override the clients \n\n",
+          "published": "2022-12-13T05:49:43.068742Z",
+          "updated": "2023-06-19T22:01:50.030845Z",
+          "status": "approved",
+          "license": {
+            "id": "MIT",
+            "name": "MIT License"
+          },
+          "client_side": "required",
+          "server_side": "required",
+          "categories": [
+            "utility"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/S4LrRnI7/ba114aea5b9c26d2fa3445e19e2d74ee39ddaec5.png",
+          "issues_url": "https://github.com/kyrptonaught/DiggusMaximus",
+          "source_url": "https://github.com/kyrptonaught/DiggusMaximus",
+          "donation_urls": [
+            {
+              "id": "paypal",
+              "platform": "Paypal",
+              "url": "https://www.paypal.com/donate/?business=EU3B5KCHV8QNW&no_recurring=0&item_name=Hi%21+It%27s+Kyrptonaught%2C+thanks+a+bunch+for+supporting+the+development+of+my+minecraft+mods%21+Anything+is+appreciated%21&currency_code=USD"
+            }
+          ],
+          "gallery": []
+        },
+        "modrinthVersion": {
+          "id": "ygAyNaax",
+          "project_id": "S4LrRnI7",
+          "author_id": "dTrHFjYJ",
+          "name": "Diggus Maximus 1.5.9-1.20",
+          "version_number": "1.5.9-1.20",
+          "changelog": "Fix config entries not being type-able",
+          "date_published": "2023-06-19T22:01:51.022130Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha1": "7b36c55155d6320287007491818a23bd1c23b2b3",
+                "sha512": "b9af35e04f582d72a37368faa2b92de2eff68ef114e3225a187e5f299d75b7fb27c8be27f164bd095231d10a0cf4b7af544e3879764e5f13ae079dfce927e929"
+              },
+              "url": "https://cdn.modrinth.com/data/S4LrRnI7/versions/ygAyNaax/diggusmaximus-1.5.9-1.20.jar",
+              "filename": "diggusmaximus-1.5.9-1.20.jar",
+              "primary": true,
+              "size": 227087
+            }
+          ],
+          "dependencies": [],
+          "game_versions": [
+            "1.20",
+            "1.20.1"
+          ],
+          "loaders": [
+            "fabric"
+          ]
+        }
       }
     ],
     "ignoredUpdates": [],
     "ignoreAllUpdates": false,
     "vanillaInstance": true,
-    "lastPlayed": 1724530413011,
-    "numPlays": 19
+    "lastPlayed": 1724533635451,
+    "numPlays": 22
   },
   "id": "1.20.1",
   "complianceLevel": 1,

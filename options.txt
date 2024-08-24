@@ -118,7 +118,14 @@ key_key.hotbar.6:key.keyboard.6
 key_key.hotbar.7:key.keyboard.7
 key_key.hotbar.8:key.keyboard.8
 key_key.hotbar.9:key.keyboard.9
-key_iris.keybind.reload:key.keyboard.r
+key_key.azurelib.reload:key.keyboard.keypad.subtract
+key_key.azurelib.scope:key.keyboard.keypad.subtract
+key_key.azurelib.fire:key.keyboard.keypad.subtract
+key_keybinds.bettercombat.feint:key.keyboard.unknown
+key_keybinds.bettercombat.toggle_mine_with_weapons:key.keyboard.unknown
+key_keybinds.combatroll.roll:key.keyboard.left.alt
+key_key.walljump.cling:key.keyboard.left.shift
+key_iris.keybind.reload:key.keyboard.i
 key_iris.keybind.toggleShaders:key.keyboard.k
 key_iris.keybind.shaderPackSelection:key.keyboard.o
 key_iris.keybind.wireframe:key.keyboard.unknown
