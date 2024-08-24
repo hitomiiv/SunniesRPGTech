@@ -7844,13 +7844,3924 @@
             "quilt"
           ]
         }
+      },
+      {
+        "name": "Cloth Config API",
+        "version": "[Fabric 1.20(.1)] v11.1.118",
+        "optional": true,
+        "file": "cloth-config-11.1.118-fabric.jar",
+        "type": "mods",
+        "description": "Configuration Library for Minecraft Mods",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 348521,
+        "curseForgeFileId": 4973440,
+        "curseForgeProject": {
+          "id": 348521,
+          "name": "Cloth Config API (Fabric/Forge/NeoForge)",
+          "authors": [
+            {
+              "id": 32851078,
+              "name": "shedaniel",
+              "url": "https://www.curseforge.com/members/shedaniel"
+            },
+            {
+              "id": 101070148,
+              "name": "LinkieIsBetterThanK9",
+              "url": "https://www.curseforge.com/members/linkieisbetterthank9"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Config Screen API for Minecraft",
+          "categories": [
+            {
+              "name": "API and Library",
+              "slug": "library-api",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/library-api",
+              "dateModified": "2014-05-23T03:21:44.06Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 421,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/36/635351496947765531.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 421,
+          "classId": 6,
+          "slug": "cloth-config",
+          "isFeatured": false,
+          "dateModified": "2024-08-15T18:45:27.143Z",
+          "dateCreated": "2019-10-19T12:26:33.023Z",
+          "dateReleased": "2024-08-13T04:52:21.57Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/cloth-config",
+            "wikiUrl": "https://shedaniel.gitbook.io/cloth-config/",
+            "issuesUrl": "https://github.com/shedaniel/ClothConfig/issues",
+            "sourceUrl": "https://github.com/shedaniel/ClothConfig"
+          },
+          "logo": {
+            "id": 282467,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/282/467/256/256/637289313020452406.png",
+            "title": "637289313020452406.png",
+            "url": "https://media.forgecdn.net/avatars/282/467/637289313020452406.png",
+            "modId": 348521
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 5623420
+        },
+        "curseForgeFile": {
+          "id": 4973440,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "[Fabric 1.20(.1)] v11.1.118",
+          "fileName": "cloth-config-11.1.118-fabric.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2023-12-21T10:17:08.78Z",
+          "fileLength": 1159192,
+          "dependencies": [],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 4942216,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 4008471873,
+              "name": "LICENSE.md"
+            },
+            {
+              "fingerprint": 385043272,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 2356087988,
+              "name": "icon.png"
+            },
+            {
+              "fingerprint": 3716860298,
+              "name": "cloth-config.accessWidener"
+            },
+            {
+              "fingerprint": 2840695398,
+              "name": "fabric.mod.json"
+            },
+            {
+              "fingerprint": 3853479196,
+              "name": "me"
+            },
+            {
+              "fingerprint": 2476112359,
+              "name": "architectury_inject_clothconfig_common_7aaaf9ff33c54b4ab77a800de19a783b_be71791722ed89114d377684eb3f67656c6bbfb20d71496f08cbc0791000c574clothconfig111118devjar"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "f669f899d707b9e9acf1c239b0ae6b2c8be95361",
+              "algo": 1
+            },
+            {
+              "value": "eb13a834db10ee7e8c5e6a6d4b037fbd",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-09-01T00:00:00Z",
+              "gameVersionName": "Fabric"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020",
+              "gameVersion": "1.20",
+              "gameVersionReleaseDate": "2023-06-07T00:00:00Z",
+              "gameVersionName": "1.20"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020",
+              "gameVersion": "1.20",
+              "gameVersionReleaseDate": "2022-10-27T00:00:00Z",
+              "gameVersionName": "1.20-Snapshot"
+            }
+          ],
+          "gameVersions": [
+            "Fabric",
+            "1.20.1",
+            "1.20",
+            "1.20-Snapshot"
+          ],
+          "fileFingerprint": 2489051492,
+          "modId": 348521
+        },
+        "modrinthProject": {
+          "id": "9s6osm5g",
+          "slug": "cloth-config",
+          "project_type": "mod",
+          "team": "z9omIQMN",
+          "title": "Cloth Config API",
+          "description": "Configuration Library for Minecraft Mods",
+          "body": "[<img src=\"https://i.imgur.com/ZEORx0F.png\" alt=\"\" width=\"225\"/>](https://discord.gg/Vs9AVkxjYY) [<img src=\"https://i.imgur.com/LrVLC2a.png\" alt=\"\" width=\"201\"/>](https://www.patreon.com/shedaniel)\n\nCloth Config API is a config screen api.\n\n### Developers Wiki\n[https://shedaniel.gitbook.io/cloth-config/](https://shedaniel.gitbook.io/cloth-config/)\n\nNeed a server to play with friends? Or don't know how to setup one? Just rent a server that is already configured!\n\n[<img src=\"https://www.bisecthosting.com/images/logos/dark_text@1538x500.png\" alt=\"\" width=\"400\"/>](https://www.bisecthosting.com/)\n\nClick on the picture above, select plan (at least 4 GB), use my code **shedaniel** to get **25% off** your first month and enjoy playing with your friends!\n\n![](https://i.imgur.com/AkpzyeC.png)",
+          "published": "2022-04-21T10:29:41.555173Z",
+          "updated": "2024-08-13T04:52:22.352860Z",
+          "status": "approved",
+          "license": {
+            "id": "LGPL-3.0-only",
+            "name": "GNU Lesser General Public License v3.0 only"
+          },
+          "client_side": "optional",
+          "server_side": "optional",
+          "categories": [
+            "library"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/9s6osm5g/icon.png",
+          "issues_url": "https://github.com/shedaniel/ClothConfig/issues",
+          "source_url": "https://github.com/shedaniel/ClothConfig/",
+          "wiki_url": "https://shedaniel.gitbook.io/cloth-config/",
+          "discord_url": "https://discord.gg/Vs9AVkxjYY",
+          "donation_urls": [
+            {
+              "id": "patreon",
+              "platform": "Patreon",
+              "url": "https://www.patreon.com/shedaniel"
+            }
+          ],
+          "gallery": [
+            {
+              "url": "https://cdn.modrinth.com/data/9s6osm5g/images/baa0dc605540953f5262f24109ec7837c090a04c.png",
+              "featured": true,
+              "title": "Example Config Screen",
+              "created": "2022-04-21T10:31:01.159433Z",
+              "ordering": 0.0
+            }
+          ]
+        },
+        "modrinthVersion": {
+          "id": "J3FLptsi",
+          "project_id": "9s6osm5g",
+          "author_id": "1Hsaf75m",
+          "name": "[Fabric 1.20(.1)] v11.1.118",
+          "version_number": "11.1.118+fabric",
+          "changelog": "",
+          "date_published": "2023-12-21T10:17:23.453770Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha1": "f669f899d707b9e9acf1c239b0ae6b2c8be95361",
+                "sha512": "848aeaf9c218e39452a2efced1872c2f7275c8fd2504fc2cbd63b159faf4eed96481144b7e1dc4fa27296727f54803907ae2e477e66a803c07a2fd51f831eb07"
+              },
+              "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/J3FLptsi/cloth-config-11.1.118-fabric.jar",
+              "filename": "cloth-config-11.1.118-fabric.jar",
+              "primary": true,
+              "size": 1159192
+            }
+          ],
+          "dependencies": [],
+          "game_versions": [
+            "1.20",
+            "1.20.1"
+          ],
+          "loaders": [
+            "fabric"
+          ]
+        }
+      },
+      {
+        "name": "YUNG's API",
+        "version": "[1.20] v4.0.5 (Fabric)",
+        "optional": true,
+        "file": "YungsApi-1.20-Fabric-4.0.5.jar",
+        "type": "mods",
+        "description": "Library mod for YUNG's mods.",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 421649,
+        "curseForgeFileId": 5331704,
+        "curseForgeProject": {
+          "id": 421649,
+          "name": "YUNG's API (Fabric)",
+          "authors": [
+            {
+              "id": 40421595,
+              "name": "YUNGNICKYOUNG",
+              "url": "https://www.curseforge.com/members/yungnickyoung"
+            }
+          ],
+          "gameId": 432,
+          "summary": "A library mod for some of YUNG's Minecraft mods (Fabric version)",
+          "categories": [
+            {
+              "name": "API and Library",
+              "slug": "library-api",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/library-api",
+              "dateModified": "2014-05-23T03:21:44.06Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 421,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/36/635351496947765531.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 421,
+          "classId": 6,
+          "slug": "yungs-api-fabric",
+          "isFeatured": false,
+          "dateModified": "2024-07-24T22:02:23.34Z",
+          "dateCreated": "2020-11-22T03:53:58.407Z",
+          "dateReleased": "2024-07-24T21:55:47.43Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/yungs-api-fabric",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/yungnickyoung/YUNGs-Api/issues",
+            "sourceUrl": "https://github.com/yungnickyoung/YUNGs-Api"
+          },
+          "logo": {
+            "id": 881137,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/881/137/256/256/638311023929985256.png",
+            "title": "638311023929985256.png",
+            "url": "https://media.forgecdn.net/avatars/881/137/638311023929985256.png",
+            "modId": 421649
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 5562731
+        },
+        "curseForgeFile": {
+          "id": 5331704,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "[1.20] YUNG's API v4.0.5 (Fabric)",
+          "fileName": "YungsApi-1.20-Fabric-4.0.5.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2024-05-10T02:27:54.253Z",
+          "fileLength": 1391845,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 306612,
+              "relationType": 3
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 4068019083,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 1540419410,
+              "name": "yungsapi_fabric.mixins.json"
+            },
+            {
+              "fingerprint": 1761370821,
+              "name": "yungsapi.mixins.json"
+            },
+            {
+              "fingerprint": 139663680,
+              "name": "pack.mcmeta"
+            },
+            {
+              "fingerprint": 2160232577,
+              "name": "logo.png"
+            },
+            {
+              "fingerprint": 3035650974,
+              "name": "icon.png"
+            },
+            {
+              "fingerprint": 2491415125,
+              "name": "fabric.mod.json"
+            },
+            {
+              "fingerprint": 1638629479,
+              "name": "catalogue_icon.png"
+            },
+            {
+              "fingerprint": 3217337775,
+              "name": "catalogue_background.png"
+            },
+            {
+              "fingerprint": 867728582,
+              "name": "yungsapi.refmap.json"
+            },
+            {
+              "fingerprint": 519029126,
+              "name": "com"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "9aa99d06657779322767aafd10b9a44eed2690b6",
+              "algo": 1
+            },
+            {
+              "value": "0829fc5dd3c33ffb4f1ab2f913cbc24a",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-09-01T00:00:00Z",
+              "gameVersionName": "Fabric"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020",
+              "gameVersion": "1.20",
+              "gameVersionReleaseDate": "2023-06-07T00:00:00Z",
+              "gameVersionName": "1.20"
+            }
+          ],
+          "gameVersions": [
+            "Fabric",
+            "1.20.1",
+            "1.20"
+          ],
+          "fileFingerprint": 1565092505,
+          "modId": 421649
+        },
+        "modrinthProject": {
+          "id": "Ua7DFN59",
+          "slug": "yungs-api",
+          "project_type": "mod",
+          "team": "3TidTIHz",
+          "title": "YUNG's API",
+          "description": "Library mod for YUNG's mods.",
+          "body": "<p><img src=\"https://i.imgur.com/1SgmaLx.png\" alt=\"\" width=\"1344\" height=\"416\" /><br /><br />\n<a title=\"Join the YUNG GANG on Discord!\" href=\"https://discord.gg/rns3beq\" target=\"_blank\" rel=\"noopener\"><img src=\"https://tinyurl.com/yungsdiscordbadge2\" alt=\"Join the YUNG GANG on Discord!\" width=\"136\" height=\"28\" /></a>&nbsp;<a title=\"Follow me on Twitter!\" href=\"https://twitter.com/yungnickyoung\" target=\"_blank\" rel=\"noopener\"><img src=\"https://tinyurl.com/yungstwitterbadge3\" alt=\"Follow me on Twitter!\" width=\"104\" height=\"37\" /></a>&nbsp;<a title=\"Subscribe to my YouTube!\" href=\"https://www.youtube.com/yungnickyoung\" target=\"_blank\" rel=\"noopener\"><img src=\"https://tinyurl.com/yungsyoutubebadge\" alt=\"Subscribe to my YouTube!\" width=\"80\" height=\"30\" /></a>&nbsp;<a title=\"Support me on Patreon!\" href=\"https://patreon.com/yungnickyoung\" target=\"_blank\" rel=\"noopener\"><img src=\"https://tinyurl.com/yungspatreonbadge\" alt=\"Support me on Patreon!\" width=\"138\" height=\"28\" /></a></p>\n<p>This is a library mod for YUNG's mods.</p>\n<p><b>For all my mod devs out there - </b>This provides a lot of useful stuff, especially if you're a worldgen modder!</p>\n<p>The API includes the following:</p>\n<ul>\n<li>AutoRegistration system (1.18+ only). Register any field with only a simple annotation, regardless of mod loader!</li>\n<li>Custom reimplementation of Jigsaw Manager with improved performance and custom pool element types with various new properties. Check out the <a href=\"https://github.com/yungnickyoung/YUNGs-Better-Dungeons\" target=\"_blank\" rel=\"noopener noreferrer\">Better Dungeons code</a> to see it in action.</li>\n<li>New criteria trigger for safely locating any structure. If the given structure doesn't exist, the trigger simply fails rather than instantly passing (unlike vanilla).</li>\n<li>Interfaces for JSON serialization &amp; deserialization&nbsp;with built-in type adapters.</li>\n<li>Simple, lightweight math utilities for vectors and column positions</li>\n<li><em>BlockStateRandomizer</em> and <em>ItemRandomizer</em>, data abstractions that make adding block and item randomization to your structures incredibly simple. I use these for all of my mods!</li>\n</ul>\n<p>If you're curious, you can check the code for my mods (especially the newer ones) to see how things work. Feel free to ask me any questions on Discord!</p>\n<p><img src=\"https://i.imgur.com/a49IMQJ.png\" /><br />\n<a title=\"Get 25% off your server with code YUNGNICKYOUNG at Bisect Hosting!\" href=\"http://sbisecthosting.com/yung\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://i.imgur.com/nQRs7ZP.png\" alt=\"Use code YUNGNICKYOUNG with Bisect Hosting for 25% off!\" width=\"1344\" height=\"400\" /></a></p>",
+          "published": "2022-11-28T17:17:12.676483Z",
+          "updated": "2024-07-24T21:56:00.865165Z",
+          "status": "approved",
+          "license": {
+            "id": "LGPL-3.0-only",
+            "name": "GNU Lesser General Public License v3.0 only"
+          },
+          "client_side": "required",
+          "server_side": "required",
+          "categories": [
+            "library",
+            "worldgen"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/Ua7DFN59/38049bae08310ffed43435f717e309b15ec6f29d.png",
+          "issues_url": "https://github.com/YUNG-GANG/YUNGs-API/issues",
+          "source_url": "https://github.com/YUNG-GANG/YUNGs-API",
+          "discord_url": "https://discord.gg/rns3beq",
+          "donation_urls": [
+            {
+              "id": "patreon",
+              "platform": "Patreon",
+              "url": "https://www.patreon.com/yungnickyoung"
+            }
+          ],
+          "gallery": []
+        },
+        "modrinthVersion": {
+          "id": "zPT7QfIk",
+          "project_id": "Ua7DFN59",
+          "author_id": "HCGwycZf",
+          "name": "[1.20] v4.0.5 (Fabric)",
+          "version_number": "1.20-Fabric-4.0.5",
+          "changelog": "- Improved structure entity processing compatibility with other mods on Fabric  \n\nIf you want to get early access to all my mods, [Join the Patreon!](https://www.patreon.com/yungnickyoung)  \n[Join us on Discord!](https://discord.gg/rns3beq)  \n[Follow me on Twitter](https://twitter.com/yungnickyoung) for more mod updates!",
+          "date_published": "2024-05-10T02:27:59.148100Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha1": "9aa99d06657779322767aafd10b9a44eed2690b6",
+                "sha512": "69594e17b98a440d6015b8b5131594d9104f05cfb512d2b99c6892f0e89d052e2fa30bb33e35010bc1e86211bbfce1c210488fa77500e2497d1c8ee45239cb01"
+              },
+              "url": "https://cdn.modrinth.com/data/Ua7DFN59/versions/zPT7QfIk/YungsApi-1.20-Fabric-4.0.5.jar",
+              "filename": "YungsApi-1.20-Fabric-4.0.5.jar",
+              "primary": true,
+              "size": 1391845
+            }
+          ],
+          "dependencies": [
+            {
+              "project_id": "P7dR8mSH",
+              "dependency_type": "required"
+            }
+          ],
+          "game_versions": [
+            "1.20",
+            "1.20.1"
+          ],
+          "loaders": [
+            "fabric"
+          ]
+        }
+      },
+      {
+        "name": "YUNG's Better Dungeons",
+        "version": "[1.20] v4.0.4 (Fabric)",
+        "optional": true,
+        "file": "YungsBetterDungeons-1.20-Fabric-4.0.4.jar",
+        "type": "mods",
+        "description": "A complete redesign of Minecraft's dungeons!",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 525586,
+        "curseForgeFileId": 5271361,
+        "curseForgeProject": {
+          "id": 525586,
+          "name": "YUNG's Better Dungeons (Fabric)",
+          "authors": [
+            {
+              "id": 40421595,
+              "name": "YUNGNICKYOUNG",
+              "url": "https://www.curseforge.com/members/yungnickyoung"
+            },
+            {
+              "id": 102094599,
+              "name": "EveCommander",
+              "url": "https://www.curseforge.com/members/evecommander"
+            }
+          ],
+          "gameId": 432,
+          "summary": "A complete redesign of Minecraft's dungeons!",
+          "categories": [
+            {
+              "name": "Structures",
+              "slug": "world-structures",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen/world-structures",
+              "dateModified": "2014-05-08T17:37:17.173Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 409,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/24/635351494371736208.png",
+              "parentCategoryId": 406,
+              "classId": 6
+            },
+            {
+              "name": "Adventure and RPG",
+              "slug": "adventure-rpg",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/adventure-rpg",
+              "dateModified": "2014-05-08T17:42:09.54Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 422,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/37/635351497295252123.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "World Gen",
+              "slug": "world-gen",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen",
+              "dateModified": "2017-10-16T21:40:11.473Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 406,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/26/635351494599748860.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 409,
+          "classId": 6,
+          "slug": "yungs-better-dungeons-fabric",
+          "isFeatured": false,
+          "dateModified": "2024-05-17T00:50:25.03Z",
+          "dateCreated": "2021-09-07T22:18:13.86Z",
+          "dateReleased": "2024-05-17T00:45:10.83Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/yungs-better-dungeons-fabric",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/yungnickyoung/YUNGs-Better-Dungeons/issues",
+            "sourceUrl": "https://github.com/yungnickyoung/YUNGs-Better-Dungeons"
+          },
+          "logo": {
+            "id": 881112,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/881/112/256/256/638311014353653981.png",
+            "title": "638311014353653981.png",
+            "url": "https://media.forgecdn.net/avatars/881/112/638311014353653981.png",
+            "modId": 525586
+          },
+          "allowModDistribution": true,
+          "screenshots": [
+            {
+              "id": 393888,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/393/888/310/172/2021-05-23_02-1.png",
+              "title": "Spider Cave nesting room",
+              "url": "https://media.forgecdn.net/attachments/393/888/2021-05-23_02-1.png",
+              "modId": 525586
+            },
+            {
+              "id": 393887,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/393/887/310/172/2021-07-31_18.png",
+              "title": "Fortress of the Undead",
+              "url": "https://media.forgecdn.net/attachments/393/887/2021-07-31_18.png",
+              "modId": 525586
+            },
+            {
+              "id": 393886,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/393/886/310/172/2021-05-13_03-1.png",
+              "title": "Improved vanilla dungeons",
+              "url": "https://media.forgecdn.net/attachments/393/886/2021-05-13_03-1.png",
+              "modId": 525586
+            },
+            {
+              "id": 393889,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/393/889/310/172/2021-06-21_21-1.png",
+              "title": "Catacombs",
+              "url": "https://media.forgecdn.net/attachments/393/889/2021-06-21_21-1.png",
+              "modId": 525586
+            },
+            {
+              "id": 393890,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/393/890/310/172/2021-06-24_20-1.png",
+              "title": "Catacombs surface entrance",
+              "url": "https://media.forgecdn.net/attachments/393/890/2021-06-24_20-1.png",
+              "modId": 525586
+            },
+            {
+              "id": 513583,
+              "description": "Note that Small Nether Dungeons are an opt-in feature. They must be manually enabled in the mod's config.",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/513/583/310/172/2022-08-26_01.png",
+              "title": "A Small Nether Dungeon, added in 1.19!",
+              "url": "https://media.forgecdn.net/attachments/513/583/2022-08-26_01.png",
+              "modId": 525586
+            }
+          ],
+          "mainFileId": 5349767
+        },
+        "curseForgeFile": {
+          "id": 5271361,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "[1.20] YUNG's Better Dungeons v4.0.4 (Fabric)",
+          "fileName": "YungsBetterDungeons-1.20-Fabric-4.0.4.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2024-04-18T05:10:10.597Z",
+          "fileLength": 944170,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 348521,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 306612,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 421649,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 308702,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 421649,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 348521,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 308702,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 306612,
+              "relationType": 3
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 2243365142,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 2090276492,
+              "name": "pack.mcmeta"
+            },
+            {
+              "fingerprint": 1281495261,
+              "name": "logo.png"
+            },
+            {
+              "fingerprint": 2557105704,
+              "name": "icon.png"
+            },
+            {
+              "fingerprint": 1405424967,
+              "name": "fabric.mod.json"
+            },
+            {
+              "fingerprint": 3488361490,
+              "name": "data"
+            },
+            {
+              "fingerprint": 3743157498,
+              "name": "catalogue_icon.png"
+            },
+            {
+              "fingerprint": 2232744636,
+              "name": "catalogue_background.png"
+            },
+            {
+              "fingerprint": 3156488316,
+              "name": "betterdungeons_fabric.mixins.json"
+            },
+            {
+              "fingerprint": 902839060,
+              "name": "betterdungeons.mixins.json"
+            },
+            {
+              "fingerprint": 3691258602,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 3428836207,
+              "name": "betterdungeons.refmap.json"
+            },
+            {
+              "fingerprint": 1937372765,
+              "name": "com"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "cb4ea32fe75c9dbcd62f6f3d3f912c1b79ac697a",
+              "algo": 1
+            },
+            {
+              "value": "8e324c6508dd74edf1e4705d90139da2",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-09-01T00:00:00Z",
+              "gameVersionName": "Fabric"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020",
+              "gameVersion": "1.20",
+              "gameVersionReleaseDate": "2023-06-07T00:00:00Z",
+              "gameVersionName": "1.20"
+            }
+          ],
+          "gameVersions": [
+            "Fabric",
+            "1.20.1",
+            "1.20"
+          ],
+          "fileFingerprint": 2801013234,
+          "modId": 525586
+        },
+        "modrinthProject": {
+          "id": "o1C1Dkj5",
+          "slug": "yungs-better-dungeons",
+          "project_type": "mod",
+          "team": "dxsKu4w1",
+          "title": "YUNG's Better Dungeons",
+          "description": "A complete redesign of Minecraft's dungeons!",
+          "body": "<p>\n<img src=\"https://i.imgur.com/0Ka2hKB.png\" alt=\"YUNG's Better Dungeons\" width=\"1344\" height=\"416\" /><br />\n<a title=\"Depends on YUNG's API\" href=\"https://modrinth.com/mod/yungs-api\" target=\"_blank\" rel=\"noopener\"><img src=\"https://tinyurl.com/yungsapibadge\" alt=\"Depends on YUNG's API\" width=\"211\" height=\"26\" /></a>&nbsp;<a title=\"Join the YUNG GANG on Discord!\" href=\"https://discord.gg/rns3beq\" target=\"_blank\" rel=\"noopener\"><img src=\"https://tinyurl.com/yungsdiscordbadge2\" alt=\"Join the YUNG GANG on Discord!\" width=\"136\" height=\"28\" /></a>&nbsp;<a title=\"Follow me on Twitter!\" href=\"https://twitter.com/yungnickyoung\" target=\"_blank\" rel=\"noopener\"><img src=\"https://tinyurl.com/yungstwitterbadge3\" alt=\"Follow me on Twitter!\" width=\"104\" height=\"37\" /></a>&nbsp;<a title=\"Subscribe to my YouTube!\" href=\"https://www.youtube.com/yungnickyoung\" target=\"_blank\" rel=\"noopener\"><img src=\"https://tinyurl.com/yungsyoutubebadge\" alt=\"Subscribe to my YouTube!\" width=\"80\" height=\"30\" /></a>&nbsp;<a title=\"Support me on Patreon!\" href=\"https://patreon.com/yungnickyoung\" target=\"_blank\" rel=\"noopener\"><img src=\"https://tinyurl.com/yungspatreonbadge\" alt=\"Support me on Patreon!\" width=\"138\" height=\"28\" /></a><br />\n<img src=\"https://i.imgur.com/gf4exw0.png\" alt=\"What is this?\" width=\"1125\" height=\"59\" /><br />\nA complete redesign of Minecraft's dungeons like never before. YUNG's Better Dungeons redesigns vanilla dungeons while also adding three new dungeons: <b>Catacombs, Fortresses of the Undead, and Spider Caves!</b>\n</p>\n<p>\n<b>1.19.2 introduces the Nether Update! </b>Now you can find small Nether dungeons scattered throughout the Nether.<b> Note that this is an extra opt-in feature</b>, meaning you will need to manually enable it in the mod's config.\n</p>\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/1gBQ8gCs4tU\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>\n<p>\n<img src=\"https://i.imgur.com/JR6R3uf.png\" alt=\"Compatibility\" width=\"1125\" height=\"59\" /><br />\nYUNG's Better Dungeons is intended to be fully compatible with every worldgen mod, including:\n</p>\n<ul>\n<li><a title=\"YUNG's Better Mineshafts\" href=\"https://modrinth.com/mod/yungs-better-mineshafts\" target=\"_blank\" rel=\"noopener\">YUNG's Better Mineshafts</a></li>\n<li><a title=\"YUNG's Better Strongholds\" href=\"https://modrinth.com/mod/yungs-better-strongholds\" target=\"_blank\" rel=\"noopener\">YUNG's Better Strongholds</a></li>\n<li><a title=\"YUNG's Extras\" href=\"https://modrinth.com/mod/yungs-extras\" target=\"_blank\" rel=\"noopener\">YUNG's Extras</a></li>\n<li><a title=\"YUNG's Bridges\" href=\"https://modrinth.com/mod/yungs-bridges\" target=\"_blank\" rel=\"noopener\">YUNG's Bridges</a></li>\n<li>Repurposed Structures. RS also offers a custom data pack you can use in addition to the mod that adds repurposed versions of the small dungeons from Better Dungeons! <a href=\"https://www.curseforge.com/minecraft/texture-packs/repurposed-structures-better-dungeons-datapack\" target=\"_blank\" rel=\"noopener\">Check it out here.</a></li>\n</ul>\n<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://i.imgur.com/a49IMQJ.png\" /><br />\n<a title=\"Get 25% off your server with code YUNGNICKYOUNG at Bisect Hosting!\" href=\"https://bisecthosting.com/yung\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://i.imgur.com/nQRs7ZP.png\" alt=\"Use code YUNGNICKYOUNG with Bisect Hosting for 25% off!\" width=\"1344\" height=\"400\" /></a></p>",
+          "published": "2022-11-28T18:36:45.255845Z",
+          "updated": "2024-05-17T00:45:14.433882Z",
+          "status": "approved",
+          "license": {
+            "id": "LGPL-3.0-only",
+            "name": "GNU Lesser General Public License v3.0 only"
+          },
+          "client_side": "unsupported",
+          "server_side": "required",
+          "categories": [
+            "adventure",
+            "decoration",
+            "worldgen"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/o1C1Dkj5/1f4ac6d7203008cedc2dc998ff1ad6df48732e38.png",
+          "issues_url": "https://github.com/YUNG-GANG/YUNGs-Better-Dungeons/issues",
+          "source_url": "https://github.com/YUNG-GANG/YUNGs-Better-Dungeons",
+          "discord_url": "https://discord.gg/rns3beq",
+          "donation_urls": [
+            {
+              "id": "patreon",
+              "platform": "Patreon",
+              "url": "https://www.patreon.com/yungnickyoung"
+            }
+          ],
+          "gallery": [
+            {
+              "url": "https://cdn.modrinth.com/data/o1C1Dkj5/images/16cf9b2e65c75afe44ed8f13d67ab539ac9fdf00.png",
+              "featured": false,
+              "title": "A Small Nether Dungeon, added in 1.19!",
+              "description": "Note that Small Nether Dungeons are an opt-in feature. They must be manually enabled in the mod's config.",
+              "created": "2022-11-28T18:50:40.770360Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/o1C1Dkj5/images/430a7b3df92615ef65e3e4d948f47d30c08a301d.png",
+              "featured": true,
+              "title": "Fortress of the Undead",
+              "created": "2022-11-28T18:50:31.432404Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/o1C1Dkj5/images/8dbfa5f91237d71785a78da80a7a2e35f9e0a936.png",
+              "featured": false,
+              "title": "Improved vanilla dungeon in an open cavern",
+              "description": " ",
+              "created": "2022-11-28T18:48:54.873666Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/o1C1Dkj5/images/c41f4ad0f6909dd705036dfafdbb5bb895444f20.png",
+              "featured": false,
+              "title": "The Catacombs (Floor 0)",
+              "created": "2022-11-28T18:50:33.264140Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/o1C1Dkj5/images/ce1b9c1e55d4570ba1e90e8852d0c14d5559bf6b.png",
+              "featured": false,
+              "title": "The Catacombs (Floor B1)",
+              "created": "2022-11-28T18:50:34.771287Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/o1C1Dkj5/images/cf57af53d46cbfdcd4bab45cad6f0d0facb0b2de.png",
+              "featured": false,
+              "title": "Spider Caves nesting room",
+              "created": "2022-11-28T18:50:38.170374Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/o1C1Dkj5/images/d3791d1eed6818c029ec6e2550c8a9e7c05ec564.png",
+              "featured": false,
+              "title": "Improved vanilla dungeons",
+              "description": " ",
+              "created": "2022-11-28T18:48:34.076498Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/o1C1Dkj5/images/e6466de1c65c2fab8324a732a9555d39074c586c.png",
+              "featured": false,
+              "title": "Catacombs surface entrance",
+              "created": "2022-11-28T18:50:36.580171Z",
+              "ordering": 0.0
+            }
+          ]
+        },
+        "modrinthVersion": {
+          "id": "nidyvq2m",
+          "project_id": "o1C1Dkj5",
+          "author_id": "HCGwycZf",
+          "name": "[1.20] v4.0.4 (Fabric)",
+          "version_number": "1.20-Fabric-4.0.4",
+          "changelog": "- Removed log spam when other mods have invalid basalt column feature.  \n\nIf you want to get early access to all my mods, [Join the Patreon!](https://www.patreon.com/yungnickyoung)  \n[Join us on Discord!](https://discord.gg/rns3beq)  \n[Follow me on Twitter](https://twitter.com/yungnickyoung) for more mod updates!",
+          "date_published": "2024-04-18T05:10:15.900493Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha512": "02ee00641aea2e80806923c1d97a366b82eb6d6e1d749fc8fb4eeddeddea718c08f5a87ba5189427f747801b899abe5a6138a260c7e7f949e5e69b4065ac5464",
+                "sha1": "cb4ea32fe75c9dbcd62f6f3d3f912c1b79ac697a"
+              },
+              "url": "https://cdn.modrinth.com/data/o1C1Dkj5/versions/nidyvq2m/YungsBetterDungeons-1.20-Fabric-4.0.4.jar",
+              "filename": "YungsBetterDungeons-1.20-Fabric-4.0.4.jar",
+              "primary": true,
+              "size": 944170
+            }
+          ],
+          "dependencies": [
+            {
+              "project_id": "9s6osm5g",
+              "dependency_type": "required"
+            },
+            {
+              "project_id": "P7dR8mSH",
+              "dependency_type": "required"
+            },
+            {
+              "project_id": "Ua7DFN59",
+              "dependency_type": "required"
+            },
+            {
+              "project_id": "mOgUt4GM",
+              "dependency_type": "optional"
+            }
+          ],
+          "game_versions": [
+            "1.20",
+            "1.20.1"
+          ],
+          "loaders": [
+            "fabric"
+          ]
+        }
+      },
+      {
+        "name": "YUNG's Better Mineshafts",
+        "version": "[1.20] v4.0.4 (Fabric)",
+        "optional": true,
+        "file": "YungsBetterMineshafts-1.20-Fabric-4.0.4.jar",
+        "type": "mods",
+        "description": "A long-awaited and much-needed abandoned mineshaft overhaul!",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 373591,
+        "curseForgeFileId": 4769064,
+        "curseForgeProject": {
+          "id": 373591,
+          "name": "YUNG's Better Mineshafts (Fabric)",
+          "authors": [
+            {
+              "id": 40421595,
+              "name": "YUNGNICKYOUNG",
+              "url": "https://www.curseforge.com/members/yungnickyoung"
+            }
+          ],
+          "gameId": 432,
+          "summary": "A long-awaited and much-needed abandoned mineshaft overhaul!",
+          "categories": [
+            {
+              "name": "Structures",
+              "slug": "world-structures",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen/world-structures",
+              "dateModified": "2014-05-08T17:37:17.173Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 409,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/24/635351494371736208.png",
+              "parentCategoryId": 406,
+              "classId": 6
+            },
+            {
+              "name": "World Gen",
+              "slug": "world-gen",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen",
+              "dateModified": "2017-10-16T21:40:11.473Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 406,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/26/635351494599748860.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Adventure and RPG",
+              "slug": "adventure-rpg",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/adventure-rpg",
+              "dateModified": "2014-05-08T17:42:09.54Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 422,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/37/635351497295252123.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 409,
+          "classId": 6,
+          "slug": "yungs-better-mineshafts-fabric",
+          "isFeatured": false,
+          "dateModified": "2024-05-12T09:47:55.763Z",
+          "dateCreated": "2020-04-05T23:08:05.077Z",
+          "dateReleased": "2024-05-09T20:44:29.713Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/yungs-better-mineshafts-fabric",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/yungnickyoung/YUNGs-Better-Mineshafts/issues",
+            "sourceUrl": "https://github.com/yungnickyoung/YUNGs-Better-Mineshafts"
+          },
+          "logo": {
+            "id": 881108,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/881/108/256/256/638311012456344147.png",
+            "title": "638311012456344147.png",
+            "url": "https://media.forgecdn.net/avatars/881/108/638311012456344147.png",
+            "modId": 373591
+          },
+          "allowModDistribution": true,
+          "screenshots": [
+            {
+              "id": 284923,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/284/923/310/172/2020-04-05_19.png",
+              "title": "Better Mineshafts",
+              "url": "https://media.forgecdn.net/attachments/284/923/2020-04-05_19.png",
+              "modId": 373591
+            },
+            {
+              "id": 285162,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/285/162/310/172/2020-04-06_21.png",
+              "title": "A network of tunnels",
+              "url": "https://media.forgecdn.net/attachments/285/162/2020-04-06_21.png",
+              "modId": 373591
+            },
+            {
+              "id": 285172,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/285/172/310/172/2020-04-06_21.png",
+              "title": "A network of tunnels 3",
+              "url": "https://media.forgecdn.net/attachments/285/172/2020-04-06_21.png",
+              "modId": 373591
+            },
+            {
+              "id": 285171,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/285/171/310/172/2020-04-06_21.png",
+              "title": "A network of tunnels 2",
+              "url": "https://media.forgecdn.net/attachments/285/171/2020-04-06_21.png",
+              "modId": 373591
+            }
+          ],
+          "mainFileId": 5331026
+        },
+        "curseForgeFile": {
+          "id": 4769064,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "[1.20] YUNG's Better Mineshafts v4.0.4 (Fabric)",
+          "fileName": "YungsBetterMineshafts-1.20-Fabric-4.0.4.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2023-09-25T20:44:30.85Z",
+          "fileLength": 621495,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 421649,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 348521,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 308702,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 306612,
+              "relationType": 3
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 3271625019,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 1077245734,
+              "name": "pack.mcmeta"
+            },
+            {
+              "fingerprint": 2478836848,
+              "name": "logo.png"
+            },
+            {
+              "fingerprint": 3243702743,
+              "name": "icon.png"
+            },
+            {
+              "fingerprint": 305899370,
+              "name": "fabric.mod.json"
+            },
+            {
+              "fingerprint": 1841746221,
+              "name": "data"
+            },
+            {
+              "fingerprint": 2811528830,
+              "name": "catalogue_icon.png"
+            },
+            {
+              "fingerprint": 1071865634,
+              "name": "catalogue_background.png"
+            },
+            {
+              "fingerprint": 3292255791,
+              "name": "bettermineshafts_fabric.mixins.json"
+            },
+            {
+              "fingerprint": 3895905376,
+              "name": "bettermineshafts.mixins.json"
+            },
+            {
+              "fingerprint": 1604967740,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 1378615429,
+              "name": "bettermineshafts.refmap.json"
+            },
+            {
+              "fingerprint": 3462555611,
+              "name": "com"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "dda3af404d6958f6fed882b8b4ae7827ac78944b",
+              "algo": 1
+            },
+            {
+              "value": "88e49e369f9fd20958c87138328b8c3c",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-09-01T00:00:00Z",
+              "gameVersionName": "Fabric"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020",
+              "gameVersion": "1.20",
+              "gameVersionReleaseDate": "2023-06-07T00:00:00Z",
+              "gameVersionName": "1.20"
+            }
+          ],
+          "gameVersions": [
+            "Fabric",
+            "1.20.1",
+            "1.20"
+          ],
+          "fileFingerprint": 4192399855,
+          "modId": 373591
+        },
+        "modrinthProject": {
+          "id": "HjmxVlSr",
+          "slug": "yungs-better-mineshafts",
+          "project_type": "mod",
+          "team": "4X4QqWlw",
+          "title": "YUNG's Better Mineshafts",
+          "description": "A long-awaited and much-needed abandoned mineshaft overhaul!",
+          "body": "<p>\n<img src=\"https://i.imgur.com/zgJn0ER.png\" alt=\"YUNG's Better Mineshafts\" width=\"1344\" height=\"416\" /><br />\n<a title=\"Depends on YUNG's API\" href=\"https://modrinth.com/mod/yungs-api\" target=\"_blank\" rel=\"noopener\"><img src=\"https://tinyurl.com/yungsapibadge\" alt=\"Depends on YUNG's API\" width=\"211\" height=\"26\" /></a>&nbsp;<a title=\"Join the YUNG GANG on Discord!\" href=\"https://discord.gg/rns3beq\" target=\"_blank\" rel=\"noopener\"><img src=\"https://tinyurl.com/yungsdiscordbadge2\" alt=\"Join the YUNG GANG on Discord!\" width=\"136\" height=\"28\" /></a>&nbsp;<a title=\"Follow me on Twitter!\" href=\"https://twitter.com/yungnickyoung\" target=\"_blank\" rel=\"noopener\"><img src=\"https://tinyurl.com/yungstwitterbadge3\" alt=\"Follow me on Twitter!\" width=\"104\" height=\"37\" /></a>&nbsp;<a title=\"Subscribe to my YouTube!\" href=\"https://www.youtube.com/yungnickyoung\" target=\"_blank\" rel=\"noopener\"><img src=\"https://tinyurl.com/yungsyoutubebadge\" alt=\"Subscribe to my YouTube!\" width=\"80\" height=\"30\" /></a>&nbsp;<a title=\"Support me on Patreon!\" href=\"https://patreon.com/yungnickyoung\" target=\"_blank\" rel=\"noopener\"><img src=\"https://tinyurl.com/yungspatreonbadge\" alt=\"Support me on Patreon!\" width=\"138\" height=\"28\" /></a><br />\n<img src=\"https://i.imgur.com/Ug8dC9A.png\" alt=\"What is this?\" width=\"1125\" height=\"59\" /><br />\nThis mod completely revamps vanilla abandoned mineshafts, changing them from boring straight lines into dynamic, varied webs of tunnels.<br />Find loot tucked away in the corners of abandoned workstations, or out in the open in a chest on a minecart.\n</p>\n<ul>\n<li><strong>13 biome variants</strong>, including a rare mushroom mineshaft!</li>\n<li>Abandoned workstations (common)</li>\n<li>Workstation cellars (less common)</li>\n<li>Ore deposits at the end of some tunnels with coal, iron, redstone, gold, lapis, emerald, and (very rarely) <strong>diamond</strong>!</li>\n<li>Abandoned miners' outposts (rare)</li>\n<li><strong>Surface openings</strong> (very rare)</li>\n</ul>\n<p>\n<img src=\"https://i.imgur.com/1OPCfB1.png\" alt=\"Compatibility\" width=\"1125\" height=\"59\" /><br />\nYUNG's Better Mineshafts is intended to be fully compatible with every worldgen mod, including:\n</p>\n<ul>\n<li><a title=\"YUNG's Better Strongholds\" href=\"https://modrinth.com/mod/yungs-better-strongholds\" target=\"_blank\" rel=\"noopener\">YUNG's Better Strongholds</a></li>\n<li><a title=\"YUNG's Better Dungeons\" href=\"https://modrinth.com/mod/yungs-better-dungeons\" target=\"_blank\" rel=\"noopener\">YUNG's Better Dungeons</a></li>\n<li><a title=\"YUNG's Extras\" href=\"https://modrinth.com/mod/yungs-extras\" target=\"_blank\" rel=\"noopener\">YUNG's Extras</a></li>\n<li><a title=\"YUNG's Bridges\" href=\"https://modrinth.com/mod/yungs-bridges\" target=\"_blank\" rel=\"noopener\">YUNG's Bridges</a></li>\n</ul>\n<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://i.imgur.com/a49IMQJ.png\" /><br />\n<a title=\"Get 25% off your server with code YUNGNICKYOUNG at Bisect Hosting!\" href=\"https://bisecthosting.com/yung\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://i.imgur.com/nQRs7ZP.png\" alt=\"Use code YUNGNICKYOUNG with Bisect Hosting for 25% off!\" width=\"1344\" height=\"400\" /></a></p>",
+          "published": "2022-11-28T17:44:12.312404Z",
+          "updated": "2024-05-09T20:44:33.434449Z",
+          "status": "approved",
+          "license": {
+            "id": "LGPL-3.0-only",
+            "name": "GNU Lesser General Public License v3.0 only"
+          },
+          "client_side": "unsupported",
+          "server_side": "required",
+          "categories": [
+            "adventure",
+            "decoration",
+            "worldgen"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/HjmxVlSr/947b35bc08547e1b16cd51e6fc1c621852ea30c9.png",
+          "issues_url": "https://github.com/YUNG-GANG/YUNGs-Better-Mineshafts/issues",
+          "source_url": "https://github.com/YUNG-GANG/YUNGs-Better-Mineshafts",
+          "discord_url": "https://discord.gg/rns3beq",
+          "donation_urls": [
+            {
+              "id": "patreon",
+              "platform": "Patreon",
+              "url": "https://www.patreon.com/yungnickyoung"
+            }
+          ],
+          "gallery": [
+            {
+              "url": "https://cdn.modrinth.com/data/HjmxVlSr/images/34a44aa5af1f4b20fe959fbb90a2299c8496a000.png",
+              "featured": false,
+              "created": "2022-11-28T18:10:07.243676Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/HjmxVlSr/images/964c22df53b6b7a87df0e6f66fa5ea409c572225.png",
+              "featured": true,
+              "created": "2022-11-28T18:09:19.889684Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/HjmxVlSr/images/9e2e0764403af30a82c861dc9fe9821f24011264.png",
+              "featured": false,
+              "created": "2022-11-28T18:10:02.285378Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/HjmxVlSr/images/eb599107a4feb2f0b61687e32b8f9138cce16280.png",
+              "featured": false,
+              "created": "2022-11-28T18:09:59.608873Z",
+              "ordering": 0.0
+            }
+          ]
+        },
+        "modrinthVersion": {
+          "id": "qLnQnqXS",
+          "project_id": "HjmxVlSr",
+          "author_id": "HCGwycZf",
+          "name": "[1.20] v4.0.4 (Fabric)",
+          "version_number": "1.20-Fabric-4.0.4",
+          "changelog": "- Added Catalogue banner and background!  \n\nIf you want to get early access to all my mods, [Join the Patreon!](https://www.patreon.com/yungnickyoung)  \n[Join us on Discord!](https://discord.gg/rns3beq)  \n[Follow me on Twitter](https://twitter.com/yungnickyoung) for more mod updates!",
+          "date_published": "2023-09-25T20:44:36.121185Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha1": "dda3af404d6958f6fed882b8b4ae7827ac78944b",
+                "sha512": "82d6e361ef403471beaaf2fa86964af541df167da56f53b820e5abfac693f63dd5d6c0aafbc9e9baa947b42a57c79f069ed6ede55e680a2523d2ca7f2e538b13"
+              },
+              "url": "https://cdn.modrinth.com/data/HjmxVlSr/versions/qLnQnqXS/YungsBetterMineshafts-1.20-Fabric-4.0.4.jar",
+              "filename": "YungsBetterMineshafts-1.20-Fabric-4.0.4.jar",
+              "primary": true,
+              "size": 621495
+            }
+          ],
+          "dependencies": [
+            {
+              "project_id": "9s6osm5g",
+              "dependency_type": "required"
+            },
+            {
+              "project_id": "P7dR8mSH",
+              "dependency_type": "required"
+            },
+            {
+              "project_id": "Ua7DFN59",
+              "dependency_type": "required"
+            },
+            {
+              "project_id": "mOgUt4GM",
+              "dependency_type": "optional"
+            }
+          ],
+          "game_versions": [
+            "1.20",
+            "1.20.1"
+          ],
+          "loaders": [
+            "fabric"
+          ]
+        }
+      },
+      {
+        "name": "YUNG's Better Nether Fortresses",
+        "version": "[1.20] v2.0.6 (Fabric)",
+        "optional": true,
+        "file": "YungsBetterNetherFortresses-1.20-Fabric-2.0.6.jar",
+        "type": "mods",
+        "description": "A complete redesign of Minecraft's Nether fortresses!",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 817666,
+        "curseForgeFileId": 5193464,
+        "curseForgeProject": {
+          "id": 817666,
+          "name": "YUNG's Better Nether Fortresses (Fabric)",
+          "authors": [
+            {
+              "id": 40421595,
+              "name": "YUNGNICKYOUNG",
+              "url": "https://www.curseforge.com/members/yungnickyoung"
+            },
+            {
+              "id": 102094599,
+              "name": "EveCommander",
+              "url": "https://www.curseforge.com/members/evecommander"
+            }
+          ],
+          "gameId": 432,
+          "summary": "A complete redesign of Minecraft's Nether fortresses!",
+          "categories": [
+            {
+              "name": "Structures",
+              "slug": "world-structures",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen/world-structures",
+              "dateModified": "2014-05-08T17:37:17.173Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 409,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/24/635351494371736208.png",
+              "parentCategoryId": 406,
+              "classId": 6
+            },
+            {
+              "name": "World Gen",
+              "slug": "world-gen",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen",
+              "dateModified": "2017-10-16T21:40:11.473Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 406,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/26/635351494599748860.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Adventure and RPG",
+              "slug": "adventure-rpg",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/adventure-rpg",
+              "dateModified": "2014-05-08T17:42:09.54Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 422,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/37/635351497295252123.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 409,
+          "classId": 6,
+          "slug": "yungs-better-nether-fortresses-fabric",
+          "isFeatured": false,
+          "dateModified": "2024-05-17T01:15:16.507Z",
+          "dateCreated": "2023-01-24T22:45:17.887Z",
+          "dateReleased": "2024-05-17T01:09:12.38Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/yungs-better-nether-fortresses-fabric",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/YUNG-GANG/YUNGs-Better-Fortresses/issues",
+            "sourceUrl": "https://github.com/YUNG-GANG/YUNGs-Better-Fortresses"
+          },
+          "logo": {
+            "id": 881119,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/881/119/256/256/638311018871890132.png",
+            "title": "638311018871890132.png",
+            "url": "https://media.forgecdn.net/avatars/881/119/638311018871890132.png",
+            "modId": 817666
+          },
+          "allowModDistribution": true,
+          "screenshots": [
+            {
+              "id": 612290,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/612/290/310/172/2022-10-27_03.png",
+              "title": "The Keep",
+              "url": "https://media.forgecdn.net/attachments/612/290/2022-10-27_03.png",
+              "modId": 817666
+            },
+            {
+              "id": 612292,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/612/292/310/172/2022-10-27_03.png",
+              "title": "Compatible with all sorts of biome mods!",
+              "url": "https://media.forgecdn.net/attachments/612/292/2022-10-27_03.png",
+              "modId": 817666
+            },
+            {
+              "id": 612289,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/612/289/310/172/2022-11-04_03.png",
+              "title": "YUNG's Better Nether Fortresses",
+              "url": "https://media.forgecdn.net/attachments/612/289/2022-11-04_03.png",
+              "modId": 817666
+            },
+            {
+              "id": 631997,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/631/997/310/172/2023-03-09_01.png",
+              "title": "Better Fortresses + Infernal Expansion",
+              "url": "https://media.forgecdn.net/attachments/631/997/2023-03-09_01.png",
+              "modId": 817666
+            },
+            {
+              "id": 612291,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/612/291/310/172/2022-11-19_14.png",
+              "title": "Bridges on bridges",
+              "url": "https://media.forgecdn.net/attachments/612/291/2022-11-19_14.png",
+              "modId": 817666
+            }
+          ],
+          "mainFileId": 5349819
+        },
+        "curseForgeFile": {
+          "id": 5193464,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "[1.20] YUNG's Better Nether Fortresses v2.0.6 (Fabric)",
+          "fileName": "YungsBetterNetherFortresses-1.20-Fabric-2.0.6.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2024-03-18T23:17:06.207Z",
+          "fileLength": 760974,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 308702,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 421649,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 421649,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 308702,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 306612,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 348521,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 348521,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 306612,
+              "relationType": 3
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 3188917410,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 1553285106,
+              "name": "pack.mcmeta"
+            },
+            {
+              "fingerprint": 4147621269,
+              "name": "logo.png"
+            },
+            {
+              "fingerprint": 1987024102,
+              "name": "icon.png"
+            },
+            {
+              "fingerprint": 1850923989,
+              "name": "fabric.mod.json"
+            },
+            {
+              "fingerprint": 503948450,
+              "name": "data"
+            },
+            {
+              "fingerprint": 2433752681,
+              "name": "catalogue_icon.png"
+            },
+            {
+              "fingerprint": 124555225,
+              "name": "catalogue_background.png"
+            },
+            {
+              "fingerprint": 3891022527,
+              "name": "betterfortresses_fabric.mixins.json"
+            },
+            {
+              "fingerprint": 2319970093,
+              "name": "betterfortresses.mixins.json"
+            },
+            {
+              "fingerprint": 387133656,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 4025719586,
+              "name": "betterfortresses.refmap.json"
+            },
+            {
+              "fingerprint": 2647024274,
+              "name": "com"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "837560db615bad870809e09436e943c4324301d1",
+              "algo": 1
+            },
+            {
+              "value": "aefeee128bbae518186bd3d73c59c74a",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-09-01T00:00:00Z",
+              "gameVersionName": "Fabric"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020",
+              "gameVersion": "1.20",
+              "gameVersionReleaseDate": "2023-06-07T00:00:00Z",
+              "gameVersionName": "1.20"
+            }
+          ],
+          "gameVersions": [
+            "Fabric",
+            "1.20.1",
+            "1.20"
+          ],
+          "fileFingerprint": 2871372311,
+          "modId": 817666
+        },
+        "modrinthProject": {
+          "id": "Z2mXHnxP",
+          "slug": "yungs-better-nether-fortresses",
+          "project_type": "mod",
+          "team": "5dSGn2do",
+          "title": "YUNG's Better Nether Fortresses",
+          "description": "A complete redesign of Minecraft's Nether fortresses!",
+          "body": "<p>\n<img src=\"https://i.imgur.com/tgq23EN.png\" alt=\"YUNG's Better Nether Fortresses\" width=\"1344\" height=\"416/><br />\n<a title=\"Depends on YUNG's API\" href=\"https://modrinth.com/mod/yungs-api\" target=\"_blank\" rel=\"noopener\"><img src=\"https://tinyurl.com/yungsapibadge\" alt=\"Depends on YUNG's API\" width=\"211\" height=\"26\" /></a>&nbsp;<a title=\"Join the YUNG GANG on Discord!\" href=\"https://discord.gg/rns3beq\" target=\"_blank\" rel=\"noopener\"><img src=\"https://tinyurl.com/yungsdiscordbadge2\" alt=\"Join the YUNG GANG on Discord!\" width=\"136\" height=\"28\" /></a>&nbsp;<a title=\"Follow me on Twitter!\" href=\"https://twitter.com/yungnickyoung\" target=\"_blank\" rel=\"noopener\"><img src=\"https://tinyurl.com/yungstwitterbadge3\" alt=\"Follow me on Twitter!\" width=\"104\" height=\"37\" /></a>&nbsp;<a title=\"Subscribe to my YouTube!\" href=\"https://www.youtube.com/yungnickyoung\" target=\"_blank\" rel=\"noopener\"><img src=\"https://tinyurl.com/yungsyoutubebadge\" alt=\"Subscribe to my YouTube!\" width=\"80\" height=\"30\" /></a>&nbsp;<a title=\"Support me on Patreon!\" href=\"https://patreon.com/yungnickyoung\" target=\"_blank\" rel=\"noopener\"><img src=\"https://tinyurl.com/yungspatreonbadge\" alt=\"Support me on Patreon!\" width=\"138\" height=\"28\" /></a><br />\n<img src=\"https://i.imgur.com/brWx8ey.png\" alt=\"What is this?\" width=\"1125\" height=\"59\" /><br />\n<b>A complete overhaul of Minecraft's Nether fortresses!</b> YUNG's Better Nether Fortresses completely redesigns Nether fortresses from the ground up. Compared to vanilla, Better Fortresses are much larger, more complex, and more rewarding. Each fortress is comprised of three parts — the bridge networks, the Keep, and the Lava Halls that extend deep underground.\n</p>\n<p>\n<b>YUNG's Better Nether Fortresses also includes built-in Create compatibility!</b> If you're using Create, certain parts of the fortress have a chance of spawning using Create pieces. Note that this is an optional feature — Create is not required to run this mod. Be sure to use the latest release of Create for your Minecraft version! Note that this is for 1.19.2+ only.\n</p>\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/omRqM-gZBAg\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n<p>\n<img src=\"https://i.imgur.com/3wUhXJJ.png\" alt=\"Compatibility\" width=\"1125\" height=\"59\" /><br />\nYUNG's Better Nether Fortresses is intended to be fully compatible with every worldgen mod, including:\n</p>\n<ul>\n<li><a title=\"YUNG's Better Ocean Monuments\" href=\"https://modrinth.com/mod/yungs-better-ocean-monuments\" target=\"_blank\" rel=\"noopener\">YUNG's Ocean Monuments</a></li>\n<li><a title=\"YUNG's Better Witch Huts\" href=\"https://modrinth.com/mod/yungs-better-witch-huts\" target=\"_blank\" rel=\"noopener\">YUNG's Better Witch Huts</a></li>\n<li><a title=\"YUNG's Extras\" href=\"https://modrinth.com/mod/yungs-extras\" target=\"_blank\" rel=\"noopener\">YUNG's Extras</a></li>\n<li>Infernal Expansion, Better Nether & other Nether biome mods</li>\n<li>Apocalyptic Fortress: The AF fortress will spawn alongside the Better Fortress</li>\n<li>Bygone Nether: Better Fortresses will spawn instead of Bygone Nether's enhanced vanilla fortress</li>\n</ul>\n<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://i.imgur.com/a49IMQJ.png\" /><br />\n<a title=\"Get 25% off your server with code YUNGNICKYOUNG at Bisect Hosting!\" href=\"https://bisecthosting.com/yung\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://i.imgur.com/nQRs7ZP.png\" alt=\"Use code YUNGNICKYOUNG with Bisect Hosting for 25% off!\" width=\"1344\" height=\"400\" /></a></p>",
+          "published": "2023-02-19T23:44:10.212939Z",
+          "updated": "2024-05-17T01:09:15.879520Z",
+          "status": "approved",
+          "license": {
+            "id": "LGPL-3.0-only",
+            "name": "GNU Lesser General Public License v3.0 only"
+          },
+          "client_side": "unsupported",
+          "server_side": "required",
+          "categories": [
+            "adventure",
+            "decoration",
+            "worldgen"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/Z2mXHnxP/c89b02a675b204bfbe1d7e494769e425355e23f9.png",
+          "issues_url": "https://github.com/YUNG-GANG/YUNGs-Better-Fortresses/issues",
+          "source_url": "https://github.com/YUNG-GANG/YUNGs-Better-Fortresses",
+          "discord_url": "https://discord.gg/rns3beq",
+          "donation_urls": [
+            {
+              "id": "patreon",
+              "platform": "Patreon",
+              "url": "https://www.patreon.com/yungnickyoung"
+            }
+          ],
+          "gallery": [
+            {
+              "url": "https://cdn.modrinth.com/data/Z2mXHnxP/images/243291a972d7eb4ab406fe42a77403dc9328521a.png",
+              "featured": false,
+              "title": "Bridges on bridges!",
+              "created": "2023-02-19T23:52:07.717526Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/Z2mXHnxP/images/53d6867990746adfd9f2ab7e62b707825072a63a.png",
+              "featured": false,
+              "title": "The Keep",
+              "created": "2023-02-19T23:51:51.338047Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/Z2mXHnxP/images/a1342b07e669e3a3bb7bcdd182d11d55b72876b2.png",
+              "featured": false,
+              "title": "Compatible with all sorts of biome mods!",
+              "created": "2023-02-19T23:52:28.072740Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/Z2mXHnxP/images/d31d5e626c5d8273d9c2afbc3b7ab268184c620e.png",
+              "featured": false,
+              "title": "Better Fortresses + Infernal Expansion",
+              "created": "2023-03-09T07:20:29.191779Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/Z2mXHnxP/images/df4f72afa15c0a7161b712b7bdaa8707e1c502d3.png",
+              "featured": true,
+              "title": "YUNG's Better Nether Fortresses",
+              "created": "2023-02-19T23:51:40.557007Z",
+              "ordering": 0.0
+            }
+          ]
+        },
+        "modrinthVersion": {
+          "id": "FL88RLRu",
+          "project_id": "Z2mXHnxP",
+          "author_id": "HCGwycZf",
+          "name": "[1.20] v2.0.6 (Fabric)",
+          "version_number": "1.20-Fabric-2.0.6",
+          "changelog": "- Removed log spam when other mods have invalid basalt column feature\n\nIf you want to get early access to all my mods, [Join the Patreon!](https://www.patreon.com/yungnickyoung)  \n[Join us on Discord!](https://discord.gg/rns3beq)  \n[Follow me on Twitter](https://twitter.com/yungnickyoung) for more mod updates!",
+          "date_published": "2024-03-18T23:17:16.093842Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha1": "837560db615bad870809e09436e943c4324301d1",
+                "sha512": "a752f0dea20fa86e6d3a4f87d180af706b2ad5e3d434185aaa624692fc55329a2e2e410e67f843ec982e7b90ae63565b4aed43adbee6c50ded403ef50d91d7fd"
+              },
+              "url": "https://cdn.modrinth.com/data/Z2mXHnxP/versions/FL88RLRu/YungsBetterNetherFortresses-1.20-Fabric-2.0.6.jar",
+              "filename": "YungsBetterNetherFortresses-1.20-Fabric-2.0.6.jar",
+              "primary": true,
+              "size": 760974
+            }
+          ],
+          "dependencies": [
+            {
+              "project_id": "9s6osm5g",
+              "dependency_type": "required"
+            },
+            {
+              "project_id": "P7dR8mSH",
+              "dependency_type": "required"
+            },
+            {
+              "project_id": "Ua7DFN59",
+              "dependency_type": "required"
+            },
+            {
+              "project_id": "mOgUt4GM",
+              "dependency_type": "optional"
+            }
+          ],
+          "game_versions": [
+            "1.20",
+            "1.20.1"
+          ],
+          "loaders": [
+            "fabric"
+          ]
+        }
+      },
+      {
+        "name": "YUNG's Better Ocean Monuments",
+        "version": "[1.20] v3.0.4 (Fabric)",
+        "optional": true,
+        "file": "YungsBetterOceanMonuments-1.20-Fabric-3.0.4.jar",
+        "type": "mods",
+        "description": "A complete redesign of Minecraft's ocean monuments!",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 689252,
+        "curseForgeFileId": 4883005,
+        "curseForgeProject": {
+          "id": 689252,
+          "name": "YUNG's Better Ocean Monuments (Fabric)",
+          "authors": [
+            {
+              "id": 40421595,
+              "name": "YUNGNICKYOUNG",
+              "url": "https://www.curseforge.com/members/yungnickyoung"
+            },
+            {
+              "id": 103326469,
+              "name": "TeraBuildsStuff",
+              "url": "https://www.curseforge.com/members/terabuildsstuff"
+            }
+          ],
+          "gameId": 432,
+          "summary": "A complete redesign of Minecraft's ocean monuments!",
+          "categories": [
+            {
+              "name": "Adventure and RPG",
+              "slug": "adventure-rpg",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/adventure-rpg",
+              "dateModified": "2014-05-08T17:42:09.54Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 422,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/37/635351497295252123.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Structures",
+              "slug": "world-structures",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen/world-structures",
+              "dateModified": "2014-05-08T17:37:17.173Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 409,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/24/635351494371736208.png",
+              "parentCategoryId": 406,
+              "classId": 6
+            },
+            {
+              "name": "World Gen",
+              "slug": "world-gen",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen",
+              "dateModified": "2017-10-16T21:40:11.473Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 406,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/26/635351494599748860.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 409,
+          "classId": 6,
+          "slug": "yungs-better-ocean-monuments-fabric",
+          "isFeatured": false,
+          "dateModified": "2024-05-17T01:05:24.43Z",
+          "dateCreated": "2022-10-16T21:45:47.527Z",
+          "dateReleased": "2024-05-17T01:01:44.293Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/yungs-better-ocean-monuments-fabric",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/YUNG-GANG/YUNGs-Better-Ocean-Monuments/issues",
+            "sourceUrl": "https://github.com/YUNG-GANG/YUNGs-Better-Ocean-Monuments"
+          },
+          "logo": {
+            "id": 881117,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/881/117/256/256/638311018160343749.png",
+            "title": "638311018160343749.png",
+            "url": "https://media.forgecdn.net/avatars/881/117/638311018160343749.png",
+            "modId": 689252
+          },
+          "allowModDistribution": true,
+          "screenshots": [
+            {
+              "id": 507039,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/507/39/310/172/2022-08-11_16.png",
+              "title": "An Elder Guardian patrols the Penthouse Chamber",
+              "url": "https://media.forgecdn.net/attachments/507/39/2022-08-11_16.png",
+              "modId": 689252
+            },
+            {
+              "id": 507035,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/507/35/310/172/2022-05-09_00.png",
+              "title": "YUNG's Better Ocean Monuments",
+              "url": "https://media.forgecdn.net/attachments/507/35/2022-05-09_00.png",
+              "modId": 689252
+            },
+            {
+              "id": 507036,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/507/36/310/172/2022-05-09_00.png",
+              "title": "Monument tower protruding above the surface",
+              "url": "https://media.forgecdn.net/attachments/507/36/2022-05-09_00.png",
+              "modId": 689252
+            },
+            {
+              "id": 507037,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/507/37/310/172/2022-05-13_18.png",
+              "title": "The Entrance Chamber",
+              "url": "https://media.forgecdn.net/attachments/507/37/2022-05-13_18.png",
+              "modId": 689252
+            }
+          ],
+          "mainFileId": 5349799
+        },
+        "curseForgeFile": {
+          "id": 4883005,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "[1.20] YUNG's Better Ocean Monuments v3.0.4 (Fabric)",
+          "fileName": "YungsBetterOceanMonuments-1.20-Fabric-3.0.4.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2023-11-20T02:56:11.927Z",
+          "fileLength": 1165832,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 308702,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 421649,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 306612,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 348521,
+              "relationType": 3
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 3681746338,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 323549274,
+              "name": "pack.mcmeta"
+            },
+            {
+              "fingerprint": 3177729671,
+              "name": "logo.png"
+            },
+            {
+              "fingerprint": 3929152335,
+              "name": "icon.png"
+            },
+            {
+              "fingerprint": 2947466630,
+              "name": "fabric.mod.json"
+            },
+            {
+              "fingerprint": 3797348202,
+              "name": "data"
+            },
+            {
+              "fingerprint": 1172280535,
+              "name": "catalogue_icon.png"
+            },
+            {
+              "fingerprint": 1672825827,
+              "name": "catalogue_background.png"
+            },
+            {
+              "fingerprint": 2335755036,
+              "name": "betteroceanmonuments_fabric.mixins.json"
+            },
+            {
+              "fingerprint": 2110193838,
+              "name": "betteroceanmonuments.mixins.json"
+            },
+            {
+              "fingerprint": 3643737309,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 2564356110,
+              "name": "betteroceanmonuments.refmap.json"
+            },
+            {
+              "fingerprint": 1582207727,
+              "name": "com"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "e4e512ae388a57d4eb383657e52707c01283d7be",
+              "algo": 1
+            },
+            {
+              "value": "06c32808f70eaa9f41bcc01c09509229",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-09-01T00:00:00Z",
+              "gameVersionName": "Fabric"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020",
+              "gameVersion": "1.20",
+              "gameVersionReleaseDate": "2023-06-07T00:00:00Z",
+              "gameVersionName": "1.20"
+            }
+          ],
+          "gameVersions": [
+            "Fabric",
+            "1.20.1",
+            "1.20"
+          ],
+          "fileFingerprint": 3761173128,
+          "modId": 689252
+        },
+        "modrinthProject": {
+          "id": "3dT9sgt4",
+          "slug": "yungs-better-ocean-monuments",
+          "project_type": "mod",
+          "team": "rMdUl4ik",
+          "title": "YUNG's Better Ocean Monuments",
+          "description": "A complete redesign of Minecraft's ocean monuments!",
+          "body": "<p>\n<img src=\"https://i.imgur.com/4IgKuSq.png\" alt=\"YUNG's Better Ocean Monuments\" width=\"1344\" height=\"416\" /><br />\n<a title=\"Depends on YUNG's API\" href=\"https://modrinth.com/mod/yungs-api\" target=\"_blank\" rel=\"noopener\"><img src=\"https://tinyurl.com/yungsapibadge\" alt=\"Depends on YUNG's API\" width=\"211\" height=\"26\" /></a>&nbsp;<a title=\"Join the YUNG GANG on Discord!\" href=\"https://discord.gg/rns3beq\" target=\"_blank\" rel=\"noopener\"><img src=\"https://tinyurl.com/yungsdiscordbadge2\" alt=\"Join the YUNG GANG on Discord!\" width=\"136\" height=\"28\" /></a>&nbsp;<a title=\"Follow me on Twitter!\" href=\"https://twitter.com/yungnickyoung\" target=\"_blank\" rel=\"noopener\"><img src=\"https://tinyurl.com/yungstwitterbadge3\" alt=\"Follow me on Twitter!\" width=\"104\" height=\"37\" /></a>&nbsp;<a title=\"Subscribe to my YouTube!\" href=\"https://www.youtube.com/yungnickyoung\" target=\"_blank\" rel=\"noopener\"><img src=\"https://tinyurl.com/yungsyoutubebadge\" alt=\"Subscribe to my YouTube!\" width=\"80\" height=\"30\" /></a>&nbsp;<a title=\"Support me on Patreon!\" href=\"https://patreon.com/yungnickyoung\" target=\"_blank\" rel=\"noopener\"><img src=\"https://tinyurl.com/yungspatreonbadge\" alt=\"Support me on Patreon!\" width=\"138\" height=\"28\" /></a><br />\n<img src=\"https://i.imgur.com/qs5CKD3.png\" alt=\"What is this?\" width=\"1125\" height=\"59\" /><br />\nA complete overhaul of Minecraft's ocean monuments! YUNG's Better Ocean Monuments fundamentally redesigns ocean monuments to be much more engaging and rewarding. Better Monuments are much larger than their vanilla counterparts and have completely randomized layouts. You'll find much better loot for your troubles, including Tridents and a Heart of the Sea!\n</p>\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/QavgJ5oL5SI\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>\n<p>\n<img src=\"https://i.imgur.com/61NjpSv.png\" alt=\"Compatibility\" width=\"1125\" height=\"59\" /><br />\nYUNG's Better Ocean Monuments is intended to be fully compatible with every worldgen mod, including:\n</p>\n<ul>\n<li><a href=\"https://modrinth.com/mod/yungs-better-desert-temples\" target=\"_blank\" rel=\"noopener\">YUNG's Better Desert Temples</a></li>\n<li><a title=\"YUNG's Better Mineshafts\" href=\"https://modrinth.com/mod/yungs-better-mineshafts\" target=\"_blank\" rel=\"noopener\">YUNG's Better Mineshafts</a></li>\n<li><a title=\"YUNG's Better Strongholds\" href=\"https://modrinth.com/mod/yungs-better-strongholds\" target=\"_blank\" rel=\"noopener\">YUNG's Better Strongholds</a></li>\n<li><a title=\"YUNG's Extras\" href=\"https://modrinth.com/mod/yungs-extras\" target=\"_blank\" rel=\"noopener\">YUNG's Extras</a></li>\n<li><a title=\"YUNG's Bridges\" href=\"https://modrinth.com/mod/yungs-bridges\" target=\"_blank\" rel=\"noopener\">YUNG's Bridges</a></li>\n<li>Repurposed Structures. RS also offers a custom data pack you can use in addition to the mod that adds repurposed versions of these overhauled monuments! <a href=\"https://www.curseforge.com/minecraft/texture-packs/repurposed-structures-better-ocean-monuments\" target=\"_blank\" rel=\"noopener\">Check it out here.</a></li>\n</ul>\n<p><img src=\"https://i.imgur.com/a49IMQJ.png\" /><br />\n<a title=\"Get 25% off your server with code YUNGNICKYOUNG at Bisect Hosting!\" href=\"https://bisecthosting.com/yung\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://i.imgur.com/nQRs7ZP.png\" alt=\"Use code YUNGNICKYOUNG with Bisect Hosting for 25% off!\" width=\"1344\" height=\"400\" /></a></p>",
+          "published": "2022-11-28T20:18:47.807434Z",
+          "updated": "2024-05-17T01:01:48.393747Z",
+          "status": "approved",
+          "license": {
+            "id": "LGPL-3.0-only",
+            "name": "GNU Lesser General Public License v3.0 only"
+          },
+          "client_side": "unsupported",
+          "server_side": "required",
+          "categories": [
+            "adventure",
+            "decoration",
+            "worldgen"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/3dT9sgt4/d8c15602c866a1cdddb10caec83e57f8ca33e146.png",
+          "issues_url": "https://github.com/YUNG-GANG/YUNGs-Better-Ocean-Monuments/issues",
+          "source_url": "https://github.com/YUNG-GANG/YUNGs-Better-Ocean-Monuments",
+          "discord_url": "https://discord.gg/rns3beq",
+          "donation_urls": [
+            {
+              "id": "patreon",
+              "platform": "Patreon",
+              "url": "https://www.patreon.com/yungnickyoung"
+            }
+          ],
+          "gallery": [
+            {
+              "url": "https://cdn.modrinth.com/data/3dT9sgt4/images/2391636af9661c98c7818bb5d3e5a78ee4fbebbe.png",
+              "featured": false,
+              "created": "2022-11-29T00:25:45.022829Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/3dT9sgt4/images/442fae567e021185475ff9b2565eecd3b9bdff09.png",
+              "featured": true,
+              "created": "2022-11-29T00:25:47.910602Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/3dT9sgt4/images/51b111effed634b83de06dbf73fcdc088b9116d1.png",
+              "featured": false,
+              "created": "2022-11-29T00:25:42.866784Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/3dT9sgt4/images/f0c8d67dc8dc17e029d6f327e1c33b6a4bb657e2.png",
+              "featured": false,
+              "created": "2022-11-29T00:25:39.806033Z",
+              "ordering": 0.0
+            }
+          ]
+        },
+        "modrinthVersion": {
+          "id": "4c00pjbt",
+          "project_id": "3dT9sgt4",
+          "author_id": "HCGwycZf",
+          "name": "[1.20] v3.0.4 (Fabric)",
+          "version_number": "1.20-Fabric-3.0.4",
+          "changelog": "- Fixed crash with C2ME's threaded feature placement  \n\nIf you want to get early access to all my mods, [Join the Patreon!](https://www.patreon.com/yungnickyoung)  \n[Join us on Discord!](https://discord.gg/rns3beq)  \n[Follow me on Twitter](https://twitter.com/yungnickyoung) for more mod updates!",
+          "date_published": "2023-11-20T02:56:17.440843Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha1": "e4e512ae388a57d4eb383657e52707c01283d7be",
+                "sha512": "b050f94b70628f9cb64afe1d184b3fd5eee4a7d556ff81b05dd90e954484c415b24b235a8471085cbba2e28a1123e49de9a16e6e7bc52da585db81762562f186"
+              },
+              "url": "https://cdn.modrinth.com/data/3dT9sgt4/versions/4c00pjbt/YungsBetterOceanMonuments-1.20-Fabric-3.0.4.jar",
+              "filename": "YungsBetterOceanMonuments-1.20-Fabric-3.0.4.jar",
+              "primary": true,
+              "size": 1165832
+            }
+          ],
+          "dependencies": [
+            {
+              "project_id": "9s6osm5g",
+              "dependency_type": "required"
+            },
+            {
+              "project_id": "P7dR8mSH",
+              "dependency_type": "required"
+            },
+            {
+              "project_id": "Ua7DFN59",
+              "dependency_type": "required"
+            },
+            {
+              "project_id": "mOgUt4GM",
+              "dependency_type": "optional"
+            }
+          ],
+          "game_versions": [
+            "1.20",
+            "1.20.1"
+          ],
+          "loaders": [
+            "fabric"
+          ]
+        }
+      },
+      {
+        "name": "YUNG's Better Strongholds",
+        "version": "[1.20] v4.0.3 (Fabric)",
+        "optional": true,
+        "file": "YungsBetterStrongholds-1.20-Fabric-4.0.3.jar",
+        "type": "mods",
+        "description": "A complete redesign of Minecraft's strongholds!",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 480684,
+        "curseForgeFileId": 4769084,
+        "curseForgeProject": {
+          "id": 480684,
+          "name": "YUNG's Better Strongholds (Fabric)",
+          "authors": [
+            {
+              "id": 40421595,
+              "name": "YUNGNICKYOUNG",
+              "url": "https://www.curseforge.com/members/yungnickyoung"
+            },
+            {
+              "id": 102094599,
+              "name": "EveCommander",
+              "url": "https://www.curseforge.com/members/evecommander"
+            }
+          ],
+          "gameId": 432,
+          "summary": "A complete redesign of Minecraft's strongholds",
+          "categories": [
+            {
+              "name": "Adventure and RPG",
+              "slug": "adventure-rpg",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/adventure-rpg",
+              "dateModified": "2014-05-08T17:42:09.54Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 422,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/37/635351497295252123.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "World Gen",
+              "slug": "world-gen",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen",
+              "dateModified": "2017-10-16T21:40:11.473Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 406,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/26/635351494599748860.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Structures",
+              "slug": "world-structures",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen/world-structures",
+              "dateModified": "2014-05-08T17:37:17.173Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 409,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/24/635351494371736208.png",
+              "parentCategoryId": 406,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 409,
+          "classId": 6,
+          "slug": "yungs-better-strongholds-fabric",
+          "isFeatured": false,
+          "dateModified": "2024-05-17T00:42:24.247Z",
+          "dateCreated": "2021-05-10T05:05:36.687Z",
+          "dateReleased": "2024-05-17T00:38:05.823Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/yungs-better-strongholds-fabric",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/yungnickyoung/YUNGs-Better-Strongholds/issues",
+            "sourceUrl": "https://github.com/yungnickyoung/YUNGs-Better-Strongholds"
+          },
+          "logo": {
+            "id": 881110,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/881/110/256/256/638311013220463314.png",
+            "title": "638311013220463314.png",
+            "url": "https://media.forgecdn.net/avatars/881/110/638311013220463314.png",
+            "modId": 480684
+          },
+          "allowModDistribution": true,
+          "screenshots": [
+            {
+              "id": 362490,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/362/490/310/172/2021-04-04_17.png",
+              "title": "Portal Room",
+              "url": "https://media.forgecdn.net/attachments/362/490/2021-04-04_17.png",
+              "modId": 480684
+            },
+            {
+              "id": 362491,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/362/491/310/172/2021-04-04_17.png",
+              "title": "Not Your Average Strongholds",
+              "url": "https://media.forgecdn.net/attachments/362/491/2021-04-04_17.png",
+              "modId": 480684
+            },
+            {
+              "id": 362488,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/362/488/310/172/2021-03-28_23.png",
+              "title": "Mess Hall",
+              "url": "https://media.forgecdn.net/attachments/362/488/2021-03-28_23.png",
+              "modId": 480684
+            },
+            {
+              "id": 362487,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/362/487/310/172/2021-03-28_23.png",
+              "title": "The Grand Library",
+              "url": "https://media.forgecdn.net/attachments/362/487/2021-03-28_23.png",
+              "modId": 480684
+            },
+            {
+              "id": 362489,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/362/489/310/172/2021-03-28_23.png",
+              "title": "Armoury",
+              "url": "https://media.forgecdn.net/attachments/362/489/2021-03-28_23.png",
+              "modId": 480684
+            }
+          ],
+          "mainFileId": 5349754
+        },
+        "curseForgeFile": {
+          "id": 4769084,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "[1.20] YUNG's Better Strongholds v4.0.3 (Fabric)",
+          "fileName": "YungsBetterStrongholds-1.20-Fabric-4.0.3.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2023-09-25T20:59:31.213Z",
+          "fileLength": 611598,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 348521,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 306612,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 421649,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 308702,
+              "relationType": 2
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 774212913,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 3776367326,
+              "name": "pack.mcmeta"
+            },
+            {
+              "fingerprint": 2485391610,
+              "name": "logo.png"
+            },
+            {
+              "fingerprint": 1312728531,
+              "name": "icon.png"
+            },
+            {
+              "fingerprint": 3663405822,
+              "name": "fabric.mod.json"
+            },
+            {
+              "fingerprint": 2744385203,
+              "name": "data"
+            },
+            {
+              "fingerprint": 1022573692,
+              "name": "catalogue_icon.png"
+            },
+            {
+              "fingerprint": 2457851900,
+              "name": "catalogue_background.png"
+            },
+            {
+              "fingerprint": 2015767577,
+              "name": "betterstrongholds_fabric.mixins.json"
+            },
+            {
+              "fingerprint": 3583453477,
+              "name": "betterstrongholds.mixins.json"
+            },
+            {
+              "fingerprint": 4086304816,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 484070661,
+              "name": "betterstrongholds.refmap.json"
+            },
+            {
+              "fingerprint": 1205131281,
+              "name": "com"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "f7a5eb03935abe845c6691ae99ae42889fdd5da1",
+              "algo": 1
+            },
+            {
+              "value": "b0ca22280c7b931a7d3d9be028d3093c",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-09-01T00:00:00Z",
+              "gameVersionName": "Fabric"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020",
+              "gameVersion": "1.20",
+              "gameVersionReleaseDate": "2023-06-07T00:00:00Z",
+              "gameVersionName": "1.20"
+            }
+          ],
+          "gameVersions": [
+            "Fabric",
+            "1.20.1",
+            "1.20"
+          ],
+          "fileFingerprint": 2148029780,
+          "modId": 480684
+        },
+        "modrinthProject": {
+          "id": "kidLKymU",
+          "slug": "yungs-better-strongholds",
+          "project_type": "mod",
+          "team": "2OSJ0L4h",
+          "title": "YUNG's Better Strongholds",
+          "description": "A complete redesign of Minecraft's strongholds!",
+          "body": "<p>\n<img src=\"https://i.imgur.com/xorwZ5Z.png\" alt=\"YUNG's Better Strongholds\" width=\"1344\" height=\"416\" /><br />\n<a title=\"Depends on YUNG's API\" href=\"https://modrinth.com/mod/yungs-api\" target=\"_blank\" rel=\"noopener\"><img src=\"https://tinyurl.com/yungsapibadge\" alt=\"Depends on YUNG's API\" width=\"211\" height=\"26\" /></a>&nbsp;<a title=\"Join the YUNG GANG on Discord!\" href=\"https://discord.gg/rns3beq\" target=\"_blank\" rel=\"noopener\"><img src=\"https://tinyurl.com/yungsdiscordbadge2\" alt=\"Join the YUNG GANG on Discord!\" width=\"136\" height=\"28\" /></a>&nbsp;<a title=\"Follow me on Twitter!\" href=\"https://twitter.com/yungnickyoung\" target=\"_blank\" rel=\"noopener\"><img src=\"https://tinyurl.com/yungstwitterbadge3\" alt=\"Follow me on Twitter!\" width=\"104\" height=\"37\" /></a>&nbsp;<a title=\"Subscribe to my YouTube!\" href=\"https://www.youtube.com/yungnickyoung\" target=\"_blank\" rel=\"noopener\"><img src=\"https://tinyurl.com/yungsyoutubebadge\" alt=\"Subscribe to my YouTube!\" width=\"80\" height=\"30\" /></a>&nbsp;<a title=\"Support me on Patreon!\" href=\"https://patreon.com/yungnickyoung\" target=\"_blank\" rel=\"noopener\"><img src=\"https://tinyurl.com/yungspatreonbadge\" alt=\"Support me on Patreon!\" width=\"138\" height=\"28\" /></a><br />\n<img src=\"https://i.imgur.com/ePR2LMC.png\" alt=\"What is this?\" width=\"1125\" height=\"59\" /><br />\nA complete redesign of Minecraft strongholds like never before, making them much more complex and exciting while still staying true to vanilla themes. There are over 15 different rooms, various types of tunnels and hallways, staircases, traps, and even hidden areas!\n</p>\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/gD7AqVZYgk0\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>\n<p>\n<img src=\"https://i.imgur.com/zMhFcqM.png\" alt=\"Compatibility\" width=\"1125\" height=\"59\" /><br />\nYUNG's Better Strongholds is intended to be fully compatible with every worldgen mod, including:\n</p>\n<ul>\n<li><a title=\"YUNG's Better Mineshafts\" href=\"https://modrinth.com/mod/yungs-better-mineshafts\" target=\"_blank\" rel=\"noopener\">YUNG's Better Mineshafts</a></li>\n<li><a title=\"YUNG's Better Dungeons\" href=\"https://modrinth.com/mod/yungs-better-dungeons\" target=\"_blank\" rel=\"noopener\">YUNG's Better Dungeons</a></li>\n<li><a title=\"YUNG's Extras\" href=\"https://modrinth.com/mod/yungs-extras\" target=\"_blank\" rel=\"noopener\">YUNG's Extras</a></li>\n<li><a title=\"YUNG's Bridges\" href=\"https://modrinth.com/mod/yungs-bridges\" target=\"_blank\" rel=\"noopener\">YUNG's Bridges</a></li>\n<li>Better End</li>\n<li>End Remastered</li>\n<li><b>Repurposed Structures</b> - If RS strongholds are enabled, Eyes of Ender will locate whichever stronghold is closest, regardless of if it's an RS stronghold or a Better Stronghold. RS also offers a custom data pack you can use in addition to the mod that adds repurposed versions of Better Strongholds to the Nether and End! <a title=\"RS Data pack\" href=\"https://www.curseforge.com/minecraft/texture-packs/repurposed-structures-better-strongholds-datapack\" target=\"_blank\" rel=\"noopener\">Check it out here.</a><b> Use the latest version of Repurposed Structures!!</b></li>\n</ul>\n<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://i.imgur.com/a49IMQJ.png\" /><br />\n<a title=\"Get 25% off your server with code YUNGNICKYOUNG at Bisect Hosting!\" href=\"https://bisecthosting.com/yung\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://i.imgur.com/nQRs7ZP.png\" alt=\"Use code YUNGNICKYOUNG with Bisect Hosting for 25% off!\" width=\"1344\" height=\"400\" /></a></p>",
+          "published": "2022-11-28T18:15:54.501121Z",
+          "updated": "2024-05-17T00:38:09.615756Z",
+          "status": "approved",
+          "license": {
+            "id": "LGPL-3.0-only",
+            "name": "GNU Lesser General Public License v3.0 only"
+          },
+          "client_side": "unsupported",
+          "server_side": "required",
+          "categories": [
+            "adventure",
+            "decoration",
+            "worldgen"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/kidLKymU/c3c33be1c8b83ae8f69ba76cf0974cefcc620c47.png",
+          "issues_url": "https://github.com/YUNG-GANG/YUNGs-Better-Strongholds/issues",
+          "source_url": "https://github.com/YUNG-GANG/YUNGs-Better-Strongholds",
+          "discord_url": "https://discord.gg/rns3beq",
+          "donation_urls": [
+            {
+              "id": "patreon",
+              "platform": "Patreon",
+              "url": "https://www.patreon.com/yungnickyoung"
+            }
+          ],
+          "gallery": [
+            {
+              "url": "https://cdn.modrinth.com/data/kidLKymU/images/050aa0d8f566091b387eb44817f40d59808a9a25.png",
+              "featured": false,
+              "created": "2022-11-29T00:30:03.084323Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/kidLKymU/images/50ee9e455a7a61cdb4652e5922ffaa573e33e377.png",
+              "featured": false,
+              "created": "2022-11-29T00:30:00.950099Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/kidLKymU/images/b9781f7c78d89a5d4d34a41b9636055cf251800c.png",
+              "featured": false,
+              "created": "2022-11-29T00:30:10.373573Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/kidLKymU/images/dea5e5a5f1422dfa68a90c35e873fe988782552d.png",
+              "featured": true,
+              "created": "2022-11-29T00:30:05.269722Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/kidLKymU/images/fd07e825b22e252f5d6f52db53461d97b4e3362e.png",
+              "featured": false,
+              "created": "2022-11-29T00:30:07.625910Z",
+              "ordering": 0.0
+            }
+          ]
+        },
+        "modrinthVersion": {
+          "id": "yV6hn0bB",
+          "project_id": "kidLKymU",
+          "author_id": "HCGwycZf",
+          "name": "[1.20] v4.0.3 (Fabric)",
+          "version_number": "1.20-Fabric-4.0.3",
+          "changelog": "- Added new icon and logo!  \n- Added support for Catalogue  \n\nIf you want to get early access to all my mods, [Join the Patreon!](https://www.patreon.com/yungnickyoung)  \n[Join us on Discord!](https://discord.gg/rns3beq)  \n[Follow me on Twitter](https://twitter.com/yungnickyoung) for more mod updates!",
+          "date_published": "2023-09-25T20:59:35.972605Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha512": "e70c8daa91e88d8af97e99201264c9646c82a8cf1966b87ca1e53b591e7f1ed3cee2f8875dbe88f9b58e2a7d151fded34896bb4bd23f33f2bfef4c590fbba850",
+                "sha1": "f7a5eb03935abe845c6691ae99ae42889fdd5da1"
+              },
+              "url": "https://cdn.modrinth.com/data/kidLKymU/versions/yV6hn0bB/YungsBetterStrongholds-1.20-Fabric-4.0.3.jar",
+              "filename": "YungsBetterStrongholds-1.20-Fabric-4.0.3.jar",
+              "primary": true,
+              "size": 611598
+            }
+          ],
+          "dependencies": [
+            {
+              "project_id": "9s6osm5g",
+              "dependency_type": "required"
+            },
+            {
+              "project_id": "P7dR8mSH",
+              "dependency_type": "required"
+            },
+            {
+              "project_id": "Ua7DFN59",
+              "dependency_type": "required"
+            },
+            {
+              "project_id": "mOgUt4GM",
+              "dependency_type": "optional"
+            }
+          ],
+          "game_versions": [
+            "1.20",
+            "1.20.1"
+          ],
+          "loaders": [
+            "fabric"
+          ]
+        }
+      },
+      {
+        "name": "YUNG's Better Witch Huts",
+        "version": "[1.20] v3.0.3 (Fabric)",
+        "optional": true,
+        "file": "YungsBetterWitchHuts-1.20-Fabric-3.0.3.jar",
+        "type": "mods",
+        "description": "Adds overhauled witch huts to swamps!",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 631403,
+        "curseForgeFileId": 4769490,
+        "curseForgeProject": {
+          "id": 631403,
+          "name": "YUNG's Better Witch Huts (Fabric)",
+          "authors": [
+            {
+              "id": 40421595,
+              "name": "YUNGNICKYOUNG",
+              "url": "https://www.curseforge.com/members/yungnickyoung"
+            },
+            {
+              "id": 102094599,
+              "name": "EveCommander",
+              "url": "https://www.curseforge.com/members/evecommander"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Adds overhauled witch huts to swamps!",
+          "categories": [
+            {
+              "name": "Adventure and RPG",
+              "slug": "adventure-rpg",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/adventure-rpg",
+              "dateModified": "2014-05-08T17:42:09.54Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 422,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/37/635351497295252123.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Structures",
+              "slug": "world-structures",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen/world-structures",
+              "dateModified": "2014-05-08T17:37:17.173Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 409,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/24/635351494371736208.png",
+              "parentCategoryId": 406,
+              "classId": 6
+            },
+            {
+              "name": "World Gen",
+              "slug": "world-gen",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen",
+              "dateModified": "2017-10-16T21:40:11.473Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 406,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/26/635351494599748860.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 409,
+          "classId": 6,
+          "slug": "yungs-better-witch-huts-fabric",
+          "isFeatured": false,
+          "dateModified": "2024-05-17T06:54:25.21Z",
+          "dateCreated": "2022-06-07T04:54:40.067Z",
+          "dateReleased": "2024-05-17T06:50:01.733Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/yungs-better-witch-huts-fabric",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/YUNG-GANG/YUNGs-Better-Witch-Huts/issues",
+            "sourceUrl": "https://github.com/YUNG-GANG/YUNGs-Better-Witch-Huts"
+          },
+          "logo": {
+            "id": 881131,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/881/131/256/256/638311020893132667.png",
+            "title": "638311020893132667.png",
+            "url": "https://media.forgecdn.net/avatars/881/131/638311020893132667.png",
+            "modId": 631403
+          },
+          "allowModDistribution": true,
+          "screenshots": [
+            {
+              "id": 467393,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/467/393/310/172/2022-06-07_00.png",
+              "title": "A witch's circle",
+              "url": "https://media.forgecdn.net/attachments/467/393/2022-06-07_00.png",
+              "modId": 631403
+            },
+            {
+              "id": 467392,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/467/392/310/172/2022-06-07_00.png",
+              "title": "Large witch hut",
+              "url": "https://media.forgecdn.net/attachments/467/392/2022-06-07_00.png",
+              "modId": 631403
+            },
+            {
+              "id": 467390,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/467/390/310/172/2022-06-07_00.png",
+              "title": "Small witch hut",
+              "url": "https://media.forgecdn.net/attachments/467/390/2022-06-07_00.png",
+              "modId": 631403
+            },
+            {
+              "id": 467391,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/467/391/310/172/2022-06-07_00.png",
+              "title": "Duplex witch hut",
+              "url": "https://media.forgecdn.net/attachments/467/391/2022-06-07_00.png",
+              "modId": 631403
+            }
+          ],
+          "mainFileId": 5350198
+        },
+        "curseForgeFile": {
+          "id": 4769490,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "[1.20] YUNG's Better Witch Huts v3.0.3 (Fabric)",
+          "fileName": "YungsBetterWitchHuts-1.20-Fabric-3.0.3.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2023-09-26T04:52:34.48Z",
+          "fileLength": 307196,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 421649,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 306612,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 348521,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 308702,
+              "relationType": 2
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 38849962,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 2255958435,
+              "name": "pack.mcmeta"
+            },
+            {
+              "fingerprint": 2113922861,
+              "name": "logo.png"
+            },
+            {
+              "fingerprint": 324160696,
+              "name": "icon.png"
+            },
+            {
+              "fingerprint": 1523930748,
+              "name": "fabric.mod.json"
+            },
+            {
+              "fingerprint": 802487629,
+              "name": "data"
+            },
+            {
+              "fingerprint": 3352511887,
+              "name": "catalogue_icon.png"
+            },
+            {
+              "fingerprint": 331493612,
+              "name": "catalogue_background.png"
+            },
+            {
+              "fingerprint": 2023491764,
+              "name": "betterwitchhuts_fabric.mixins.json"
+            },
+            {
+              "fingerprint": 951184000,
+              "name": "betterwitchhuts.mixins.json"
+            },
+            {
+              "fingerprint": 818435540,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 2151791345,
+              "name": "betterwitchhuts.refmap.json"
+            },
+            {
+              "fingerprint": 417440246,
+              "name": "com"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "2803abcf20bf150aa735faa409a23406da69415c",
+              "algo": 1
+            },
+            {
+              "value": "afa25b703d976cde3d62c8f8d8a980a0",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-09-01T00:00:00Z",
+              "gameVersionName": "Fabric"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020",
+              "gameVersion": "1.20",
+              "gameVersionReleaseDate": "2023-06-07T00:00:00Z",
+              "gameVersionName": "1.20"
+            }
+          ],
+          "gameVersions": [
+            "Fabric",
+            "1.20.1",
+            "1.20"
+          ],
+          "fileFingerprint": 27216915,
+          "modId": 631403
+        },
+        "modrinthProject": {
+          "id": "t5FRdP87",
+          "slug": "yungs-better-witch-huts",
+          "project_type": "mod",
+          "team": "BqAnU8T5",
+          "title": "YUNG's Better Witch Huts",
+          "description": "Adds overhauled witch huts to swamps!",
+          "body": "<p>\n<img src=\"https://i.imgur.com/jDrTFGm.png\" alt=\"YUNG's Better Witch Huts\" width=\"1344\" height=\"416\" /><br />\n<a title=\"Depends on YUNG's API\" href=\"https://modrinth.com/mod/yungs-api\" target=\"_blank\" rel=\"noopener\"><img src=\"https://tinyurl.com/yungsapibadge\" alt=\"Depends on YUNG's API\" width=\"211\" height=\"26\" /></a>&nbsp;<a title=\"Join the YUNG GANG on Discord!\" href=\"https://discord.gg/rns3beq\" target=\"_blank\" rel=\"noopener\"><img src=\"https://tinyurl.com/yungsdiscordbadge2\" alt=\"Join the YUNG GANG on Discord!\" width=\"136\" height=\"28\" /></a>&nbsp;<a title=\"Follow me on Twitter!\" href=\"https://twitter.com/yungnickyoung\" target=\"_blank\" rel=\"noopener\"><img src=\"https://tinyurl.com/yungstwitterbadge3\" alt=\"Follow me on Twitter!\" width=\"104\" height=\"37\" /></a>&nbsp;<a title=\"Subscribe to my YouTube!\" href=\"https://www.youtube.com/yungnickyoung\" target=\"_blank\" rel=\"noopener\"><img src=\"https://tinyurl.com/yungsyoutubebadge\" alt=\"Subscribe to my YouTube!\" width=\"80\" height=\"30\" /></a>&nbsp;<a title=\"Support me on Patreon!\" href=\"https://patreon.com/yungnickyoung\" target=\"_blank\" rel=\"noopener\"><img src=\"https://tinyurl.com/yungspatreonbadge\" alt=\"Support me on Patreon!\" width=\"138\" height=\"28\" /></a><br />\n<img src=\"https://i.imgur.com/2HNgRET.png\" alt=\"What is this?\" width=\"1125\" height=\"59\" /><br />\nAn upgrade to witch huts! This mod adds multiple new hut variants that can spawn as well as a witch's circle. Huts now have better designs and more meaningful loot. Brewing stands may contain items hinting at some of vanilla's potion recipes!</p>\n<p>\nBy default, vanilla witch huts will no longer spawn. You can re-enable them in the config.\n</p>\n<p>\n<img src=\"https://i.imgur.com/ladFuIF.png\" alt=\"Compatibility\" width=\"1125\" height=\"59\" /><br />\nYUNG's Better Witch Huts is intended to be fully compatible with every worldgen mod, including:\n</p>\n<ul>\n<li><a title=\"YUNG's Better Mineshafts\" href=\"https://modrinth.com/mod/yungs-better-mineshafts\" target=\"_blank\" rel=\"noopener\">YUNG's Better Mineshafts</a></li>\n<li><a title=\"YUNG's Better Strongholds\" href=\"https://modrinth.com/mod/yungs-better-strongholds\" target=\"_blank\" rel=\"noopener\">YUNG's Better Strongholds</a></li>\n<li><a title=\"YUNG's Better Desert Temples\" href=\"https://modrinth.com/mod/yungs-better-desert-temples\" target=\"_blank\" rel=\"noopener\">YUNG's Better Desert Temples</a></li>\n<li><a title=\"YUNG's Better Ocean Monuments\" href=\"https://modrinth.com/mod/yungs-better-ocean-monuments\" target=\"_blank\" rel=\"noopener\">YUNG's Better Ocean Monuments</a></li>\n<li><a title=\"YUNG's Extras\" href=\"https://modrinth.com/mod/yungs-extras\" target=\"_blank\" rel=\"noopener\">YUNG's Extras</a></li>\n<li><a title=\"YUNG's Bridges\" href=\"https://modrinth.com/mod/yungs-bridges\" target=\"_blank\" rel=\"noopener\">YUNG's Bridges</a></li>\n</ul>\n<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://i.imgur.com/a49IMQJ.png\" /><br />\n<a title=\"Get 25% off your server with code YUNGNICKYOUNG at Bisect Hosting!\" href=\"https://bisecthosting.com/yung\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://i.imgur.com/nQRs7ZP.png\" alt=\"Use code YUNGNICKYOUNG with Bisect Hosting for 25% off!\" width=\"1344\" height=\"400\" /></a></p>",
+          "published": "2022-11-28T20:29:41.105726Z",
+          "updated": "2024-05-17T06:50:05.067308Z",
+          "status": "approved",
+          "license": {
+            "id": "LGPL-3.0-only",
+            "name": "GNU Lesser General Public License v3.0 only"
+          },
+          "client_side": "unsupported",
+          "server_side": "required",
+          "categories": [
+            "adventure",
+            "decoration",
+            "worldgen"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/t5FRdP87/11a2ef27da06199842c8c10b3e3dc5e15fefd8a5.png",
+          "issues_url": "https://github.com/YUNG-GANG/YUNGs-Better-Witch-Huts/issues",
+          "source_url": "https://github.com/YUNG-GANG/YUNGs-Better-Witch-Huts",
+          "discord_url": "https://discord.gg/rns3beq",
+          "donation_urls": [
+            {
+              "id": "patreon",
+              "platform": "Patreon",
+              "url": "https://www.patreon.com/yungnickyoung"
+            }
+          ],
+          "gallery": [
+            {
+              "url": "https://cdn.modrinth.com/data/t5FRdP87/images/4d7edd1a8da8ee62802ec160399b93284afbf881.png",
+              "featured": false,
+              "description": "A witch's circle",
+              "created": "2022-11-29T00:31:10.290976Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/t5FRdP87/images/75a6d5eebcad1eb90d1df94a8e6aa1bb17ef0daf.png",
+              "featured": false,
+              "description": "Small witch hut",
+              "created": "2022-11-29T00:31:01.016799Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/t5FRdP87/images/cfd3722b525a373c7ad5b4d7bd30d796e4946635.png",
+              "featured": false,
+              "description": "Large witch hut",
+              "created": "2022-11-29T00:31:06.937600Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/t5FRdP87/images/d1ca4580ae1d2f90835355a1b1e07759ff1def3a.png",
+              "featured": true,
+              "description": "Duplex witch hut",
+              "created": "2022-11-29T00:31:04.218755Z",
+              "ordering": 0.0
+            }
+          ]
+        },
+        "modrinthVersion": {
+          "id": "lYpHN3iF",
+          "project_id": "t5FRdP87",
+          "author_id": "HCGwycZf",
+          "name": "[1.20] v3.0.3 (Fabric)",
+          "version_number": "1.20-Fabric-3.0.3",
+          "changelog": "- Added new icon and logo!  \n- Added support for Catalogue  \n\nIf you want to get early access to all my mods, [Join the Patreon!](https://www.patreon.com/yungnickyoung)  \n[Join us on Discord!](https://discord.gg/rns3beq)  \n[Follow me on Twitter](https://twitter.com/yungnickyoung) for more mod updates!",
+          "date_published": "2023-09-26T04:52:38.721036Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha1": "2803abcf20bf150aa735faa409a23406da69415c",
+                "sha512": "4182c4b580ac0446968d28561088807a5fc96c4ad792401bf918b2e693f7eb343237f2887d63121469af8a120c4ccc8c84d7add731ea1a45cb429f49092bd6ac"
+              },
+              "url": "https://cdn.modrinth.com/data/t5FRdP87/versions/lYpHN3iF/YungsBetterWitchHuts-1.20-Fabric-3.0.3.jar",
+              "filename": "YungsBetterWitchHuts-1.20-Fabric-3.0.3.jar",
+              "primary": true,
+              "size": 307196
+            }
+          ],
+          "dependencies": [
+            {
+              "project_id": "9s6osm5g",
+              "dependency_type": "required"
+            },
+            {
+              "project_id": "P7dR8mSH",
+              "dependency_type": "required"
+            },
+            {
+              "project_id": "Ua7DFN59",
+              "dependency_type": "required"
+            },
+            {
+              "project_id": "mOgUt4GM",
+              "dependency_type": "optional"
+            }
+          ],
+          "game_versions": [
+            "1.20",
+            "1.20.1"
+          ],
+          "loaders": [
+            "fabric"
+          ]
+        }
+      },
+      {
+        "name": "YUNG's Better Jungle Temples",
+        "version": "[1.20] v2.0.5 (Fabric)",
+        "optional": true,
+        "file": "YungsBetterJungleTemples-1.20-Fabric-2.0.5.jar",
+        "type": "mods",
+        "description": "A complete redesign of Minecraft's jungle temples!",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 897678,
+        "curseForgeFileId": 5331761,
+        "curseForgeProject": {
+          "id": 897678,
+          "name": "YUNG's Better Jungle Temples (Fabric)",
+          "authors": [
+            {
+              "id": 40421595,
+              "name": "YUNGNICKYOUNG",
+              "url": "https://www.curseforge.com/members/yungnickyoung"
+            },
+            {
+              "id": 103326469,
+              "name": "TeraBuildsStuff",
+              "url": "https://www.curseforge.com/members/terabuildsstuff"
+            }
+          ],
+          "gameId": 432,
+          "summary": "A complete redesign of Minecraft's jungle temples!",
+          "categories": [
+            {
+              "name": "Structures",
+              "slug": "world-structures",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen/world-structures",
+              "dateModified": "2014-05-08T17:37:17.173Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 409,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/24/635351494371736208.png",
+              "parentCategoryId": 406,
+              "classId": 6
+            },
+            {
+              "name": "Adventure and RPG",
+              "slug": "adventure-rpg",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/adventure-rpg",
+              "dateModified": "2014-05-08T17:42:09.54Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 422,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/37/635351497295252123.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "World Gen",
+              "slug": "world-gen",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen",
+              "dateModified": "2017-10-16T21:40:11.473Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 406,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/26/635351494599748860.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 409,
+          "classId": 6,
+          "slug": "yungs-better-jungle-temples-fabric",
+          "isFeatured": false,
+          "dateModified": "2024-05-17T01:23:25.083Z",
+          "dateCreated": "2023-08-01T21:55:35.79Z",
+          "dateReleased": "2024-05-17T01:17:18.507Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/yungs-better-jungle-temples-fabric",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/YUNG-GANG/YUNGs-Better-Jungle-Temples/issues",
+            "sourceUrl": "https://github.com/YUNG-GANG/YUNGs-Better-Jungle-Temples"
+          },
+          "logo": {
+            "id": 881123,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/881/123/256/256/638311019487728388.png",
+            "title": "638311019487728388.png",
+            "url": "https://media.forgecdn.net/avatars/881/123/638311019487728388.png",
+            "modId": 897678
+          },
+          "allowModDistribution": true,
+          "screenshots": [
+            {
+              "id": 705384,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/705/384/310/172/2023-06-25_17.png",
+              "title": "A totally safe chest",
+              "url": "https://media.forgecdn.net/attachments/705/384/2023-06-25_17.png",
+              "modId": 897678
+            },
+            {
+              "id": 705387,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/705/387/310/172/frjznwgwaaa1z2e.jpg",
+              "title": "Supplementaries compatibility",
+              "url": "https://media.forgecdn.net/attachments/705/387/frjznwgwaaa1z2e.jpg",
+              "modId": 897678
+            },
+            {
+              "id": 705383,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/705/383/310/172/2023-06-25_17.png",
+              "title": "YUNG's Better Jungle Temples",
+              "url": "https://media.forgecdn.net/attachments/705/383/2023-06-25_17.png",
+              "modId": 897678
+            },
+            {
+              "id": 705385,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/705/385/310/172/2023-06-25_17.png",
+              "title": "Ancient statues",
+              "url": "https://media.forgecdn.net/attachments/705/385/2023-06-25_17.png",
+              "modId": 897678
+            },
+            {
+              "id": 705386,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/705/386/310/172/2023-06-25_17.png",
+              "title": "Puzzles!",
+              "url": "https://media.forgecdn.net/attachments/705/386/2023-06-25_17.png",
+              "modId": 897678
+            }
+          ],
+          "mainFileId": 5349827
+        },
+        "curseForgeFile": {
+          "id": 5331761,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "[1.20] YUNG's Better Jungle Temples v2.0.5 (Fabric)",
+          "fileName": "YungsBetterJungleTemples-1.20-Fabric-2.0.5.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2024-05-10T03:09:11.703Z",
+          "fileLength": 947293,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 348521,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 421649,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 348521,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 306612,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 421649,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 308702,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 306612,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 308702,
+              "relationType": 2
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 1619146813,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 1075430353,
+              "name": "pack.mcmeta"
+            },
+            {
+              "fingerprint": 1941753892,
+              "name": "logo.png"
+            },
+            {
+              "fingerprint": 3018194974,
+              "name": "icon.png"
+            },
+            {
+              "fingerprint": 3663423823,
+              "name": "fabric.mod.json"
+            },
+            {
+              "fingerprint": 2851980674,
+              "name": "data"
+            },
+            {
+              "fingerprint": 803611343,
+              "name": "catalogue_icon.png"
+            },
+            {
+              "fingerprint": 4280978005,
+              "name": "catalogue_background.png"
+            },
+            {
+              "fingerprint": 4152542001,
+              "name": "betterjungletemples_fabric.mixins.json"
+            },
+            {
+              "fingerprint": 3778090858,
+              "name": "betterjungletemples.mixins.json"
+            },
+            {
+              "fingerprint": 1514863143,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 3176700874,
+              "name": "betterjungletemples.refmap.json"
+            },
+            {
+              "fingerprint": 2917913915,
+              "name": "com"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "e0c5366159af63c1a0b110ce1a62750d3d75d978",
+              "algo": 1
+            },
+            {
+              "value": "b34e5608a93b6a2aa043e4c49f36aff7",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-09-01T00:00:00Z",
+              "gameVersionName": "Fabric"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020",
+              "gameVersion": "1.20",
+              "gameVersionReleaseDate": "2023-06-07T00:00:00Z",
+              "gameVersionName": "1.20"
+            }
+          ],
+          "gameVersions": [
+            "Fabric",
+            "1.20.1",
+            "1.20"
+          ],
+          "fileFingerprint": 1031560705,
+          "modId": 897678
+        },
+        "modrinthProject": {
+          "id": "z9Ve58Ih",
+          "slug": "yungs-better-jungle-temples",
+          "project_type": "mod",
+          "team": "yK34icg8",
+          "title": "YUNG's Better Jungle Temples",
+          "description": "A complete redesign of Minecraft's jungle temples!",
+          "body": "<p>\n<img src=\"https://i.imgur.com/kNytodv.png\" alt=\"YUNG's Better Jungle Temples\" width=\"1344\" height=\"416\" /><br />\n<a title=\"Depends on YUNG's API\" href=\"https://modrinth.com/mod/yungs-api\" target=\"_blank\" rel=\"noopener\"><img src=\"https://tinyurl.com/yungsapibadge\" alt=\"Depends on YUNG's API\" width=\"211\" height=\"26\" /></a>&nbsp;<a title=\"Join the YUNG GANG on Discord!\" href=\"https://discord.gg/rns3beq\" target=\"_blank\" rel=\"noopener\"><img src=\"https://tinyurl.com/yungsdiscordbadge2\" alt=\"Join the YUNG GANG on Discord!\" width=\"136\" height=\"28\" /></a>&nbsp;<a title=\"Follow me on Twitter!\" href=\"https://twitter.com/yungnickyoung\" target=\"_blank\" rel=\"noopener\"><img src=\"https://tinyurl.com/yungstwitterbadge3\" alt=\"Follow me on Twitter!\" width=\"104\" height=\"37\" /></a>&nbsp;<a title=\"Subscribe to my YouTube!\" href=\"https://www.youtube.com/yungnickyoung\" target=\"_blank\" rel=\"noopener\"><img src=\"https://tinyurl.com/yungsyoutubebadge\" alt=\"Subscribe to my YouTube!\" width=\"80\" height=\"30\" /></a>&nbsp;<a title=\"Support me on Patreon!\" href=\"https://patreon.com/yungnickyoung\" target=\"_blank\" rel=\"noopener\"><img src=\"https://tinyurl.com/yungspatreonbadge\" alt=\"Support me on Patreon!\" width=\"138\" height=\"28\" /></a><br />\n<img src=\"https://i.imgur.com/ujP2J5g.png\" alt=\"What is this?\" width=\"1125\" height=\"59\" /><br />\n<b>A complete overhaul of Minecraft's jungle temples!</b> YUNG's Better Jungle Temples completely redesigns jungle temples from the ground up, featuring a completely new design, traps, puzzles, and loot!\n</p>\n<p>\n<img src=\"https://i.imgur.com/ladFuIF.png\" alt=\"Compatibility\" width=\"1125\" height=\"59\" /><br />\nYUNG's Better Jungle Temples includes built-in compatibility with many mods! If you're using any of the following mods, certain parts of the temple have a chance of spawning using special pieces. Note that this is an optional feature — these mods are not required to use Better Jungle Temples.\n</p>\n<ul>\n<li>Create</li>\n<li>Supplementaries</li>\n<li>Alex's Mobs (Forge only)</li>\n<li>Pick Your Poison (Fabric 1.19.2 only)</li>\n</ul>\nYUNG's Better Jungle Temples is also intended to be fully compatible with every worldgen mod, including:\n<ul>\n<li><a title=\"YUNG's Better Ocean Monuments\" href=\"https://modrinth.com/mod/yungs-better-ocean-monuments\" target=\"_blank\" rel=\"noopener\">YUNG's Ocean Monuments</a></li>\n<li><a title=\"YUNG's Better Nether Fortresses\" href=\"https://modrinth.com/mod/yungs-better-nether-fortresses\" target=\"_blank\" rel=\"noopener\">YUNG's Better Nether Fortresses</a></li>\n<li><a title=\"YUNG's Extras\" href=\"https://modrinth.com/mod/yungs-extras\" target=\"_blank\" rel=\"noopener\">YUNG's Extras</a></li>\n</ul>\n<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://i.imgur.com/a49IMQJ.png\" /><br />\n<a title=\"Get 25% off your server with code YUNGNICKYOUNG at Bisect Hosting!\" href=\"https://bisecthosting.com/yung\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://i.imgur.com/nQRs7ZP.png\" alt=\"Use code YUNGNICKYOUNG with Bisect Hosting for 25% off!\" width=\"1344\" height=\"400\" /></a></p>",
+          "published": "2023-08-01T22:33:43.127062Z",
+          "updated": "2024-05-17T01:17:23.125474Z",
+          "status": "approved",
+          "license": {
+            "id": "LGPL-3.0-only",
+            "name": "GNU Lesser General Public License v3.0 only"
+          },
+          "client_side": "unsupported",
+          "server_side": "required",
+          "categories": [
+            "adventure",
+            "decoration",
+            "worldgen"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/z9Ve58Ih/4a410457d1eca88ad1d4a2c4e7672fc3014056e4.png",
+          "issues_url": "https://github.com/YUNG-GANG/YUNGs-Better-Jungle-Temples/issues",
+          "source_url": "https://github.com/YUNG-GANG/YUNGs-Better-Jungle-Temples",
+          "discord_url": "https://discord.gg/rns3beq",
+          "donation_urls": [
+            {
+              "id": "patreon",
+              "platform": "Patreon",
+              "url": "https://www.patreon.com/yungnickyoung"
+            }
+          ],
+          "gallery": [
+            {
+              "url": "https://cdn.modrinth.com/data/z9Ve58Ih/images/2a01851de68dbd1580254ae2cfaf2ad123d1ca6e.png",
+              "featured": true,
+              "title": "YUNG's Better Jungle Temples",
+              "created": "2023-08-01T22:41:10.421566Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/z9Ve58Ih/images/2edba993e580048f7985966807e60f44c3ee3028.png",
+              "featured": false,
+              "title": "A totally safe chest",
+              "created": "2023-08-01T22:41:38.165291Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/z9Ve58Ih/images/7bcc32ebe2cc66bbd964f31bb89bc6c541d6a8e1.png",
+              "featured": false,
+              "title": "Puzzles!",
+              "created": "2023-08-01T22:41:57.408901Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/z9Ve58Ih/images/be17d29a69a6b70f6cd8a81167e46f6847e2c6df.jpeg",
+              "featured": false,
+              "title": "Supplementaries compatibility",
+              "created": "2023-08-01T22:42:05.120140Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/z9Ve58Ih/images/dbe3bfee189de3eb6b41ad4f7d614ccceeec269a.png",
+              "featured": false,
+              "title": "Ancient statues",
+              "created": "2023-08-01T22:41:45.711915Z",
+              "ordering": 0.0
+            }
+          ]
+        },
+        "modrinthVersion": {
+          "id": "6LPrzuB0",
+          "project_id": "z9Ve58Ih",
+          "author_id": "HCGwycZf",
+          "name": "[1.20] v2.0.5 (Fabric)",
+          "version_number": "1.20-Fabric-2.0.5",
+          "changelog": "- Drastically reduce infested block spawn rate\n\nIf you want to get early access to all my mods, [Join the Patreon!](https://www.patreon.com/yungnickyoung)  \n[Join us on Discord!](https://discord.gg/rns3beq)  \n[Follow me on Twitter](https://twitter.com/yungnickyoung) for more mod updates!",
+          "date_published": "2024-05-10T03:09:16.065503Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha512": "ea08ade714376f48cabdddd2e4b7376fc5cc5947e3911583ba4e182ab22c1335c884043441725cde21fb6e84402d17c43f509ade339d46a1a1db40f0e77ee81a",
+                "sha1": "e0c5366159af63c1a0b110ce1a62750d3d75d978"
+              },
+              "url": "https://cdn.modrinth.com/data/z9Ve58Ih/versions/6LPrzuB0/YungsBetterJungleTemples-1.20-Fabric-2.0.5.jar",
+              "filename": "YungsBetterJungleTemples-1.20-Fabric-2.0.5.jar",
+              "primary": true,
+              "size": 947293
+            }
+          ],
+          "dependencies": [
+            {
+              "project_id": "Ua7DFN59",
+              "dependency_type": "required"
+            },
+            {
+              "project_id": "mOgUt4GM",
+              "dependency_type": "optional"
+            },
+            {
+              "project_id": "P7dR8mSH",
+              "dependency_type": "required"
+            },
+            {
+              "project_id": "9s6osm5g",
+              "dependency_type": "required"
+            }
+          ],
+          "game_versions": [
+            "1.20",
+            "1.20.1"
+          ],
+          "loaders": [
+            "fabric"
+          ]
+        }
+      },
+      {
+        "name": "YUNG's Better Desert Temples",
+        "version": "[1.20] v3.0.3 (Fabric)",
+        "optional": true,
+        "file": "YungsBetterDesertTemples-1.20-Fabric-3.0.3.jar",
+        "type": "mods",
+        "description": "A complete redesign of Minecraft's desert temples!",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 631020,
+        "curseForgeFileId": 4769440,
+        "curseForgeProject": {
+          "id": 631020,
+          "name": "YUNG's Better Desert Temples (Fabric)",
+          "authors": [
+            {
+              "id": 40421595,
+              "name": "YUNGNICKYOUNG",
+              "url": "https://www.curseforge.com/members/yungnickyoung"
+            },
+            {
+              "id": 103326469,
+              "name": "TeraBuildsStuff",
+              "url": "https://www.curseforge.com/members/terabuildsstuff"
+            }
+          ],
+          "gameId": 432,
+          "summary": "A complete redesign of Minecraft's desert temples!",
+          "categories": [
+            {
+              "name": "Structures",
+              "slug": "world-structures",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen/world-structures",
+              "dateModified": "2014-05-08T17:37:17.173Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 409,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/24/635351494371736208.png",
+              "parentCategoryId": 406,
+              "classId": 6
+            },
+            {
+              "name": "World Gen",
+              "slug": "world-gen",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen",
+              "dateModified": "2017-10-16T21:40:11.473Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 406,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/26/635351494599748860.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Adventure and RPG",
+              "slug": "adventure-rpg",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/adventure-rpg",
+              "dateModified": "2014-05-08T17:42:09.54Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 422,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/37/635351497295252123.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 409,
+          "classId": 6,
+          "slug": "yungs-better-desert-temples-fabric",
+          "isFeatured": false,
+          "dateModified": "2024-05-17T01:00:24.353Z",
+          "dateCreated": "2022-06-05T19:40:07.667Z",
+          "dateReleased": "2024-05-17T00:55:55.03Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/yungs-better-desert-temples-fabric",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/YUNG-GANG/YUNGs-Better-Desert-Temples/issues",
+            "sourceUrl": "https://github.com/YUNG-GANG/YUNGs-Better-Desert-Temples"
+          },
+          "logo": {
+            "id": 881114,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/881/114/256/256/638311014960874145.png",
+            "title": "638311014960874145.png",
+            "url": "https://media.forgecdn.net/avatars/881/114/638311014960874145.png",
+            "modId": 631020
+          },
+          "allowModDistribution": true,
+          "screenshots": [
+            {
+              "id": 466947,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/466/947/310/172/2022-04-06_02.png",
+              "title": "A Better Desert Temple almost entirely buried",
+              "url": "https://media.forgecdn.net/attachments/466/947/2022-04-06_02.png",
+              "modId": 631020
+            },
+            {
+              "id": 466949,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/466/949/310/172/2022-04-10_00.png",
+              "title": "A largely uncovered Better Desert Temple",
+              "url": "https://media.forgecdn.net/attachments/466/949/2022-04-10_00.png",
+              "modId": 631020
+            },
+            {
+              "id": 466946,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/466/946/310/172/2022-04-06_02.png",
+              "title": "The cake is definitely not a lie",
+              "url": "https://media.forgecdn.net/attachments/466/946/2022-04-06_02.png",
+              "modId": 631020
+            },
+            {
+              "id": 466945,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/466/945/310/172/2022-04-06_02.png",
+              "title": "Armory",
+              "url": "https://media.forgecdn.net/attachments/466/945/2022-04-06_02.png",
+              "modId": 631020
+            },
+            {
+              "id": 466944,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/466/944/310/172/2022-04-06_02.png",
+              "title": "The main chamber",
+              "url": "https://media.forgecdn.net/attachments/466/944/2022-04-06_02.png",
+              "modId": 631020
+            },
+            {
+              "id": 466943,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/466/943/310/172/2022-04-06_01.png",
+              "title": "The main chamber",
+              "url": "https://media.forgecdn.net/attachments/466/943/2022-04-06_01.png",
+              "modId": 631020
+            }
+          ],
+          "mainFileId": 5349786
+        },
+        "curseForgeFile": {
+          "id": 4769440,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "[1.20] YUNG's Better Desert Temples v3.0.3 (Fabric)",
+          "fileName": "YungsBetterDesertTemples-1.20-Fabric-3.0.3.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2023-09-26T03:48:26.72Z",
+          "fileLength": 1063786,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 421649,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 306612,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 348521,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 308702,
+              "relationType": 2
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 2628002906,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 594285800,
+              "name": "pack.mcmeta"
+            },
+            {
+              "fingerprint": 2910368109,
+              "name": "logo.png"
+            },
+            {
+              "fingerprint": 2194141670,
+              "name": "icon.png"
+            },
+            {
+              "fingerprint": 1282812460,
+              "name": "fabric.mod.json"
+            },
+            {
+              "fingerprint": 1811690392,
+              "name": "data"
+            },
+            {
+              "fingerprint": 518147667,
+              "name": "catalogue_icon.png"
+            },
+            {
+              "fingerprint": 3050085841,
+              "name": "catalogue_background.png"
+            },
+            {
+              "fingerprint": 3689090304,
+              "name": "betterdeserttemples_fabric.mixins.json"
+            },
+            {
+              "fingerprint": 3381862654,
+              "name": "betterdeserttemples.mixins.json"
+            },
+            {
+              "fingerprint": 2347317259,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 4062415062,
+              "name": "betterdeserttemples.refmap.json"
+            },
+            {
+              "fingerprint": 2669442586,
+              "name": "com"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "b8de6410b1ae57a49848f172d5310dc79e731b25",
+              "algo": 1
+            },
+            {
+              "value": "7dd4fec6982f0946575a4caab6248060",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-09-01T00:00:00Z",
+              "gameVersionName": "Fabric"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020",
+              "gameVersion": "1.20",
+              "gameVersionReleaseDate": "2023-06-07T00:00:00Z",
+              "gameVersionName": "1.20"
+            }
+          ],
+          "gameVersions": [
+            "Fabric",
+            "1.20.1",
+            "1.20"
+          ],
+          "fileFingerprint": 495356622,
+          "modId": 631020
+        },
+        "modrinthProject": {
+          "id": "XNlO7sBv",
+          "slug": "yungs-better-desert-temples",
+          "project_type": "mod",
+          "team": "a0pXN0ys",
+          "title": "YUNG's Better Desert Temples",
+          "description": "A complete redesign of Minecraft's desert temples!",
+          "body": "<p>\n<img src=\"https://i.imgur.com/NedZCVu.png\" alt=\"YUNG's Better Desert Temples\" width=\"1344\" height=\"416\" /><br />\n<a title=\"Depends on YUNG's API\" href=\"https://modrinth.com/mod/yungs-api\" target=\"_blank\" rel=\"noopener\"><img src=\"https://tinyurl.com/yungsapibadge\" alt=\"Depends on YUNG's API\" width=\"211\" height=\"26\" /></a>&nbsp;<a title=\"Join the YUNG GANG on Discord!\" href=\"https://discord.gg/rns3beq\" target=\"_blank\" rel=\"noopener\"><img src=\"https://tinyurl.com/yungsdiscordbadge2\" alt=\"Join the YUNG GANG on Discord!\" width=\"136\" height=\"28\" /></a>&nbsp;<a title=\"Follow me on Twitter!\" href=\"https://twitter.com/yungnickyoung\" target=\"_blank\" rel=\"noopener\"><img src=\"https://tinyurl.com/yungstwitterbadge3\" alt=\"Follow me on Twitter!\" width=\"104\" height=\"37\" /></a>&nbsp;<a title=\"Subscribe to my YouTube!\" href=\"https://www.youtube.com/yungnickyoung\" target=\"_blank\" rel=\"noopener\"><img src=\"https://tinyurl.com/yungsyoutubebadge\" alt=\"Subscribe to my YouTube!\" width=\"80\" height=\"30\" /></a>&nbsp;<a title=\"Support me on Patreon!\" href=\"https://patreon.com/yungnickyoung\" target=\"_blank\" rel=\"noopener\"><img src=\"https://tinyurl.com/yungspatreonbadge\" alt=\"Support me on Patreon!\" width=\"138\" height=\"28\" /></a><br />\n<img src=\"https://i.imgur.com/2HNgRET.png\" alt=\"What is this?\" width=\"1125\" height=\"59\" /><br />\nThe ultimate upgrade to Minecraft's desert temples! YUNG's Better Desert Temples redesigns vanilla desert temples to be way more exciting, adding a variety of new puzzles, traps, &amp; parkour challenges. And of course, you'll get much better loot than vanilla's desert temples for your troubles!\n</p>\n<p>\nBy default, mining fatigue will be applied to all players in the Better Desert Temple. Once you clear the temple (i.e. kill the pharaoh at the end of the temple), the mining fatigue effect for that temple will be permanently lifted! You can disable this feature in the config. Additionally, you can re-enable vanilla desert temples to spawn alongside Better Desert Temples in the config.\n</p>\n<p>\nCloser look: <br />\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/TpkTeTeDKJo\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>\n</p>\n<p>\nAnimated trailer: <br />\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/C1C5Z0DaOQk\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>\n</p>\n<p>\n<img src=\"https://i.imgur.com/JR6R3uf.png\" alt=\"Compatibility\" width=\"1125\" height=\"59\" /><br />\nYUNG's Better Desert Temples is intended to be fully compatible with every worldgen mod, including:\n</p>\n<ul>\n<li><a title=\"YUNG's Better Mineshafts\" href=\"https://modrinth.com/mod/yungs-better-mineshafts\" target=\"_blank\" rel=\"noopener\">YUNG's Better Mineshafts</a></li>\n<li><a title=\"YUNG's Better Strongholds\" href=\"https://modrinth.com/mod/yungs-better-strongholds\" target=\"_blank\" rel=\"noopener\">YUNG's Better Strongholds</a></li>\n<li><a title=\"YUNG's Better Dungeons\" href=\"https://modrinth.com/mod/yungs-better-dungeons\" target=\"_blank\" rel=\"noopener\">YUNG's Better Dungeons</a></li>\n<li><a title=\"YUNG's Extras\" href=\"https://modrinth.com/mod/yungs-extras\" target=\"_blank\" rel=\"noopener\">YUNG's Extras</a></li>\n<li><a title=\"YUNG's Bridges\" href=\"https://modrinth.com/mod/yungs-bridges\" target=\"_blank\" rel=\"noopener\">YUNG's Bridges</a></li>\n<li>Repurposed Structures. RS also offers a custom data pack you can use in addition to the mod that adds repurposed versions of the deser temples! <a href=\"https://www.curseforge.com/minecraft/texture-packs/repurposed-structures-better-desert-temples-compat\" target=\"_blank\" rel=\"noopener\">Check it out here.</a></li>\n</ul>\n<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://i.imgur.com/a49IMQJ.png\" /><br />\n<a title=\"Get 25% off your server with code YUNGNICKYOUNG at Bisect Hosting!\" href=\"https://bisecthosting.com/yung\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://i.imgur.com/nQRs7ZP.png\" alt=\"Use code YUNGNICKYOUNG with Bisect Hosting for 25% off!\" width=\"1344\" height=\"400\" /></a></p>",
+          "published": "2022-11-28T19:49:53.246560Z",
+          "updated": "2024-05-17T00:55:58.596148Z",
+          "status": "approved",
+          "license": {
+            "id": "LGPL-3.0-only",
+            "name": "GNU Lesser General Public License v3.0 only"
+          },
+          "client_side": "unsupported",
+          "server_side": "required",
+          "categories": [
+            "adventure",
+            "decoration",
+            "worldgen"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/XNlO7sBv/7c28d323155163f64343670e6553b85e681d7796.png",
+          "issues_url": "https://github.com/YUNG-GANG/YUNGs-Better-Desert-Temples/issues",
+          "source_url": "https://github.com/YUNG-GANG/YUNGs-Better-Desert-Temples",
+          "discord_url": "https://discord.gg/rns3beq",
+          "donation_urls": [
+            {
+              "id": "patreon",
+              "platform": "Patreon",
+              "url": "https://www.patreon.com/yungnickyoung"
+            }
+          ],
+          "gallery": [
+            {
+              "url": "https://cdn.modrinth.com/data/XNlO7sBv/images/2e73ada29fe12cb01ecdea5916a5c8b76bf92251.png",
+              "featured": false,
+              "created": "2022-11-29T00:27:53.448869Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/XNlO7sBv/images/4666a27bbc0b4b8bf1eb32993c739b4fae5dab5e.png",
+              "featured": false,
+              "created": "2022-11-29T00:27:46.045032Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/XNlO7sBv/images/b038f3cf881908855e839d8512f2e5c72d60b554.png",
+              "featured": true,
+              "created": "2022-11-29T00:27:56.123754Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/XNlO7sBv/images/c0981f08baa9c58eb2693dfd187d58afd3adf770.png",
+              "featured": false,
+              "created": "2022-11-29T00:27:50.808017Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/XNlO7sBv/images/e2f8ce59e0967a2e6244d8ee6073526a54009335.png",
+              "featured": false,
+              "created": "2022-11-29T00:27:48.348427Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/XNlO7sBv/images/e4540d16c2b4d6db2d54a75345492b005f81032e.png",
+              "featured": false,
+              "created": "2022-11-29T00:27:43.271953Z",
+              "ordering": 0.0
+            }
+          ]
+        },
+        "modrinthVersion": {
+          "id": "1Z9HNWpj",
+          "project_id": "XNlO7sBv",
+          "author_id": "HCGwycZf",
+          "name": "[1.20] v3.0.3 (Fabric)",
+          "version_number": "1.20-Fabric-3.0.3",
+          "changelog": "- Added new icon and logo!\n- Added support for Catalogue\n\nIf you want to get early access to all my mods, [Join the Patreon!](https://www.patreon.com/yungnickyoung)  \n[Join us on Discord!](https://discord.gg/rns3beq)  \n[Follow me on Twitter](https://twitter.com/yungnickyoung) for more mod updates!",
+          "date_published": "2023-09-26T03:48:31.547742Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha1": "b8de6410b1ae57a49848f172d5310dc79e731b25",
+                "sha512": "29839615e042435b0fdacab2b97524a6689190692a289c25e305dbaec34764f38e70c65cfd77b49ac0dcc549281b61cfe244edc62809082e39db54990ef84cbf"
+              },
+              "url": "https://cdn.modrinth.com/data/XNlO7sBv/versions/1Z9HNWpj/YungsBetterDesertTemples-1.20-Fabric-3.0.3.jar",
+              "filename": "YungsBetterDesertTemples-1.20-Fabric-3.0.3.jar",
+              "primary": true,
+              "size": 1063786
+            }
+          ],
+          "dependencies": [
+            {
+              "project_id": "9s6osm5g",
+              "dependency_type": "required"
+            },
+            {
+              "project_id": "P7dR8mSH",
+              "dependency_type": "required"
+            },
+            {
+              "project_id": "Ua7DFN59",
+              "dependency_type": "required"
+            },
+            {
+              "project_id": "mOgUt4GM",
+              "dependency_type": "optional"
+            }
+          ],
+          "game_versions": [
+            "1.20",
+            "1.20.1"
+          ],
+          "loaders": [
+            "fabric"
+          ]
+        }
+      },
+      {
+        "name": "YUNG's Bridges",
+        "version": "[1.20] v4.0.3 (Fabric)",
+        "optional": true,
+        "file": "YungsBridges-1.20-Fabric-4.0.3.jar",
+        "type": "mods",
+        "description": "Adds beautiful naturally generated bridges throughout the world!",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 590988,
+        "curseForgeFileId": 4769520,
+        "curseForgeProject": {
+          "id": 590988,
+          "name": "YUNG's Bridges (Fabric)",
+          "authors": [
+            {
+              "id": 40421595,
+              "name": "YUNGNICKYOUNG",
+              "url": "https://www.curseforge.com/members/yungnickyoung"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Adds beautiful naturally generated bridges throughout the world",
+          "categories": [
+            {
+              "name": "Biomes",
+              "slug": "world-biomes",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen/world-biomes",
+              "dateModified": "2014-05-08T17:34:59.587Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 407,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/22/635351492995856506.png",
+              "parentCategoryId": 406,
+              "classId": 6
+            },
+            {
+              "name": "World Gen",
+              "slug": "world-gen",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen",
+              "dateModified": "2017-10-16T21:40:11.473Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 406,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/26/635351494599748860.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Structures",
+              "slug": "world-structures",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen/world-structures",
+              "dateModified": "2014-05-08T17:37:17.173Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 409,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/24/635351494371736208.png",
+              "parentCategoryId": 406,
+              "classId": 6
+            },
+            {
+              "name": "Adventure and RPG",
+              "slug": "adventure-rpg",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/adventure-rpg",
+              "dateModified": "2014-05-08T17:42:09.54Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 422,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/37/635351497295252123.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 409,
+          "classId": 6,
+          "slug": "yungs-bridges-fabric",
+          "isFeatured": false,
+          "dateModified": "2024-05-17T07:11:20.62Z",
+          "dateCreated": "2022-03-08T05:16:34.203Z",
+          "dateReleased": "2024-05-17T07:05:00.72Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/yungs-bridges-fabric",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/yungnickyoung/YUNGs-Bridges/issues",
+            "sourceUrl": "https://github.com/yungnickyoung/YUNGs-Bridges"
+          },
+          "logo": {
+            "id": 881135,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/881/135/256/256/638311022254604654.png",
+            "title": "638311022254604654.png",
+            "url": "https://media.forgecdn.net/avatars/881/135/638311022254604654.png",
+            "modId": 590988
+          },
+          "allowModDistribution": true,
+          "screenshots": [
+            {
+              "id": 439013,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/439/13/310/172/e-gqa7jxeaattud.jpg",
+              "title": "Small forest bridge",
+              "url": "https://media.forgecdn.net/attachments/439/13/e-gqa7jxeaattud.jpg",
+              "modId": 590988
+            },
+            {
+              "id": 439010,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/439/10/310/172/e-gqb68xmaa5ucj.jpg",
+              "title": "Fancy wooden bridge",
+              "url": "https://media.forgecdn.net/attachments/439/10/e-gqb68xmaa5ucj.jpg",
+              "modId": 590988
+            },
+            {
+              "id": 439012,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/439/12/310/172/2021-08-31_03.png",
+              "title": "Several large stone bridges",
+              "url": "https://media.forgecdn.net/attachments/439/12/2021-08-31_03.png",
+              "modId": 590988
+            },
+            {
+              "id": 439011,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/439/11/310/172/e-gqe_zwyae_zpo.jpg",
+              "title": "Cozy nighttime bridge",
+              "url": "https://media.forgecdn.net/attachments/439/11/e-gqe_zwyae_zpo.jpg",
+              "modId": 590988
+            }
+          ],
+          "mainFileId": 5350234
+        },
+        "curseForgeFile": {
+          "id": 4769520,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "[1.20] YUNG's Bridges v4.0.3 (Fabric)",
+          "fileName": "YungsBridges-1.20-Fabric-4.0.3.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2023-09-26T06:06:02.703Z",
+          "fileLength": 266481,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 308702,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 348521,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 306612,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 421649,
+              "relationType": 3
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 934588079,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 1930930806,
+              "name": "yungsbridges_fabric.mixins.json"
+            },
+            {
+              "fingerprint": 1015676043,
+              "name": "yungsbridges.mixins.json"
+            },
+            {
+              "fingerprint": 2149696795,
+              "name": "pack.mcmeta"
+            },
+            {
+              "fingerprint": 1839261218,
+              "name": "logo.png"
+            },
+            {
+              "fingerprint": 2507324965,
+              "name": "icon.png"
+            },
+            {
+              "fingerprint": 3727373876,
+              "name": "fabric.mod.json"
+            },
+            {
+              "fingerprint": 3644819691,
+              "name": "data"
+            },
+            {
+              "fingerprint": 3217337775,
+              "name": "catalogue_background.png"
+            },
+            {
+              "fingerprint": 2716574773,
+              "name": "yungsbridges.refmap.json"
+            },
+            {
+              "fingerprint": 3992928535,
+              "name": "com"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "e6be5c5fb116b50ff75910015b19fcc6dadaf4e6",
+              "algo": 1
+            },
+            {
+              "value": "3f195c1585696c0f0cb9d3e4507b1fb2",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-09-01T00:00:00Z",
+              "gameVersionName": "Fabric"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020",
+              "gameVersion": "1.20",
+              "gameVersionReleaseDate": "2023-06-07T00:00:00Z",
+              "gameVersionName": "1.20"
+            }
+          ],
+          "gameVersions": [
+            "Fabric",
+            "1.20.1",
+            "1.20"
+          ],
+          "fileFingerprint": 1357353072,
+          "modId": 590988
+        },
+        "modrinthProject": {
+          "id": "Ht4BfYp6",
+          "slug": "yungs-bridges",
+          "project_type": "mod",
+          "team": "13sU60QF",
+          "title": "YUNG's Bridges",
+          "description": "Adds beautiful naturally generated bridges throughout the world!",
+          "body": "<p>\n<img src=\"https://i.imgur.com/cmRWhN4.png\" alt=\"YUNG's Bridges\" width=\"1344\" height=\"416\" /><br />\n<a title=\"Depends on YUNG's API\" href=\"https://modrinth.com/mod/yungs-api\" target=\"_blank\" rel=\"noopener\"><img src=\"https://tinyurl.com/yungsapibadge\" alt=\"Depends on YUNG's API\" width=\"211\" height=\"26\" /></a>&nbsp;<a title=\"Join the YUNG GANG on Discord!\" href=\"https://discord.gg/rns3beq\" target=\"_blank\" rel=\"noopener\"><img src=\"https://tinyurl.com/yungsdiscordbadge2\" alt=\"Join the YUNG GANG on Discord!\" width=\"136\" height=\"28\" /></a>&nbsp;<a title=\"Follow me on Twitter!\" href=\"https://twitter.com/yungnickyoung\" target=\"_blank\" rel=\"noopener\"><img src=\"https://tinyurl.com/yungstwitterbadge3\" alt=\"Follow me on Twitter!\" width=\"104\" height=\"37\" /></a>&nbsp;<a title=\"Subscribe to my YouTube!\" href=\"https://www.youtube.com/yungnickyoung\" target=\"_blank\" rel=\"noopener\"><img src=\"https://tinyurl.com/yungsyoutubebadge\" alt=\"Subscribe to my YouTube!\" width=\"80\" height=\"30\" /></a>&nbsp;<a title=\"Support me on Patreon!\" href=\"https://patreon.com/yungnickyoung\" target=\"_blank\" rel=\"noopener\"><img src=\"https://tinyurl.com/yungspatreonbadge\" alt=\"Support me on Patreon!\" width=\"138\" height=\"28\" /></a><br />\n<img src=\"https://i.imgur.com/Ug8dC9A.png\" alt=\"What is this?\" width=\"1125\" height=\"59\" /><br />\nYUNG's Bridges is the first Minecraft mod to ever add naturally generated bridges to the game. Explore the world and discover over 15 different types of bridges, each with biome-specific variants!\n</p>\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/4aMS_7aq3ws\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>\n<p>\n<img src=\"https://i.imgur.com/ladFuIF.png\" alt=\"Compatibility\" width=\"1125\" height=\"59\" /><br />\nYUNG's Bridges is intended to be fully compatible with every worldgen mod, including:\n</p>\n<ul>\n<li><a title=\"YUNG's Better Desert Temples\" href=\"https://modrinth.com/mod/yungs-better-desert-temples\" target=\"_blank\" rel=\"noopener\">YUNG's Better Desert Temples</a></li>\n<li><a title=\"YUNG's Better Ocean Monuments\" href=\"https://modrinth.com/mod/yungs-better-ocean-monuments\" target=\"_blank\" rel=\"noopener\">YUNG's Better Ocean Monuments</a></li>\n<li><a title=\"YUNG's Better Mineshafts\" href=\"https://modrinth.com/mod/yungs-better-mineshafts\" target=\"_blank\" rel=\"noopener\">YUNG's Better Mineshafts</a></li>\n<li><a title=\"YUNG's Better Strongholds\" href=\"https://modrinth.com/mod/yungs-better-strongholds\" target=\"_blank\" rel=\"noopener\">YUNG's Better Strongholds</a></li>\n<li><a title=\"YUNG's Extras\" href=\"https://modrinth.com/mod/yungs-extras\" target=\"_blank\" rel=\"noopener\">YUNG's Extras</a></li>\n<li>Oh the Biomes You'll Go</li>\n<li>Biomes O' Plenty</li>\n<li>Terralith: makes river have steeper banks. Bridges may still spawn but will be rare. Experiment with higher spawn rates.</li>\n</ul>\n<p><img src=\"https://i.imgur.com/a49IMQJ.png\" /><br />\n<a title=\"Get 25% off your server with code YUNGNICKYOUNG at Bisect Hosting!\" href=\"https://bisecthosting.com/yung\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://i.imgur.com/nQRs7ZP.png\" alt=\"Use code YUNGNICKYOUNG with Bisect Hosting for 25% off!\" width=\"1344\" height=\"400\" /></a></p>",
+          "published": "2022-11-28T22:06:46.403543Z",
+          "updated": "2024-05-17T07:05:14.135342Z",
+          "status": "approved",
+          "license": {
+            "id": "LGPL-3.0-only",
+            "name": "GNU Lesser General Public License v3.0 only"
+          },
+          "client_side": "unsupported",
+          "server_side": "required",
+          "categories": [
+            "adventure",
+            "decoration",
+            "worldgen"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/Ht4BfYp6/1d55ae5220d5e8a3bd9224ce100c21492f43abb0.png",
+          "issues_url": "https://github.com/YUNG-GANG/YUNGs-Bridges/issues",
+          "source_url": "https://github.com/YUNG-GANG/YUNGs-Bridges",
+          "discord_url": "https://discord.gg/rns3beq",
+          "donation_urls": [
+            {
+              "id": "patreon",
+              "platform": "Patreon",
+              "url": "https://www.patreon.com/yungnickyoung"
+            }
+          ],
+          "gallery": [
+            {
+              "url": "https://cdn.modrinth.com/data/Ht4BfYp6/images/7a403ad4545200cf40c766a9b5f03678a726313f.jpeg",
+              "featured": false,
+              "created": "2022-11-29T00:26:56.481564Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/Ht4BfYp6/images/acdbdc56bb8265197faaed79e27d9fa404aa794b.jpeg",
+              "featured": false,
+              "created": "2022-11-29T00:26:57.255423Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/Ht4BfYp6/images/adad5a9cbe37071018e845def3eb9be9218fa615.jpeg",
+              "featured": false,
+              "created": "2022-11-29T00:26:58.476712Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/Ht4BfYp6/images/c9ce969fff7aed52a33885c443835d168703d721.jpeg",
+              "featured": true,
+              "created": "2022-11-29T00:26:55.582308Z",
+              "ordering": 0.0
+            }
+          ]
+        },
+        "modrinthVersion": {
+          "id": "hvfjXu8d",
+          "project_id": "Ht4BfYp6",
+          "author_id": "HCGwycZf",
+          "name": "[1.20] v4.0.3 (Fabric)",
+          "version_number": "1.20-Fabric-4.0.3",
+          "changelog": "- Added new icon and logo!  \n- Added support for Catalogue  \n\nIf you want to get early access to all my mods, [Join the Patreon!](https://www.patreon.com/yungnickyoung)  \n[Join us on Discord!](https://discord.gg/rns3beq)  \n[Follow me on Twitter](https://twitter.com/yungnickyoung) for more mod updates!",
+          "date_published": "2023-09-26T06:06:06.835059Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha512": "3cdd923781fe6446466670bce8132bbc0a1ee27ae9a76bb25bf0010c0e79c821ce1dc606405e3ffa00f22d92629aa1cd7cc680a17c98dfcf338166372b85dab1",
+                "sha1": "e6be5c5fb116b50ff75910015b19fcc6dadaf4e6"
+              },
+              "url": "https://cdn.modrinth.com/data/Ht4BfYp6/versions/hvfjXu8d/YungsBridges-1.20-Fabric-4.0.3.jar",
+              "filename": "YungsBridges-1.20-Fabric-4.0.3.jar",
+              "primary": true,
+              "size": 266481
+            }
+          ],
+          "dependencies": [
+            {
+              "project_id": "P7dR8mSH",
+              "dependency_type": "required"
+            },
+            {
+              "project_id": "mOgUt4GM",
+              "dependency_type": "optional"
+            },
+            {
+              "project_id": "Ua7DFN59",
+              "dependency_type": "required"
+            },
+            {
+              "project_id": "9s6osm5g",
+              "dependency_type": "required"
+            }
+          ],
+          "game_versions": [
+            "1.20",
+            "1.20.1"
+          ],
+          "loaders": [
+            "fabric"
+          ]
+        }
       }
     ],
     "ignoredUpdates": [],
     "ignoreAllUpdates": false,
     "vanillaInstance": true,
-    "lastPlayed": 1724528349152,
-    "numPlays": 17
+    "lastPlayed": 1724529273639,
+    "numPlays": 18
   },
   "id": "1.20.1",
   "complianceLevel": 1,
