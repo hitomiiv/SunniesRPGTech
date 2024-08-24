@@ -11755,13 +11755,401 @@
             "fabric"
           ]
         }
+      },
+      {
+        "name": "YUNG's Better End Island",
+        "version": "[1.20] v2.0.6 (Fabric)",
+        "optional": true,
+        "file": "YungsBetterEndIsland-1.20-Fabric-2.0.6.jar",
+        "type": "mods",
+        "description": "An overhaul of the main End Island where the dragon fight takes place!",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 901350,
+        "curseForgeFileId": 5193816,
+        "curseForgeProject": {
+          "id": 901350,
+          "name": "YUNG's Better End Island (Fabric)",
+          "authors": [
+            {
+              "id": 40421595,
+              "name": "YUNGNICKYOUNG",
+              "url": "https://www.curseforge.com/members/yungnickyoung"
+            },
+            {
+              "id": 102094599,
+              "name": "EveCommander",
+              "url": "https://www.curseforge.com/members/evecommander"
+            }
+          ],
+          "gameId": 432,
+          "summary": "An overhaul of the main End Island where the dragon fight takes place!",
+          "categories": [
+            {
+              "name": "World Gen",
+              "slug": "world-gen",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen",
+              "dateModified": "2017-10-16T21:40:11.473Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 406,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/26/635351494599748860.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Dimensions",
+              "slug": "world-dimensions",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen/world-dimensions",
+              "dateModified": "2014-05-08T17:37:26.84Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 410,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/25/635351494468414756.png",
+              "parentCategoryId": 406,
+              "classId": 6
+            },
+            {
+              "name": "Adventure and RPG",
+              "slug": "adventure-rpg",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/adventure-rpg",
+              "dateModified": "2014-05-08T17:42:09.54Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 422,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/37/635351497295252123.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Structures",
+              "slug": "world-structures",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen/world-structures",
+              "dateModified": "2014-05-08T17:37:17.173Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 409,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/24/635351494371736208.png",
+              "parentCategoryId": 406,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 406,
+          "classId": 6,
+          "slug": "yungs-better-end-island-fabric",
+          "isFeatured": false,
+          "dateModified": "2024-05-17T01:46:24.42Z",
+          "dateCreated": "2023-08-10T21:46:06.59Z",
+          "dateReleased": "2024-05-17T01:23:13.153Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/yungs-better-end-island-fabric",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/yungnickyoung/YUNGs-Better-End-Island/issues",
+            "sourceUrl": "https://github.com/yungnickyoung/YUNGs-Better-End-Island"
+          },
+          "logo": {
+            "id": 881126,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/881/126/256/256/638311020230256016.png",
+            "title": "638311020230256016.png",
+            "url": "https://media.forgecdn.net/avatars/881/126/638311020230256016.png",
+            "modId": 901350
+          },
+          "allowModDistribution": true,
+          "screenshots": [
+            {
+              "id": 710354,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/710/354/310/172/2023-07-18_20.png",
+              "title": "YUNG's Better End Island",
+              "url": "https://media.forgecdn.net/attachments/710/354/2023-07-18_20.png",
+              "modId": 901350
+            },
+            {
+              "id": 710358,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/710/358/310/172/spawn.png",
+              "title": "Redesigned obsidian spawn platform",
+              "url": "https://media.forgecdn.net/attachments/710/358/spawn.png",
+              "modId": 901350
+            },
+            {
+              "id": 710356,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/710/356/310/172/gateway.png",
+              "title": "New End Gateways",
+              "url": "https://media.forgecdn.net/attachments/710/356/gateway.png",
+              "modId": 901350
+            }
+          ],
+          "mainFileId": 5349834
+        },
+        "curseForgeFile": {
+          "id": 5193816,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "[1.20] YUNG's Better End Island v2.0.6 (Fabric)",
+          "fileName": "YungsBetterEndIsland-1.20-Fabric-2.0.6.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2024-03-19T02:34:08.8Z",
+          "fileLength": 517369,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 348521,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 308702,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 421649,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 421649,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 348521,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 306612,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 308702,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 306612,
+              "relationType": 3
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 3022573879,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 2677827904,
+              "name": "pack.mcmeta"
+            },
+            {
+              "fingerprint": 931877497,
+              "name": "logo.png"
+            },
+            {
+              "fingerprint": 1355713470,
+              "name": "icon.png"
+            },
+            {
+              "fingerprint": 2873826278,
+              "name": "fabric.mod.json"
+            },
+            {
+              "fingerprint": 620205724,
+              "name": "data"
+            },
+            {
+              "fingerprint": 1148749278,
+              "name": "catalogue_icon.png"
+            },
+            {
+              "fingerprint": 3952616583,
+              "name": "catalogue_background.png"
+            },
+            {
+              "fingerprint": 3180513580,
+              "name": "betterendisland_fabric.mixins.json"
+            },
+            {
+              "fingerprint": 2705387965,
+              "name": "betterendisland.mixins.json"
+            },
+            {
+              "fingerprint": 4047195760,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 85058437,
+              "name": "betterendisland.refmap.json"
+            },
+            {
+              "fingerprint": 1533625507,
+              "name": "com"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "169bc72b247240b79cad00751e2d5a2b7493a389",
+              "algo": 1
+            },
+            {
+              "value": "1e64398f1d2ec1ea4049de391b51683d",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-09-01T00:00:00Z",
+              "gameVersionName": "Fabric"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020",
+              "gameVersion": "1.20",
+              "gameVersionReleaseDate": "2023-06-07T00:00:00Z",
+              "gameVersionName": "1.20"
+            }
+          ],
+          "gameVersions": [
+            "Fabric",
+            "1.20.1",
+            "1.20"
+          ],
+          "fileFingerprint": 3065227995,
+          "modId": 901350
+        },
+        "modrinthProject": {
+          "id": "2BwBOmBQ",
+          "slug": "yungs-better-end-island",
+          "project_type": "mod",
+          "team": "lt2MvEeI",
+          "title": "YUNG's Better End Island",
+          "description": "An overhaul of the main End Island where the dragon fight takes place!",
+          "body": "<p>\n<img src=\"https://i.imgur.com/CbEPuEE.png\" alt=\"YUNG's Better End Island\" width=\"1344\" height=\"416\" /><br />\n<a title=\"Depends on YUNG's API\" href=\"https://modrinth.com/mod/yungs-api\" target=\"_blank\" rel=\"noopener\"><img src=\"https://tinyurl.com/yungsapibadge\" alt=\"Depends on YUNG's API\" width=\"211\" height=\"26\" /></a>&nbsp;<a title=\"Join the YUNG GANG on Discord!\" href=\"https://discord.gg/rns3beq\" target=\"_blank\" rel=\"noopener\"><img src=\"https://tinyurl.com/yungsdiscordbadge2\" alt=\"Join the YUNG GANG on Discord!\" width=\"136\" height=\"28\" /></a>&nbsp;<a title=\"Follow me on Twitter!\" href=\"https://twitter.com/yungnickyoung\" target=\"_blank\" rel=\"noopener\"><img src=\"https://tinyurl.com/yungstwitterbadge3\" alt=\"Follow me on Twitter!\" width=\"104\" height=\"37\" /></a>&nbsp;<a title=\"Subscribe to my YouTube!\" href=\"https://www.youtube.com/yungnickyoung\" target=\"_blank\" rel=\"noopener\"><img src=\"https://tinyurl.com/yungsyoutubebadge\" alt=\"Subscribe to my YouTube!\" width=\"80\" height=\"30\" /></a>&nbsp;<a title=\"Support me on Patreon!\" href=\"https://patreon.com/yungnickyoung\" target=\"_blank\" rel=\"noopener\"><img src=\"https://tinyurl.com/yungspatreonbadge\" alt=\"Support me on Patreon!\" width=\"138\" height=\"28\" /></a><br />\n<img src=\"https://i.imgur.com/ePR2LMC.png\" alt=\"What is this?\" width=\"1125\" height=\"59\" /><br />\n<b>An overhaul of the main End Island where the dragon fight takes place!</b>\n<p>Obsidian pillars, End gateways, the spawn platform, and the portal itself in the middle of the island have all been redesigned. Additionally, the dragon no longer spawns from the start - instead, it will be summoned once a player gets close to the bell tower in the center.</p>\n<p>To resummon the dragon, the 4 crystals no longer go right next to the portal. Instead, you'll see 4 bedrock blocks on the floor inside the tower, one in each directional wing of the building. The crystals can be placed on these 4 blocks to start summoning the dragon again. That being said, we do actually still support vanilla crystal summoning positions, to avoid confusing players who aren't familiar with the mod.</p>\n<p>The dragon's AI itself is unchanged.</p>\n<p><b>To use BEI on an existing world,</b> we've provided the <i>/end_island reset</i> command. Using this command while in the End will attempt to reset the dragon fight back to its initial state and replace any previous portal/pillars with our redesigned versions. But this command attempts some major things behind the scenes, so <b>please back up your world before trying!</b> Also note that <b>simply deleting your End dimension files is not suffificient, and you will still need to run the command.</b></p>\n<p>If you're having issues with the portal/tower spawning after using the command, such as the portal spawning under the island, you can use the full command `/end_island reset true` to attempt to place the portal on the surface again. But once again, back up your world before trying it! Seriously!</p>\n</p>\n<p>\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/D3LW5j7DAdE\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>\n</p>\n<p>\n<img src=\"https://i.imgur.com/zMhFcqM.png\" alt=\"Compatibility\" width=\"1125\" height=\"59\" /><br />\nYUNG's Better End Island is intended to be compatible with as many mods as possible. The following are compatibility notes for relevant End mods/datapacks:\n</p>\n<ul>\n<li><b>Endergetic Expansion</b><ul><li>End Gateways in the Outer End will be from EE instead of BEI. Everything should still work properly though.</li></ul></li>\n<li><b>Progressive Bosses</b><ul><li>Extra cage placement may be a little scuffed in older versions of Progressive Bosses. Make sure you're on the latest version!</li><li><i>/end_island reset</i> command may not properly reset fight history/progress on Progressive Bosses' side of things. If you use this command, you should also run <i>/progressivebosses difficulty set <player> dragon 0</i></li></ul></li>\n<li><b>Better End</b><ul><li>Since the island is smaller than in vanilla, obsidian spikes will spawn closer to the center</li><li>If any spikes are missing or you have any other issues with generation, try using the <i>/end_island reset</i> command while in the End</li></ul></li>\n<li><b>Nullscape</b><ul><li>Completely compatible on 1.19+. <b>Not compatible on 1.18.2.</b></li></ul></li>\n<li><b>Savage Ender Dragon</b><ul><li>The crystals Better End Island adds in the center may rarely respawn, if crystal respawning from Savage Ender Dragon is enabled. Otherwise completely compatible.</li></ul></li>\n<li><b>Ender Trigon</b><ul><li>Completely compatible</li></ul></li>\n<li><b>Incompatible</b><ul><li>Stellarity</li><li>Valkyrien Skies</li></ul></li></ul>\n</ul>\n<p><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://i.imgur.com/a49IMQJ.png\" /><br />\n<a title=\"Get 25% off your server with code YUNGNICKYOUNG at Bisect Hosting!\" href=\"https://bisecthosting.com/yung\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://i.imgur.com/nQRs7ZP.png\" alt=\"Use code YUNGNICKYOUNG with Bisect Hosting for 25% off!\" width=\"1344\" height=\"400\" /></a></p>",
+          "published": "2023-08-10T22:08:54.700414Z",
+          "updated": "2024-05-17T01:23:16.466173Z",
+          "status": "approved",
+          "license": {
+            "id": "LGPL-3.0-only",
+            "name": "GNU Lesser General Public License v3.0 only"
+          },
+          "client_side": "unsupported",
+          "server_side": "required",
+          "categories": [
+            "adventure",
+            "decoration",
+            "worldgen"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/2BwBOmBQ/e4f0f8d1668eda0f22a87d8771bba8344ebfc4b9.png",
+          "issues_url": "https://github.com/yungnickyoung/YUNGs-Better-End-Island/issues",
+          "source_url": "https://github.com/yungnickyoung/YUNGs-Better-End-Island",
+          "discord_url": "https://discord.gg/rns3beq",
+          "donation_urls": [
+            {
+              "id": "patreon",
+              "platform": "Patreon",
+              "url": "https://www.patreon.com/yungnickyoung"
+            }
+          ],
+          "gallery": [
+            {
+              "url": "https://cdn.modrinth.com/data/2BwBOmBQ/images/540aa82dd7fa9d6490313b21e6261c15427ca1bf.png",
+              "featured": false,
+              "title": "New End Gateways",
+              "created": "2023-08-10T22:22:24.063975Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/2BwBOmBQ/images/7ea8218329da37c64a35b67166a610209bfdf5fc.png",
+              "featured": false,
+              "title": "Redesigned Spawn Platform",
+              "created": "2023-08-10T22:22:38.111353Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/2BwBOmBQ/images/bd46f8dbad600a98d88ace6d403e18856871a936.png",
+              "featured": false,
+              "title": "YUNG's Better End Island x Better End",
+              "created": "2023-08-10T22:22:00.969613Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/2BwBOmBQ/images/c94d0f0141791cf524d74dfe3cbafc738a5e636a.png",
+              "featured": true,
+              "created": "2023-09-23T22:39:19.768148Z",
+              "ordering": 0.0
+            }
+          ]
+        },
+        "modrinthVersion": {
+          "id": "qJTsmyiE",
+          "project_id": "2BwBOmBQ",
+          "author_id": "HCGwycZf",
+          "name": "[1.20] v2.0.6 (Fabric)",
+          "version_number": "1.20-Fabric-2.0.6",
+          "changelog": "- Added config option to always spawn a dragon egg when the dragon is killed  \n- Added config option to use vanilla spawn platform instead of the BEI platform  \n\nIf you want to get early access to all my mods, [Join the Patreon!](https://www.patreon.com/yungnickyoung)  \n[Join us on Discord!](https://discord.gg/rns3beq)  \n[Follow me on Twitter](https://twitter.com/yungnickyoung) for more mod updates!",
+          "date_published": "2024-03-19T02:34:12.881686Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha512": "cb63d9cdd69f955ed8044aec6f03aedbf76fdb53fd97826b254b68e3559941df301b714260505d165c58c276aa7ea7c11c2fada7509cb731f10b1815d5633b87",
+                "sha1": "169bc72b247240b79cad00751e2d5a2b7493a389"
+              },
+              "url": "https://cdn.modrinth.com/data/2BwBOmBQ/versions/qJTsmyiE/YungsBetterEndIsland-1.20-Fabric-2.0.6.jar",
+              "filename": "YungsBetterEndIsland-1.20-Fabric-2.0.6.jar",
+              "primary": true,
+              "size": 517369
+            }
+          ],
+          "dependencies": [
+            {
+              "project_id": "Ua7DFN59",
+              "dependency_type": "required"
+            },
+            {
+              "project_id": "9s6osm5g",
+              "dependency_type": "required"
+            },
+            {
+              "project_id": "mOgUt4GM",
+              "dependency_type": "optional"
+            },
+            {
+              "project_id": "P7dR8mSH",
+              "dependency_type": "required"
+            }
+          ],
+          "game_versions": [
+            "1.20",
+            "1.20.1"
+          ],
+          "loaders": [
+            "fabric"
+          ]
+        }
       }
     ],
     "ignoredUpdates": [],
     "ignoreAllUpdates": false,
     "vanillaInstance": true,
-    "lastPlayed": 1724529273639,
-    "numPlays": 18
+    "lastPlayed": 1724530413011,
+    "numPlays": 19
   },
   "id": "1.20.1",
   "complianceLevel": 1,
