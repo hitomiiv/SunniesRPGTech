@@ -133,7 +133,7 @@ _version = 2
 			# If the total thread count in Distant Horizon's config is more threads than your CPU has cores, 
 			# CPU performance may suffer if Distant Horizons has a lot to load or generate. 
 			# This can be an issue when first loading into a world, when flying, and/or when generating new terrain.
-			numberOfLodBuilderThreads = 2
+			numberOfLodBuilderThreads = 1
 			#
 			# Should only be disabled if deadlock occurs and LODs refuse to update. 
 			# This will cause CPU usage to drastically increase for the Lod Builder threads. 
@@ -147,7 +147,7 @@ _version = 2
 			# This can be used to reduce CPU usage if the thread count 
 			# is already set to 1 for the given option, or more finely 
 			# tune CPU performance.
-			runTimeRatioForWorldGenerationThreads = 0.75
+			runTimeRatioForWorldGenerationThreads = "0.1"
 			#
 			# If this value is less than 1.0, it will be treated as a percentage 
 			# of time each thread can run before going idle. 
@@ -155,7 +155,7 @@ _version = 2
 			# This can be used to reduce CPU usage if the thread count 
 			# is already set to 1 for the given option, or more finely 
 			# tune CPU performance.
-			runTimeRatioForLodBuilderThreads = 0.5
+			runTimeRatioForLodBuilderThreads = "0.1"
 			#
 			# If this value is less than 1.0, it will be treated as a percentage 
 			# of time each thread can run before going idle. 
@@ -163,7 +163,7 @@ _version = 2
 			# This can be used to reduce CPU usage if the thread count 
 			# is already set to 1 for the given option, or more finely 
 			# tune CPU performance.
-			runTimeRatioForFileHandlerThreads = 0.5
+			runTimeRatioForFileHandlerThreads = "0.25"
 			#
 			# If this value is less than 1.0, it will be treated as a percentage 
 			# of time each thread can run before going idle. 
@@ -171,7 +171,7 @@ _version = 2
 			# This can be used to reduce CPU usage if the thread count 
 			# is already set to 1 for the given option, or more finely 
 			# tune CPU performance.
-			runTimeRatioForUpdatePropagatorThreads = "0.25"
+			runTimeRatioForUpdatePropagatorThreads = "0.1"
 			#
 			# How many threads should be used when reading/writing LOD data to/from disk? 
 			# 
@@ -183,7 +183,7 @@ _version = 2
 			# If the total thread count in Distant Horizon's config is more threads than your CPU has cores, 
 			# CPU performance may suffer if Distant Horizons has a lot to load or generate. 
 			# This can be an issue when first loading into a world, when flying, and/or when generating new terrain.
-			numberOfFileHandlerThreads = 2
+			numberOfFileHandlerThreads = 1
 			#
 			# How many threads should be used when applying LOD updates? 
 			# An LOD update is the operation of down-sampling a high detail LOD 
@@ -202,7 +202,7 @@ _version = 2
 			# If the total thread count in Distant Horizon's config is more threads than your CPU has cores, 
 			# CPU performance may suffer if Distant Horizons has a lot to load or generate. 
 			# This can be an issue when first loading into a world, when flying, and/or when generating new terrain.
-			numberOfUpdatePropagatorThreads = 2
+			numberOfUpdatePropagatorThreads = 1
 			#
 			# How many threads should be used when generating LOD 
 			# chunks outside the normal render distance? 
@@ -216,7 +216,7 @@ _version = 2
 			# If the total thread count in Distant Horizon's config is more threads than your CPU has cores, 
 			# CPU performance may suffer if Distant Horizons has a lot to load or generate. 
 			# This can be an issue when first loading into a world, when flying, and/or when generating new terrain.
-			numberOfWorldGenerationThreads = 2
+			numberOfWorldGenerationThreads = 1
 
 		[client.advanced.logging]
 			#
@@ -390,7 +390,7 @@ _version = 2
 				longTest = "42069"
 				listTest = ["option 1", "option 2", "option 3"]
 				boolTest = false
-				doubleTest = 420.69
+				doubleTest = "420.69"
 				floatTest = "0.42069"
 				linkableTest = 420
 				intTest = 69420
@@ -405,22 +405,22 @@ _version = 2
 				sampleCount = 6
 				#
 				# Determines how dark the Screen Space Ambient Occlusion effect will be.
-				strength = 0.2
+				strength = "0.2"
 				#
 				# The radius, measured in pixels, that blurring is calculated for the SSAO. 
 				# Higher numbers will reduce banding at the cost of GPU performance.
 				blurRadius = 2
 				#
 				# Increasing the value can reduce banding at the cost of reducing the strength of the effect.
-				bias = 0.02
+				bias = "0.02"
 				#
 				# Determines how dark the occlusion shadows can be. 
 				# 0 = totally black at the corners 
 				# 1 = no shadow
-				minLight = 0.25
+				minLight = "0.25"
 				#
 				# Determines the radius Screen Space Ambient Occlusion is applied, measured in blocks.
-				radius = 4.0
+				radius = "4.0"
 				#
 				# Enable Screen Space Ambient Occlusion
 				enabled = true
@@ -429,7 +429,7 @@ _version = 2
 				#
 				# What the value should vanilla Minecraft's texture LodBias be? 
 				# If set to 0 the mod wont overwrite vanilla's default (which so happens to also be 0)
-				lodBias = 0.0
+				lodBias = "0.0"
 				#
 				# How should the sides and bottom of grass block LODs render? 
 				# 
@@ -446,7 +446,7 @@ _version = 2
 				# Holes are most likely to appear when flying through unloaded terrain. 
 				# 
 				# Increasing the vanilla render distance increases the effectiveness of this setting.
-				overdrawPrevention = "MEDIUM"
+				overdrawPrevention = "0.4"
 				# Buggy experimental option that will attempt to match up 
 				# Distant Horizons' and Minecraft's near/far clip planes, 
 				# reducing overdraw. 
@@ -463,7 +463,7 @@ _version = 2
 				# 0 = black 
 				# 1 = normal 
 				# 2 = near white
-				brightnessMultiplier = 1.0
+				brightnessMultiplier = "1.0"
 				#
 				# If enabled caves will be culled 
 				# 
@@ -492,14 +492,14 @@ _version = 2
 				# ENABLED: Simulates Minecraft's block shading for LODs. 
 				#               Can be used to force LOD shading when using some shaders. 
 				# DISABLED: All LOD sides will be rendered with the same brightness.
-				lodShading = "MINECRAFT"
+				lodShading = "AUTO"
 				#
 				# How saturated LOD colors are. 
 				# 
 				# 0 = black and white 
 				# 1 = normal 
 				# 2 = very saturated
-				saturationMultiplier = 1.0
+				saturationMultiplier = "1.0"
 				#
 				# This is the earth size ratio when applying the curvature shader effect. 
 				# Note: Enabling this feature may cause rendering bugs. 
@@ -550,7 +550,7 @@ _version = 2
 				# This indicates how quickly LODs decrease in quality the further away they are. 
 				# Higher settings will render higher quality fake chunks farther away, 
 				# but will increase memory and GPU usage.
-				horizontalQuality = "MEDIUM"
+				horizontalQuality = "HIGH"
 				#
 				# How should LOD transparency be handled. 
 				# 
@@ -565,7 +565,7 @@ _version = 2
 				# 
 				# Lowest Quality: HEIGHT_MAP
 				# Highest Quality: EXTREME
-				verticalQuality = "MEDIUM"
+				verticalQuality = "HIGH"
 				#
 				# What blocks shouldn't be rendered as LODs? 
 				# 
@@ -605,20 +605,20 @@ _version = 2
 					# 
 					# 0.0: No fog. 
 					# 1.0: Fully opaque fog.
-					farFogMax = 1.0
+					farFogMax = "1.0"
 					#
 					# At what distance should the far fog start? 
 					# 
 					# 0.0: Fog starts at the player's position. 
 					# 1.0: Fog starts at the closest edge of the vanilla render distance. 
 					# 1.414: Fog starts at the corner of the vanilla render distance.
-					farFogStart = 0.0
+					farFogStart = "0.0"
 					#
 					# What is the minimum fog thickness? 
 					# 
 					# 0.0: No fog. 
 					# 1.0: Fully opaque fog.
-					farFogMin = 0.0
+					farFogMin = "0.0"
 					#
 					# How should the fog thickness should be calculated? 
 					# 
@@ -628,14 +628,14 @@ _version = 2
 					farFogFalloff = "EXPONENTIAL_SQUARED"
 					#
 					# Used in conjunction with the Fog Falloff.
-					farFogDensity = 2.5
+					farFogDensity = "2.5"
 					#
 					# Where should the far fog end? 
 					# 
 					# 0.0: Fog ends at player's position.
 					# 1.0: Fog ends at the closest edge of the vanilla render distance. 
 					# 1.414: Fog ends at the corner of the vanilla render distance.
-					farFogEnd = 1.0
+					farFogEnd = "1.0"
 
 					[client.advanced.graphics.fog.advancedFog.heightFog]
 						#
@@ -643,7 +643,7 @@ _version = 2
 						# 
 						# 0.0: No fog. 
 						# 1.0: Fully opaque fog.
-						heightFogMin = 0.0
+						heightFogMin = "0.0"
 						#
 						# Where should the height fog start? 
 						# 
@@ -656,13 +656,13 @@ _version = 2
 						heightFogMode = "ABOVE_AND_BELOW_CAMERA"
 						#
 						# If the height fog is calculated around a set height, what is that height position?
-						heightFogBaseHeight = 70.0
+						heightFogBaseHeight = "70.0"
 						#
 						# What is the maximum fog thickness? 
 						# 
 						# 0.0: No fog. 
 						# 1.0: Fully opaque fog.
-						heightFogMax = 1.0
+						heightFogMax = "1.0"
 						#
 						# How should the height fog thickness should be calculated? 
 						# 
@@ -672,7 +672,7 @@ _version = 2
 						heightFogFalloff = "EXPONENTIAL_SQUARED"
 						#
 						# What is the height fog's density?
-						heightFogDensity = 2.5
+						heightFogDensity = "2.5"
 						#
 						# How should height effect the fog thickness? 
 						# Note: height fog is combined with the other fog settings. 
@@ -695,13 +695,13 @@ _version = 2
 						# 
 						# 0.0: Fog start with no offset.
 						# 1.0: Fog start with offset of the entire world's height. (Includes depth)
-						heightFogStart = 0.0
+						heightFogStart = "0.0"
 						#
 						# Should the end of the height fog be offset? 
 						# 
 						# 0.0: Fog end with no offset.
 						# 1.0: Fog end with offset of the entire world's height. (Include depth)
-						heightFogEnd = 1.0
+						heightFogEnd = "1.0"
 
 			[client.advanced.graphics.noiseTextureSettings]
 				#
@@ -718,7 +718,7 @@ _version = 2
 				noiseEnabled = true
 				#
 				# How intense should the noise should be?
-				noiseIntensity = 5.0
+				noiseIntensity = "5.0"
 
 		[client.advanced.worldGenerator]
 			#
@@ -736,7 +736,7 @@ _version = 2
 			# FEATURES 
 			# Generate everything except structures. 
 			# WARNING: This may cause world generator bugs or instability when paired with certain world generator mods.
-			distantGeneratorMode = "FEATURES"
+			distantGeneratorMode = "PRE_EXISTING_ONLY"
 			#
 			# How long should a world generator thread run for before timing out? 
 			# Note: If you are experiencing timeout errors it is better to lower your CPU usage first 
@@ -770,7 +770,7 @@ _version = 2
 			# If multiverse support is needed start with a value of 0.2 
 			# and tweak the sensitivity from there.Lower values mean the matching is less strict.
 			# Higher values mean the matching is more strict.
-			multiverseSimilarityRequiredPercent = 0.0
+			multiverseSimilarityRequiredPercent = "0.0"
 			#
 			# How should multiplayer save folders should be named? 
 			# 
