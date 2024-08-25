@@ -3,10 +3,11 @@
 /*
 
 # Excludes
-!/resourcepacks/
-!/shaderpacks/
+#!/resourcepacks/
+#!/shaderpacks/
 #!/mods/
 !/config/
 !.gitignore
 !/options.txt
 !/instance.json
+!/*.mrpack
