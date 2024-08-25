@@ -26794,13 +26794,1735 @@
             "fabric"
           ]
         }
+      },
+      {
+        "name": "Modonomicon",
+        "version": "modonomicon-1.20.1-fabric-1.74.1.jar",
+        "optional": true,
+        "file": "modonomicon-1.20.1-fabric-1.74.1.jar",
+        "type": "mods",
+        "description": "Modonomicon is an in-game documentation mod inspired by Thaumcraft's Thaumonomicon and Patchouli, and aims to provide the best of both, with some unique flavors.",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 538392,
+        "curseForgeFileId": 5621863,
+        "curseForgeProject": {
+          "id": 538392,
+          "name": "Modonomicon",
+          "authors": [
+            {
+              "id": 11694938,
+              "name": "kli_kli",
+              "url": "https://www.curseforge.com/members/kli_kli"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Data-driven minecraft in-game documentation with progress visualization.",
+          "categories": [
+            {
+              "name": "Map and Information",
+              "slug": "map-information",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/map-information",
+              "dateModified": "2014-05-08T17:42:23.74Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 423,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/38/635351497437388438.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Adventure and RPG",
+              "slug": "adventure-rpg",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/adventure-rpg",
+              "dateModified": "2014-05-08T17:42:09.54Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 422,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/37/635351497295252123.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "API and Library",
+              "slug": "library-api",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/library-api",
+              "dateModified": "2014-05-23T03:21:44.06Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 421,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/36/635351496947765531.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 421,
+          "classId": 6,
+          "slug": "modonomicon",
+          "isFeatured": false,
+          "dateModified": "2024-08-21T09:56:24.04Z",
+          "dateCreated": "2021-10-19T15:06:33.56Z",
+          "dateReleased": "2024-08-21T09:49:24.35Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/modonomicon",
+            "wikiUrl": "https://klikli-dev.github.io/modonomicon/",
+            "issuesUrl": "https://github.com/klikli-dev/modonomicon/issues",
+            "sourceUrl": "https://github.com/klikli-dev/modonomicon"
+          },
+          "logo": {
+            "id": 567136,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/567/136/256/256/637927203949622768.png",
+            "title": "637927203949622768.png",
+            "url": "https://media.forgecdn.net/avatars/567/136/637927203949622768.png",
+            "modId": 538392
+          },
+          "allowModDistribution": true,
+          "screenshots": [
+            {
+              "id": 890266,
+              "description": "java_pAiPpLULeN.png",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/890/266/310/172/java_paipplulen.png",
+              "title": "java_pAiPpLULeN.png",
+              "url": "https://media.forgecdn.net/attachments/890/266/java_paipplulen.png",
+              "modId": 538392
+            },
+            {
+              "id": 890262,
+              "description": " Thaumonomicon Style Progress and Connected Entries",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/890/262/310/172/java_fibedbqgum.png",
+              "title": "Node View",
+              "url": "https://media.forgecdn.net/attachments/890/262/java_fibedbqgum.png",
+              "modId": 538392
+            },
+            {
+              "id": 890267,
+              "description": "Patchouli-Style list views of content",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/890/267/310/172/java_ztwnpfgtmy.png",
+              "title": "Index View",
+              "url": "https://media.forgecdn.net/attachments/890/267/java_ztwnpfgtmy.png",
+              "modId": 538392
+            },
+            {
+              "id": 890264,
+              "description": "Texts can be formatted with markdown, including various \"smart\" link types like to items, other pages, or even other modonomicon books.",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/890/264/310/172/java_zuyckuyofp.png",
+              "title": "Markdown Formatting",
+              "url": "https://media.forgecdn.net/attachments/890/264/java_zuyckuyofp.png",
+              "modId": 538392
+            },
+            {
+              "id": 890265,
+              "description": "Modonomicon comes with a multiblock system. Multiblocks can be defined in JSON with an extensible matcher system. In-Game blocks can be checked if they match the multiblock definition.",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/890/265/310/172/java_gqcp3bta3r.png",
+              "title": "Multiblock Pages",
+              "url": "https://media.forgecdn.net/attachments/890/265/java_gqcp3bta3r.png",
+              "modId": 538392
+            },
+            {
+              "id": 890263,
+              "description": "java_IqX2fqD3ci.png",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/890/263/310/172/java_iqx2fqd3ci.png",
+              "title": "java_IqX2fqD3ci.png",
+              "url": "https://media.forgecdn.net/attachments/890/263/java_iqx2fqd3ci.png",
+              "modId": 538392
+            }
+          ],
+          "mainFileId": 5649529
+        },
+        "curseForgeFile": {
+          "id": 5621863,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "modonomicon-1.20.1-fabric-1.74.1.jar",
+          "fileName": "modonomicon-1.20.1-fabric-1.74.1.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2024-08-12T17:04:51.55Z",
+          "fileLength": 2413378,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 238222,
+              "relationType": 2
+            }
+          ],
+          "alternateFileId": 5621864,
+          "modules": [
+            {
+              "fingerprint": 1873432448,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 2661138938,
+              "name": ".cache"
+            },
+            {
+              "fingerprint": 3685084450,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 2128013542,
+              "name": "com"
+            },
+            {
+              "fingerprint": 38286191,
+              "name": "data"
+            },
+            {
+              "fingerprint": 3193095128,
+              "name": "fabric.mod.json"
+            },
+            {
+              "fingerprint": 3352781485,
+              "name": "modonomicon.accesswidener"
+            },
+            {
+              "fingerprint": 1123028683,
+              "name": "modonomicon.fabric.mixins.json"
+            },
+            {
+              "fingerprint": 4100978280,
+              "name": "modonomicon.mixins.json"
+            },
+            {
+              "fingerprint": 3854197464,
+              "name": "modonomicon.png"
+            },
+            {
+              "fingerprint": 3808172725,
+              "name": "modonomicon.refmap.json"
+            },
+            {
+              "fingerprint": 1906013593,
+              "name": "pack.mcmeta"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "07bdedb8c044cf58fe7312ee63ef380a2bd31c74",
+              "algo": 1
+            },
+            {
+              "value": "48f2027520a1502245a9fc7b5728168d",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-09-01T00:00:00Z",
+              "gameVersionName": "Fabric"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020",
+              "gameVersion": "1.20",
+              "gameVersionReleaseDate": "2023-06-07T00:00:00Z",
+              "gameVersionName": "1.20"
+            }
+          ],
+          "gameVersions": [
+            "Fabric",
+            "1.20.1",
+            "1.20"
+          ],
+          "fileFingerprint": 3176154331,
+          "modId": 538392
+        },
+        "modrinthProject": {
+          "id": "692GClaE",
+          "slug": "modonomicon",
+          "project_type": "mod",
+          "team": "wJqdUgnL",
+          "title": "Modonomicon",
+          "description": "Modonomicon is an in-game documentation mod inspired by Thaumcraft's Thaumonomicon and Patchouli, and aims to provide the best of both, with some unique flavors.",
+          "body": "<img src=\"https://cdn.modrinth.com/data/692GClaE/2ff28ac59b51945e62f2680166dc8322f112be2c.png\" width=\"128\" height=\"128\" />\n\nModonomicon\n-----------\n\nThaumonomicon-Style In-Game Documentation\n-----------------------------------------\n\nModonomicon is an in-game documentation mod inspired by Thaumcraft's Thaumonomicon and Patchouli, and aims to provide the best of both, with some unique flavors.\n\nSome of the most interesting features are:\n\n* Fully data-driven, all books are created via datapack (that means both Modpacks and Mods can add books).\n* Patchouli-like Multiblocks (but fully data driven)\n* Made to be extensible, mods can add new features, such as recipe pages for mod-specific crafting methods.\n* \"Quest/Advancement\"-style 2D view to navigate the content, as seen in the Thaumonomicon.\n* Extensible condition system to unlock entries.\n* Easy styling of content with (extended) Markdown syntax.\n* Various page types to display text, recipes, images, items and more.\n\n### Visit the [Documentation](https://klikli-dev.github.io/modonomicon/) to get started!\n\n### License & Use in Modpacks\n\nModonomicon is licensed under the MIT License (Source Code) and CC-BY-4.0 (Assets). See [https://github.com/klikli-dev/modonomicon#licensing](https://github.com/klikli-dev/modonomicon#licensing) for detailed information.\n\nUse in modpacks is allowed without restrictions, as long as the conditions of the MIT and CC-BY-4.0 license are fulfilled. You can consider these requirements fulfilled by linking to this page in your modpack.\n\n**If you create the modpack on curseforge a link will be automatically created in the files sections, you do not need to add a manual link.** \n\n### Feedback, Bug reports or Questions?\n\nJoin our Discord!\n\n[<img src=\"https://i.imgur.com/grvZ47o.png\" width=\"300\" height=\"102\" />](https://discord.gg/trE4SHRXvb)\n\nAlternative link: https://discord.gg/trE4SHRXvb",
+          "published": "2023-06-15T12:49:57.857596Z",
+          "updated": "2024-08-21T09:49:26.486475Z",
+          "status": "approved",
+          "license": {
+            "id": "MIT AND CC-BY-4.0",
+            "name": "MIT License, Creative Commons Attribution 4.0 International",
+            "url": "https://github.com/klikli-dev/modonomicon#licensing"
+          },
+          "client_side": "required",
+          "server_side": "required",
+          "categories": [
+            "game-mechanics",
+            "library",
+            "utility"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/692GClaE/2ff28ac59b51945e62f2680166dc8322f112be2c.png",
+          "issues_url": "https://github.com/klikli-dev/modonomicon/issues",
+          "source_url": "https://github.com/klikli-dev/modonomicon",
+          "wiki_url": "https://klikli-dev.github.io/modonomicon/",
+          "discord_url": "https://discord.gg/trE4SHRXvb",
+          "donation_urls": [],
+          "gallery": [
+            {
+              "url": "https://cdn.modrinth.com/data/692GClaE/images/1863ffa0e2414e71a8f360c56521d0629a90f982.png",
+              "featured": false,
+              "title": "Node View",
+              "description": " Thaumonomicon Style Progress and Connected Entries",
+              "created": "2024-06-15T14:37:55.007692Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/692GClaE/images/50d38b99cf90c4df538ed6e36370fe1325e5950c.png",
+              "featured": true,
+              "title": "Index View",
+              "description": "Patchouli-Style list views of content",
+              "created": "2024-06-15T14:38:29.011785Z",
+              "ordering": 1.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/692GClaE/images/b621ccae0299806dda017bacf92a71f977a6baf6.png",
+              "featured": false,
+              "title": "Markdown Formatting",
+              "description": "Texts can be formatted with markdown, including various \"smart\" link types like to items, other pages, or even other modonomicon books.",
+              "created": "2024-06-15T14:38:45.219459Z",
+              "ordering": 2.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/692GClaE/images/4a87c2c9fcefa0aab75d43605b26c90745a6183b.png",
+              "featured": false,
+              "title": "Recipe Pages",
+              "description": "There are many special page types, one of them is the ability to display recipes. Modded recipe pages can be added.",
+              "created": "2024-06-15T14:39:03.704033Z",
+              "ordering": 3.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/692GClaE/images/aeb692826f20a55a16a0bf0b49af298e4f235e04.png",
+              "featured": false,
+              "title": "Multiblock Pages",
+              "description": "Modonomicon comes with a multiblock system. Multiblocks can be defined in JSON with an extensible matcher system. In-Game blocks can be checked if they match the multiblock definition.",
+              "created": "2024-06-15T14:40:10.942156Z",
+              "ordering": 4.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/692GClaE/images/66a0d540bcf7d35f4ed568bafc288eefd2b55696.png",
+              "featured": false,
+              "title": "Index View for Categories",
+              "description": "In a \"Node View\" book individual categories can be displayed list-based.",
+              "created": "2024-06-15T14:40:30.438414Z",
+              "ordering": 5.0
+            }
+          ]
+        },
+        "modrinthVersion": {
+          "id": "RZwBGNCg",
+          "project_id": "692GClaE",
+          "author_id": "mY7rWpjL",
+          "name": "modonomicon-1.20.1-fabric-1.74.1.jar",
+          "version_number": "1.20.1-1.74.1",
+          "changelog": "### :bug: Bug Fixes\n- [`8b923e0`](https://github.com/klikli-dev/modonomicon/commit/8b923e0dd9d8f1530d5f832b166e5867efb2f206) - custom font not applied to list bullet points *(commit by @klikli-dev)*\n\n\nFind changes for all versions at https://github.com/klikli-dev/modonomicon/releases",
+          "date_published": "2024-08-12T17:04:56.310933Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha1": "07bdedb8c044cf58fe7312ee63ef380a2bd31c74",
+                "sha512": "ba95736cf463ae8115429d63e01786d5690cb0c6ef70e0ea179cf8dad0bcb620a39491599639a55f60d7270a021631036c6fe1a5c881007ffbe626457b843be8"
+              },
+              "url": "https://cdn.modrinth.com/data/692GClaE/versions/RZwBGNCg/modonomicon-1.20.1-fabric-1.74.1.jar",
+              "filename": "modonomicon-1.20.1-fabric-1.74.1.jar",
+              "primary": true,
+              "size": 2413378
+            },
+            {
+              "hashes": {
+                "sha1": "690a706c78e574a968b50dd5cc2eb68def6189be",
+                "sha512": "be6d4aac2be006fe02953b024e17975d76fc6aa37d09c70582e6b86d16e60768cd1433ba8957f47e0fd46013e79103d7ed6e2a52d291444a26b390eec297850d"
+              },
+              "url": "https://cdn.modrinth.com/data/692GClaE/versions/RZwBGNCg/modonomicon-1.20.1-fabric-1.74.1-sources.jar",
+              "filename": "modonomicon-1.20.1-fabric-1.74.1-sources.jar",
+              "primary": false,
+              "size": 1747264
+            }
+          ],
+          "dependencies": [
+            {
+              "project_id": "u6dRKJwZ",
+              "dependency_type": "optional"
+            }
+          ],
+          "game_versions": [
+            "1.20",
+            "1.20.1"
+          ],
+          "loaders": [
+            "fabric"
+          ]
+        }
+      },
+      {
+        "name": "Revelationary",
+        "version": "Revelationary 1.3.8+1.20.1",
+        "optional": true,
+        "file": "revelationary-1.3.8+1.20.1.jar",
+        "type": "mods",
+        "description": "Data Driven Block and Item Revelation system. Discover as you go!",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 656526,
+        "curseForgeFileId": 5454121,
+        "curseForgeProject": {
+          "id": 656526,
+          "name": "Revelationary",
+          "authors": [
+            {
+              "id": 101690392,
+              "name": "DaFuqsy",
+              "url": "https://www.curseforge.com/members/dafuqsy"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Data Driven Block and Item Revelation system. Discover as you go!",
+          "categories": [
+            {
+              "name": "API and Library",
+              "slug": "library-api",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/library-api",
+              "dateModified": "2014-05-23T03:21:44.06Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 421,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/36/635351496947765531.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 421,
+          "classId": 6,
+          "slug": "revelationary",
+          "isFeatured": false,
+          "dateModified": "2024-06-21T13:58:13.683Z",
+          "dateCreated": "2022-08-06T12:06:03.12Z",
+          "dateReleased": "2024-06-21T13:51:39.597Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/revelationary",
+            "wikiUrl": "https://github.com/DaFuqs/Revelationary/wiki",
+            "issuesUrl": "https://github.com/DaFuqs/Revelationary/issues",
+            "sourceUrl": "https://github.com/DaFuqs/Revelationary"
+          },
+          "logo": {
+            "id": 586092,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/586/92/256/256/637953846591897164.png",
+            "title": "637953846591897164.png",
+            "url": "https://media.forgecdn.net/avatars/586/92/637953846591897164.png",
+            "modId": 656526
+          },
+          "allowModDistribution": true,
+          "screenshots": [
+            {
+              "id": 483786,
+              "description": "Make Grass look and drop like Netherite Blocks until you defeated the Wither? Weird flex, but ok!",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/483/786/310/172/screenshot.png",
+              "title": "Block Cloaking",
+              "url": "https://media.forgecdn.net/attachments/483/786/screenshot.png",
+              "modId": 656526
+            },
+            {
+              "id": 483784,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/483/784/310/172/icon.png",
+              "title": "Icon",
+              "url": "https://media.forgecdn.net/attachments/483/784/icon.png",
+              "modId": 656526
+            },
+            {
+              "id": 483785,
+              "description": "Items can be cloaked, too, not showing their name and having a different texture",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/483/785/310/172/item.png",
+              "title": "Item Cloaking",
+              "url": "https://media.forgecdn.net/attachments/483/785/item.png",
+              "modId": 656526
+            }
+          ],
+          "mainFileId": 5454121
+        },
+        "curseForgeFile": {
+          "id": 5454121,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "1.3.8-1.20.1",
+          "fileName": "revelationary-1.3.8+1.20.1.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2024-06-21T13:51:39.597Z",
+          "fileLength": 155997,
+          "dependencies": [],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 3836004873,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 2436413169,
+              "name": "LICENSE.md_revelationary"
+            },
+            {
+              "fingerprint": 1559133448,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 4010383478,
+              "name": "de"
+            },
+            {
+              "fingerprint": 3446312774,
+              "name": "fabric.mod.json"
+            },
+            {
+              "fingerprint": 1376581758,
+              "name": "revelationary-refmap.json"
+            },
+            {
+              "fingerprint": 1571341580,
+              "name": "revelationary.mixins.json"
+            },
+            {
+              "fingerprint": 1951497403,
+              "name": "wthit_plugins.json"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "b9fcb15757df87bf40b0916e2c95584a3fb72b71",
+              "algo": 1
+            },
+            {
+              "value": "debb4db52750b56bc7fbe35d813b93c9",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-09-01T00:00:00Z",
+              "gameVersionName": "Fabric"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Client"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Server"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-05-26T00:00:00Z",
+              "gameVersionName": "Quilt"
+            }
+          ],
+          "gameVersions": [
+            "Fabric",
+            "Client",
+            "1.20.1",
+            "Server",
+            "Quilt"
+          ],
+          "fileFingerprint": 1280232097,
+          "modId": 656526
+        },
+        "modrinthProject": {
+          "id": "eXrl5E3G",
+          "slug": "revelationary",
+          "project_type": "mod",
+          "team": "UfhewKsb",
+          "title": "Revelationary",
+          "description": "Data Driven Block and Item Revelation system. Discover as you go!",
+          "body": "## Overview\nData Driven Block and Item Revelation system. Discover as you go!\n\nRevelationary adds a way to gate the discovery of new blocks in the world via data pack, or API (for other mods).\nUsing Revelationary, you can design your packs / mods progression in a way the player does not feel overwhelmed when starting a new playthrough. They can only perceive these worldgen blocks when they unlocked a specific advancement, making the block visible for them.\n\nExample:\nThe player sees a specific ore as stone. As they defeat the enderdragon they can now see and mine your ore in the world - it was always there from the start. Individual for each player and very performant.\n\n## Revelations\n\"[a] revelation is the revealing or disclosing of some form of truth or knowledge\"\n\nIf you are the designer of a progression based mod or modpack you have come to the right place.\n\nWith Revelationary, you are able to use Data Packs or the Revelation API to gradually reveal blocks in the world as the player progresses. A plain stone filled cleft might be revealed as bursting with life and ore as the player defeats a boss or reaches an important milestone.\n\nAs long as a player does not have the necessary progress the blocks and items you register with Revelationary via API or Data Pack will just have cryptic names and in case of blocks in the world, will drop the same drops as the block it is disguised as, giving the player a seamless experience without getting flooded with unknown resources that they are not able to use at the start. Instead you can introduce resources just as they are needed.\n\n## Limitations\nBesides visuals and drops, disguised blocks retain all the properties of the original block: Hitbox, if light passes through and everything else. Keep that in mind when searching for fitting candidates. A perfect disguise for your Ore would be stone or deepslate, since these share a lot of similarities. Similarly you could disguise your elusive plant with a poppy: Both have a small hitbox and players can walk through them.\n\nIf you are a programmer you can use the Revelation API to dynamically change your blocks properties depending on if they are visible to the player, or not. This way you could even disguise your flower as air: Giving it an empty hitbox when disguised, your players might not even know it is there until they can see them!\n\n\nFind lots of examples for data packs & the API in Revelationary's wiki: https://github.com/DaFuqs/Revelationary/wiki\n\n## Registering Revelations via Data Pack\nHave to be placed in the folder `resources/data/<<mod_id>>/revelations`\n\n```json\n{\n  \"advancement\": \"spectrum:milestones/reveal_quitoxic_reeds\",\n  \"block_states\": {\n    \"minecraft:grass\": \"minecraft:beacon\",\n    \"minecraft:tall_grass\": \"minecraft:obsidian\",\n    \"minecraft:tall_grass[half=upper]\": \"minecraft:netherite_block\"\n  },\n  \"items\": {\n    \"minecraft:nether_star\": \"minecraft:gunpowder\"\n  }\n}\n```\n\n## Registering a \"revelation aware\" block or item\n\n```java\npublic class CloakedItem extends Item implements RevelationAware {\n\t\n\tIdentifier cloakAdvancementIdentifier;\n\tItem cloakItem;\n\t\n\tpublic CloakedItem(Settings settings, Identifier cloakAdvancementIdentifier, Item cloakItem) {\n\t\tsuper(settings);\n\t\tthis.cloakAdvancementIdentifier = cloakAdvancementIdentifier;\n\t\tthis.cloakItem = cloakItem;\n\t\t\n\t\tregisterCloak();\n\t}\n\t\n\t@Override\n\tpublic Identifier getCloakAdvancementIdentifier() {\n\t\treturn cloakAdvancementIdentifier;\n\t}\n\t\n\t@Override\n\tpublic Hashtable<BlockState, BlockState> getBlockStateCloaks() {\n\t\treturn new Hashtable<>();\n\t}\n\t\n\t@Override\n\tpublic Pair<Item, Item> getItemCloak() {\n\t\treturn new Pair<>(this, cloakItem);\n\t}\n\t\n\t@Override\n\tpublic void onCloak() { }\n\t\n\t@Override\n\tpublic void onUncloak() { }\n\t\n}\n```\n\n## Registering a Callback when Revelations happen\n\n```java\nRevelationHolder.registerRevelationCallback(new RevelationHolder.UncloakCallback() {\n    @Override\n    public void trigger(List<Identifier> advancements, List<Block> blocks, List<Item> items) {\n        for(Block block : blocks) {\n            if(Registry.BLOCK.getId(block).getNamespace().equals(MOD_ID)) {\n                ...\n                <I dunno. Like show a popup or something. You tell me>\n                ...\n                break\n            }\n        }\n    }\n});\n```\n\n# Discord\nYou will find a lot of helpful people on Spectrum's Discord. There always are friendly and helpful people around. Swing around too, if you like!\n\nhttps://discord.com/invite/EXU9XFXT8a",
+          "published": "2022-08-06T12:07:11.588004Z",
+          "updated": "2024-06-21T13:51:17.546542Z",
+          "status": "approved",
+          "license": {
+            "id": "LGPL-3.0-only",
+            "name": "GNU Lesser General Public License v3.0 only"
+          },
+          "client_side": "required",
+          "server_side": "required",
+          "categories": [
+            "game-mechanics",
+            "library"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/eXrl5E3G/icon.png",
+          "issues_url": "https://github.com/DaFuqs/Revelationary/issues",
+          "source_url": "https://github.com/DaFuqs/Revelationary",
+          "wiki_url": "https://github.com/DaFuqs/Revelationary/wiki",
+          "discord_url": "https://discord.gg/EXU9XFXT8a",
+          "donation_urls": [
+            {
+              "id": "ko-fi",
+              "platform": "Ko-fi",
+              "url": "https://ko-fi.com/dafuqs"
+            }
+          ],
+          "gallery": [
+            {
+              "url": "https://cdn.modrinth.com/data/eXrl5E3G/images/19f7a5b7755b3e80e77dde7d9f0bd83d17ff99ed.png",
+              "featured": false,
+              "title": "Item Cloaking",
+              "description": "Items can be cloaked, too, not showing their name and having a different texture",
+              "created": "2022-08-06T12:09:01.667937Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/eXrl5E3G/images/3e3e48dcb8d2afe323162f1cadc5b53d428a6280.png",
+              "featured": false,
+              "title": "Block Cloaking",
+              "description": "Grass looks like Netherite Blocks until you defeated the Wither? Weird flex, but ok!",
+              "created": "2022-08-06T12:09:03.240726Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/eXrl5E3G/images/5c98d2cbc2c2193a64a49c79782ee43f705110c4.png",
+              "featured": false,
+              "title": "Icon",
+              "created": "2022-08-06T12:09:01.146489Z",
+              "ordering": 0.0
+            }
+          ]
+        },
+        "modrinthVersion": {
+          "id": "7Wg923Xf",
+          "project_id": "eXrl5E3G",
+          "author_id": "CTsNUReQ",
+          "name": "Revelationary 1.3.8+1.20.1",
+          "version_number": "1.3.8+1.20.1",
+          "changelog": "",
+          "date_published": "2024-06-21T13:51:18.145381Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha1": "b9fcb15757df87bf40b0916e2c95584a3fb72b71",
+                "sha512": "06ff761249409e314bd22783be5e66f863cd40857ca853417d8a2b53cd14d33d99d630c85bf1d058857608f20d3ce2fc1b492758a8b628b51647c68da433b616"
+              },
+              "url": "https://cdn.modrinth.com/data/eXrl5E3G/versions/7Wg923Xf/revelationary-1.3.8%2B1.20.1.jar",
+              "filename": "revelationary-1.3.8+1.20.1.jar",
+              "primary": true,
+              "size": 155997
+            }
+          ],
+          "dependencies": [
+            {
+              "project_id": "P7dR8mSH",
+              "dependency_type": "required"
+            }
+          ],
+          "game_versions": [
+            "1.20.1"
+          ],
+          "loaders": [
+            "fabric",
+            "quilt"
+          ]
+        }
+      },
+      {
+        "name": "Spectrum",
+        "version": "Spectrum 1.8.0-alpha2",
+        "optional": true,
+        "file": "spectrum-1.8.0-alpha2.jar",
+        "type": "mods",
+        "description": "A full-feature minecraft mod about harnessing the powers of color ",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 556967,
+        "curseForgeFileId": 5644959,
+        "curseForgeProject": {
+          "id": 556967,
+          "name": "Spectrum",
+          "authors": [
+            {
+              "id": 101690392,
+              "name": "DaFuqsy",
+              "url": "https://www.curseforge.com/members/dafuqsy"
+            }
+          ],
+          "gameId": 432,
+          "summary": "A full-feature mod about harnessing the powers of color ",
+          "categories": [
+            {
+              "name": "World Gen",
+              "slug": "world-gen",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen",
+              "dateModified": "2017-10-16T21:40:11.473Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 406,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/26/635351494599748860.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Magic",
+              "slug": "magic",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/magic",
+              "dateModified": "2014-05-08T17:40:24.787Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 419,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/34/635351496247862494.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Food",
+              "slug": "mc-food",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-food",
+              "dateModified": "2014-05-08T17:45:26.55Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 436,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/49/635351499265510402.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Adventure and RPG",
+              "slug": "adventure-rpg",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/adventure-rpg",
+              "dateModified": "2014-05-08T17:42:09.54Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 422,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/37/635351497295252123.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Utility & QoL",
+              "slug": "utility-qol",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/utility-qol",
+              "dateModified": "2021-11-17T11:45:09.143Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 5191,
+              "iconUrl": "https://media.forgecdn.net/avatars/456/558/637727379086405233.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 419,
+          "classId": 6,
+          "slug": "spectrum",
+          "isFeatured": false,
+          "dateModified": "2024-08-19T19:54:15.137Z",
+          "dateCreated": "2021-12-13T20:18:13.47Z",
+          "dateReleased": "2024-08-19T19:47:12.333Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/spectrum",
+            "wikiUrl": "https://github.com/DaFuqs/Spectrum/wiki",
+            "issuesUrl": "https://github.com/DaFuqs/Spectrum/issues",
+            "sourceUrl": "https://github.com/DaFuqs/Spectrum"
+          },
+          "logo": {
+            "id": 594305,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/594/305/256/256/637967898279966491.png",
+            "title": "637967898279966491.png",
+            "url": "https://media.forgecdn.net/avatars/594/305/637967898279966491.png",
+            "modId": 556967
+          },
+          "allowModDistribution": true,
+          "screenshots": [
+            {
+              "id": 493137,
+              "description": "featuring individualizeable multiblock structures",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/493/137/310/172/2022-08-13_10.png",
+              "title": "An innovative way to craft",
+              "url": "https://media.forgecdn.net/attachments/493/137/2022-08-13_10.png",
+              "modId": 556967
+            },
+            {
+              "id": 493136,
+              "description": "Unlock new entries as you discover",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/493/136/310/172/guidebook_new.png",
+              "title": "Colorful World, Spectrums Guidebook",
+              "url": "https://media.forgecdn.net/attachments/493/136/guidebook_new.png",
+              "modId": 556967
+            },
+            {
+              "id": 493138,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/493/138/310/172/2022-09-05_09.png",
+              "title": "Showcase of a small selection of Spectrum's Blocks & Items",
+              "url": "https://media.forgecdn.net/attachments/493/138/2022-09-05_09.png",
+              "modId": 556967
+            },
+            {
+              "id": 415850,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/415/850/310/172/scattered_item_name.png",
+              "title": "Not everything that looks like common Stone really is",
+              "url": "https://media.forgecdn.net/attachments/415/850/scattered_item_name.png",
+              "modId": 556967
+            },
+            {
+              "id": 493142,
+              "description": "They generate with ores around them to make you finding them even easier",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/493/142/310/172/citrine_geodes.png",
+              "title": "New kinds of Geodes",
+              "url": "https://media.forgecdn.net/attachments/493/142/citrine_geodes.png",
+              "modId": 556967
+            },
+            {
+              "id": 493140,
+              "description": "What secrets do they hold?",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/493/140/310/172/2022-08-13_10.png",
+              "title": "Mysterious underground structures",
+              "url": "https://media.forgecdn.net/attachments/493/140/2022-08-13_10.png",
+              "modId": 556967
+            },
+            {
+              "id": 493139,
+              "description": "Your structures grow with you",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/493/139/310/172/2022-08-13_10.png",
+              "title": "The Spectrum Complex",
+              "url": "https://media.forgecdn.net/attachments/493/139/2022-08-13_10.png",
+              "modId": 556967
+            },
+            {
+              "id": 908453,
+              "description": "The Colorful World, Spectrum's Guidebook",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/908/453/310/172/guidebook.png",
+              "title": "The Colorful World, Spectrum's Guidebook",
+              "url": "https://media.forgecdn.net/attachments/908/453/guidebook.png",
+              "modId": 556967
+            },
+            {
+              "id": 908460,
+              "description": "New discoveries are to be made",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/908/460/310/172/revelation.png",
+              "title": "New discoveries are to be made",
+              "url": "https://media.forgecdn.net/attachments/908/460/revelation.png",
+              "modId": 556967
+            },
+            {
+              "id": 493141,
+              "description": "Were they here all along?",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/493/141/310/172/2022-08-13_10.png",
+              "title": "Colored Trees",
+              "url": "https://media.forgecdn.net/attachments/493/141/2022-08-13_10.png",
+              "modId": 556967
+            },
+            {
+              "id": 908447,
+              "description": "Spectrums Banner",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/908/447/310/172/banner.png",
+              "title": "Spectrums Banner",
+              "url": "https://media.forgecdn.net/attachments/908/447/banner.png",
+              "modId": 556967
+            }
+          ],
+          "mainFileId": 5628619
+        },
+        "curseForgeFile": {
+          "id": 5644959,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "1.8.0-alpha2",
+          "fileName": "spectrum-1.8.0-alpha2.jar",
+          "releaseType": 3,
+          "fileStatus": 4,
+          "fileDate": "2024-08-19T19:47:12.333Z",
+          "fileLength": 49173599,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 306612,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 656526,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 341284,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 348521,
+              "relationType": 3
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 1684659723,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 2273294370,
+              "name": "LICENSE.md_spectrum-deeper-down"
+            },
+            {
+              "fingerprint": 4028184637,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 2126824300,
+              "name": "data"
+            },
+            {
+              "fingerprint": 1586394659,
+              "name": "de"
+            },
+            {
+              "fingerprint": 2790112866,
+              "name": "fabric.mod.json"
+            },
+            {
+              "fingerprint": 254175077,
+              "name": "resourcepacks"
+            },
+            {
+              "fingerprint": 1083502035,
+              "name": "spectrum-deeper-down-refmap.json"
+            },
+            {
+              "fingerprint": 2107646572,
+              "name": "spectrum.accesswidener"
+            },
+            {
+              "fingerprint": 824706491,
+              "name": "spectrum.mixins.json"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "9d5eeec7c491308d8d28e4345505497d0f512682",
+              "algo": 1
+            },
+            {
+              "value": "707371d6631ab89743eacc2b126c16b0",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-09-01T00:00:00Z",
+              "gameVersionName": "Fabric"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Client"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Server"
+            }
+          ],
+          "gameVersions": [
+            "Fabric",
+            "Client",
+            "1.20.1",
+            "Server"
+          ],
+          "fileFingerprint": 2909220067,
+          "modId": 556967
+        },
+        "modrinthProject": {
+          "id": "3rc31Hgo",
+          "slug": "spectrum",
+          "project_type": "mod",
+          "team": "bo69XJ3M",
+          "title": "Spectrum",
+          "description": "A full-feature minecraft mod about harnessing the powers of color ",
+          "body": "![Spectrum's Banner](https://cdn.modrinth.com/data/3rc31Hgo/images/452e2c8073fb3082eddea737c17e0fbe3fe18229.png)\n\n## Overview\n\nSpectrum is a progression and exploration-based magic mod where you combine colors to create magical tools and machines,\nwith the ultimate goal of discovering what lies beneath the once-impenetrable Bedrock floor.\n\nIn the process, you will gain a new perspective and knowledge of things that have always been around you. Things you\nhave always noticed as being out of place, but have never been able to put your finger on because you have lacked the\nknowledge and tools to observe them. Now is the time!\n\nSpectrum is progression-based and tries not to give everything away at first glance.\nYour journey through its advancement trees will be cluttered by realizations, puzzles and lots of \"aaaaaah\"s.\nEach step of your journey will be hinted at through advancements and the in-game guidebook you receive as soon as you\nfind your first geode.\n\nThere is no hand-holding, so everything will require a fair bit of experimentation or exploration.\nThis also means that it may not be the best fit for everyone. Everyone plays Minecraft differently and that is perfectly\nfine!\n\n**_Spectrum is not meant to be rushed or grinded through. It is best played alongside your playthrough._**\n\n## Everything you ever wanted in a Magic Mod\n\n- handcrafted progression & revelation system\n- lots of new magical equipment, items, blocks, decorations\n- lots of new enchantments & potion effects\n- New fluids with full collision & unique effects\n- build your own, customizable crafting structures\n- lots of handcrafted new sounds and particles\n- new unique ores, plants and geodes\n- custom structures with intriguing puzzles\n\n![Item Showcase](https://cdn.modrinth.com/data/3rc31Hgo/images/93d47cbb91a93ca610013ef17893648e3865590b.png)\n\n## Revelations\n\nJust because something looks like stone doesn't mean it is...\n\n![Obscured Items](https://cdn.modrinth.com/data/3rc31Hgo/images/525879685786e1c53ac1d26f9ca9d88206e836ab.png)\n\nThere is a lot to uncover and lots of discoveries to be made.\n\n![Revelations](https://cdn.modrinth.com/data/3rc31Hgo/images/d18f44e516fd6d7fbe3d1c7217534bf709209629.png)\n\n## Is this mod for me?\n**You might enjoy Spectrum if you like the following:** Outer Wilds; Myst; Thaumcraft; Chromaticraft; figuring out how\nand why things work\n\n**You will probably hate Spectrum if you like the following:** Generic tech mod #7 with linear progression that tells\nyou exactly what to do at every step; following video tutorials 1:1\n\n# Progressing through the mod\n\nYou may notice that most items only show up with a locked recipe in your recipe viewer.\nIn Spectrum, recipes and their matching guidebook entries are unlocked step by step, giving you something new to toy\nwith, with each new discovery you made.\n\nEverything will be hinted at via advancements and the guidebook gifted to you when you stumble upon your first geode:\nyour own, personal notebook.\nEverything you stumble upon, every recipe you unlock, every discovery you make you will note there.\n\n![Guidebook](https://cdn.modrinth.com/data/3rc31Hgo/images/6490d0b59d852952022da1d0b73dad128829a50f.png)\n\n## New ways to craft\n\nSpectrum features lots of new ways to express yourself.\nIts multiblock structures are designed in a way to feel satisfying, fun to play with and to give you the opportunity to\nexpress your creativity by giving you lots of freedom on how to construct and personalize them.\n\n![Pedestal Crafting](https://cdn.modrinth.com/data/3rc31Hgo/images/557edb80e180b9b5a85aedd0fa2c673c310cbbf9.png)\n\n# Spectrum's Discord\nYou will find a lot of helpful people on Spectrum's Discord.\nThere are always friendly and helpful people around.\nFeel free to swing by if you like!\n\nhttps://discord.com/invite/EXU9XFXT8a\n\n## Lots of room to tinker for modpack makers\n\nPretty much everything is configurable, from recipes to the whole progression path.\nSpectrum also comes with lots of new advancement criteria.\n\nThe full and extensive documentation for modpack makers is available\nin [Spectrum's Wiki](https://github.com/DaFuqs/Spectrum/wiki).\nPlayers will find everything they need in the extensive ingame guidebook.\n\n## Want to contribute?\n\nEvery single input and be it just feedback or a bug report is greatly appreciated!\n\n## Mod Integration\n- AE2: Lots of additional Recipes; Crystal Apothecary compat\n- Alloy Forgery: New forges, recipes & fuel\n- Biome Makeover: Special handling for items that have been 'cursed'; potion recipes\n- Botania: New custom items, Black Hole Talisman support, additional recipes & Potion Workshop reagents\n- Chalk: Making Chalk unbreakable\n- Common Protection API: Claims compat for all mods that support this CPA\n- Conjuring: additional recipes & Potion Workshop reagents\n- Create: Additional recipes\n- [Enchantment Descriptions](https://github.com/Darkhax-Minecraft/Enchantment-Descriptions): Descriptions for all of\n  Spectrum's enchantments\n- EMI: Integration for all of Spectrum's recipe types\n- Extra Alchemy: Potion recipes\n- Geode Plus: Crystal Apothecary compat\n- Go Fish: Full compat for Go Fish enchants & loot tables; enchantment recipes\n- Gobber: Additional recipes\n- Hexcasting: Alternate recipes and usages for edified leaves & charged amethyst\n- Idwtialsimmoedm: Descriptions for all of Spectrum's enchantments; descriptions will be hidden until unlocked\n- Little Ants: Ants will collect rare resources if they get hold of Spectrum's leaves\n- More Geodes: Crystal Apothecary compat\n- Mythis Upgrades: Crystal Apothecary compat\n- Oh the Biomes You'll Go: Crystal Apothecary compat\n- [Paginated Advancements & Custom Frames](https://github.com/DaFuqs/PaginatedAdvancements): Custom advancement frames\n- [RoughlyEnoughItems](https://github.com/shedaniel/RoughlyEnoughItems): Integration for all of Spectrum's recipe types\n- [Starry Skies](https://github.com/DaFuqs/StarrySkies): Additional spheres\n- Tech Reborn: Additional Grinder & Industrial Grinder recipes\n- Traveler's Backpacks: All of Spectrum's fluids are drinkable\n- Vein mining: Enchanter recipe\n- Victus: Potion recipes\n\n## Support Us\n| ![DaFuqs](https://avatars.githubusercontent.com/u/26429514?s=40&v=4) DaFuqs               | ![Azzy](https://avatars.githubusercontent.com/u/20349662?s=40&v=4) Azzy                     |\n|-------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|\n| Creative Lead & Programming                                                               | Design Lead                                                                                 |\n| [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U7U66NEVX)        | [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/azzyypaaras)        |",
+          "published": "2021-12-14T16:39:19.083879Z",
+          "updated": "2024-08-19T19:46:39.966344Z",
+          "status": "approved",
+          "license": {
+            "id": "LicenseRef-Custom",
+            "name": "",
+            "url": "https://github.com/DaFuqs/Spectrum/blob/1.18.2/LICENSE.md"
+          },
+          "client_side": "required",
+          "server_side": "required",
+          "categories": [
+            "adventure",
+            "equipment",
+            "magic"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/3rc31Hgo/70ab94a9c980769dd3f2d17850aef9f6df497ab7.png",
+          "issues_url": "https://github.com/DaFuqs/Spectrum/issues",
+          "source_url": "https://github.com/DaFuqs/Spectrum",
+          "wiki_url": "https://github.com/DaFuqs/Spectrum/wiki",
+          "discord_url": "https://discord.gg/EXU9XFXT8a",
+          "donation_urls": [
+            {
+              "id": "ko-fi",
+              "platform": "Ko-fi",
+              "url": "https://ko-fi.com/dafuqs"
+            }
+          ],
+          "gallery": [
+            {
+              "url": "https://cdn.modrinth.com/data/3rc31Hgo/images/0e851ee0446887487f03af726f959302cc7459e3.png",
+              "featured": false,
+              "title": "New kinds of Geodes",
+              "description": "They generate with ores around them to make you finding them even easier",
+              "created": "2022-09-05T08:00:47.071951Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/3rc31Hgo/images/1030b68ae1d85a9c10bb9798669538eb46552f3a.png",
+              "featured": false,
+              "title": "The Spectrum Complex",
+              "description": "Your structures grow with you",
+              "created": "2022-09-05T08:00:59.072274Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/3rc31Hgo/images/15818429fbed0b19be70f06ef431f0f57ad84466.png",
+              "featured": false,
+              "title": "Mysterious underground structures",
+              "description": "What secrets do they hold?",
+              "created": "2022-09-05T08:00:57.086357Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/3rc31Hgo/images/452e2c8073fb3082eddea737c17e0fbe3fe18229.png",
+              "featured": false,
+              "title": "Spectrums Banner",
+              "created": "2024-07-05T13:08:50.652440Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/3rc31Hgo/images/525879685786e1c53ac1d26f9ca9d88206e836ab.png",
+              "featured": false,
+              "title": "Obscured Items",
+              "created": "2022-06-03T17:45:04.103692Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/3rc31Hgo/images/557edb80e180b9b5a85aedd0fa2c673c310cbbf9.png",
+              "featured": false,
+              "title": "An innovative way to craft",
+              "description": "featuring individualizeable multiblock structures",
+              "created": "2022-09-05T08:00:56.037105Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/3rc31Hgo/images/6490d0b59d852952022da1d0b73dad128829a50f.png",
+              "featured": false,
+              "title": "The Colorful World, Spectrum's Guidebook",
+              "created": "2024-07-05T13:15:36.287957Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/3rc31Hgo/images/93d47cbb91a93ca610013ef17893648e3865590b.png",
+              "featured": false,
+              "title": "Showcase of a small selection of Spectrum's Blocks ",
+              "created": "2022-09-05T08:00:49.398480Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/3rc31Hgo/images/d18f44e516fd6d7fbe3d1c7217534bf709209629.png",
+              "featured": false,
+              "title": "New discoveries are to be made",
+              "created": "2024-07-05T13:28:47.259068Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/3rc31Hgo/images/d9646b3ea2a9de1a5ad1b8c7252eca48f3b2d9a5.png",
+              "featured": false,
+              "title": "Colored Trees",
+              "description": "Were they here all along?",
+              "created": "2022-09-05T08:01:05.222313Z",
+              "ordering": 0.0
+            }
+          ]
+        },
+        "modrinthVersion": {
+          "id": "BzQA6KhA",
+          "project_id": "3rc31Hgo",
+          "author_id": "CTsNUReQ",
+          "name": "Spectrum 1.8.0-alpha2",
+          "version_number": "1.8.0-alpha2",
+          "changelog": "Mystery alpha",
+          "date_published": "2024-08-19T19:46:42.634420Z",
+          "version_type": "alpha",
+          "files": [
+            {
+              "hashes": {
+                "sha1": "9d5eeec7c491308d8d28e4345505497d0f512682",
+                "sha512": "47f2f4db687a868914a36bf65201e26f9d76ba278781c1ef9f14db67404f12dde8bc56f25e40b4037fbc95557712e6ab91f9b20c717f1ce0b09736d04fba2b3c"
+              },
+              "url": "https://cdn.modrinth.com/data/3rc31Hgo/versions/BzQA6KhA/spectrum-1.8.0-alpha2.jar",
+              "filename": "spectrum-1.8.0-alpha2.jar",
+              "primary": true,
+              "size": 49173599
+            }
+          ],
+          "dependencies": [
+            {
+              "project_id": "P7dR8mSH",
+              "dependency_type": "required"
+            },
+            {
+              "project_id": "9s6osm5g",
+              "dependency_type": "required"
+            },
+            {
+              "project_id": "5aaWibi9",
+              "dependency_type": "required"
+            },
+            {
+              "project_id": "692GClaE",
+              "dependency_type": "required"
+            },
+            {
+              "project_id": "eXrl5E3G",
+              "dependency_type": "required"
+            }
+          ],
+          "game_versions": [
+            "1.20.1"
+          ],
+          "loaders": [
+            "fabric"
+          ]
+        }
+      },
+      {
+        "name": "Patchouli",
+        "version": "1.20.1-84-fabric",
+        "optional": true,
+        "file": "Patchouli-1.20.1-84-FABRIC.jar",
+        "type": "mods",
+        "description": "Accessible, Data-Driven, Dependency-Free Documentation for Minecraft Modders and Pack Makers",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 393236,
+        "curseForgeFileId": 4966124,
+        "curseForgeProject": {
+          "id": 393236,
+          "name": "Patchouli (Fabric/Quilt)",
+          "authors": [
+            {
+              "id": 3852549,
+              "name": "Vazkii",
+              "url": "https://www.curseforge.com/members/vazkii"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Fabric and Quilt port of Patchouli",
+          "categories": [
+            {
+              "name": "Map and Information",
+              "slug": "map-information",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/map-information",
+              "dateModified": "2014-05-08T17:42:23.74Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 423,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/38/635351497437388438.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "API and Library",
+              "slug": "library-api",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/library-api",
+              "dateModified": "2014-05-23T03:21:44.06Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 421,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/36/635351496947765531.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 423,
+          "classId": 6,
+          "slug": "patchouli-fabric",
+          "isFeatured": false,
+          "dateModified": "2024-08-08T08:41:56.213Z",
+          "dateCreated": "2020-07-02T14:47:52.897Z",
+          "dateReleased": "2024-07-05T16:19:38.157Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/patchouli-fabric",
+            "wikiUrl": "https://vazkiimods.github.io/Patchouli/",
+            "issuesUrl": "https://github.com/Vazkii/Patchouli/issues",
+            "sourceUrl": "https://github.com/Vazkii/Patchouli/"
+          },
+          "logo": {
+            "id": 588686,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/588/686/256/256/637958999059247645.png",
+            "title": "637958999059247645.png",
+            "url": "https://media.forgecdn.net/avatars/588/686/637958999059247645.png",
+            "modId": 393236
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 5504819
+        },
+        "curseForgeFile": {
+          "id": 4966124,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "Patchouli-1.20.1-84-FABRIC.jar",
+          "fileName": "Patchouli-1.20.1-84-FABRIC.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2023-12-18T11:28:41.18Z",
+          "fileLength": 856882,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 306612,
+              "relationType": 3
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 2600782004,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 4171053254,
+              "name": "logo.png"
+            },
+            {
+              "fingerprint": 294303339,
+              "name": "pack.mcmeta"
+            },
+            {
+              "fingerprint": 1018213994,
+              "name": "patchouli_fabric.mixins.json"
+            },
+            {
+              "fingerprint": 1190009356,
+              "name": "data"
+            },
+            {
+              "fingerprint": 1984821313,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 4199161666,
+              "name": "patchouli_xplat.mixins.json"
+            },
+            {
+              "fingerprint": 2429038140,
+              "name": "fabric.mod.json"
+            },
+            {
+              "fingerprint": 1789085195,
+              "name": "patchouli.refmap.json"
+            },
+            {
+              "fingerprint": 2777327227,
+              "name": "vazkii"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "acbbeaae2f57052058a8444439f93d9a2d3efaf2",
+              "algo": 1
+            },
+            {
+              "value": "f6ba47b02420c150a14eac64ac3625ae",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-09-01T00:00:00Z",
+              "gameVersionName": "Fabric"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Client"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Server"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-05-26T00:00:00Z",
+              "gameVersionName": "Quilt"
+            }
+          ],
+          "gameVersions": [
+            "Fabric",
+            "Client",
+            "1.20.1",
+            "Server",
+            "Quilt"
+          ],
+          "fileFingerprint": 1613838849,
+          "modId": 393236
+        },
+        "modrinthProject": {
+          "id": "nU0bVIaL",
+          "slug": "patchouli",
+          "project_type": "mod",
+          "team": "72JcM90m",
+          "title": "Patchouli",
+          "description": "Accessible, Data-Driven, Dependency-Free Documentation for Minecraft Modders and Pack Makers",
+          "body": "[![](https://violetmoon.org/branding/vm0.png)](https://violetmoon.org)[![](https://violetmoon.org/branding/vm1.png)](https://patreon.com/vazkii)[![](https://violetmoon.org/branding/vm2.png)](https://twitter.com/vazkiimods)[![](https://violetmoon.org/branding/vm3.png)](https://discord.gg/vm)\n![](https://violetmoon.org/branding/hero/patchouli.png)\n\n---\n\n# About\n\n**Patchouli** is a mod that aims to provide easy to implement, data-driven documentation for minecraft modders and modpack makers alike.\n\nPatchouli's systems allow any modder or modpack maker to quickly create beautiful books full of user experience enhancing features. The user-facing feature set of the mod is designed in function of research done on what features people liked from Botania's Lexica Botania.\n\n---\n\n# Features\n\n* Data-driven content creation, no code required, you don't even need patchouli's code to build\n* In-game text preview\n* Rich text formatting system that supports macros\n* Advancement-driven content unlocking\n* Nested categories and bookmarkable entries for quick and easy navigation\n* Several ready-to-use page types like text, crafting and image pages\n* Multiblock visualization for easy building\n* Template system to create custom page types\n* Seamless integration with mods, with creative tab and pretending the book is from your mod\n* Custom visuals and sounds\n* Easily localizable for other languages\n* Tons of other user friendly features!\n\n---\n\n# Learn more about Patchouli today\n### Visit the **[Wiki](https://vazkiimods.github.io/Patchouli/)** to learn about how to use this in your mod or modpack\n\n---\n\n# Credits\n\nMassive shout out to the following people who helped this become a reality:\n\n* Drullkus for testing, providing some code, and the logo\n* Ellpeck for extensive testing and tons of help with fixing bugs\n* StanHebben, for extensive testing, lots of good feature requests, and also providing fair amount of code\n* wiiv, for creating the art I used \n\n---\n\n\n\n![](https://violetmoon.org/branding/support.png)\n[![](https://violetmoon.org/branding/patreon.png)](https://patreon.com/vazkii)[![](https://violetmoon.org/branding/store.png)](https://store.vazkii.net)\n[![](https://violetmoon.org/branding/ch.png)](https://violetmoon.org/creeperhost)",
+          "published": "2021-12-23T21:23:57.938115Z",
+          "updated": "2024-07-05T16:19:37.026032Z",
+          "status": "approved",
+          "license": {
+            "id": "CC-BY-NC-SA-3.0",
+            "name": "Creative Commons Attribution Non Commercial Share Alike 3.0 Unported"
+          },
+          "client_side": "required",
+          "server_side": "required",
+          "categories": [
+            "library",
+            "utility"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/nU0bVIaL/130922464c30a3a61eb493ce71d2502b23f29905.png",
+          "issues_url": "https://github.com/VazkiiMods/Patchouli/issues",
+          "source_url": "https://github.com/VazkiiMods/Patchouli/",
+          "wiki_url": "https://vazkiimods.github.io/Patchouli/",
+          "discord_url": "https://discord.gg/vm",
+          "donation_urls": [
+            {
+              "id": "patreon",
+              "platform": "Patreon",
+              "url": "https://www.patreon.com/Vazkii"
+            }
+          ],
+          "gallery": []
+        },
+        "modrinthVersion": {
+          "id": "Y6tuH1cn",
+          "project_id": "nU0bVIaL",
+          "author_id": "wlfGXpf5",
+          "name": "1.20.1-84-fabric",
+          "version_number": "1.20.1-84-fabric",
+          "changelog": "https://github.com/VazkiiMods/Patchouli/releases/tag/release-1.20.1-84",
+          "date_published": "2023-12-18T11:28:37.210019Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha512": "b20cebaab0972443ccc7f3b10b2038d32cfa7baa953a1cc8de6333fa711f63fd51b1b5933e0f2757445385b98e132ef295bd7c17f67ebb44bc8481295329d8bf",
+                "sha1": "acbbeaae2f57052058a8444439f93d9a2d3efaf2"
+              },
+              "url": "https://cdn.modrinth.com/data/nU0bVIaL/versions/Y6tuH1cn/Patchouli-1.20.1-84-FABRIC.jar",
+              "filename": "Patchouli-1.20.1-84-FABRIC.jar",
+              "primary": true,
+              "size": 856882
+            }
+          ],
+          "dependencies": [
+            {
+              "project_id": "P7dR8mSH",
+              "dependency_type": "required"
+            }
+          ],
+          "game_versions": [
+            "1.20.1"
+          ],
+          "loaders": [
+            "fabric",
+            "quilt"
+          ]
+        }
+      },
+      {
+        "name": "Botania",
+        "version": "1.20.1-446-fabric",
+        "optional": true,
+        "file": "Botania-1.20.1-446-FABRIC.jar",
+        "type": "mods",
+        "description": "An innovative natural magic themed tech mod",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 421839,
+        "curseForgeFileId": 5594996,
+        "curseForgeProject": {
+          "id": 421839,
+          "name": "Botania (Fabric/Quilt)",
+          "authors": [
+            {
+              "id": 3852549,
+              "name": "Vazkii",
+              "url": "https://www.curseforge.com/members/vazkii"
+            },
+            {
+              "id": 8382484,
+              "name": "williewillus",
+              "url": "https://www.curseforge.com/members/williewillus"
+            },
+            {
+              "id": 32736683,
+              "name": "Hubry",
+              "url": "https://www.curseforge.com/members/hubry"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Fabric port of Botania",
+          "categories": [
+            {
+              "name": "Magic",
+              "slug": "magic",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/magic",
+              "dateModified": "2014-05-08T17:40:24.787Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 419,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/34/635351496247862494.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Armor, Tools, and Weapons",
+              "slug": "armor-weapons-tools",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/armor-weapons-tools",
+              "dateModified": "2014-05-08T17:44:39.057Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 434,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/47/635351498790409758.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Cosmetic",
+              "slug": "cosmetic",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/cosmetic",
+              "dateModified": "2014-05-08T17:42:35.597Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 424,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/39/635351497555976928.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Technology",
+              "slug": "technology",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/technology",
+              "dateModified": "2014-05-08T17:37:54.597Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 412,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/27/635351494745973439.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 412,
+          "classId": 6,
+          "slug": "botania-fabric",
+          "isFeatured": false,
+          "dateModified": "2024-08-08T19:11:38.32Z",
+          "dateCreated": "2020-11-22T21:29:19.893Z",
+          "dateReleased": "2024-08-08T19:03:07.41Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/botania-fabric",
+            "wikiUrl": "https://botaniamod.net/",
+            "issuesUrl": "https://github.com/VazkiiMods/Botania/issues",
+            "sourceUrl": "https://github.com/VazkiiMods/Botania"
+          },
+          "logo": {
+            "id": 588689,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/588/689/256/256/637958999403987020.png",
+            "title": "637958999403987020.png",
+            "url": "https://media.forgecdn.net/avatars/588/689/637958999403987020.png",
+            "modId": 421839
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 5608809
+        },
+        "curseForgeFile": {
+          "id": 5594996,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "Botania-1.20.1-446-FABRIC.jar",
+          "fileName": "Botania-1.20.1-446-FABRIC.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2024-08-04T09:27:13.63Z",
+          "fileLength": 12623115,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 341284,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 306612,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 306770,
+              "relationType": 3
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 1617781646,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 3662304654,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 3224258489,
+              "name": "botania.accesswidener"
+            },
+            {
+              "fingerprint": 681643513,
+              "name": "botania.refmap.json"
+            },
+            {
+              "fingerprint": 3920098313,
+              "name": "botania_fabric.mixins.json"
+            },
+            {
+              "fingerprint": 756565468,
+              "name": "botania_xplat.accesswidener"
+            },
+            {
+              "fingerprint": 1461383880,
+              "name": "botania_xplat.mixins.json"
+            },
+            {
+              "fingerprint": 1126000106,
+              "name": "data"
+            },
+            {
+              "fingerprint": 1396284761,
+              "name": "fabric.mod.json"
+            },
+            {
+              "fingerprint": 326458921,
+              "name": "logo.png"
+            },
+            {
+              "fingerprint": 4273150134,
+              "name": "omake.md"
+            },
+            {
+              "fingerprint": 2916341145,
+              "name": "pack.mcmeta"
+            },
+            {
+              "fingerprint": 3291497436,
+              "name": "vazkii"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "a7f668a85b88b3c9ce5fdf151fa372a62dff0b03",
+              "algo": 1
+            },
+            {
+              "value": "be290fc0e749233f29ff86c973458774",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-09-01T00:00:00Z",
+              "gameVersionName": "Fabric"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Client"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Server"
+            }
+          ],
+          "gameVersions": [
+            "Fabric",
+            "Client",
+            "1.20.1",
+            "Server"
+          ],
+          "fileFingerprint": 3808139988,
+          "modId": 421839
+        },
+        "modrinthProject": {
+          "id": "pfjLUfGv",
+          "slug": "botania",
+          "project_type": "mod",
+          "team": "ZHXzsq7V",
+          "title": "Botania",
+          "description": "An innovative natural magic themed tech mod",
+          "body": "[![](https://violetmoon.org/branding/vm0.png)](https://violetmoon.org)[![](https://violetmoon.org/branding/vm1.png)](https://patreon.com/vazkii)[![](https://violetmoon.org/branding/vm2.png)](https://twitter.com/vazkiimods)[![](https://violetmoon.org/branding/vm3.png)](https://discord.gg/vm)\n![](https://violetmoon.org/branding/hero/botania.png)\n\n---\n\n# About\n\nWarning: Botania **Requires [Patchouli](https://modrinth.com/mod/patchouli) and [Curios (Forge)](https://www.curseforge.com/minecraft/mc-mods/curios) or [Trinkets (Fabric/Quilt)](https://modrinth.com/mod/trinkets)!**  \n\n**Botania** is a tech mod themed around natural magic. Gameplay is centered around creating magical flowers and devices using Mana, the power of the earth. Botania is fully playable as a standalone mod (and is designed as such), but it functions just well in conjunction with other mods.\n\nThe mod focuses on automation, but without elements that make it feel grindy-- systems can be thought out and designed, rather than built blindly from blueprints in JEI or a wiki.\n\n**Botania's design philosophy**\n\n* No pipes, wires, etc-- they're boring and overdone;\n* No GUIs-- interact with everything in-world;\n* No numbers-- players shouldn't try to minmax everything;\n* Keep all resources as renewable as possible;\n* Provide pleasing visuals, despite using only two different particle effects.\n\n**Botania's goals**\n\n* Break the mold of mods being means to ends-- be engaging in gameplay as well as in rewards;\n* Deliver fun and balanced gameplay without forcing players to grind;\n* Incentivize sandbox gameplay and allow players to create fun contraptions;\n* Create an overall immersive experience.\n\n---\n\n# Learn more about Botania today\n### Visit the **[Official Website](https://botaniamod.net/index.html)**\n\n---\n\n\n\n![](https://violetmoon.org/branding/support.png)\n[![](https://violetmoon.org/branding/patreon.png)](https://patreon.com/vazkii)[![](https://violetmoon.org/branding/store.png)](https://store.vazkii.net)\n[![](https://violetmoon.org/branding/ch.png)](https://violetmoon.org/creeperhost)- - ",
+          "published": "2022-05-30T01:13:31.701840Z",
+          "updated": "2024-08-08T18:50:16.019630Z",
+          "status": "approved",
+          "license": {
+            "id": "LicenseRef-Botania-License",
+            "name": "",
+            "url": "https://botaniamod.net/license.html"
+          },
+          "client_side": "required",
+          "server_side": "required",
+          "categories": [
+            "decoration",
+            "magic",
+            "technology"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/pfjLUfGv/4c006056fd05fdd63b83d79c7c3bb9712d2f49bc.png",
+          "issues_url": "https://github.com/VazkiiMods/Botania/issues",
+          "source_url": "https://github.com/VazkiiMods/Botania",
+          "discord_url": "https://discord.com/invite/vm",
+          "donation_urls": [
+            {
+              "id": "patreon",
+              "platform": "Patreon",
+              "url": "https://www.patreon.com/Vazkii"
+            }
+          ],
+          "gallery": []
+        },
+        "modrinthVersion": {
+          "id": "8kglDuQk",
+          "project_id": "pfjLUfGv",
+          "author_id": "kRXgk5E1",
+          "name": "1.20.1-446-fabric",
+          "version_number": "1.20.1-446-fabric",
+          "changelog": "https://botaniamod.net/changelog.html#1-20-1-446-fake",
+          "date_published": "2024-08-04T09:27:11.168899Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha1": "a7f668a85b88b3c9ce5fdf151fa372a62dff0b03",
+                "sha512": "2a0d4dea002b6de97cd126e978e2659e2dabe1da43c68e757ad2cccbc44a41357e939c3614257739e5aa0f5840df8880ffbd9c9e9e2989e037d9b89a2f3e33eb"
+              },
+              "url": "https://cdn.modrinth.com/data/pfjLUfGv/versions/8kglDuQk/Botania-1.20.1-446-FABRIC.jar",
+              "filename": "Botania-1.20.1-446-FABRIC.jar",
+              "primary": true,
+              "size": 12623115
+            }
+          ],
+          "dependencies": [
+            {
+              "project_id": "nU0bVIaL",
+              "dependency_type": "required"
+            },
+            {
+              "project_id": "5aaWibi9",
+              "dependency_type": "required"
+            },
+            {
+              "project_id": "P7dR8mSH",
+              "dependency_type": "required"
+            }
+          ],
+          "game_versions": [
+            "1.20.1"
+          ],
+          "loaders": [
+            "fabric",
+            "quilt"
+          ]
+        }
       }
     ],
     "ignoredUpdates": [],
     "ignoreAllUpdates": false,
     "vanillaInstance": true,
-    "lastPlayed": 1724610513569,
-    "numPlays": 27
+    "lastPlayed": 1724611196110,
+    "numPlays": 28
   },
   "id": "1.20.1",
   "complianceLevel": 1,
