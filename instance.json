@@ -59542,13 +59542,205 @@
             "quilt"
           ]
         }
+      },
+      {
+        "name": "Concurrent Chunk Management Engine (Fabric)",
+        "version": "0.2.0+alpha.11.13 devbuild for 1.20.1",
+        "optional": true,
+        "file": "c2me-fabric-mc1.20.1-0.2.0+alpha.11.13.jar",
+        "type": "mods",
+        "description": "A Fabric mod designed to improve the chunk performance of Minecraft.",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 533097,
+        "curseForgeFileId": 5617417,
+        "curseForgeProject": {
+          "id": 533097,
+          "name": "Concurrent Chunk Management Engine (Fabric)",
+          "authors": [
+            {
+              "id": 54910429,
+              "name": "ishlandmc",
+              "url": "https://www.curseforge.com/members/ishlandmc"
+            }
+          ],
+          "gameId": 432,
+          "summary": "A Fabric mod designed to improve the chunk performance of Minecraft.",
+          "categories": [
+            {
+              "name": "Miscellaneous",
+              "slug": "mc-miscellaneous",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-miscellaneous",
+              "dateModified": "2014-06-15T04:27:14.543Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 425,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/40/635351497693711265.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 425,
+          "classId": 6,
+          "slug": "c2me-fabric",
+          "isFeatured": false,
+          "dateModified": "2024-08-25T11:25:11.257Z",
+          "dateCreated": "2021-10-02T09:44:36.94Z",
+          "dateReleased": "2024-08-25T11:21:41.85Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/c2me-fabric",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/ishlandbukkit/C2ME-fabric/issues",
+            "sourceUrl": "https://github.com/ishlandbukkit/C2ME-fabric"
+          },
+          "logo": {
+            "id": 439839,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/439/839/256/256/637687646769698734.png",
+            "title": "637687646769698734.png",
+            "url": "https://media.forgecdn.net/avatars/439/839/637687646769698734.png",
+            "modId": 533097
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 5661824
+        },
+        "curseForgeFile": {
+          "id": 5617417,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "0.2.0+alpha.11.13 devbuild for 1.20.1",
+          "fileName": "c2me-fabric-mc1.20.1-0.2.0+alpha.11.13.jar",
+          "releaseType": 3,
+          "fileStatus": 4,
+          "fileDate": "2024-08-11T07:20:37.29Z",
+          "fileLength": 1424654,
+          "dependencies": [],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 1370454031,
+              "name": "LICENSE"
+            },
+            {
+              "fingerprint": 2759488379,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 4039664969,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 1419053630,
+              "name": "c2me.mixins.json"
+            },
+            {
+              "fingerprint": 611106399,
+              "name": "com"
+            },
+            {
+              "fingerprint": 1852369788,
+              "name": "fabric.mod.json"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "e75325ce06c3e5c48902c04d8f7d8f09feba7136",
+              "algo": 1
+            },
+            {
+              "value": "d11d3e2566c8ef1aee6fddd52d62932e",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-09-01T00:00:00Z",
+              "gameVersionName": "Fabric"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            }
+          ],
+          "gameVersions": [
+            "Fabric",
+            "1.20.1"
+          ],
+          "fileFingerprint": 1540188069,
+          "modId": 533097
+        },
+        "modrinthProject": {
+          "id": "VSNURh3q",
+          "slug": "c2me-fabric",
+          "project_type": "mod",
+          "team": "3a9AGx2G",
+          "title": "Concurrent Chunk Management Engine (Fabric)",
+          "description": "A Fabric mod designed to improve the chunk performance of Minecraft.",
+          "body": "# Concurrent Chunk Management Engine (Fabric)\n\nA Fabric mod designed to improve the chunk performance of Minecraft.\n\n## So what is C2ME?\nC^2M-Engine, or C2ME for short, is a Fabric mod designed to improve the performance of chunk generation, I/O, and loading. This is done by taking advantage of multiple CPU cores in parallel. For the best performance it is recommended to use C2ME with [Lithium](https://modrinth.com/mod/lithium) and [Starlight](https://modrinth.com/mod/starlight).\n\n## What does C2ME stand for?\nConcurrent chunk management engine, it's about making the game better threaded and more scalable in regard to world gen and chunk io performance.\n\n## So what is C2ME not?\n**C2ME is currently in alpha stage and pretty experimental.**  \nAlthough it is usable in most cases and tested during build time, it doesn't mean that it is fully stable for a production server.  \nSo backup your worlds and practice good game modding skills.\n\n## Support\nOur issue tracker: [link](https://github.com/RelativityMC/C2ME-fabric/issues)  \nOur discord server: [link](https://discord.gg/Kdy8NM5HW4)\n\n## Development builds\n**Note: Development builds may modify the config files in a way unreadable by previous versions. You may encounter crashes or config reset when rolling back to previous versions. Please always backup your config.**\n\nYou can find development builds here: https://ci.codemc.io/job/RelativityMC/job/C2ME-fabric  \nNote that these builds may contain more bugfixes and performance improvements but are less tested.  \nIf you have encountered any problems in release builds, give development builds a try before reporting. \n\n## FAQ\n- Q: Does this benefit client as well or only server?  \n  A: https://github.com/RelativityMC/C2ME-fabric/issues/116\n\n\n## More information\nCheck out the `README.md` here: https://github.com/RelativityMC/C2ME-fabric\n",
+          "published": "2021-10-02T10:14:46.020070Z",
+          "updated": "2024-08-25T11:21:39.158527Z",
+          "status": "approved",
+          "license": {
+            "id": "MIT",
+            "name": "MIT License"
+          },
+          "client_side": "optional",
+          "server_side": "optional",
+          "categories": [
+            "optimization"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/VSNURh3q/icon.png",
+          "issues_url": "https://github.com/RelativityMC/C2ME-fabric/issues",
+          "source_url": "https://github.com/RelativityMC/C2ME-fabric",
+          "discord_url": "https://discord.gg/Kdy8NM5HW4",
+          "donation_urls": [],
+          "gallery": []
+        },
+        "modrinthVersion": {
+          "id": "LRL5QAZY",
+          "project_id": "VSNURh3q",
+          "author_id": "KdStZyTU",
+          "name": "0.2.0+alpha.11.13 devbuild for 1.20.1",
+          "version_number": "0.2.0+alpha.11.13+1.20.1",
+          "changelog": "This version is uploaded automatically by GitHub Actions.  \n\nChangelog:  \n- [a36a2570](https://github.com/RelativityMC/C2ME-fabric/commit/a36a2570b1f2d5cfe2f30306924a1cbeddfbd45b) build: make life easier when backporting - ishland  \n- [8b8bb90f](https://github.com/RelativityMC/C2ME-fabric/commit/8b8bb90f2349d8306d61d3baa957930a6218c052) perf: improve idle loop for storage threads - ishland  \n- [cd079026](https://github.com/RelativityMC/C2ME-fabric/commit/cd0790266152c60c543670e2617edcbd610802ad) change: only execute mid tick on current ticking world - ishland  \n",
+          "date_published": "2024-08-11T07:20:36.508274Z",
+          "version_type": "alpha",
+          "files": [
+            {
+              "hashes": {
+                "sha512": "b4ea87f710dbe1703f68611cfbbc3dac11d50b78af90b5ee52f32d29018f47f6ea7bf8d9de330cff1437db8c9ca004f94d436f711aa90279f8fce316fba21523",
+                "sha1": "e75325ce06c3e5c48902c04d8f7d8f09feba7136"
+              },
+              "url": "https://cdn.modrinth.com/data/VSNURh3q/versions/LRL5QAZY/c2me-fabric-mc1.20.1-0.2.0%2Balpha.11.13.jar",
+              "filename": "c2me-fabric-mc1.20.1-0.2.0+alpha.11.13.jar",
+              "primary": true,
+              "size": 1424654
+            }
+          ],
+          "dependencies": [],
+          "game_versions": [
+            "1.20.1"
+          ],
+          "loaders": [
+            "fabric"
+          ]
+        }
       }
     ],
     "ignoredUpdates": [],
     "ignoreAllUpdates": false,
     "vanillaInstance": true,
-    "lastPlayed": 1724619500738,
-    "numPlays": 34
+    "lastPlayed": 1724619911408,
+    "numPlays": 35
   },
   "id": "1.20.1",
   "complianceLevel": 1,

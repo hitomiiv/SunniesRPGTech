@@ -62,6 +62,7 @@ mode = "fancy"
 				creeper = true
 				enderman = true
 				llama = true
+				goat = true
 
 			[light_sources.settings.entities.artifacts]
 				mimic = true
