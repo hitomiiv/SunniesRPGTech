@@ -20827,13 +20827,3503 @@
             "fabric"
           ]
         }
+      },
+      {
+        "name": "Fabric Seasons",
+        "version": "Fabric Seasons 2.3",
+        "optional": true,
+        "file": "fabric-seasons-2.3+1.20.jar",
+        "type": "mods",
+        "description": "A simple mod that adds seasons to the game, dynamically changing biomes as you play.",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 413523,
+        "curseForgeFileId": 4699698,
+        "curseForgeProject": {
+          "id": 413523,
+          "name": "Fabric Seasons",
+          "authors": [
+            {
+              "id": 9354008,
+              "name": "D4rkness_King",
+              "url": "https://www.curseforge.com/members/d4rkness_king"
+            }
+          ],
+          "gameId": 432,
+          "summary": "A simple mod that adds seasons to the game, dynamically changing biomes as you play.",
+          "categories": [
+            {
+              "name": "Miscellaneous",
+              "slug": "mc-miscellaneous",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-miscellaneous",
+              "dateModified": "2014-06-15T04:27:14.543Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 425,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/40/635351497693711265.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 425,
+          "classId": 6,
+          "slug": "fabric-seasons",
+          "isFeatured": false,
+          "dateModified": "2023-08-12T09:42:40.257Z",
+          "dateCreated": "2020-10-16T21:46:24.427Z",
+          "dateReleased": "2023-08-12T09:37:58.763Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/fabric-seasons",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/lucaargolo/fabric-seasons/issues",
+            "sourceUrl": "https://github.com/lucaargolo/fabric-seasons"
+          },
+          "logo": {
+            "id": 806224,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/806/224/256/256/638173842145559804.png",
+            "title": "638173842145559804.png",
+            "url": "https://media.forgecdn.net/avatars/806/224/638173842145559804.png",
+            "modId": 413523
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 4699698
+        },
+        "curseForgeFile": {
+          "id": 4699698,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "Fabric Seasons 2.3",
+          "fileName": "fabric-seasons-2.3+1.20.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2023-08-12T09:37:58.763Z",
+          "fileLength": 428398,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 306612,
+              "relationType": 3
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 2166768748,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 2980605036,
+              "name": "LICENSE"
+            },
+            {
+              "fingerprint": 4154835972,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 3934130991,
+              "name": "seasons.mixins.json"
+            },
+            {
+              "fingerprint": 658412076,
+              "name": "fabric.mod.json"
+            },
+            {
+              "fingerprint": 4153455069,
+              "name": "seasons.accesswidener"
+            },
+            {
+              "fingerprint": 420200663,
+              "name": "resourcepacks"
+            },
+            {
+              "fingerprint": 1109528158,
+              "name": "data"
+            },
+            {
+              "fingerprint": 3372915594,
+              "name": "fabric-seasons-refmap.json"
+            },
+            {
+              "fingerprint": 2330743431,
+              "name": "io"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "ad7a86f9bf9d2fed80b186422ab5e73bf235f4f8",
+              "algo": 1
+            },
+            {
+              "value": "d504c1cc6905f29ee01309734699f066",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-09-01T00:00:00Z",
+              "gameVersionName": "Fabric"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            }
+          ],
+          "gameVersions": [
+            "Fabric",
+            "1.20.1"
+          ],
+          "fileFingerprint": 1798659257,
+          "modId": 413523
+        },
+        "modrinthProject": {
+          "id": "KJe6y9Eu",
+          "slug": "fabric-seasons",
+          "project_type": "mod",
+          "team": "qABOlhS9",
+          "title": "Fabric Seasons",
+          "description": "A simple mod that adds seasons to the game, dynamically changing biomes as you play.",
+          "body": "<center>\n\n<img src=\"https://i.imgur.com/WszJUGI.png\">\n\nA simple mod that adds seasons to the game, dynamically changing biomes as you play.\n\n<img src=\"https://i.imgur.com/Ol1Tcf8.png\" width=\"143\" height=\"50\">\n\n</center>\n\n### Description\n\nFabric Seasons adds **four seasons** to Minecraft, each lasting 28 in-game days (configurable). The **current season** is defined by the **world time** (using `/time set 0` will reset to day 1 of spring). Each season has its own changes; during the spring, biomes will mostly try to match their original characteristics.\n\nThe mod has 2 components:\n- **Server:** If installed on the server biomes will have different temperatures. (this enables weather changes like snowing and block freezing in the winter). The server component also contains seasonal crops, allowing crops to grow at different speeds according to the season.\n- **Client:** If installed on the client biomes will have different colormaps according to the current season. This is just a visual change and it'll not physically impact your world in any form.\n\nTo get the full experience it's recommended that you install the mod on both the server and the client.\n\n### Seasonal Biomes\n\nBiomes have **different temperatures** depending on the current **season**:\n\n- Cold Biomes will have rain in the summer\n- Temperate Biomes will have snow in the winter\n- Tropical Biomes will have a steady season all year round\n- Hot Biomes will have a rainy season in the winter\n\nDepending on the **original** temperature/precipitation of the **biome**, this behavior can change. \n\n<center>\n<img src=\"https://i.imgur.com/NdYBkgC.gif\">\n<img src=\"https://i.imgur.com/gH5seb5.gif\">\n<img src=\"https://i.imgur.com/Qs600XR.gif\">\n</center>\n\n### Seasonal Crops\n\nCrops will grow at **different speeds** depending on the current **season**.\n\n<center>\n<img src=\"https://i.imgur.com/75gqPqS.png\">\n</center>\n\nEach **individual crop** will have a **pre-configured** growth **speed** for one of the four seasons, this is controlled by a **datapack** and can be changed by the user if they want.\n\n<center>\n<img src=\"https://i.imgur.com/dR4OYPT.png\">\n</center>\n\n### Other Information\n\nFor bug reporting please proceed to the mod's GitHub repository: [https://github.com/lucaargolo/fabric-seasons](https://github.com/lucaargolo/fabric-seasons)\n\nIf you have any other questions or suggestions, feel free to call me on Discord @D4rk#0693  \nYou can find me in the Cafeteria Development guild.\n\n[![](https://discordapp.com/api/guilds/707435077679841350/embed.png?style=banner2&v=2)](https://discord.com/invite/G4PjhEf)",
+          "published": "2021-05-09T15:41:27.109292Z",
+          "updated": "2023-08-12T09:38:01.813799Z",
+          "status": "approved",
+          "license": {
+            "id": "MPL-2.0",
+            "name": "Mozilla Public License 2.0"
+          },
+          "client_side": "optional",
+          "server_side": "optional",
+          "categories": [
+            "adventure",
+            "utility"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/KJe6y9Eu/7ce47fcb4242493ad069789298400b14f27737ad.png",
+          "issues_url": "https://github.com/lucaargolo/fabric-seasons/issues",
+          "source_url": "https://github.com/lucaargolo/fabric-seasons",
+          "discord_url": "https://discord.com/invite/G4PjhEf",
+          "donation_urls": [],
+          "gallery": []
+        },
+        "modrinthVersion": {
+          "id": "uMEzKato",
+          "project_id": "KJe6y9Eu",
+          "author_id": "TPRVvJKm",
+          "name": "Fabric Seasons 2.3",
+          "version_number": "2.3+1.20",
+          "changelog": "A changelog can be found at https://github.com/lucaargolo/fabric-seasons/commits/",
+          "date_published": "2023-08-12T09:38:04.242253Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha512": "6ec4ca16e70fa95adb516ed984f1da4c009710ee43941b36cb9f441b42d6772de7f9a9c74909d10657b51d8b2a4d158917b7112a2094729949cccf7b8f169e21",
+                "sha1": "ad7a86f9bf9d2fed80b186422ab5e73bf235f4f8"
+              },
+              "url": "https://cdn.modrinth.com/data/KJe6y9Eu/versions/uMEzKato/fabric-seasons-2.3%2B1.20.jar",
+              "filename": "fabric-seasons-2.3+1.20.jar",
+              "primary": true,
+              "size": 428398
+            }
+          ],
+          "dependencies": [
+            {
+              "project_id": "P7dR8mSH",
+              "dependency_type": "required"
+            }
+          ],
+          "game_versions": [
+            "1.20.1"
+          ],
+          "loaders": [
+            "fabric"
+          ]
+        }
+      },
+      {
+        "name": "Fabric Seasons: Extras",
+        "version": "Fabric Seasons Extras 1.2-BETA",
+        "optional": true,
+        "file": "fabric-seasons-extras-1.2-BETA+1.20.jar",
+        "type": "mods",
+        "description": "Custom blocks and items to make your Fabric Seasons experience better.",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 839878,
+        "curseForgeFileId": 4576902,
+        "curseForgeProject": {
+          "id": 839878,
+          "name": "Fabric Seasons: Extras",
+          "authors": [
+            {
+              "id": 9354008,
+              "name": "D4rkness_King",
+              "url": "https://www.curseforge.com/members/d4rkness_king"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Custom blocks and items to make your Fabric Seasons experience better.",
+          "categories": [
+            {
+              "name": "Addons",
+              "slug": "mc-addons",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-addons",
+              "dateModified": "2014-05-08T17:09:48.63Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 426,
+              "iconUrl": "https://media.forgecdn.net/avatars/5/998/635351477886290676.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Technology",
+              "slug": "technology",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/technology",
+              "dateModified": "2014-05-08T17:37:54.597Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 412,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/27/635351494745973439.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Miscellaneous",
+              "slug": "mc-miscellaneous",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-miscellaneous",
+              "dateModified": "2014-06-15T04:27:14.543Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 425,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/40/635351497693711265.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Utility & QoL",
+              "slug": "utility-qol",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/utility-qol",
+              "dateModified": "2021-11-17T11:45:09.143Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 5191,
+              "iconUrl": "https://media.forgecdn.net/avatars/456/558/637727379086405233.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 425,
+          "classId": 6,
+          "slug": "fabric-seasons-extras",
+          "isFeatured": false,
+          "dateModified": "2023-07-01T00:22:44.903Z",
+          "dateCreated": "2023-03-20T08:08:01.057Z",
+          "dateReleased": "2023-06-09T21:57:27.51Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/fabric-seasons-extras",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/lucaargolo/fabric-seasons-extras/issues",
+            "sourceUrl": "https://github.com/lucaargolo/fabric-seasons-extras"
+          },
+          "logo": {
+            "id": 806216,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/806/216/256/256/638173833119927732.png",
+            "title": "638173833119927732.png",
+            "url": "https://media.forgecdn.net/avatars/806/216/638173833119927732.png",
+            "modId": 839878
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 4576902
+        },
+        "curseForgeFile": {
+          "id": 4576902,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "Fabric Seasons Extras 1.2-BETA",
+          "fileName": "fabric-seasons-extras-1.2-BETA+1.20.jar",
+          "releaseType": 2,
+          "fileStatus": 4,
+          "fileDate": "2023-06-09T21:57:27.51Z",
+          "fileLength": 273134,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 306612,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 413523,
+              "relationType": 3
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 2081278504,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 2980605036,
+              "name": "LICENSE"
+            },
+            {
+              "fingerprint": 1965056607,
+              "name": "data"
+            },
+            {
+              "fingerprint": 2013426987,
+              "name": "seasonsextras.accesswidener"
+            },
+            {
+              "fingerprint": 942224090,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 771340658,
+              "name": "seasonsextraspatchouli.mixins.json"
+            },
+            {
+              "fingerprint": 2872281775,
+              "name": "fabric.mod.json"
+            },
+            {
+              "fingerprint": 2170915001,
+              "name": "io"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "fcbb318906832b9d919dd64b023118889290fbd9",
+              "algo": 1
+            },
+            {
+              "value": "7a09d33b6598c9cd62b433940c9cfd41",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-09-01T00:00:00Z",
+              "gameVersionName": "Fabric"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020",
+              "gameVersion": "1.20",
+              "gameVersionReleaseDate": "2023-06-07T00:00:00Z",
+              "gameVersionName": "1.20"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            }
+          ],
+          "gameVersions": [
+            "Fabric",
+            "1.20",
+            "1.20.1"
+          ],
+          "fileFingerprint": 3933976309,
+          "modId": 839878
+        },
+        "modrinthProject": {
+          "id": "64FYdx5z",
+          "slug": "fabric-seasons-extras",
+          "project_type": "mod",
+          "team": "ASWTUSvb",
+          "title": "Fabric Seasons: Extras",
+          "description": "Custom blocks and items to make your Fabric Seasons experience better.",
+          "body": "<center>\n\n<img src=\"https://i.imgur.com/zAk6Dbs.png\">\n\n## Fabric Seasons: Extras\n\nAn addon for Fabric Seasons that adds custom blocks and items to make your experience better.\n\n</center>\n\n### Description\n\nFabric Seasons doesn't add any items or blocks by itself, so if you want a complete experience you'll need this mod.\n\nIf you want **detailed** in-game **help** about the mod and its **additions** I strongly recommend installing the [Patchouli](https://www.curseforge.com/minecraft/mc-mods/patchouli-fabric) mod.\n\n<center>\n<img src=\"https://i.imgur.com/KYJrtUI.png\">\n</center>\n\n### Greenhouses\n\nTo **deal** with the seasonal **impact** on crop growth Fabric Seasons: Extras adds 4 blocks that can be used to build fully functional **greenhouses**, with their own **microclimates**, that allow you to **optimize** crop growth **speed** in any season.\n\nThe blocks are:\n- Greenhouse Glass - **Passive block** that creates a **warmer** microclimate\n- Tinted Greenhouse Glass - **Passive block** that creates a **colder** microclimate\n- Crop Heater - **Active machine** that can create a **warmer** microclimate with up to **3 levels**\n- Crop Chiller - **Active machine** that can create a **colder** microclimate with up to **3 levels**\n\nTo **assist** you while building your greenhouses, you can craft the **Crop Season Tester**. An item that **scans** the right-clicked **block** and shows what season is currently affecting it.\n\n### Miscellaneous\n\nApart from the greenhouse resources, Fabric Seasons: Extras adds **other blocks** such as:\n- Season Detector - **Redstone component** that outputs a redstone **signal** based on the **current season** and the block's configuration.\n- Season Calendar - Helpful **item/black** that can show you the season **progress** and how many **days** are left until the next season.\n\n### Other Information\n\nFor bug reporting please proceed to the mod's GitHub repository: [https://github.com/lucaargolo/fabric-seasons-extras](https://github.com/lucaargolo/fabric-seasons-extras)\n\nIf you have any other questions or suggestions, feel free to call me on Discord @D4rk#0693  \nYou can find me in the Cafeteria Development guild.\n\n[![](https://discordapp.com/api/guilds/707435077679841350/embed.png?style=banner2&v=2)](https://discord.com/invite/G4PjhEf)",
+          "published": "2023-03-20T08:00:37.047111Z",
+          "updated": "2023-06-09T21:57:30.712411Z",
+          "status": "approved",
+          "license": {
+            "id": "MPL-2.0",
+            "name": "Mozilla Public License 2.0"
+          },
+          "client_side": "required",
+          "server_side": "required",
+          "categories": [
+            "technology",
+            "utility"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/64FYdx5z/472d8a2341cb8f65588420019a7667008cc90e33.png",
+          "issues_url": "https://github.com/lucaargolo/fabric-seasons-extras/issues",
+          "source_url": "https://github.com/lucaargolo/fabric-seasons-extras",
+          "discord_url": "https://discord.com/invite/G4PjhEf",
+          "donation_urls": [],
+          "gallery": []
+        },
+        "modrinthVersion": {
+          "id": "H6OLpHJp",
+          "project_id": "64FYdx5z",
+          "author_id": "TPRVvJKm",
+          "name": "Fabric Seasons Extras 1.2-BETA",
+          "version_number": "1.2-BETA+1.20",
+          "changelog": "A changelog can be found at https://github.com/lucaargolo/fabric-seasons-extras/commits/",
+          "date_published": "2023-06-09T21:57:31.465761Z",
+          "version_type": "beta",
+          "files": [
+            {
+              "hashes": {
+                "sha1": "fcbb318906832b9d919dd64b023118889290fbd9",
+                "sha512": "ebe526d2f0b64029611de50ac47d709d0eff23b1ebb4d5dfae60738dec5f39126b4982f61d0c0607e2cdaf353d01eb2fe4faf1b23babc7477c6be1df60b3916a"
+              },
+              "url": "https://cdn.modrinth.com/data/64FYdx5z/versions/H6OLpHJp/fabric-seasons-extras-1.2-BETA%2B1.20.jar",
+              "filename": "fabric-seasons-extras-1.2-BETA+1.20.jar",
+              "primary": true,
+              "size": 273134
+            }
+          ],
+          "dependencies": [
+            {
+              "version_id": "dJtxMqxE",
+              "project_id": "KJe6y9Eu",
+              "dependency_type": "required"
+            },
+            {
+              "project_id": "P7dR8mSH",
+              "dependency_type": "required"
+            }
+          ],
+          "game_versions": [
+            "1.20",
+            "1.20.1"
+          ],
+          "loaders": [
+            "fabric"
+          ]
+        }
+      },
+      {
+        "name": "Farmer's Delight Refabricated",
+        "version": "Farmer's Delight Refabricated 2.1.3 - 1.20.1",
+        "optional": true,
+        "file": "FarmersDelight-1.20.1-2.1.3+refabricated.jar",
+        "type": "mods",
+        "description": "Modern Fabric port of the cooking and farming mod, \"Farmer's Delight\"",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 993166,
+        "curseForgeFileId": 5644145,
+        "curseForgeProject": {
+          "id": 993166,
+          "name": "Farmer's Delight Refabricated",
+          "authors": [
+            {
+              "id": 102061397,
+              "name": "MerchantPug",
+              "url": "https://www.curseforge.com/members/merchantpug"
+            },
+            {
+              "id": 101295357,
+              "name": "MehVahdJukaar",
+              "url": "https://www.curseforge.com/members/mehvahdjukaar"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Modern Fabric port of the cooking and farming mod, \"Farmer's Delight\"",
+          "categories": [
+            {
+              "name": "Food",
+              "slug": "mc-food",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-food",
+              "dateModified": "2014-05-08T17:45:26.55Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 436,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/49/635351499265510402.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Farming",
+              "slug": "technology-farming",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/technology/technology-farming",
+              "dateModified": "2014-05-08T17:39:21.57Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 416,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/31/635351495615556933.png",
+              "parentCategoryId": 412,
+              "classId": 6
+            },
+            {
+              "name": "Cosmetic",
+              "slug": "cosmetic",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/cosmetic",
+              "dateModified": "2014-05-08T17:42:35.597Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 424,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/39/635351497555976928.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 436,
+          "classId": 6,
+          "slug": "farmers-delight-refabricated",
+          "isFeatured": false,
+          "dateModified": "2024-08-19T15:20:56.537Z",
+          "dateCreated": "2024-03-26T22:23:36.82Z",
+          "dateReleased": "2024-08-19T15:16:43.147Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/farmers-delight-refabricated",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/MehVahdJukaar/FarmersDelight/issues"
+          },
+          "logo": {
+            "id": 970706,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/970/706/256/256/638472154113458595.png",
+            "title": "638472154113458595.png",
+            "url": "https://media.forgecdn.net/avatars/970/706/638472154113458595.png",
+            "modId": 993166
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 5644145
+        },
+        "curseForgeFile": {
+          "id": 5644145,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "Farmer's Delight Refabricated 2.1.3 - 1.20.1",
+          "fileName": "FarmersDelight-1.20.1-2.1.3+refabricated.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2024-08-19T15:16:43.147Z",
+          "fileLength": 6732609,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 239197,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 238222,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 580555,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 310111,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 306612,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 696251,
+              "relationType": 1
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 3080707585,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 4203535704,
+              "name": "FarmersDelight-refmap.json"
+            },
+            {
+              "fingerprint": 30828540,
+              "name": "LICENSE_FarmersDelight"
+            },
+            {
+              "fingerprint": 2997891250,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 3501004793,
+              "name": "com"
+            },
+            {
+              "fingerprint": 4166465567,
+              "name": "data"
+            },
+            {
+              "fingerprint": 3463014671,
+              "name": "fabric.mod.json"
+            },
+            {
+              "fingerprint": 73277366,
+              "name": "farmersdelight.accesswidener"
+            },
+            {
+              "fingerprint": 3511857134,
+              "name": "farmersdelight.mixins.json"
+            },
+            {
+              "fingerprint": 2673790622,
+              "name": "icon.png"
+            },
+            {
+              "fingerprint": 2100379981,
+              "name": "vectorwing"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "23ae5ef57355becaae3db7a77660f0e4b7ec73ad",
+              "algo": 1
+            },
+            {
+              "value": "b225c0e480c54bf95a959c25ebe13544",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-09-01T00:00:00Z",
+              "gameVersionName": "Fabric"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-05-26T00:00:00Z",
+              "gameVersionName": "Quilt"
+            }
+          ],
+          "gameVersions": [
+            "Fabric",
+            "1.20.1",
+            "Quilt"
+          ],
+          "fileFingerprint": 3123065951,
+          "modId": 993166
+        },
+        "modrinthProject": {
+          "id": "7vxePowz",
+          "slug": "farmers-delight-refabricated",
+          "project_type": "mod",
+          "team": "w0r2K7UT",
+          "title": "Farmer's Delight Refabricated",
+          "description": "Modern Fabric port of the cooking and farming mod, \"Farmer's Delight\"",
+          "body": "![Farmer's Delight Refabricated Logo](https://cdn.modrinth.com/data/cached_images/55f4eef09b087d3b08a792e1c7c224e5796cbb71.png)\n\n## This is an unofficial Fabric port of vectorwing's Farmer's Delight. You can find the Forge mod [here.](https://modrinth.com/project/farmers-delight/)\n## This port is only for 1.20.1+, if you want a Fabric port for older Minecraft versions, you can find it [here.](https://modrinth.com/project/farmers-delight-fabric/)\n\n## Have any issues with this port? Refer to us directly on either of these discords instead:\n<a href=\"https://discord.gg/qdKRTDf8Cv\"><img src=\"https://github.com/MehVahdJukaar/dynamic_badges/blob/master/discord.svg?raw=true\" alt=\"Supplementaries Discord\" width=\"255\" height=\"88\" /></a><a href=\"https://discord.greenhouseteam.dev/\"><img src=\"https://i.imgur.com/J6hJYtZ.png\" alt=\"Greenhouse Discord\" width=\"224\" height=\"96\" /></a>\n\n\n### Oh and as a bonus, for the time being, the mod comes with an extra feature, **Skillet Burger Flipping**. Just press left click when cooking anything on a skillet or use a shovel on a placed down one!\n\n**🌽 Description**\n\n**Farmer's Delight** is a mod that gently expands upon farming and cooking in Minecraft.\n\nUsing a simple cooking system and a few familiar ingredients, you'll be able to prepare a wide variety of hearty meals: from sandwiches to salads and stews, from beautiful desserts to mouth-watering feasts, no ingredient will be left behind in your kitchen!\n\nIt also introduces a rich set of utilities: a way to **improve the very soil** your crops grow in, a brand new kind of tool to **scavenge resources** with, cute **decorations** for your builds, and many blocks and items to help you on your adventure!\n\nIt's time to farm a little bit of everything!\n\n \n**📖 Getting Started**\n\n**Follow the advancements!** Much of its progression is described through them. By default, press the (L) key to open the Advancements screen.\n\nIf you'd rather get a more straight-forward guide, we wrote a [Getting Started](https://github.com/vectorwing/FarmersDelight/wiki/Getting-Started) to help you learn the basics!\n\n \n**📝 FAQ**\n<details>\n<summary>Expand for FAQ</summary>\n\n**Q. How does this different from the other existing Farmer's Delight Fabric?**\n\nA. This port's main focus has been on simplicity and faithfulness to the original mod. This meant that only minor changes were made to accommodate the loader specific things.\n\nPackage names and all existing behavior has been kept the same. This means that FD addons can now easily be ported from Forge to Fabric with, ideally, no change at all as all the package names are the same.\n\n[A list of differences can be found here.](https://github.com/MehVahdJukaar/FarmersDelight/blob/1.20/information/Differences.md)\n\n**Q. Will existing addons work for this?**\n\nA. While porting existing Forge addons to Fabric will be trivial, already existing Fabric addons made for the old Fabric port will NOT work and they will have to update to reflect the new package structure.\n\n[A list of supported addons and integrations can be found here.](https://github.com/MehVahdJukaar/FarmersDelight/blob/1.20/information/Addons_And_Integrations.md)\n\nFeel free to ask for more compat layers, however, they will only be done if they are simple enough to be able to be done, anything more complicated and you're best to wait for a developer to support Farmer's Delight Refabricated or just accept that they might not, it's really up to them.\n\n**Q. Can I use this mod into my modpack?**\n\nA. Yes! Feel free to feature Farmer's Delight in your modpack, and customize it as you see fit for the experience you're crafting. Just keep in mind:\n\n- Make sure to credit, and don't claim Farmer's Delight as your own creation;\n- Always read the changelogs! Minor and major versions can sometimes have breaking changes, which will be explained there.\n\n**Q. Will I keep old blocks from the other FD port?**\n\nA. The mods use the same IDs so yes.\n\n**Q. Will addons for the other port be updated to use this one instead?**\n\nA. That depends on them. Updating/porting a Forge addon is trivial but this will still take a bit of time and depends on the individual modder. So please be patient and don't harrass modders.\n\n**Q. Which Minecraft versions will the mod be updated for?**\n\nA. Farmer's Delight Refabricated is currently being updated for 1.20+. Any other versions are currently discontinued.\n\n**Q. Are you going to backport this mod to versions before 1.15?**\n\nA. No. This mod will never be backported to older versions. The game's older codebases are entirely different, and usually missing important features this mod depends on.\nPlease, do NOT ask for backports!\n</details>",
+          "published": "2024-03-27T01:59:37.106681Z",
+          "updated": "2024-08-19T15:16:54.876221Z",
+          "status": "approved",
+          "license": {
+            "id": "MIT",
+            "name": "MIT License"
+          },
+          "client_side": "required",
+          "server_side": "required",
+          "categories": [
+            "decoration",
+            "equipment",
+            "food"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/7vxePowz/26e8448993e9bda4dba92b6e7a1a13d9c4333138.png",
+          "issues_url": "https://github.com/MehVahdJukaar/FarmersDelight/issues",
+          "source_url": "https://github.com/MehVahdJukaar/FarmersDelight",
+          "wiki_url": "https://github.com/vectorwing/FarmersDelight/wiki",
+          "donation_urls": [],
+          "gallery": []
+        },
+        "modrinthVersion": {
+          "id": "Z2iib6NT",
+          "project_id": "7vxePowz",
+          "author_id": "84zsGbft",
+          "name": "Farmer's Delight Refabricated 2.1.3 - 1.20.1",
+          "version_number": "1.20.1-2.1.3",
+          "changelog": "- Fixed being unable to click the Cooking Pot Screen's arrow with REI to access all Cooking Pot recipes. ([#51](https://github.com/MehVahdJukaar/FarmersDelightRefabricated/issues/51))\n- Fixed Cooking Pot meals only storing servings up to an item's stack limit. ([#65](https://github.com/MehVahdJukaar/FarmersDelightRefabricated/issues/65))",
+          "date_published": "2024-08-19T15:16:56.233455Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha1": "23ae5ef57355becaae3db7a77660f0e4b7ec73ad",
+                "sha512": "7c46eac3b1e9f6b793ec384f0822622b5ee7ecb36f6bbe8cfd6c75519d7764942f1ffbe550c951f9a3e9c37cf797752cd5f0bae1e58fe06aab7559444f68ff53"
+              },
+              "url": "https://cdn.modrinth.com/data/7vxePowz/versions/Z2iib6NT/FarmersDelight-1.20.1-2.1.3%2Brefabricated.jar",
+              "filename": "FarmersDelight-1.20.1-2.1.3+refabricated.jar",
+              "primary": true,
+              "size": 6732609
+            }
+          ],
+          "dependencies": [
+            {
+              "project_id": "P7dR8mSH",
+              "dependency_type": "required"
+            },
+            {
+              "project_id": "Xg35A4rS",
+              "dependency_type": "optional"
+            },
+            {
+              "project_id": "fRiHVvU7",
+              "dependency_type": "optional"
+            },
+            {
+              "project_id": "nfn13YXA",
+              "dependency_type": "optional"
+            },
+            {
+              "project_id": "tEJPA4Ty"
+            },
+            {
+              "project_id": "u6dRKJwZ",
+              "dependency_type": "optional"
+            }
+          ],
+          "game_versions": [
+            "1.20.1"
+          ],
+          "loaders": [
+            "fabric",
+            "quilt"
+          ]
+        }
+      },
+      {
+        "name": "Fabric Seasons: Delight Compat",
+        "version": "Fabric Seasons Compat: Delight 1.3.9",
+        "optional": true,
+        "file": "fabric-seasons-delight-1.3.9-compat-1.0.jar",
+        "type": "mods",
+        "description": "Farmer's Delight compatibility for Fabric Seasons",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 859370,
+        "curseForgeFileId": 4533190,
+        "curseForgeProject": {
+          "id": 859370,
+          "name": "Fabric Seasons: Delight Compat",
+          "authors": [
+            {
+              "id": 9354008,
+              "name": "D4rkness_King",
+              "url": "https://www.curseforge.com/members/d4rkness_king"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Farmer's Delight compatibility for Fabric Seasons",
+          "categories": [
+            {
+              "name": "Utility & QoL",
+              "slug": "utility-qol",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/utility-qol",
+              "dateModified": "2021-11-17T11:45:09.143Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 5191,
+              "iconUrl": "https://media.forgecdn.net/avatars/456/558/637727379086405233.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Cosmetic",
+              "slug": "cosmetic",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/cosmetic",
+              "dateModified": "2014-05-08T17:42:35.597Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 424,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/39/635351497555976928.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Addons",
+              "slug": "mc-addons",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-addons",
+              "dateModified": "2014-05-08T17:09:48.63Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 426,
+              "iconUrl": "https://media.forgecdn.net/avatars/5/998/635351477886290676.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 426,
+          "classId": 6,
+          "slug": "fabric-seasons-delight-compat",
+          "isFeatured": false,
+          "dateModified": "2023-07-21T00:36:45.707Z",
+          "dateCreated": "2023-05-07T22:19:25.72Z",
+          "dateReleased": "2023-05-11T18:59:35.23Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/fabric-seasons-delight-compat",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/lucaargolo/fabric-seasons-delight-compat/issues",
+            "sourceUrl": "https://github.com/lucaargolo/fabric-seasons-delight-compat"
+          },
+          "logo": {
+            "id": 815139,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/815/139/256/256/638190947657879894.png",
+            "title": "638190947657879894.png",
+            "url": "https://media.forgecdn.net/avatars/815/139/638190947657879894.png",
+            "modId": 859370
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 4533190
+        },
+        "curseForgeFile": {
+          "id": 4533190,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "Fabric Seasons Compat: Delight 1.3.9",
+          "fileName": "fabric-seasons-delight-1.3.9-compat-1.0.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2023-05-11T18:59:35.23Z",
+          "fileLength": 39100,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 482834,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 413523,
+              "relationType": 3
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 1777005253,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 2980605036,
+              "name": "LICENSE"
+            },
+            {
+              "fingerprint": 330220776,
+              "name": "seasonsdelightcompat.mixins.json"
+            },
+            {
+              "fingerprint": 2683739192,
+              "name": "data"
+            },
+            {
+              "fingerprint": 871727952,
+              "name": "fabric.mod.json"
+            },
+            {
+              "fingerprint": 4213154973,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 1213449165,
+              "name": "fabric-seasons-delight-1.3.9-compat-refmap.json"
+            },
+            {
+              "fingerprint": 797451629,
+              "name": "io"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "21d5240e95a5cdda5b33a77f24ab35a3ee4569c8",
+              "algo": 1
+            },
+            {
+              "value": "2b48e0c9b4b78b275ed90b2de7d898ff",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-09-01T00:00:00Z",
+              "gameVersionName": "Fabric"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000019.0000000002",
+              "gameVersion": "1.19.2",
+              "gameVersionReleaseDate": "2022-08-05T14:12:22.413Z",
+              "gameVersionName": "1.19.2"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            }
+          ],
+          "gameVersions": [
+            "Fabric",
+            "1.19.2",
+            "1.20.1"
+          ],
+          "fileFingerprint": 3366170014,
+          "modId": 859370
+        },
+        "modrinthProject": {
+          "id": "4VYO7ir0",
+          "slug": "fabric-seasons-delight-compat",
+          "project_type": "mod",
+          "team": "7rBfWqaD",
+          "title": "Fabric Seasons: Delight Compat",
+          "description": "Farmer's Delight compatibility for Fabric Seasons",
+          "body": "<center>\n\n<img src=\"https://i.imgur.com/X53W9M2.png\">\n\n## Fabric Seasons: Delight Compat\n\nA simple mod that adds compatibility between Farmer's Delight and Fabric Seasons.\n\n</center>\n\n### Description\n\nThis mod adds crop compatibility for Farmer's Delight crops, allowing them to have different growing speeds according to the current season. \n\nThis mod also adds crop compatibility for Cultural Delights and Expanded Delights crops.\n\n\n### Seasonal Crops\n\n<center>\n<img src=\"https://i.imgur.com/VfuY4Bl.png\">\n</center>\n\n### Other Information\n\nFor bug reporting please proceed to the mod's GitHub repository: [https://github.com/lucaargolo/fabric-seasons-delight-compat](https://github.com/lucaargolo/fabric-seasons-delight-compat)\n\nIf you have any other questions or suggestions, feel free to call me on Discord @D4rk#0693  \nYou can find me in the Cafeteria Development guild.\n\n[![](https://discordapp.com/api/guilds/707435077679841350/embed.png?style=banner2&v=2)](https://discord.com/invite/G4PjhEf)",
+          "published": "2023-05-07T22:15:04.462475Z",
+          "updated": "2023-05-11T18:59:38.244374Z",
+          "status": "approved",
+          "license": {
+            "id": "MPL-2.0",
+            "name": "Mozilla Public License 2.0"
+          },
+          "client_side": "unsupported",
+          "server_side": "required",
+          "categories": [
+            "utility"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/4VYO7ir0/58b529fd168b8a79d4c456118544ba0399bdad30.png",
+          "issues_url": "https://github.com/lucaargolo/fabric-seasons-delight-compat/issues",
+          "source_url": "https://github.com/lucaargolo/fabric-seasons-delight-compat/",
+          "discord_url": "https://discord.com/invite/G4PjhEf",
+          "donation_urls": [],
+          "gallery": []
+        },
+        "modrinthVersion": {
+          "id": "KIzyS8hk",
+          "project_id": "4VYO7ir0",
+          "author_id": "TPRVvJKm",
+          "name": "Fabric Seasons Compat: Delight 1.3.9",
+          "version_number": "1.0",
+          "changelog": "A changelog can be found at https://github.com/lucaargolo/fabric-seasons-delight-compat/commits/",
+          "date_published": "2023-05-11T18:59:38.947284Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha512": "7f4863057116ab9e0a14af80601ce1ee58186ce34350ddcbf2763a83a8547a139f6f2daac63433d70f804d0314776f8030fc68ef0d2a5707dba606fe00b1ef79",
+                "sha1": "21d5240e95a5cdda5b33a77f24ab35a3ee4569c8"
+              },
+              "url": "https://cdn.modrinth.com/data/4VYO7ir0/versions/KIzyS8hk/fabric-seasons-delight-1.3.9-compat-1.0.jar",
+              "filename": "fabric-seasons-delight-1.3.9-compat-1.0.jar",
+              "primary": true,
+              "size": 39100
+            }
+          ],
+          "dependencies": [
+            {
+              "version_id": "rLlocL2I",
+              "project_id": "KJe6y9Eu",
+              "dependency_type": "required"
+            },
+            {
+              "project_id": "7vxePowz",
+              "dependency_type": "required"
+            }
+          ],
+          "game_versions": [
+            "1.19.2",
+            "1.20.1"
+          ],
+          "loaders": [
+            "fabric"
+          ]
+        }
+      },
+      {
+        "name": "Fabric Seasons: Terralith Compat",
+        "version": "Fabric Seasons Compat: Terralith 2.3.7",
+        "optional": true,
+        "file": "fabric-seasons-terralith-2.3.7-compat-1.0.jar",
+        "type": "mods",
+        "description": "Terralith compatibility for Fabric Seasons",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 839881,
+        "curseForgeFileId": 4496995,
+        "curseForgeProject": {
+          "id": 839881,
+          "name": "Fabric Seasons: Terralith Compat",
+          "authors": [
+            {
+              "id": 9354008,
+              "name": "D4rkness_King",
+              "url": "https://www.curseforge.com/members/d4rkness_king"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Terralith compatibility for Fabric Seasons",
+          "categories": [
+            {
+              "name": "Utility & QoL",
+              "slug": "utility-qol",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/utility-qol",
+              "dateModified": "2021-11-17T11:45:09.143Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 5191,
+              "iconUrl": "https://media.forgecdn.net/avatars/456/558/637727379086405233.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Addons",
+              "slug": "mc-addons",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-addons",
+              "dateModified": "2014-05-08T17:09:48.63Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 426,
+              "iconUrl": "https://media.forgecdn.net/avatars/5/998/635351477886290676.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Cosmetic",
+              "slug": "cosmetic",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/cosmetic",
+              "dateModified": "2014-05-08T17:42:35.597Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 424,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/39/635351497555976928.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 426,
+          "classId": 6,
+          "slug": "fabric-seasons-terralith-compat",
+          "isFeatured": false,
+          "dateModified": "2023-06-26T05:22:37.843Z",
+          "dateCreated": "2023-03-20T08:10:47.563Z",
+          "dateReleased": "2023-04-18T19:24:15.923Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/fabric-seasons-terralith-compat",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/lucaargolo/fabric-seasons-terralith-compat/issues",
+            "sourceUrl": "https://github.com/lucaargolo/fabric-seasons-terralith-compat"
+          },
+          "logo": {
+            "id": 806222,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/806/222/256/256/638173839315211358.png",
+            "title": "638173839315211358.png",
+            "url": "https://media.forgecdn.net/avatars/806/222/638173839315211358.png",
+            "modId": 839881
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 4496995
+        },
+        "curseForgeFile": {
+          "id": 4496995,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "Fabric Seasons Compat: Terralith 2.3.7",
+          "fileName": "fabric-seasons-terralith-2.3.7-compat-1.0.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2023-04-18T19:24:15.923Z",
+          "fileLength": 49473,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 513688,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 413523,
+              "relationType": 3
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 1777005253,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 2980605036,
+              "name": "LICENSE"
+            },
+            {
+              "fingerprint": 2467231930,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 2205339825,
+              "name": "fabric.mod.json"
+            },
+            {
+              "fingerprint": 1429499077,
+              "name": "io"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "c6ccb276f21a170a61e4176e7e1ee9c7af38efbf",
+              "algo": 1
+            },
+            {
+              "value": "014fe29ab57fc69b607e525c5ddf5561",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0000000001.0000000019.0000000003",
+              "gameVersion": "1.19.3",
+              "gameVersionReleaseDate": "2022-10-19T00:00:00Z",
+              "gameVersionName": "1.19.3"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000019.0000000004",
+              "gameVersion": "1.19.4",
+              "gameVersionReleaseDate": "2023-03-09T00:00:00Z",
+              "gameVersionName": "1.19.4"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-09-01T00:00:00Z",
+              "gameVersionName": "Fabric"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000019.0000000002",
+              "gameVersion": "1.19.2",
+              "gameVersionReleaseDate": "2022-08-05T14:12:22.413Z",
+              "gameVersionName": "1.19.2"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020",
+              "gameVersion": "1.20",
+              "gameVersionReleaseDate": "2023-06-07T00:00:00Z",
+              "gameVersionName": "1.20"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            }
+          ],
+          "gameVersions": [
+            "1.19.3",
+            "1.19.4",
+            "Fabric",
+            "1.19.2",
+            "1.20",
+            "1.20.1"
+          ],
+          "fileFingerprint": 2254981254,
+          "modId": 839881
+        },
+        "modrinthProject": {
+          "id": "D53qveoj",
+          "slug": "fabric-seasons-terralith-compat",
+          "project_type": "mod",
+          "team": "8shmXWIh",
+          "title": "Fabric Seasons: Terralith Compat",
+          "description": "Terralith compatibility for Fabric Seasons",
+          "body": "<center>\n\n<img src=\"https://i.imgur.com/SwiOw80.png\">\n\n## Fabric Seasons: Terralith Compat\n\nA simple mod that adds compatibility between Terralith and Fabric Seasons.\n\n</center>\n\n### Description\n\nA handmade mod that adds custom seasonal colormaps for Terralith biomes, adding visual seasonal changes for its biomes.\n\n### Seasonal Biomes\n\n<center>\n<img src=\"https://i.imgur.com/P5QNbi4.gif\">\n<img src=\"https://i.imgur.com/s3QwPHj.gif\">\n<img src=\"https://i.imgur.com/BxYnOou.gif\">\n</center>\n\n### Other Information\n\nFor bug reporting please proceed to the mod's GitHub repository: [https://github.com/lucaargolo/fabric-seasons-terralith-compat](https://github.com/lucaargolo/fabric-seasons-terralith-compat)\n\nIf you have any other questions or suggestions, feel free to call me on Discord @D4rk#0693  \nYou can find me in the Cafeteria Development guild.\n\n[![](https://discordapp.com/api/guilds/707435077679841350/embed.png?style=banner2&v=2)](https://discord.com/invite/G4PjhEf)",
+          "published": "2023-03-20T08:03:02.734154Z",
+          "updated": "2023-04-18T19:24:18.831663Z",
+          "status": "approved",
+          "license": {
+            "id": "MPL-2.0",
+            "name": "Mozilla Public License 2.0"
+          },
+          "client_side": "required",
+          "server_side": "unsupported",
+          "categories": [
+            "utility"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/D53qveoj/5515c1d64e73c848b19af739f0743524f2370750.png",
+          "issues_url": "https://github.com/lucaargolo/fabric-seasons-terralith-compat/issues",
+          "source_url": "https://github.com/lucaargolo/fabric-seasons-terralith-compat",
+          "discord_url": "https://discord.com/invite/G4PjhEf",
+          "donation_urls": [],
+          "gallery": []
+        },
+        "modrinthVersion": {
+          "id": "MJ2OF7eg",
+          "project_id": "D53qveoj",
+          "author_id": "TPRVvJKm",
+          "name": "Fabric Seasons Compat: Terralith 2.3.7",
+          "version_number": "1.0",
+          "changelog": "A changelog can be found at https://github.com/lucaargolo/fabric-seasons-terralith-compat/commits/",
+          "date_published": "2023-04-18T19:24:19.458448Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha512": "7ef06a1e2e9328a9882c44ba44c4d92124ad1fd5872cec85d54a7558f68902298a31eeee9e2bb49fa3c631898f48ab33cf77bb2a911450fd0ac61fa57571f8d7",
+                "sha1": "c6ccb276f21a170a61e4176e7e1ee9c7af38efbf"
+              },
+              "url": "https://cdn.modrinth.com/data/D53qveoj/versions/MJ2OF7eg/fabric-seasons-terralith-2.3.7-compat-1.0.jar",
+              "filename": "fabric-seasons-terralith-2.3.7-compat-1.0.jar",
+              "primary": true,
+              "size": 49473
+            }
+          ],
+          "dependencies": [
+            {
+              "version_id": "2w1uZoRC",
+              "project_id": "8oi3bsk5",
+              "dependency_type": "required"
+            },
+            {
+              "version_id": "rLlocL2I",
+              "project_id": "KJe6y9Eu",
+              "dependency_type": "required"
+            }
+          ],
+          "game_versions": [
+            "1.19.2",
+            "1.20.1"
+          ],
+          "loaders": [
+            "fabric"
+          ]
+        }
+      },
+      {
+        "name": "Farmer's Knives [Fabric]",
+        "version": "3.2",
+        "optional": true,
+        "file": "farmersknives-3.2.jar",
+        "type": "mods",
+        "description": "Adds knives to Farmer's Delight Fabric for many other mods",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 628972,
+        "curseForgeFileId": 5281259,
+        "curseForgeProject": {
+          "id": 628972,
+          "name": "Farmer's Knives [Fabric]",
+          "authors": [
+            {
+              "id": 100052547,
+              "name": "ianm1647",
+              "url": "https://www.curseforge.com/members/ianm1647"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Adds knives to Farmer's Delight Fabric for many other mods",
+          "categories": [
+            {
+              "name": "Armor, Tools, and Weapons",
+              "slug": "armor-weapons-tools",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/armor-weapons-tools",
+              "dateModified": "2014-05-08T17:44:39.057Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 434,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/47/635351498790409758.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Farming",
+              "slug": "technology-farming",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/technology/technology-farming",
+              "dateModified": "2014-05-08T17:39:21.57Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 416,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/31/635351495615556933.png",
+              "parentCategoryId": 412,
+              "classId": 6
+            },
+            {
+              "name": "Addons",
+              "slug": "mc-addons",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-addons",
+              "dateModified": "2014-05-08T17:09:48.63Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 426,
+              "iconUrl": "https://media.forgecdn.net/avatars/5/998/635351477886290676.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 434,
+          "classId": 6,
+          "slug": "farmers-knives",
+          "isFeatured": false,
+          "dateModified": "2024-04-22T02:06:17.227Z",
+          "dateCreated": "2022-05-29T23:14:06.18Z",
+          "dateReleased": "2024-04-22T01:59:11.653Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/farmers-knives",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/ianm1647/farmersknives/issues",
+            "sourceUrl": "https://github.com/ianm1647/farmersknives"
+          },
+          "logo": {
+            "id": 553705,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/553/705/256/256/637894628462441154.png",
+            "title": "637894628462441154.png",
+            "url": "https://media.forgecdn.net/avatars/553/705/637894628462441154.png",
+            "modId": 628972
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 5281259
+        },
+        "curseForgeFile": {
+          "id": 5281259,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "farmersknives-3.2.jar",
+          "fileName": "farmersknives-3.2.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2024-04-22T01:59:11.653Z",
+          "fileLength": 103203,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 361599,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 547881,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 410127,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 311377,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 993166,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 422310,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 424480,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 508556,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 306612,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 247560,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 993166,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 659011,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 627488,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 552628,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 413596,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 375954,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 399221,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 227639,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 427177,
+              "relationType": 2
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 2709151378,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 18375977,
+              "name": "LICENSE_farmersknives"
+            },
+            {
+              "fingerprint": 2965114261,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 4236140868,
+              "name": "com"
+            },
+            {
+              "fingerprint": 2315918952,
+              "name": "data"
+            },
+            {
+              "fingerprint": 3891278834,
+              "name": "fabric.mod.json"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "eb79d941a640f7abe75e0ba453e9c894384c3d3b",
+              "algo": 1
+            },
+            {
+              "value": "03900adae76a1804b5f9cbd10456640b",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-09-01T00:00:00Z",
+              "gameVersionName": "Fabric"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Client"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Server"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-05-26T00:00:00Z",
+              "gameVersionName": "Quilt"
+            }
+          ],
+          "gameVersions": [
+            "Fabric",
+            "Client",
+            "1.20.1",
+            "Server",
+            "Quilt"
+          ],
+          "fileFingerprint": 2424364553,
+          "modId": 628972
+        },
+        "modrinthProject": {
+          "id": "uc3VdfLM",
+          "slug": "farmers-knives",
+          "project_type": "mod",
+          "team": "ocYLbHrJ",
+          "title": "Farmer's Knives [Fabric]",
+          "description": "Adds knives to Farmer's Delight Fabric for many other mods",
+          "body": "<p style=\"text-align: center;\"><img src=\"https://i.ibb.co/qxWsH2q/farmers-knives.png\" alt=\"farmers-knives\" border=\"0\" /></p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\"><span style=\"font-size: 18px;\">Adds knives to Farmer's Delight for many modded materials!</span></p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\"><span style=\"font-size: 24px;\"><strong>Supported List:</strong></span></p>\n<p style=\"text-align: center;\"><a style=\"font-size: 18px; background-color: #ffffff;\" href=\"https://www.curseforge.com/minecraft/mc-mods/adabranium\">Adabranium</a></p>\n<p style=\"text-align: center;\"><span style=\"font-size: 12px;\">Vibranium</span></p>\n<p style=\"text-align: center;\"><span style=\"font-size: 12px;\">Adamantium</span></p>\n<p style=\"text-align: center;\"><span style=\"font-size: 12px;\">Nether Brick</span></p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\"><a style=\"font-size: 18px; background-color: #ffffff;\" href=\"https://www.curseforge.com/minecraft/mc-mods/additional-additions\">Additional Additions</a></p>\n<p style=\"text-align: center;\"><span style=\"font-size: 12px;\">Rose Gold</span></p>\n<p style=\"text-align: center;\"><span style=\"font-size: 12px;\">Gilded Netherite</span></p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\"><a style=\"font-size: 18px; background-color: #ffffff;\" href=\"https://www.curseforge.com/minecraft/mc-mods/advanced-netherite-fabric\">Advanced Netherite</a></p>\n<p style=\"text-align: center;\"><span style=\"font-size: 12px;\">Netherite-Iron</span></p>\n<p style=\"text-align: center;\"><span style=\"font-size: 12px;\">Netherite-Gold</span></p>\n<p style=\"text-align: center;\"><span style=\"font-size: 12px;\">Netherite-Emerald</span></p>\n<p style=\"text-align: center;\"><span style=\"font-size: 12px;\">Netherite-Diamond</span></p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\"><a style=\"font-size: 18px; background-color: #ffffff;\" href=\"https://www.curseforge.com/minecraft/mc-mods/aphid-additions\">Aphid Additions</a></p>\n<p style=\"text-align: center;\"><span style=\"font-size: 12px;\">Chitin</span></p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\"><a style=\"font-size: 18px; background-color: #ffffff;\" href=\"https://www.curseforge.com/minecraft/mc-mods/betterend\">BetterEnd</a></p>\n<p style=\"text-align: center;\"><span style=\"font-size: 12px;\">Thallasium</span></p>\n<p style=\"text-align: center;\"><span style=\"font-size: 12px;\">Terminite</span></p>\n<p style=\"text-align: center;\"><span style=\"font-size: 12px;\">Aeternium</span></p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\"><a style=\"font-size: 18px; background-color: #ffffff;\" href=\"https://www.curseforge.com/minecraft/mc-mods/betternether\"><strong>BetterNether</strong></a></p>\n<p style=\"text-align: center;\"><span style=\"font-size: 12px;\">Cincinnasite</span></p>\n<p style=\"text-align: center;\"><span style=\"font-size: 12px;\">Cincinnasite-Diamond</span></p>\n<p style=\"text-align: center;\"><span style=\"font-size: 12px;\">Nether Ruby</span></p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\"><a style=\"font-size: 18px; background-color: #ffffff;\" href=\"https://www.curseforge.com/minecraft/mc-mods/oh-the-biomes-youll-go-fabric\">Oh The Biomes You'll Go</a></p>\n<p style=\"text-align: center;\"><span style=\"font-size: 12px;\">Pendorite</span></p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\"><a style=\"font-size: 18px; background-color: #ffffff;\" href=\"https://www.curseforge.com/minecraft/mc-mods/conjuring\">Conjuring</a></p>\n<p style=\"text-align: center;\"><span style=\"font-size: 12px;\">Soul Alloy</span></p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\"><a style=\"font-size: 18px; background-color: #ffffff;\" href=\"https://www.curseforge.com/minecraft/mc-mods/deeperdarker\">Deeper and Darker</a></p>\n<p style=\"text-align: center;\"><span style=\"font-size: 12px;\">Warden</span></p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\"><a style=\"font-size: 18px; background-color: #ffffff;\" href=\"https://www.curseforge.com/minecraft/mc-mods/dragonloot\">Dragon Loot</a></p>\n<p style=\"text-align: center;\"><span style=\"font-size: 12px;\">Dragon</span></p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\"><a style=\"font-size: 18px; background-color: #ffffff;\" href=\"https://www.curseforge.com/minecraft/mc-mods/simple-emerald-tools-fabric\">Easy Emerald Tools &amp; More</a></p>\n<p style=\"text-align: center;\"><span style=\"font-size: 12px;\">Emerald</span></p>\n<p style=\"text-align: center;\"><span style=\"font-size: 12px;\">Ruby</span></p>\n<p style=\"text-align: center;\"><span style=\"font-size: 12px;\">Amethyst</span></p>\n<p style=\"text-align: center;\"><span style=\"font-size: 12px;\">Steel</span></p>\n<p style=\"text-align: center;\"><span style=\"font-size: 12px;\">Obsidian</span></p>\n<p style=\"text-align: center;\"><span style=\"font-size: 12px;\">Copper</span></p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\"><a style=\"font-size: 18px; background-color: #ffffff;\" href=\"https://www.curseforge.com/minecraft/mc-mods/enderite-mod-for-fabric\">Enderite Mod</a></p>\n<p style=\"text-align: center;\"><span style=\"font-size: 12px;\">Enderite</span></p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\"><a style=\"font-size: 18px; background-color: #ffffff;\" href=\"https://www.curseforge.com/minecraft/mc-mods/gobber-fabric\">Gobber</a></p>\n<p style=\"text-align: center;\"><span style=\"font-size: 12px;\">Gobber</span></p>\n<p style=\"text-align: center;\"><span style=\"font-size: 12px;\">Nether Gobber</span></p>\n<p style=\"text-align: center;\"><span style=\"font-size: 12px;\">End Gobber</span></p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\"><a style=\"font-size: 18px; background-color: #ffffff;\" href=\"https://www.curseforge.com/minecraft/mc-mods/mythicmetals\">Mythic Metals</a></p>\n<p style=\"text-align: center;\"><span style=\"font-size: 12px;\">Adamantite</span></p>\n<p style=\"text-align: center;\"><span style=\"font-size: 12px;\">Aquarium</span></p>\n<p style=\"text-align: center;\"><span style=\"font-size: 12px;\">Banglum</span></p>\n<p style=\"text-align: center;\"><span style=\"font-size: 12px;\">Bronze</span></p>\n<p style=\"text-align: center;\"><span style=\"font-size: 12px;\">Carmot</span></p>\n<p style=\"text-align: center;\"><span style=\"font-size: 12px;\">Celestium</span></p>\n<p style=\"text-align: center;\"><span style=\"font-size: 12px;\">Copper</span></p>\n<p style=\"text-align: center;\"><span style=\"font-size: 12px;\">Durasteel</span></p>\n<p style=\"text-align: center;\"><span style=\"font-size: 12px;\">Hallowed</span></p>\n<p style=\"text-align: center;\"><span style=\"font-size: 12px;\">Kyber</span></p>\n<p style=\"text-align: center;\"><span style=\"font-size: 12px;\">Legendary Banglum</span></p>\n<p style=\"text-align: center;\"><span style=\"font-size: 12px;\">Metallurgium</span></p>\n<p style=\"text-align: center;\"><span style=\"font-size: 12px;\">Mythril</span></p>\n<p style=\"text-align: center;\"><span style=\"font-size: 12px;\">Orichalcum</span></p>\n<p style=\"text-align: center;\"><span style=\"font-size: 12px;\">Osmium</span></p>\n<p style=\"text-align: center;\"><span style=\"font-size: 12px;\">Palladium</span></p>\n<p style=\"text-align: center;\"><span style=\"font-size: 12px;\">Prometheum</span></p>\n<p style=\"text-align: center;\"><span style=\"font-size: 12px;\">Quadrillum</span></p>\n<p style=\"text-align: center;\"><span style=\"font-size: 12px;\">Runite</span></p>\n<p style=\"text-align: center;\"><span style=\"font-size: 12px;\">Star Platinum</span></p>\n<p style=\"text-align: center;\"><span style=\"font-size: 12px;\">Steel</span></p>\n<p style=\"text-align: center;\"><span style=\"font-size: 12px;\">Stormyx</span></p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\"><a style=\"font-size: 18px; background-color: #ffffff;\" href=\"https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest\">The Twilight Forest</a></p>\n<p style=\"text-align: center;\"><span style=\"font-size: 12px;\">Ironwood</span></p>\n<p style=\"text-align: center;\"><span style=\"font-size: 12px;\">Fiery</span></p>\n<p style=\"text-align: center;\"><span style=\"font-size: 12px;\">Steeleaf</span></p>\n<p style=\"text-align: center;\"><span style=\"font-size: 12px;\">Knightmetal</span></p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\"><a style=\"font-size: 18px; background-color: #ffffff;\" href=\"https://www.curseforge.com/minecraft/mc-mods/winterly\">Winterly</a></p>\n<p style=\"text-align: center;\"><span style=\"font-size: 12px;\">Cryomarble</span></p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\"><span style=\"font-size: 14px;\"><strong>All knives as of 2.1:</strong></span></p>\n<p style=\"text-align: center;\"><img src=\"https://i.ibb.co/8zPxdqC/image-2022-08-17-164723137.png\" alt=\"knives\" border=\"0\" /></p>\n<p style=\"text-align: center;\">(Not including Twilight Forest, Adabranium, Advanced Netherite and Winterly)</p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\"><strong>Credits:</strong></p>\n<p style=\"text-align: center;\">The Skeleton Appears for the Mythic Metals knife textures</p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\"><span style=\"font-size: 14px;\">Make more suggestions <a href=\"https://github.com/ianm1647/farmersknives/issues/1\">here</a>!</span></p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\">&nbsp;</p>",
+          "published": "2022-05-30T10:13:19.583728Z",
+          "updated": "2024-04-22T02:10:36.528893Z",
+          "status": "approved",
+          "license": {
+            "id": "MIT",
+            "name": "MIT License"
+          },
+          "client_side": "required",
+          "server_side": "required",
+          "categories": [
+            "equipment",
+            "utility"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/uc3VdfLM/365280b65541bf77f4d96711ef8261e4b66d3b15.png",
+          "issues_url": "https://github.com/ianm1647/farmersknives/issues",
+          "source_url": "https://github.com/ianm1647/farmersknives",
+          "discord_url": "https://discord.gg/qyYwHykSmE",
+          "donation_urls": [],
+          "gallery": []
+        },
+        "modrinthVersion": {
+          "id": "dH5N4o0F",
+          "project_id": "uc3VdfLM",
+          "author_id": "rgfk69lz",
+          "name": "3.2",
+          "version_number": "3.2",
+          "changelog": "- switched to FD Refabricated\n- disabled botania compat (needs work)",
+          "date_published": "2024-04-22T02:10:37.203817Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha512": "626be8b331da7db5d71b86625efe65c8319cc44797f22d3135bb5c672af4022d813dce49bea592b2e00b194d0775726346f53605352572c4c5a44e1886a48312",
+                "sha1": "eb79d941a640f7abe75e0ba453e9c894384c3d3b"
+              },
+              "url": "https://cdn.modrinth.com/data/uc3VdfLM/versions/dH5N4o0F/farmersknives-3.2.jar",
+              "filename": "farmersknives-3.2.jar",
+              "primary": true,
+              "size": 103203
+            }
+          ],
+          "dependencies": [
+            {
+              "project_id": "7vxePowz",
+              "dependency_type": "required"
+            },
+            {
+              "project_id": "P7dR8mSH",
+              "dependency_type": "required"
+            }
+          ],
+          "game_versions": [
+            "1.20",
+            "1.20.1"
+          ],
+          "loaders": [
+            "fabric"
+          ]
+        }
+      },
+      {
+        "name": "Pumpkin Pie Delight",
+        "version": "Pumpkin Pie Delight 1.0.1",
+        "optional": true,
+        "file": "pumpkin_pie-1.0.1.jar",
+        "type": "mods",
+        "description": "A Farmer's Delight addon that makes pumpkin pies placeable and sliceable",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "modrinthProject": {
+          "id": "AhcCiL7x",
+          "slug": "pumpkin-pie-delight",
+          "project_type": "mod",
+          "team": "yyMgAe05",
+          "title": "Pumpkin Pie Delight",
+          "description": "A Farmer's Delight addon that makes pumpkin pies placeable and sliceable",
+          "body": "# Pumpkin Pie Delight\n\nFarmer's Delight adds new pies that can be placed in the world, but the pumpkin pie didn't receive that same 3D treatment... **until today!** Place down your pumpkin pies, slice them, eat them, and craft them with pie crusts like the other pies. *Simply delightful!*\n\n![](https://cdn.modrinth.com/data/AhcCiL7x/images/a5278c5b71189bd453563772434730c25504ae25.png)\n\n## Recipes\n\n![](https://cdn.modrinth.com/data/AhcCiL7x/images/45e2f7f819de687d5642268a76e49feb76472d08.png)\n\n![](https://cdn.modrinth.com/data/AhcCiL7x/images/5eba708d3acb594bfa8190b57b4bbaef8ef3940c.png)\n\n![](https://cdn.modrinth.com/data/AhcCiL7x/images/c1830b5f3a17387abd6a2bf8e8facfd77c266130.png)\n\n## Supported Languages\n\n- Brazilian Portuguese (Kett)\n- Chilean Spanish (Mudkip)\n- Czech (unroman)\n- English\n- Polish\n- Ukrainian (unroman)",
+          "published": "2024-04-09T03:26:39.069277Z",
+          "updated": "2024-04-19T00:10:43.259536Z",
+          "status": "approved",
+          "license": {
+            "id": "LGPL-3.0-only",
+            "name": "GNU Lesser General Public License v3.0 only"
+          },
+          "client_side": "required",
+          "server_side": "required",
+          "categories": [
+            "food"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/AhcCiL7x/c150a27c480f670d1ddf57b3b9fc1d0d8229249b.png",
+          "issues_url": "https://github.com/Chailotl/pumpkin-pie/issues",
+          "source_url": "https://github.com/Chailotl/pumpkin-pie",
+          "discord_url": "https://discord.gg/SuZb3aJUCx",
+          "donation_urls": [
+            {
+              "id": "bmac",
+              "platform": "Bmac",
+              "url": "https://www.buymeacoffee.com/chailotl"
+            }
+          ],
+          "gallery": [
+            {
+              "url": "https://cdn.modrinth.com/data/AhcCiL7x/images/a5278c5b71189bd453563772434730c25504ae25.png",
+              "featured": true,
+              "title": "Pumpkin pies",
+              "created": "2024-04-09T04:55:40.586903Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/AhcCiL7x/images/45e2f7f819de687d5642268a76e49feb76472d08.png",
+              "featured": false,
+              "title": "Pumpkin pie recipe",
+              "description": "The pumpkin pie recipe has been updated to match Farmer's Delight",
+              "created": "2024-04-09T05:03:07.539717Z",
+              "ordering": 1.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/AhcCiL7x/images/5eba708d3acb594bfa8190b57b4bbaef8ef3940c.png",
+              "featured": false,
+              "title": "Pumpkin pie from slices recipe",
+              "created": "2024-04-09T05:03:45.887320Z",
+              "ordering": 2.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/AhcCiL7x/images/c1830b5f3a17387abd6a2bf8e8facfd77c266130.png",
+              "featured": false,
+              "title": "Slices of pumpkin pie recipe",
+              "created": "2024-04-09T05:04:11.272307Z",
+              "ordering": 3.0
+            }
+          ]
+        },
+        "modrinthVersion": {
+          "id": "lgrNm5MA",
+          "project_id": "AhcCiL7x",
+          "author_id": "lEbzAs8J",
+          "name": "Pumpkin Pie Delight 1.0.1",
+          "version_number": "1.0.1",
+          "changelog": "- Lowered minimum Fabric loader version to 0.15.7\n- Added 5 localizations\n  - Brazilian Portuguese (Kett)\n  - Chilean Spanish (Mudkip)\n  - Czech (unroman)\n  - Polish\n  - Ukrainian (unroman)",
+          "date_published": "2024-04-19T00:10:43.756375Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha1": "24b1fa4b3d445f767e019f64b86e5032d50566ee",
+                "sha512": "48f87f6134353936947c2d194486dcc792534738a78d17f5ce31536f00366c17a4c34a580244f349f81c640c6bc331232ac38585ac1911a46daa1af7bd0c600c"
+              },
+              "url": "https://cdn.modrinth.com/data/AhcCiL7x/versions/lgrNm5MA/pumpkin_pie-1.0.1.jar",
+              "filename": "pumpkin_pie-1.0.1.jar",
+              "primary": true,
+              "size": 24790
+            }
+          ],
+          "dependencies": [
+            {
+              "project_id": "P7dR8mSH",
+              "dependency_type": "required"
+            },
+            {
+              "project_id": "7vxePowz",
+              "dependency_type": "required"
+            }
+          ],
+          "game_versions": [
+            "1.20",
+            "1.20.1",
+            "1.20.2",
+            "1.20.3",
+            "1.20.4"
+          ],
+          "loaders": [
+            "fabric"
+          ]
+        }
+      },
+      {
+        "name": "Expanded Delight",
+        "version": "0.3.1",
+        "optional": true,
+        "file": "expandeddelight-0.3.1.jar",
+        "type": "mods",
+        "description": "An addon mod for Farmer's Delight\nthat adds many more crops and functionality to the base mod",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 620770,
+        "curseForgeFileId": 5281271,
+        "curseForgeProject": {
+          "id": 620770,
+          "name": "Expanded Delight",
+          "authors": [
+            {
+              "id": 100052547,
+              "name": "ianm1647",
+              "url": "https://www.curseforge.com/members/ianm1647"
+            }
+          ],
+          "gameId": 432,
+          "summary": "An addon mod for Farmer's Delight that adds many more crops and functionality to the base mod",
+          "categories": [
+            {
+              "name": "Ores and Resources",
+              "slug": "world-ores-resources",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen/world-ores-resources",
+              "dateModified": "2014-05-08T17:36:41.233Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 408,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/23/635351494012336510.png",
+              "parentCategoryId": 406,
+              "classId": 6
+            },
+            {
+              "name": "Food",
+              "slug": "mc-food",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-food",
+              "dateModified": "2014-05-08T17:45:26.55Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 436,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/49/635351499265510402.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Farming",
+              "slug": "technology-farming",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/technology/technology-farming",
+              "dateModified": "2014-05-08T17:39:21.57Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 416,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/31/635351495615556933.png",
+              "parentCategoryId": 412,
+              "classId": 6
+            },
+            {
+              "name": "Addons",
+              "slug": "mc-addons",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-addons",
+              "dateModified": "2014-05-08T17:09:48.63Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 426,
+              "iconUrl": "https://media.forgecdn.net/avatars/5/998/635351477886290676.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 436,
+          "classId": 6,
+          "slug": "expanded-delight",
+          "isFeatured": false,
+          "dateModified": "2024-07-27T23:34:34.973Z",
+          "dateCreated": "2022-05-05T08:50:07.367Z",
+          "dateReleased": "2024-07-27T23:28:37.6Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/expanded-delight",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/ianm1647/expandeddelight/issues",
+            "sourceUrl": "https://github.com/ianm1647/expandeddelight"
+          },
+          "logo": {
+            "id": 552505,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/552/505/256/256/637891913734315748.png",
+            "title": "637891913734315748.png",
+            "url": "https://media.forgecdn.net/avatars/552/505/637891913734315748.png",
+            "modId": 620770
+          },
+          "allowModDistribution": true,
+          "screenshots": [
+            {
+              "id": 461796,
+              "description": "only generates in ocean biomes",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/461/796/310/172/2022-05-16_13.png",
+              "title": "salt ore",
+              "url": "https://media.forgecdn.net/attachments/461/796/2022-05-16_13.png",
+              "modId": 620770
+            },
+            {
+              "id": 461797,
+              "description": "also only in ocean biomes",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/461/797/310/172/2022-05-16_13.png",
+              "title": "deepslate salt ore",
+              "url": "https://media.forgecdn.net/attachments/461/797/2022-05-16_13.png",
+              "modId": 620770
+            },
+            {
+              "id": 925230,
+              "description": "banner.png",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/925/230/310/172/banner.png",
+              "title": "banner.png",
+              "url": "https://media.forgecdn.net/attachments/925/230/banner.png",
+              "modId": 620770
+            }
+          ],
+          "mainFileId": 5572843
+        },
+        "curseForgeFile": {
+          "id": 5281271,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "expandeddelight-0.3.1.jar",
+          "fileName": "expandeddelight-0.3.1.jar",
+          "releaseType": 2,
+          "fileStatus": 4,
+          "fileDate": "2024-04-22T02:06:16.267Z",
+          "fileLength": 246771,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 993166,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 306612,
+              "relationType": 3
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 3876803130,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 3803015940,
+              "name": ".cache"
+            },
+            {
+              "fingerprint": 18375977,
+              "name": "LICENSE_expandeddelight"
+            },
+            {
+              "fingerprint": 2190782339,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 1418143720,
+              "name": "com"
+            },
+            {
+              "fingerprint": 3349630585,
+              "name": "data"
+            },
+            {
+              "fingerprint": 4212455691,
+              "name": "fabric.mod.json"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "ecfd37b985cf435692bb72b533385b183bd97b64",
+              "algo": 1
+            },
+            {
+              "value": "d931e3c9c9ac2c3a03d94c9ca493c2ee",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-09-01T00:00:00Z",
+              "gameVersionName": "Fabric"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Client"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Server"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-05-26T00:00:00Z",
+              "gameVersionName": "Quilt"
+            }
+          ],
+          "gameVersions": [
+            "Fabric",
+            "Client",
+            "1.20.1",
+            "Server",
+            "Quilt"
+          ],
+          "fileFingerprint": 2490030057,
+          "modId": 620770
+        },
+        "modrinthProject": {
+          "id": "e9V6wFcR",
+          "slug": "expanded-delight",
+          "project_type": "mod",
+          "team": "oNDtAKDM",
+          "title": "Expanded Delight",
+          "description": "An addon mod for Farmer's Delight\nthat adds many more crops and functionality to the base mod",
+          "body": "<h4 align=\"center\"><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://media.forgecdn.net/attachments/925/230/banner.png\" alt=\"\" width=\"408\" height=\"123\" /><img style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://ibb.co/C2bDF1p\" alt=\"\" /></h4>\n<h3 align=\"center\">Expansion mod for Farmer's Delight Fabric.</h3>\n<h4 align=\"center\">Download Farmer's Delight <a href=\"https://www.curseforge.com/minecraft/mc-mods/farmers-delight-fabric\">here</a></h4>\n<p align=\"center\">&nbsp;</p>\n<h5 align=\"center\">You can find the current and planned features for the mod <a href=\"https://github.com/ianm1647/expandeddelight/issues/1\">here</a></h5>\n<h5 align=\"center\">Feel free to suggest anything you may want as in this mod is a WIP.</h5>\n<p align=\"center\">&nbsp;</p>\n<p align=\"center\">&nbsp;</p>",
+          "published": "2022-05-16T12:50:41.081323Z",
+          "updated": "2024-08-06T21:37:17.308034Z",
+          "status": "approved",
+          "license": {
+            "id": "MIT",
+            "name": "MIT License"
+          },
+          "client_side": "required",
+          "server_side": "required",
+          "categories": [
+            "food",
+            "worldgen"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/e9V6wFcR/4cbbace573b20628290929948a77c74d95ed7a70.png",
+          "issues_url": "https://github.com/ianm1647/expandeddelight/issues",
+          "source_url": "https://github.com/ianm1647/expandeddelight",
+          "discord_url": "https://discord.gg/qyYwHykSmE",
+          "donation_urls": [
+            {
+              "id": "paypal",
+              "platform": "Paypal",
+              "url": "https://www.paypal.com/donate/?token=yhtRzo5Qkbp_IFbrGEmGpwLG5if9ECYUCiA4T28HGuhVCpIwNmwxFfzGHdOn7paZLXndbcByV858xIj1&locale.x=US"
+            }
+          ],
+          "gallery": []
+        },
+        "modrinthVersion": {
+          "id": "ZeqoW6AU",
+          "project_id": "e9V6wFcR",
+          "author_id": "rgfk69lz",
+          "name": "0.3.1",
+          "version_number": "0.3.1",
+          "changelog": "- switched to FD Refabricated",
+          "date_published": "2024-04-22T02:09:45.732411Z",
+          "version_type": "beta",
+          "files": [
+            {
+              "hashes": {
+                "sha512": "ca86dc698e4e951445f95f241ba98572456899049e61ed6b3edacdd562a744f030f6deed757ba85e58556ec1db7d18cfaded35d7612cc1336e594f185b415187",
+                "sha1": "ecfd37b985cf435692bb72b533385b183bd97b64"
+              },
+              "url": "https://cdn.modrinth.com/data/e9V6wFcR/versions/ZeqoW6AU/expandeddelight-0.3.1.jar",
+              "filename": "expandeddelight-0.3.1.jar",
+              "primary": true,
+              "size": 246771
+            }
+          ],
+          "dependencies": [
+            {
+              "project_id": "P7dR8mSH",
+              "dependency_type": "required"
+            },
+            {
+              "project_id": "7vxePowz",
+              "dependency_type": "required"
+            }
+          ],
+          "game_versions": [
+            "1.20",
+            "1.20.1"
+          ],
+          "loaders": [
+            "fabric",
+            "quilt"
+          ]
+        }
+      },
+      {
+        "name": "Cultural Delights [Fabric]",
+        "version": "Cultural Delights 1.0.5+1.20.1 [Refabricated]",
+        "optional": true,
+        "file": "cultural-delights-fabric-1.0.5+1.20.1.jar",
+        "type": "mods",
+        "description": "A Farmer's Delight addon that adds food systems from around the world",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 807107,
+        "curseForgeFileId": 5510598,
+        "curseForgeProject": {
+          "id": 807107,
+          "name": "Cultural Delights [Fabric]",
+          "authors": [
+            {
+              "id": 101694375,
+              "name": "MrSterner_",
+              "url": "https://www.curseforge.com/members/mrsterner_"
+            },
+            {
+              "id": 101338784,
+              "name": "NCP_Bails",
+              "url": "https://www.curseforge.com/members/ncp_bails"
+            }
+          ],
+          "gameId": 432,
+          "summary": "A Farmer's Delight addon that adds food systems from around the world. ",
+          "categories": [
+            {
+              "name": "Farming",
+              "slug": "technology-farming",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/technology/technology-farming",
+              "dateModified": "2014-05-08T17:39:21.57Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 416,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/31/635351495615556933.png",
+              "parentCategoryId": 412,
+              "classId": 6
+            },
+            {
+              "name": "Addons",
+              "slug": "mc-addons",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-addons",
+              "dateModified": "2014-05-08T17:09:48.63Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 426,
+              "iconUrl": "https://media.forgecdn.net/avatars/5/998/635351477886290676.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Food",
+              "slug": "mc-food",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-food",
+              "dateModified": "2014-05-08T17:45:26.55Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 436,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/49/635351499265510402.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 426,
+          "classId": 6,
+          "slug": "cultural-delights-fabric",
+          "isFeatured": false,
+          "dateModified": "2024-07-07T13:44:24.53Z",
+          "dateCreated": "2023-01-10T23:25:06.4Z",
+          "dateReleased": "2024-07-07T13:30:34.283Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/cultural-delights-fabric",
+            "wikiUrl": "",
+            "sourceUrl": "https://github.com/mrsterner/Cultural-Delights-Fabric"
+          },
+          "logo": {
+            "id": 752458,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/752/458/256/256/638089899064700059.png",
+            "title": "638089899064700059.png",
+            "url": "https://media.forgecdn.net/avatars/752/458/638089899064700059.png",
+            "modId": 807107
+          },
+          "allowModDistribution": true,
+          "screenshots": [
+            {
+              "id": 601704,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/601/704/310/172/2022-05-06_122.png",
+              "title": "Crops",
+              "url": "https://media.forgecdn.net/attachments/601/704/2022-05-06_122.png",
+              "modId": 807107
+            },
+            {
+              "id": 601703,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/601/703/310/172/2022-05-06_12.png",
+              "title": "Plants and Crates",
+              "url": "https://media.forgecdn.net/attachments/601/703/2022-05-06_12.png",
+              "modId": 807107
+            }
+          ],
+          "mainFileId": 5510598
+        },
+        "curseForgeFile": {
+          "id": 5510598,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "cultural-delights-1.0.5+1.20.1 [Refabricated]",
+          "fileName": "cultural-delights-fabric-1.0.5+1.20.1.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2024-07-07T13:30:34.283Z",
+          "fileLength": 466911,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 398521,
+              "relationType": 3
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 1878514323,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 18375977,
+              "name": "LICENSE_cultural-delights-fabric"
+            },
+            {
+              "fingerprint": 40825497,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 3557699231,
+              "name": "cultural-delights-fabric-refmap.json"
+            },
+            {
+              "fingerprint": 2767959688,
+              "name": "culturaldelights.mixins.json"
+            },
+            {
+              "fingerprint": 3946038415,
+              "name": "data"
+            },
+            {
+              "fingerprint": 477112730,
+              "name": "dev"
+            },
+            {
+              "fingerprint": 3228111768,
+              "name": "fabric.mod.json"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "9301a8df3a5d2fd70092bfebe59131a68a756a11",
+              "algo": 1
+            },
+            {
+              "value": "b6546542ad78d9dcd506b5d1c9148753",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-09-01T00:00:00Z",
+              "gameVersionName": "Fabric"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Client"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Server"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-05-26T00:00:00Z",
+              "gameVersionName": "Quilt"
+            }
+          ],
+          "gameVersions": [
+            "Fabric",
+            "Client",
+            "1.20.1",
+            "Server",
+            "Quilt"
+          ],
+          "fileFingerprint": 896773163,
+          "modId": 807107
+        },
+        "modrinthProject": {
+          "id": "9Gy8sTXS",
+          "slug": "cultural-delights-fabric",
+          "project_type": "mod",
+          "team": "4N8Ojd8j",
+          "title": "Cultural Delights [Fabric]",
+          "description": "A Farmer's Delight addon that adds food systems from around the world",
+          "body": "![](https://media.forgecdn.net/attachments/448/392/banner.png)\n--------------------------------------------------------------\n\n### **A Farmer's Delight addon that adds food systems from around the world.**\n\n#### _Currently working on: Ginger, Beans, Meals, and More!_\n\n####   \n**Current crops implemented:** Eggplant, Avocado, Corn, Cucumber, Pickle\n\n#### (_Pickling is only available when the mod [Brewin' and Chewin'](https://www.curseforge.com/minecraft/mc-mods/brewin-and-chewin) is present)_\n\n**![](https://media.forgecdn.net/attachments/692/65/untitled.png)**\n\n \n\n**Some Meal Examples:**\n\n**![](https://media.forgecdn.net/attachments/692/64/untitled1.png)**\n\n \n\n**Some Squid related items:**\n\n**![](https://media.forgecdn.net/attachments/461/85/screenshot-2022-05-14-135830.png)**\n\n \n\n**Current Sushi types implemented:** \n\n(With kelp texture from Bedrock edition_)_\n\n![](https://media.forgecdn.net/attachments/498/256/screenshot-2022-09-22-092833.png)\n\n\nAssets from [https://modrinth.com/mod/cultural-delights.](https://modrinth.com/mod/cultural-delights.)",
+          "published": "2024-02-11T09:25:35.023752Z",
+          "updated": "2024-07-07T13:31:43.770910Z",
+          "status": "approved",
+          "license": {
+            "id": "MIT",
+            "name": "MIT License"
+          },
+          "client_side": "required",
+          "server_side": "required",
+          "categories": [
+            "decoration",
+            "food",
+            "worldgen"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/9Gy8sTXS/3d2ff0b0bb4c7b3d3f80b67105451c1496720fc3.png",
+          "issues_url": "https://github.com/mrsterner/Cultural-Delights-Fabric/issues",
+          "source_url": "https://github.com/mrsterner/Cultural-Delights-Fabric",
+          "donation_urls": [],
+          "gallery": []
+        },
+        "modrinthVersion": {
+          "id": "VmsNBbCQ",
+          "project_id": "9Gy8sTXS",
+          "author_id": "LEsnOUKR",
+          "name": "Cultural Delights 1.0.5+1.20.1 [Refabricated]",
+          "version_number": "1.0.5+1.20.1",
+          "changelog": "",
+          "date_published": "2024-07-07T13:31:44.479426Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha1": "9301a8df3a5d2fd70092bfebe59131a68a756a11",
+                "sha512": "950974a40bb5a4d33b1ab1b1b4a67758bd60611a52c16493922555ca104b01534a77362a02a7d0ff68edc54a97b2fbc0b4971e78819222f73cf878001b6dd4a9"
+              },
+              "url": "https://cdn.modrinth.com/data/9Gy8sTXS/versions/VmsNBbCQ/cultural-delights-fabric-1.0.5%2B1.20.1.jar",
+              "filename": "cultural-delights-fabric-1.0.5+1.20.1.jar",
+              "primary": true,
+              "size": 466911
+            }
+          ],
+          "dependencies": [
+            {
+              "project_id": "7vxePowz",
+              "dependency_type": "required"
+            }
+          ],
+          "game_versions": [
+            "1.20.1"
+          ],
+          "loaders": [
+            "fabric",
+            "quilt"
+          ]
+        }
+      },
+      {
+        "name": "Herbal Delight",
+        "version": "Version 1.3 - Patch 3",
+        "optional": true,
+        "file": "herbaldelight-1.3-patch3-1.20.1.jar",
+        "type": "mods",
+        "description": "An addon for Farmer's Delight that adds tea to the game!",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "modrinthProject": {
+          "id": "Jlr5zYqo",
+          "slug": "herbal-delight",
+          "project_type": "mod",
+          "team": "P4vFlsSu",
+          "title": "Herbal Delight",
+          "description": "An addon for Farmer's Delight that adds tea to the game!",
+          "body": "# Herbal Delight\nAn addon mod for Farmer's Delight that adds tea to the game!  \nThis mod was originally made for an upcoming modpack that is based in Create.",
+          "published": "2024-05-07T06:45:46.194901Z",
+          "updated": "2024-05-29T09:02:29.809360Z",
+          "status": "approved",
+          "license": {
+            "id": "CC0-1.0",
+            "name": "Creative Commons Zero v1.0 Universal"
+          },
+          "client_side": "required",
+          "server_side": "required",
+          "categories": [
+            "food"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/Jlr5zYqo/067a215cd2502d2da00928c3b8f3f4476c8b2a20.png",
+          "issues_url": "https://github.com/Super-McTea/herbal-delight/issues",
+          "source_url": "https://github.com/Super-McTea/herbal-delight",
+          "donation_urls": [],
+          "gallery": [
+            {
+              "url": "https://cdn.modrinth.com/data/Jlr5zYqo/images/067a215cd2502d2da00928c3b8f3f4476c8b2a20.png",
+              "featured": true,
+              "title": "Herbal Delight Icon",
+              "created": "2024-05-29T08:38:34.475040Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/Jlr5zYqo/images/c7ca73ca0635e0a67f9fe4a37fb57f728d7f036f.png",
+              "featured": false,
+              "title": "Green Tea",
+              "created": "2024-05-29T08:38:10.254600Z",
+              "ordering": 1.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/Jlr5zYqo/images/051c492ba462bc04464c9c76b83e5ed2501a2788.png",
+              "featured": false,
+              "title": "Black Tea",
+              "created": "2024-05-29T08:38:59.879374Z",
+              "ordering": 2.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/Jlr5zYqo/images/b080cff028ec7a3cb8a2adf2ab33010e65a8806e.png",
+              "featured": false,
+              "title": "Hibiscus Tea",
+              "created": "2024-05-29T08:39:12.988094Z",
+              "ordering": 3.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/Jlr5zYqo/images/2e407d54a5c33e3918f6baa9cc359bc461ef1f68.png",
+              "featured": false,
+              "title": "Green Tea Leaves",
+              "created": "2024-05-29T08:39:31.744709Z",
+              "ordering": 4.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/Jlr5zYqo/images/42c639d780ec025525923908d1f2670b628b34b2.png",
+              "featured": false,
+              "title": "Black Tea Leaves",
+              "created": "2024-05-29T08:39:46.328622Z",
+              "ordering": 5.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/Jlr5zYqo/images/091dd0ae5f2fb3c094dbe9c76a386af9b1b1b7d9.png",
+              "featured": false,
+              "title": "Hibiscus Flowers",
+              "created": "2024-05-29T08:40:01.817165Z",
+              "ordering": 6.0
+            }
+          ]
+        },
+        "modrinthVersion": {
+          "id": "7IcJRw5C",
+          "project_id": "Jlr5zYqo",
+          "author_id": "ftUH7TbV",
+          "name": "Version 1.3 - Patch 3",
+          "version_number": "1.3-patch3",
+          "changelog": "Hopefully the last patch for this version!\n- Removed unnecessary code I had forgotten to in `build.gradle`\n- Removed debug and test image files\n- Changed the mod icon again, hopefully final",
+          "date_published": "2024-05-29T09:02:30.464664Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha512": "2c2d6ebced3e62a8b93bc90939bf8e03bbaea26a24f8b8a3026a41bd4bb4ec463de38fd134f9d4d7ceb322b135d22c3eebbffc53595b6528d6cec8590dcb7a5b",
+                "sha1": "b4f0c66e88044a1b372a10457d0eeb5c6494a392"
+              },
+              "url": "https://cdn.modrinth.com/data/Jlr5zYqo/versions/7IcJRw5C/herbaldelight-1.3-patch3-1.20.1.jar",
+              "filename": "herbaldelight-1.3-patch3-1.20.1.jar",
+              "primary": true,
+              "size": 210107
+            }
+          ],
+          "dependencies": [
+            {
+              "project_id": "7vxePowz",
+              "dependency_type": "required"
+            }
+          ],
+          "game_versions": [
+            "1.20.1"
+          ],
+          "loaders": [
+            "fabric"
+          ]
+        }
+      },
+      {
+        "name": "Brewin' And Chewin' [Fabric]",
+        "version": "Brewin' And Chewin' 3.0.6+1.20.1 [Refabricated]",
+        "optional": true,
+        "file": "brewinandchewin-3.0.6+1.20.1.jar",
+        "type": "mods",
+        "description": "Fermenting addon for Farmer's Delight",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 807512,
+        "curseForgeFileId": 5467339,
+        "curseForgeProject": {
+          "id": 807512,
+          "name": "Brewin' And Chewin' [Fabric]",
+          "authors": [
+            {
+              "id": 101694375,
+              "name": "MrSterner_",
+              "url": "https://www.curseforge.com/members/mrsterner_"
+            },
+            {
+              "id": 101206472,
+              "name": "lumpazl",
+              "url": "https://www.curseforge.com/members/lumpazl"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Fermenting addon for Farmer's Delight",
+          "categories": [
+            {
+              "name": "Addons",
+              "slug": "mc-addons",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-addons",
+              "dateModified": "2014-05-08T17:09:48.63Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 426,
+              "iconUrl": "https://media.forgecdn.net/avatars/5/998/635351477886290676.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Food",
+              "slug": "mc-food",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-food",
+              "dateModified": "2014-05-08T17:45:26.55Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 436,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/49/635351499265510402.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 426,
+          "classId": 6,
+          "slug": "brewin-and-chewin-fabric",
+          "isFeatured": false,
+          "dateModified": "2024-06-24T09:49:58.5Z",
+          "dateCreated": "2023-01-12T00:53:04.263Z",
+          "dateReleased": "2024-06-24T09:44:22.557Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/brewin-and-chewin-fabric",
+            "wikiUrl": ""
+          },
+          "logo": {
+            "id": 752911,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/752/911/256/256/638090815842840833.png",
+            "title": "638090815842840833.png",
+            "url": "https://media.forgecdn.net/avatars/752/911/638090815842840833.png",
+            "modId": 807512
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 5467339
+        },
+        "curseForgeFile": {
+          "id": 5467339,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "brewinandchewin-3.0.6+1.20.1 [Refabricated]",
+          "fileName": "brewinandchewin-3.0.6+1.20.1.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2024-06-24T09:44:22.557Z",
+          "fileLength": 525600,
+          "dependencies": [],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 2932780763,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 4260266638,
+              "name": ".cache"
+            },
+            {
+              "fingerprint": 3135669792,
+              "name": "LICENSE_brewinandchewin"
+            },
+            {
+              "fingerprint": 212733558,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 1156519330,
+              "name": "brewinandchewin-refmap.json"
+            },
+            {
+              "fingerprint": 1673185071,
+              "name": "brewinandchewin.accesswidener"
+            },
+            {
+              "fingerprint": 2536123825,
+              "name": "brewinandchewin.mixins.json"
+            },
+            {
+              "fingerprint": 1828926614,
+              "name": "data"
+            },
+            {
+              "fingerprint": 905940240,
+              "name": "dev"
+            },
+            {
+              "fingerprint": 825748697,
+              "name": "fabric.mod.json"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "cc543dc749a9c69417a586fa9c831a33b5dcfc9f",
+              "algo": 1
+            },
+            {
+              "value": "b68b4d1e5f91c3be112f0187a9668ac3",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-09-01T00:00:00Z",
+              "gameVersionName": "Fabric"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Client"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Server"
+            }
+          ],
+          "gameVersions": [
+            "Fabric",
+            "Client",
+            "1.20.1",
+            "Server"
+          ],
+          "fileFingerprint": 1355713206,
+          "modId": 807512
+        },
+        "modrinthProject": {
+          "id": "e4G0uSdm",
+          "slug": "brewin-and-chewin-fabric",
+          "project_type": "mod",
+          "team": "ERr0jSEv",
+          "title": "Brewin' And Chewin' [Fabric]",
+          "description": "Fermenting addon for Farmer's Delight",
+          "body": "📖 About:\n\nBrewin' And Chewin' is an addon mod for Farmer's Delight based around adding a keg and fermenting mechanics!  \n\n📦 Beta Version\n\nThis mod is currently under development, so issues and instabilities may occur. If you'd like to play, keep in mind:\n\n    Backup your saves often;\n    Make sure everything is working before adding it to a modpack;\n    Report any issues you find to our Discord!! It helps us a lot!\n\n \n🔨 Required Dependencies:\n\nFarmer's Delight \n\n \n\nChef's Delights Discord for questions or whatever~",
+          "published": "2024-03-26T08:57:40.991015Z",
+          "updated": "2024-06-24T09:43:34.143928Z",
+          "status": "approved",
+          "license": {
+            "id": "LicenseRef-All-Rights-Reserved",
+            "name": ""
+          },
+          "client_side": "required",
+          "server_side": "required",
+          "categories": [
+            "decoration",
+            "food",
+            "technology"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/e4G0uSdm/51fd6e816da7d90df725c6390992d423b7894dfe.png",
+          "issues_url": "https://github.com/mrsterner/BrewinAndChewin-Fabric/issues",
+          "source_url": "https://github.com/mrsterner/BrewinAndChewin-Fabric",
+          "discord_url": "https://discord.gg/7PBaMYNtrg",
+          "donation_urls": [
+            {
+              "id": "ko-fi",
+              "platform": "Ko-fi",
+              "url": "https://ko-fi.com/mrsterner"
+            }
+          ],
+          "gallery": []
+        },
+        "modrinthVersion": {
+          "id": "ZieRTW8y",
+          "project_id": "e4G0uSdm",
+          "author_id": "LEsnOUKR",
+          "name": "Brewin' And Chewin' 3.0.6+1.20.1 [Refabricated]",
+          "version_number": "3.0.6+1.20.1",
+          "changelog": "recipe tags fixed",
+          "date_published": "2024-06-24T09:43:34.929252Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha512": "7e4fec99e60f500b98fbfd781c0d91dc3608f9801bc3c2c17aa840dc3f46059fce7dc28179528779736ef905083dca333389a42fc7f57fe635d6aadf0f128a36",
+                "sha1": "cc543dc749a9c69417a586fa9c831a33b5dcfc9f"
+              },
+              "url": "https://cdn.modrinth.com/data/e4G0uSdm/versions/ZieRTW8y/brewinandchewin-3.0.6%2B1.20.1.jar",
+              "filename": "brewinandchewin-3.0.6+1.20.1.jar",
+              "primary": true,
+              "size": 525600
+            }
+          ],
+          "dependencies": [
+            {
+              "project_id": "7vxePowz",
+              "dependency_type": "required"
+            },
+            {
+              "project_id": "P7dR8mSH",
+              "dependency_type": "required"
+            }
+          ],
+          "game_versions": [
+            "1.20.1"
+          ],
+          "loaders": [
+            "fabric"
+          ]
+        }
+      },
+      {
+        "name": "Storage Delight for Farmer's Delight",
+        "version": "24.07.23-1.20.1",
+        "optional": true,
+        "file": "storagedelight-2024.07.23-1.20.1-fabric.jar",
+        "type": "mods",
+        "description": "Extra furniture that makes every space look even better.",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 978786,
+        "curseForgeFileId": 5559572,
+        "curseForgeProject": {
+          "id": 978786,
+          "name": "Storage Delight (Fabric)",
+          "authors": [
+            {
+              "id": 105970342,
+              "name": "axperty",
+              "url": "https://www.curseforge.com/members/axperty"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Extra furniture that makes every space look even better.",
+          "categories": [
+            {
+              "name": "Cosmetic",
+              "slug": "cosmetic",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/cosmetic",
+              "dateModified": "2014-05-08T17:42:35.597Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 424,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/39/635351497555976928.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Addons",
+              "slug": "mc-addons",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-addons",
+              "dateModified": "2014-05-08T17:09:48.63Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 426,
+              "iconUrl": "https://media.forgecdn.net/avatars/5/998/635351477886290676.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Food",
+              "slug": "mc-food",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-food",
+              "dateModified": "2014-05-08T17:45:26.55Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 436,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/49/635351499265510402.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 426,
+          "classId": 6,
+          "slug": "storage-delight-fabric",
+          "isFeatured": false,
+          "dateModified": "2024-08-10T20:46:47.39Z",
+          "dateCreated": "2024-02-24T05:20:23.967Z",
+          "dateReleased": "2024-07-31T18:16:26Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/storage-delight-fabric",
+            "wikiUrl": "https://github.com/axperty/storagedelight/wiki",
+            "issuesUrl": "https://github.com/axperty/storagedelight-fabric",
+            "sourceUrl": "https://github.com/axperty/storagedelight"
+          },
+          "logo": {
+            "id": 986117,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/986/117/256/256/638496086324851624_animated.gif",
+            "title": "638496086324851624.gif",
+            "url": "https://media.forgecdn.net/avatars/986/117/638496086324851624.gif",
+            "modId": 978786
+          },
+          "allowModDistribution": true,
+          "screenshots": [
+            {
+              "id": 853626,
+              "description": "New furniture and texture improvements",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/853/626/310/172/pretty_organized_update.png",
+              "title": "Pretty Organized Update",
+              "url": "https://media.forgecdn.net/attachments/853/626/pretty_organized_update.png",
+              "modId": 978786
+            },
+            {
+              "id": 821049,
+              "description": "Drawers and glass cabinets for Farmer&#39;s Delight",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/821/49/310/172/storage_delight_1.png",
+              "title": "Storage Delight",
+              "url": "https://media.forgecdn.net/attachments/821/49/storage_delight_1.png",
+              "modId": 978786
+            },
+            {
+              "id": 821050,
+              "description": "Find comfort in every corner",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/821/50/310/172/storage_delight_2.png",
+              "title": "Keep It Cozy",
+              "url": "https://media.forgecdn.net/attachments/821/50/storage_delight_2.png",
+              "modId": 978786
+            },
+            {
+              "id": 821051,
+              "description": "Your kitchen, your style",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/821/51/310/172/storage_delight_3.png",
+              "title": "Decorate Your Kitchen",
+              "url": "https://media.forgecdn.net/attachments/821/51/storage_delight_3.png",
+              "modId": 978786
+            },
+            {
+              "id": 821052,
+              "description": "Adaptable organization",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/821/52/310/172/storage_delight_4.png",
+              "title": "Useful Anywhere",
+              "url": "https://media.forgecdn.net/attachments/821/52/storage_delight_4.png",
+              "modId": 978786
+            },
+            {
+              "id": 821053,
+              "description": "Cook in style, store in style",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/821/53/310/172/storage_delight_5.png",
+              "title": "A Better Look",
+              "url": "https://media.forgecdn.net/attachments/821/53/storage_delight_5.png",
+              "modId": 978786
+            },
+            {
+              "id": 821054,
+              "description": "Which one will you choose?",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/821/54/310/172/storage_delight_6.png",
+              "title": "All Available Blocks",
+              "url": "https://media.forgecdn.net/attachments/821/54/storage_delight_6.png",
+              "modId": 978786
+            }
+          ],
+          "mainFileId": 5584716
+        },
+        "curseForgeFile": {
+          "id": 5559572,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "Storage Delight 2024.07.23 - 1.20.1",
+          "fileName": "storagedelight-2024.07.23-1.20.1-fabric.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2024-07-24T00:11:29.193Z",
+          "fileLength": 272872,
+          "dependencies": [],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 2709151378,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 4239548689,
+              "name": "LICENSE_storagedelight"
+            },
+            {
+              "fingerprint": 3452644068,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 2821437374,
+              "name": "com"
+            },
+            {
+              "fingerprint": 774178582,
+              "name": "data"
+            },
+            {
+              "fingerprint": 3277469991,
+              "name": "fabric.mod.json"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "35720b6386cfae24842d5cb02bbabf5a1a3be4f5",
+              "algo": 1
+            },
+            {
+              "value": "74132ebb0e70d17cd2507514d8300c48",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-09-01T00:00:00Z",
+              "gameVersionName": "Fabric"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Client"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Server"
+            }
+          ],
+          "gameVersions": [
+            "Fabric",
+            "Client",
+            "1.20.1",
+            "Server"
+          ],
+          "fileFingerprint": 1561818097,
+          "modId": 978786
+        },
+        "modrinthProject": {
+          "id": "LTTvOp5L",
+          "slug": "storage-delight",
+          "project_type": "mod",
+          "team": "gtMJ4eQz",
+          "title": "Storage Delight for Farmer's Delight",
+          "description": "Extra furniture that makes every space look even better.",
+          "body": "![Storage Delight](https://cdn.modrinth.com/data/LTTvOp5L/images/2b37126dcef53cff8488de1a496c013b90103075.png)\n\n**Enhance your kitchen experience** with more furniture designed to keep everything tidy. Transform your kitchen while effortlessly organizing your essentials for a seamless and attractive culinary space.\n\n🔄️ **New Update with More Content!** [Download here.](https://modrinth.com/mod/storage-delight/versions)\n\n🏡 **More Furniture:**\n- Craft versatile drawers, glass cabinets, and more to elevate your culinary space.\n- Choose from various wood types to match your kitchen aesthetic.\n- Upgrade your storage with practical drawers and stylish glass cabinets.\n- Add a welcoming touch with cabinets with glass doors.\n- Enhance organization with single door cabinets, tailored for your needs.\n\n[![Donate Button](https://github.com/user-attachments/assets/31c759e5-65cd-4455-95f3-3870f094a2eb)](https://paypal.me/kevgelhorn)\n\n**✨ Feedback:**\n- Share your feedback and suggestions on [Discord.](https://discord.gg/z2E7Q78v8X)\n- Support future development and gain pre-release access by donating via [PayPal.](https://paypal.me/kevgelhorn)",
+          "published": "2024-02-23T20:32:43.994925Z",
+          "updated": "2024-08-02T15:13:54.416100Z",
+          "status": "approved",
+          "license": {
+            "id": "MIT",
+            "name": "MIT License",
+            "url": "https://github.com/axperty/storagedelight-forge/blob/master/LICENSE"
+          },
+          "client_side": "required",
+          "server_side": "required",
+          "categories": [
+            "decoration",
+            "food",
+            "storage"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/LTTvOp5L/5d7b10c93298c94ca6c1ae78fef7d7e4a6143357.gif",
+          "issues_url": "https://github.com/axperty/storagedelight/issues",
+          "source_url": "https://github.com/axperty/storagedelight",
+          "wiki_url": "https://github.com/axperty/storagedelight/wiki",
+          "discord_url": "https://discord.gg/z2E7Q78v8X",
+          "donation_urls": [
+            {
+              "id": "paypal",
+              "platform": "Paypal",
+              "url": "https://paypal.me/kevgelhorn"
+            }
+          ],
+          "gallery": [
+            {
+              "url": "https://cdn.modrinth.com/data/LTTvOp5L/images/f133aee13b1c02b68916a692eda3439cf43ac677.png",
+              "featured": false,
+              "title": "Storage Delight",
+              "description": "Drawers and glass cabinets for Farmer's Delight",
+              "created": "2024-03-08T01:10:53.476232Z",
+              "ordering": 1.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/LTTvOp5L/images/cd54c29cbcd0d9ab2c92b3ba848c8a0c802cad29.png",
+              "featured": false,
+              "title": "Keep It Cozy",
+              "description": "Find comfort in every corner",
+              "created": "2024-03-08T01:11:15.822308Z",
+              "ordering": 2.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/LTTvOp5L/images/28ff46e78d2dbdcf98cdb0b06f8fc52df53a294b.png",
+              "featured": false,
+              "title": "Decorate Your Kitchen",
+              "description": "Your kitchen, your style",
+              "created": "2024-03-08T01:11:42.150588Z",
+              "ordering": 3.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/LTTvOp5L/images/3d9877154561a73e9175e24e973af847c2d2d4b6.png",
+              "featured": false,
+              "title": "Useful Anywhere",
+              "description": "Adaptable organization",
+              "created": "2024-03-08T01:11:59.195446Z",
+              "ordering": 4.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/LTTvOp5L/images/d27d85293b75fd8371053edb8f41f7d2f4defa70.png",
+              "featured": false,
+              "title": "A Better Look",
+              "description": "Cook in style, store in style",
+              "created": "2024-03-08T01:12:30.718280Z",
+              "ordering": 5.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/LTTvOp5L/images/a9192b020da4f0446a0b2d4eaae28b98cacdbf5c.png",
+              "featured": false,
+              "title": "All Available Blocks",
+              "description": "Which one will you choose?",
+              "created": "2024-03-08T01:12:49.770290Z",
+              "ordering": 6.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/LTTvOp5L/images/744064c7916987d2bc878d543e759d58fd6024ec.gif",
+              "featured": false,
+              "title": "Storage Delight Logo (without text)",
+              "description": "Storage Delight",
+              "created": "2024-02-24T04:53:54.740211Z",
+              "ordering": 9.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/LTTvOp5L/images/2b37126dcef53cff8488de1a496c013b90103075.png",
+              "featured": false,
+              "title": "Storage Delight Logo (with text)",
+              "created": "2024-04-30T19:23:26.254922Z",
+              "ordering": 10.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/LTTvOp5L/images/fc2e4e2024db2319f3b2c3fda88b7aa2008f57d2.png",
+              "featured": true,
+              "title": "Storage Delight Banenr",
+              "created": "2024-05-04T01:33:45.870Z",
+              "ordering": 11.0
+            }
+          ]
+        },
+        "modrinthVersion": {
+          "id": "mt8ZPDWt",
+          "project_id": "LTTvOp5L",
+          "author_id": "nzOsS7qR",
+          "name": "24.07.23-1.20.1",
+          "version_number": "2024.07.23-1.20.1-fabric",
+          "changelog": "<p align=\"left\"><img src=\"https://cdn.modrinth.com/data/LTTvOp5L/images/2b37126dcef53cff8488de1a496c013b90103075.png\" alt=\"Storage Delight\">\n\n<h3>Shiny Furniture Update</h3>\n<p><b>Summary:</b> This update adds the new drawer with door, makes small changes to the creative mode inventory tab, and improves translations.</p>\n<hr/>\n\n<h3>✨ What's New:</h3>\n<ul>\n  <li>Added Drawer with Door for all wood types.</li>\n</ul>\n\n<h3>🛠️ Other Changes:</h3>\n<ul>\n  <li>Furniture is now organized by wood type in creative mode.</li>\n</ul>\n\n<h3>📝 Translations:</h3>\n<ul>\n  <li>Improved translations for Russian and Ukrainian (thank you, Bytegm and P34enKa!)</li>\n  <li>Translations may not be entirely accurate and could potentially contain errors or typos. Send corrections and improvements <a href=\"https://github.com/axperty/storagedelight-forge/tree/master/src/main/resources/assets/storagedelight/lang\">here.</a></li>\n</ul>\n<hr/>\n\n<p>Your feedback is important to make improvements to this mod, submit your ideas on <a href=\"https://discord.gg/yweZ2agkDw\">Discord</a> or report bugs on <a href=\"https://github.com/axperty/storagedelight-fabric\">GitHub.</a></p>",
+          "date_published": "2024-08-02T15:13:55.080454Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha512": "9be66480b0b9d813b606f6610a8fb6ac75d611154b2aa53e649245fd83aed63832bdfe017e95ff80241920784563ce47d05faea7b18d92ef8559171db6c9aa44",
+                "sha1": "35720b6386cfae24842d5cb02bbabf5a1a3be4f5"
+              },
+              "url": "https://cdn.modrinth.com/data/LTTvOp5L/versions/mt8ZPDWt/storagedelight-2024.07.23-1.20.1-fabric.jar",
+              "filename": "storagedelight-2024.07.23-1.20.1-fabric.jar",
+              "primary": true,
+              "size": 272872
+            }
+          ],
+          "dependencies": [
+            {
+              "project_id": "9rlXSyLg",
+              "dependency_type": "optional"
+            },
+            {
+              "project_id": "znHQQtuU",
+              "dependency_type": "optional"
+            }
+          ],
+          "game_versions": [
+            "1.20.1"
+          ],
+          "loaders": [
+            "fabric"
+          ]
+        }
+      },
+      {
+        "name": "Harvest Scythes",
+        "version": "Harvest Scythes 2.5.6 - MC1.20",
+        "optional": true,
+        "file": "wraith-harvestscythes-2.5.6+mc1.20.jar",
+        "type": "mods",
+        "description": "Harvest crops in an area",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 412225,
+        "curseForgeFileId": 4580870,
+        "curseForgeProject": {
+          "id": 412225,
+          "name": "Harvest Scythes",
+          "authors": [
+            {
+              "id": 101442514,
+              "name": "LordDeatHunter",
+              "url": "https://www.curseforge.com/members/lorddeathunter"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Harvest crops in a range!",
+          "categories": [
+            {
+              "name": "Armor, Tools, and Weapons",
+              "slug": "armor-weapons-tools",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/armor-weapons-tools",
+              "dateModified": "2014-05-08T17:44:39.057Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 434,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/47/635351498790409758.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Utility & QoL",
+              "slug": "utility-qol",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/utility-qol",
+              "dateModified": "2021-11-17T11:45:09.143Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 5191,
+              "iconUrl": "https://media.forgecdn.net/avatars/456/558/637727379086405233.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Farming",
+              "slug": "technology-farming",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/technology/technology-farming",
+              "dateModified": "2014-05-08T17:39:21.57Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 416,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/31/635351495615556933.png",
+              "parentCategoryId": 412,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 434,
+          "classId": 6,
+          "slug": "harvest-scythes",
+          "isFeatured": false,
+          "dateModified": "2023-08-25T21:03:56.303Z",
+          "dateCreated": "2020-10-10T11:18:22.18Z",
+          "dateReleased": "2023-06-11T18:56:23.74Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/harvest-scythes",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/LordDeatHunter/HarvestScythes/issues",
+            "sourceUrl": "https://github.com/LordDeatHunter/HarvestScythes"
+          },
+          "logo": {
+            "id": 304970,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/304/970/256/256/637379255022200466.png",
+            "title": "637379255022200466.png",
+            "url": "https://media.forgecdn.net/avatars/304/970/637379255022200466.png",
+            "modId": 412225
+          },
+          "allowModDistribution": true,
+          "screenshots": [
+            {
+              "id": 316261,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/316/261/310/172/javaw_osdmgc6zs5.png",
+              "title": "Circle Shaped Harvest",
+              "url": "https://media.forgecdn.net/attachments/316/261/javaw_osdmgc6zs5.png",
+              "modId": 412225
+            },
+            {
+              "id": 361123,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/361/123/310/172/machete.png",
+              "title": "A list of some of the machetes",
+              "url": "https://media.forgecdn.net/attachments/361/123/machete.png",
+              "modId": 412225
+            },
+            {
+              "id": 316309,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/316/309/310/172/javaw_al7kghggv8.png",
+              "title": "All of the 1.0.0 Scythes",
+              "url": "https://media.forgecdn.net/attachments/316/309/javaw_al7kghggv8.png",
+              "modId": 412225
+            },
+            {
+              "id": 361125,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/361/125/310/172/anylqqszuy.png",
+              "title": "All Scythes as of 2.0.0",
+              "url": "https://media.forgecdn.net/attachments/361/125/anylqqszuy.png",
+              "modId": 412225
+            },
+            {
+              "id": 316257,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/316/257/310/172/javaw_zxhy73vuug.png",
+              "title": "General Scythe Recipe",
+              "url": "https://media.forgecdn.net/attachments/316/257/javaw_zxhy73vuug.png",
+              "modId": 412225
+            },
+            {
+              "id": 361124,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/361/124/310/172/macrec.png",
+              "title": "General Machete Recipe",
+              "url": "https://media.forgecdn.net/attachments/361/124/macrec.png",
+              "modId": 412225
+            }
+          ],
+          "mainFileId": 4580870
+        },
+        "curseForgeFile": {
+          "id": 4580870,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "Harvest Scythes 2.5.6 - MC1.20",
+          "fileName": "wraith-harvestscythes-2.5.6+mc1.20.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2023-06-11T18:56:23.74Z",
+          "fileLength": 366540,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 410127,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 421775,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 418680,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 427177,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 415159,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 361599,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 410298,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 262530,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 448941,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 410015,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 552628,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 233564,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 377284,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 424480,
+              "relationType": 2
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 1446630955,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 3029671824,
+              "name": "LICENSE_wraith-harvestscythes"
+            },
+            {
+              "fingerprint": 3484870639,
+              "name": "harvestscythes.mixins.json"
+            },
+            {
+              "fingerprint": 1280120400,
+              "name": "harvestscythes.accesswidener"
+            },
+            {
+              "fingerprint": 1228985003,
+              "name": "fabric.mod.json"
+            },
+            {
+              "fingerprint": 3637668430,
+              "name": "data"
+            },
+            {
+              "fingerprint": 3769218673,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 3030178146,
+              "name": "wraith-harvestscythes-refmap.json"
+            },
+            {
+              "fingerprint": 2932985207,
+              "name": "wraith"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "0f299d7335e36f08eb2cce613645398fb9d67b02",
+              "algo": 1
+            },
+            {
+              "value": "7177d7a1345b7fe32b399531481b75fc",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-09-01T00:00:00Z",
+              "gameVersionName": "Fabric"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Client"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020",
+              "gameVersion": "1.20",
+              "gameVersionReleaseDate": "2023-06-07T00:00:00Z",
+              "gameVersionName": "1.20"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Server"
+            }
+          ],
+          "gameVersions": [
+            "Fabric",
+            "Client",
+            "1.20.1",
+            "1.20",
+            "Server"
+          ],
+          "fileFingerprint": 803386471,
+          "modId": 412225
+        },
+        "modrinthProject": {
+          "id": "TQyaHwzF",
+          "slug": "harvest-scythes",
+          "project_type": "mod",
+          "team": "p57Bp6eq",
+          "title": "Harvest Scythes",
+          "description": "Harvest crops in an area",
+          "body": "<p style=\"text-align: center;\"><span style=\"font-size: 36px;\"><strong>Harvest Scythes</strong></span></p>\n<p style=\"text-align: center;\"><span style=\"font-size: 24px;\">Harvest crops in a range</span></p>\n<p style=\"text-align: center;\"><span style=\"font-size: 18px;\">Right clicking with a scythe will harvest (and replant) nearby crops in a certain range based on the tool, if those crops are fully grown.</span></p>\n<p style=\"text-align: center;\"><span style=\"font-size: 18px;\">Right clicking on dirt/grass turns it into farmland like a normal hoe.</span></p>\n<p style=\"text-align: center;\"><span style=\"font-size: 18px;\">Some scythes will harvest in a circular shape, whilst others will harvest in a square shape, based on their tier.</span></p>\n<p style=\"text-align: center;\"><span style=\"font-size: 18px;\">Example of circle-shape harvest:</span></p>\n<p style=\"text-align: center; padding-left: 280px;\"><span style=\"font-size: 18px;\"><img src=\"https://media.forgecdn.net/attachments/316/261/javaw_osdmgc6zs5.png\" alt=\"\" width=\"540\" height=\"491\" /></span></p>\n<p style=\"text-align: center;\"><span style=\"font-size: 18px;\">General recipe, using different ingots for different tools:</span></p>\n<p style=\"padding-left: 390px; text-align: center;\"><span style=\"font-size: 18px;\"><img src=\"https://media.forgecdn.net/attachments/316/257/javaw_zxhy73vuug.png\" alt=\"General Crafting Recipe\" width=\"341\" height=\"161\" /></span></p>\n<p style=\"padding-left: 390px; text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\"><span style=\"font-size: 18px;\">There is also a scythe-only enchant \"Crop Reaper\" that increases their range.</span></p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\"><span style=\"font-size: 18px;\">As of 2.0.0, this mod also adds machetes, which will break surrounding leaf blocks depending on the tool.</span></p>\n<p style=\"text-align: center;\"><span style=\"font-size: 18px;\">The general recipe for the machetes:</span></p>\n<p style=\"text-align: center; padding-left: 360px;\"><span style=\"font-size: 18px;\"><img src=\"https://media.forgecdn.net/attachments/361/124/macrec.png\" width=\"341\" height=\"171\" /></span></p>\n<p style=\"padding-left: 390px; text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\"><span style=\"font-size: 18px;\">Currently supporting tool materials from the following mods:</span></p>\n<p style=\"padding-left: 30px; text-align: center;\"><span style=\"font-size: 14px;\"><a href=\"https://www.curseforge.com/minecraft/mc-mods/astromine-foundations\">Astromine Foundations</a> (1.16.5)</span></p>\n<p style=\"padding-left: 30px; text-align: center;\"><span style=\"font-size: 14px;\"><a href=\"https://www.curseforge.com/minecraft/mc-mods/more-gems-fabric\">More Gems [Fabric]</a></span></p>\n<p style=\"padding-left: 30px; text-align: center;\"><span style=\"font-size: 14px;\"><a href=\"https://www.curseforge.com/minecraft/mc-mods/hellish-materials\">Hellish Materials</a></span></p>\n<p style=\"padding-left: 30px; text-align: center;\"><span style=\"font-size: 14px;\"><a href=\"https://www.curseforge.com/minecraft/mc-mods/betternether\">Better Nether</a> (1.16.5)</span></p>\n<p style=\"padding-left: 30px; text-align: center;\"><span style=\"font-size: 14px;\"><a href=\"https://www.curseforge.com/minecraft/mc-mods/betterend\">Better End</a></span> (1.16.5)</p>\n<p style=\"padding-left: 30px; text-align: center;\"><span style=\"font-size: 14px;\"><a href=\"https://www.curseforge.com/minecraft/mc-mods/oh-the-biomes-youll-go-fabric\">BYG</a></span> (1.16.5)</p>\n<p style=\"padding-left: 30px; text-align: center;\"><span style=\"font-size: 14px;\"><a href=\"https://www.curseforge.com/minecraft/mc-mods/diamold\">Diamold</a></span></p>\n<p style=\"padding-left: 30px; text-align: center;\"><span style=\"font-size: 14px;\"><a href=\"https://www.curseforge.com/minecraft/mc-mods/mythicmetals\">Mythic Metals</a></span></p>\n<p style=\"padding-left: 30px; text-align: center;\"><span style=\"font-size: 14px;\"><a href=\"https://www.curseforge.com/minecraft/mc-mods/fantasycraft-fabric/\">Fantasycraft</a></span> (1.16.5)</p>\n<p style=\"padding-left: 30px; text-align: center;\"><span style=\"font-size: 14px;\">&nbsp;<a href=\"https://www.curseforge.com/minecraft/mc-mods/tungsten-mod\">Tungsten Mod</a></span> (1.16.5)</p>\n<p style=\"padding-left: 30px; text-align: center;\"><span style=\"font-size: 14px;\"><a href=\"https://www.curseforge.com/minecraft/mc-mods/dragonloot\">DragonLoot</a></span></p>\n<p style=\"padding-left: 30px; text-align: center;\"><span style=\"font-size: 14px;\"><a href=\"https://www.curseforge.com/minecraft/mc-mods/luxore\">Luxore</a></span> (1.16.5)</p>\n<p style=\"padding-left: 30px; text-align: center;\"><span style=\"font-size: 14px;\"><a href=\"https://www.curseforge.com/minecraft/mc-mods/pigsteel/files\">PigSteel</a></span></p>\n<p style=\"padding-left: 30px; text-align: center;\"><span style=\"font-size: 14px;\"><a href=\"https://www.curseforge.com/minecraft/mc-mods/gobber-fabric\">Gobber</a></span></p>\n<p style=\"padding-left: 30px; text-align: center;\"><span style=\"font-size: 14px;\"><a href=\"https://www.curseforge.com/minecraft/mc-mods/adabranium\">Adabranium</a></span></p>\n<p style=\"padding-left: 30px; text-align: center;\"><span style=\"font-size: 14px;\"><a href=\"https://www.curseforge.com/minecraft/mc-mods/simply-platinum/files/3208198\">Simply Platinum</a></span></p>\n<p style=\"padding-left: 30px; text-align: center;\"><span style=\"font-size: 14px;\"><a href=\"https://www.curseforge.com/minecraft/mc-mods/aether/\">Aether</a></span></p>\n<p style=\"padding-left: 30px; text-align: center;\"><span style=\"font-size: 14px;\"><a href=\"https://www.curseforge.com/minecraft/mc-mods/earlygame\">EarlyGame</a></span></p>\n<p style=\"text-align: center;\"><span style=\"font-size: 14px;\">&nbsp;</span></p>",
+          "published": "2021-11-11T15:25:36.964651Z",
+          "updated": "2023-06-11T18:57:52.864327Z",
+          "status": "approved",
+          "license": {
+            "id": "MIT",
+            "name": "MIT License"
+          },
+          "client_side": "required",
+          "server_side": "required",
+          "categories": [
+            "food",
+            "utility"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/TQyaHwzF/icon.png",
+          "issues_url": "https://github.com/LordDeatHunter/HarvestScythes/issues",
+          "source_url": "https://github.com/LordDeatHunter/HarvestScythes",
+          "discord_url": "https://discord.gg/vMjzgS4",
+          "donation_urls": [
+            {
+              "id": "bmac",
+              "platform": "Bmac",
+              "url": "https://www.buymeacoffee.com/deathunter"
+            }
+          ],
+          "gallery": []
+        },
+        "modrinthVersion": {
+          "id": "abUkudWH",
+          "project_id": "TQyaHwzF",
+          "author_id": "QEVDJtUF",
+          "name": "Harvest Scythes 2.5.6 - MC1.20",
+          "version_number": "2.5.6+MC1.20",
+          "changelog": "Updated to 1.20",
+          "date_published": "2023-06-11T18:57:53.772505Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha1": "0f299d7335e36f08eb2cce613645398fb9d67b02",
+                "sha512": "ad928036e634977f1ed27e096648770d56da770ef22443a124f90dd7355fec9aae7de7755fae1686b524d759405c6b369611c049140ab5ab136ac7ad9196ffff"
+              },
+              "url": "https://cdn.modrinth.com/data/TQyaHwzF/versions/abUkudWH/wraith-harvestscythes-2.5.6%2Bmc1.20.jar",
+              "filename": "wraith-harvestscythes-2.5.6+mc1.20.jar",
+              "primary": true,
+              "size": 366540
+            }
+          ],
+          "dependencies": [
+            {
+              "version_id": "n2c5lxAo",
+              "project_id": "P7dR8mSH",
+              "dependency_type": "required"
+            }
+          ],
+          "game_versions": [
+            "1.20",
+            "1.20.1"
+          ],
+          "loaders": [
+            "fabric"
+          ]
+        }
       }
     ],
     "ignoredUpdates": [],
     "ignoreAllUpdates": false,
     "vanillaInstance": true,
-    "lastPlayed": 1724538925824,
-    "numPlays": 25
+    "lastPlayed": 1724609159619,
+    "numPlays": 26
   },
   "id": "1.20.1",
   "complianceLevel": 1,
