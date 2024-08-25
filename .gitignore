@@ -5,7 +5,7 @@
 # Excludes
 !/resourcepacks/
 !/shaderpacks/
-!/mods/
+#!/mods/
 !/config/
 !.gitignore
 !/options.txt
