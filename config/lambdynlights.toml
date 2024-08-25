@@ -61,7 +61,14 @@ mode = "fancy"
 				spider = true
 				creeper = true
 				enderman = true
+				llama = true
 
 			[light_sources.settings.entities.artifacts]
 				mimic = true
+
+			[light_sources.settings.entities.guardvillagers]
+				guard = true
+
+			[light_sources.settings.entities.biomeswevegone]
+				man_o_war = true
 
