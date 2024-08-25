@@ -59734,13 +59734,276 @@
             "fabric"
           ]
         }
+      },
+      {
+        "name": "Chunks fade in",
+        "version": "v1.0.7-1.20.1",
+        "optional": true,
+        "file": "chunksfadein-1.0.7-1.20.1.jar",
+        "type": "mods",
+        "description": "A simple mod that adds fade-in animation for chunks!",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 720811,
+        "curseForgeFileId": 5511262,
+        "curseForgeProject": {
+          "id": 720811,
+          "name": "Chunks fade in",
+          "authors": [
+            {
+              "id": 104017595,
+              "name": "kerudion",
+              "url": "https://www.curseforge.com/members/kerudion"
+            }
+          ],
+          "gameId": 432,
+          "summary": "A simple mod that adds fade-in animation for chunks!",
+          "categories": [
+            {
+              "name": "Utility & QoL",
+              "slug": "utility-qol",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/utility-qol",
+              "dateModified": "2021-11-17T11:45:09.143Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 5191,
+              "iconUrl": "https://media.forgecdn.net/avatars/456/558/637727379086405233.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Cosmetic",
+              "slug": "cosmetic",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/cosmetic",
+              "dateModified": "2014-05-08T17:42:35.597Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 424,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/39/635351497555976928.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 5191,
+          "classId": 6,
+          "slug": "chunks-fade-in",
+          "isFeatured": false,
+          "dateModified": "2024-08-25T18:18:57.15Z",
+          "dateCreated": "2022-12-05T10:02:24.803Z",
+          "dateReleased": "2024-08-25T17:49:59.473Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/chunks-fade-in",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/kerudion/chunksfadein/issues",
+            "sourceUrl": "https://github.com/kerudion/chunksfadein"
+          },
+          "logo": {
+            "id": 674116,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/674/116/256/256/638064788750163573.png",
+            "title": "638064788750163573.png",
+            "url": "https://media.forgecdn.net/avatars/674/116/638064788750163573.png",
+            "modId": 720811
+          },
+          "allowModDistribution": true,
+          "screenshots": [
+            {
+              "id": 534377,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/534/377/310/172/2022-12-04_21.png",
+              "title": "Example view",
+              "url": "https://media.forgecdn.net/attachments/534/377/2022-12-04_21.png",
+              "modId": 720811
+            }
+          ],
+          "mainFileId": 5662907
+        },
+        "curseForgeFile": {
+          "id": 5511262,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "v1.0.7-1.20.1",
+          "fileName": "chunksfadein-1.0.7-1.20.1.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2024-07-07T17:25:55.557Z",
+          "fileLength": 313164,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 394468,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 455508,
+              "relationType": 2
+            }
+          ],
+          "alternateFileId": 5511263,
+          "modules": [
+            {
+              "fingerprint": 2076597885,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 2226923820,
+              "name": "LICENSE_chunksfadein"
+            },
+            {
+              "fingerprint": 2367436609,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 3182835231,
+              "name": "chunksfadein-refmap.json"
+            },
+            {
+              "fingerprint": 2687403436,
+              "name": "chunksfadein.mixins.json"
+            },
+            {
+              "fingerprint": 1717305123,
+              "name": "com"
+            },
+            {
+              "fingerprint": 1820250895,
+              "name": "fabric.mod.json"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "e3203e9f11ac2b2341bf2e8e0e02f83c63a21911",
+              "algo": 1
+            },
+            {
+              "value": "72f73ad09607a52853201beb6349153e",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-09-01T00:00:00Z",
+              "gameVersionName": "Fabric"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-05-26T00:00:00Z",
+              "gameVersionName": "Quilt"
+            }
+          ],
+          "gameVersions": [
+            "Fabric",
+            "1.20.1",
+            "Quilt"
+          ],
+          "fileFingerprint": 3067007362,
+          "modId": 720811
+        },
+        "modrinthProject": {
+          "id": "JaNmzvA8",
+          "slug": "chunks-fade-in",
+          "project_type": "mod",
+          "team": "xNqnrvWG",
+          "title": "Chunks fade in",
+          "description": "A simple mod that adds fade-in animation for chunks!",
+          "body": "[Sodium]: https://modrinth.com/mod/sodium\n[Smooth Chunks]: https://modrinth.com/mod/smooth-chunks\n[ChunkAnimator]: https://www.curseforge.com/minecraft/mc-mods/chunk-animator\n[Fabric]: https://fabricmc.net\n[Optifine]: https://www.optifine.net\n[Fade In Chunks]: https://modrinth.com/mod/fade-in-chunks\n[Iris]: https://modrinth.com/mod/iris\n[Sinytra Connector]: https://modrinth.com/mod/connector\n[Embeddium]: https://modrinth.com/mod/embeddium\n\n<a href=\"https://modrinth.com/mod/sodium\"><img width=\"150\" src=\"https://raw.githubusercontent.com/kerudion/chunksfadein/main/readme-assets/req_sodium.png\" alt=\"Requires Sodium\">\n</a>\n<a href=\"https://modrinth.com/mod/modmenu\">\n<img width=\"150\" src=\"https://raw.githubusercontent.com/kerudion/chunksfadein/main/readme-assets/works_modmenu.png\" alt=\"Works with Mod Menu\">\n</a>\n<a href=\"https://modrinth.com/mod/iris\">\n<img width=\"150\" src=\"https://raw.githubusercontent.com/kerudion/chunksfadein/main/readme-assets/works_iris.png\" alt=\"Works with Iris Shaders\">\n</a>\n<a href=\"https://modrinth.com/mod/connector\">\n<img width=\"150\" src=\"https://raw.githubusercontent.com/kerudion/chunksfadein/main/readme-assets/works_sinytra.png\" alt=\"Works with Sinytra Connector\">\n</a>\n<a href=\"https://www.curseforge.com/minecraft/mc-mods/optifabric\">\n<img width=\"150\" src=\"https://raw.githubusercontent.com/kerudion/chunksfadein/main/readme-assets/crashes_opti.png\" alt=\"Crashes with Optifabric\">\n</a>\n\n[![Discord](https://img.shields.io/discord/1052166699924856852?style=for-the-badge&color=informational&logo=discord)](https://discord.gg/fPbPhrQNSz)\n# Description\nThis simple mod adds fade-in animation for chunks, like in Bedrock Edition of Minecraft. And, if you want to, animations like in [ChunkAnimator] or similar mods.\nNo more chunks appearing right in front of you out of nowhere! Unlike other mods for [Fabric], it works perfectly fine with [Sodium] and [Iris]! \n\n## Supported Minecraft versions\n- 1.18.x\n- 1.19.x\n- 1.20.x\n- 1.21.x\n\n## Dependencies\n- [Sodium] 0.4.x - 1.20.x versions\n- [Sodium] 0.5+ - 1.20.1+ versions\n\n# Compatibility with Forge\nIn order for the mod to work with Forge Mod Loader, you need to complete the following steps:\n\n### Step 1: Install [Sinytra Connector]:\n- Install it from the official page by clicking the link above.\n\n### Step 2: Install [Embeddium]:\n- Install it from the official page by clicking the link above.\n\n### Step 3: Configure version overrides:\n- Navigate to the `config` folder inside **your Minecraft installation folder** (usually `.minecraft`). If there's no `config` folder, create one.\n- Open `fabric_loader_dependencies.json` inside `config` folder. If there's no `fabric_loader_dependencies.json` file, create one.\n- Paste the following text inside:\n```json\n{\n  \"version\": 1,\n  \"overrides\": {\n    \"chunksfadein\": {\n      \"+depends\": {\n        \"embeddium\": \">0.2.18+mc1.20.1\"\n      },\n      \"-depends\": {\n        \"sodium\": \"IGNORED\"\n      }\n    }\n  }\n}\n```\n- Save the file and restart/launch the game.\n- Done!\n\n# Features\n## Showcase\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/CanA5ADOis0\">\n</iframe>\n\n## Flexible config with Mod Menu support!\n<img src=\"https://github.com/kerudion/chunksfadein/blob/main/readme-assets/config.png?raw=true\" width=\"70%\">",
+          "published": "2022-12-04T17:38:44.944066Z",
+          "updated": "2024-08-25T18:17:45.165899Z",
+          "status": "approved",
+          "license": {
+            "id": "GPL-3.0-only",
+            "name": "GNU General Public License v3.0 only"
+          },
+          "client_side": "required",
+          "server_side": "unsupported",
+          "categories": [
+            "utility"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/JaNmzvA8/e9b2e86179280fc209c0cbc5de36b5946fc7cb50.jpeg",
+          "issues_url": "https://github.com/kerudion/chunksfadein/issues",
+          "source_url": "https://github.com/kerudion/chunksfadein",
+          "discord_url": "https://discord.gg/fPbPhrQNSz",
+          "donation_urls": [],
+          "gallery": [
+            {
+              "url": "https://cdn.modrinth.com/data/JaNmzvA8/images/4ef9e05a725c6cb59e10d45864a151e5400c12f7.png",
+              "featured": true,
+              "title": "Example view",
+              "created": "2022-12-04T19:19:45.174309Z",
+              "ordering": 0.0
+            }
+          ]
+        },
+        "modrinthVersion": {
+          "id": "iLVykV1K",
+          "project_id": "JaNmzvA8",
+          "author_id": "4UUDD3CQ",
+          "name": "v1.0.7-1.20.1",
+          "version_number": "1.0.7-1.20.1",
+          "changelog": "- Fixed compatibility with SkinShuffle (thanks IMB11)",
+          "date_published": "2024-07-07T17:25:59.414936Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha512": "70a00fd7a267a1cc1eb3e8a58d8c3e2865f07a8beb46d53ec19706a7454b04525d044ac4a9f49b16880df56fed603ea35792e99e5289809acbe6c65ee4dc212a",
+                "sha1": "e3203e9f11ac2b2341bf2e8e0e02f83c63a21911"
+              },
+              "url": "https://cdn.modrinth.com/data/JaNmzvA8/versions/iLVykV1K/chunksfadein-1.0.7-1.20.1.jar",
+              "filename": "chunksfadein-1.0.7-1.20.1.jar",
+              "primary": true,
+              "size": 313164
+            },
+            {
+              "hashes": {
+                "sha1": "b8eaec27c896f06474562ce3291a5ead0a70df53",
+                "sha512": "ce9721df836eda965babcbf9b801894128fff9aaf33c745c181db817b45b22288ccb8d6d762775a019169dc27459da83db5c3fa928cccaa69d76091dd541ec22"
+              },
+              "url": "https://cdn.modrinth.com/data/JaNmzvA8/versions/iLVykV1K/chunksfadein-1.0.7-1.20.1-sources.jar",
+              "filename": "chunksfadein-1.0.7-1.20.1-sources.jar",
+              "primary": false,
+              "size": 182886
+            }
+          ],
+          "dependencies": [
+            {
+              "project_id": "YL57xq9U",
+              "dependency_type": "optional"
+            },
+            {
+              "project_id": "AANobbMI",
+              "dependency_type": "required"
+            }
+          ],
+          "game_versions": [
+            "1.20.1"
+          ],
+          "loaders": [
+            "fabric",
+            "quilt"
+          ]
+        }
       }
     ],
     "ignoredUpdates": [],
     "ignoreAllUpdates": false,
     "vanillaInstance": true,
-    "lastPlayed": 1724619911408,
-    "numPlays": 35
+    "lastPlayed": 1724620869941,
+    "numPlays": 37
   },
   "id": "1.20.1",
   "complianceLevel": 1,
