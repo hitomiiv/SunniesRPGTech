@@ -55,8 +55,6 @@ schematicVersion = 5
 			#Range: -500.0 ~ 500.0
 			shipGeneralPaddlingModifier = 35.0
 
-	[Ship.Cog]
-
 		#Default configs for the container of the Cog.
 		[Ship.Cog.Container]
 			#Set container size for the Cog (value must be divisible by 9 and bigger than 0).
@@ -82,8 +80,6 @@ schematicVersion = 5
 			#Specify biome type for the Cog. Can be NONE, COLD, NEUTRAL, or WARM
 			#Allowed Values: NONE, COLD, NEUTRAL, WARM
 			shipModifierCogBiome = "COLD"
-
-	[Ship.Drakkar]
 
 		#Default configs for the container of the Drakkar.
 		[Ship.Drakkar.Container]
@@ -111,8 +107,6 @@ schematicVersion = 5
 			#Allowed Values: NONE, COLD, NEUTRAL, WARM
 			shipModifierDrakkarBiome = "COLD"
 
-	[Ship.Brigg]
-
 		#Default configs for the container of the Brigg.
 		[Ship.Brigg.Container]
 			#Set container size for the Brigg (value must be divisible by 9 and bigger than 0).
@@ -139,8 +133,6 @@ schematicVersion = 5
 			#Allowed Values: NONE, COLD, NEUTRAL, WARM
 			shipModifierBriggBiome = "COLD"
 
-	[Ship.Galley]
-
 		#Default configs for the container of the Galley.
 		[Ship.Galley.Container]
 			#Set container size for the Galley (value must be divisible by 9 and bigger than 0).
@@ -166,4 +158,3 @@ schematicVersion = 5
 			#Specify biome type for the Galley. Can be NONE, COLD, NEUTRAL, or WARM
 			#Allowed Values: NONE, COLD, NEUTRAL, WARM
 			shipModifierGalleyBiome = "WARM"
-

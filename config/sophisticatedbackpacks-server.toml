@@ -1,4 +1,3 @@
-
 #Server Settings
 [server]
 	#List of blocks that are not allowed to connect to backpacks - e.g. "refinedstorage:external_storage"
@@ -425,4 +424,3 @@
 		addLoot = true
 		#Turns on/off a chance that the entity that wears backpack gets jukebox upgrade and plays a music disc.
 		playJukebox = true
-
