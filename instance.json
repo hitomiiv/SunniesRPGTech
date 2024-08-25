@@ -24317,13 +24317,2490 @@
             "fabric"
           ]
         }
+      },
+      {
+        "name": "Create Fabric",
+        "version": "Create 1.20.1 v0.5.1.f Patch 1",
+        "optional": true,
+        "file": "create-fabric-0.5.1-f-build.1417+mc1.20.1.jar",
+        "type": "mods",
+        "description": "Building Tools and Aesthetic Technology",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 624165,
+        "curseForgeFileId": 5245234,
+        "curseForgeProject": {
+          "id": 624165,
+          "name": "Create Fabric",
+          "authors": [
+            {
+              "id": 101116846,
+              "name": "tropheusj",
+              "url": "https://www.curseforge.com/members/tropheusj"
+            },
+            {
+              "id": 101935290,
+              "name": "thatguynamedalpha",
+              "url": "https://www.curseforge.com/members/thatguynamedalpha"
+            },
+            {
+              "id": 100766963,
+              "name": "Pepper_Bell",
+              "url": "https://www.curseforge.com/members/pepper_bell"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Building Tools and Aesthetic Technology",
+          "categories": [
+            {
+              "name": "Armor, Tools, and Weapons",
+              "slug": "armor-weapons-tools",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/armor-weapons-tools",
+              "dateModified": "2014-05-08T17:44:39.057Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 434,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/47/635351498790409758.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Redstone",
+              "slug": "redstone",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/redstone",
+              "dateModified": "2016-01-19T22:21:51.64Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 4558,
+              "iconUrl": "https://media.forgecdn.net/avatars/32/937/635888173116238506.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Cosmetic",
+              "slug": "cosmetic",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/cosmetic",
+              "dateModified": "2014-05-08T17:42:35.597Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 424,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/39/635351497555976928.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Technology",
+              "slug": "technology",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/technology",
+              "dateModified": "2014-05-08T17:37:54.597Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 412,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/27/635351494745973439.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 412,
+          "classId": 6,
+          "slug": "create-fabric",
+          "isFeatured": false,
+          "dateModified": "2024-04-08T06:51:57.557Z",
+          "dateCreated": "2022-05-17T01:24:00.827Z",
+          "dateReleased": "2024-04-08T05:13:57.617Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/create-fabric",
+            "wikiUrl": "https://github.com/Creators-of-Create/Create/wiki",
+            "issuesUrl": "https://github.com/Fabricators-of-Create/Create/issues",
+            "sourceUrl": "https://github.com/Fabricators-of-Create/Create"
+          },
+          "logo": {
+            "id": 548377,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/548/377/256/256/637883834427445340.png",
+            "title": "637883834427445340.png",
+            "url": "https://media.forgecdn.net/avatars/548/377/637883834427445340.png",
+            "modId": 624165
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 5245234
+        },
+        "curseForgeFile": {
+          "id": 5245234,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "Create 1.20.1 v0.5.1.f Patch 1",
+          "fileName": "create-fabric-0.5.1-f-build.1417+mc1.20.1.jar",
+          "releaseType": 2,
+          "fileStatus": 4,
+          "fileDate": "2024-04-08T05:13:57.617Z",
+          "fileLength": 21952417,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 306612,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 306612,
+              "relationType": 3
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 2008425931,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 1583735427,
+              "name": ".cache"
+            },
+            {
+              "fingerprint": 1927476733,
+              "name": "LICENSE_create-fabric"
+            },
+            {
+              "fingerprint": 1735817706,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 1956788338,
+              "name": "com"
+            },
+            {
+              "fingerprint": 3617867922,
+              "name": "create-fabric-refmap.json"
+            },
+            {
+              "fingerprint": 930828136,
+              "name": "create.accesswidener"
+            },
+            {
+              "fingerprint": 3289270840,
+              "name": "create.mixins.json"
+            },
+            {
+              "fingerprint": 3373116324,
+              "name": "data"
+            },
+            {
+              "fingerprint": 2211343613,
+              "name": "fabric.mod.json"
+            },
+            {
+              "fingerprint": 2345636260,
+              "name": "logo.png"
+            },
+            {
+              "fingerprint": 1049399074,
+              "name": "resourcepacks"
+            },
+            {
+              "fingerprint": 3103792127,
+              "name": "staticdata"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "dc5c230e3b293092b457200883398225fffab597",
+              "algo": 1
+            },
+            {
+              "value": "a9ecc9268b3b7c7e56f794cf4a27007c",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-09-01T00:00:00Z",
+              "gameVersionName": "Fabric"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-05-26T00:00:00Z",
+              "gameVersionName": "Quilt"
+            }
+          ],
+          "gameVersions": [
+            "Fabric",
+            "1.20.1",
+            "Quilt"
+          ],
+          "fileFingerprint": 3027842317,
+          "modId": 624165
+        },
+        "modrinthProject": {
+          "id": "Xbc0uyRg",
+          "slug": "create-fabric",
+          "project_type": "mod",
+          "team": "OzirJQCY",
+          "title": "Create Fabric",
+          "description": "Building Tools and Aesthetic Technology",
+          "body": "<p>&nbsp;</p>\n<p><iframe allowfullscreen=\"allowfullscreen\" src=\"https://www.youtube.com/embed/rR8W-f9YhYA\" height=\"358\" width=\"638\"></iframe></p>\n<p>&nbsp;</p>\n\n## Installation Requirements\n\n<p><a href=\"https://modrinth.com/mod/fabric-api\"><img src=\"https://i.imgur.com/Ol1Tcf8.png\" width=\"156\" /></a></p>\n<p>This version of Create runs on <a href=\"https://fabricmc.net/\">Fabric</a> and <a href=\"https://quiltmc.org/\">Quilt</a> only.<br>You can find the version compatible with the Forge ecosystem <a href=\"https://modrinth.com/mod/create\">here</a>.<br /></p>\n<p>&nbsp;</p>\n\n## Our Patrons\n\nsintrinsic\n&#183; Daniel P.\n&#183; Kyrinon\n&#183; niraami\n&#183; Ulisses\n&#183; BananaIguana\n&#183; Pongo Sapiens\n&#183; Redmecha\n&#183; Kenneth\n&#183; Viriss\n&#183; Trakinson\n&#183; AcidKat\n&#183; rancorasaurous\n&#183; bonemill\n&#183; OldShadowHand\n&#183; dude\n&#183; KnyteGaming\n&#183; Cali\n&#183; CyanSoup\n&#183; Romblood\n&#183; lurker\n&#183; DerpTime \n&#183; Lolaa\n&#183; _Kilburn\n&#183; MrOxiMoron\n&#183; idlesn0w\n&#183; Gabriel M.\n&#183; PieKing1215\n&#183; No One \n&#183; Pixus\n&#183; Spammy\n&#183; nwmqpa\n&#183; A \n&#183; jonas\n&#183; Dannnis \n&#183; Lyren\n&#183; lujoBoy\n&#183; Tugu\n&#183; Shaun Francis H.\n&#183; Thor7O\n&#183; DigitalSeraphim\n&#183; Bootstrap22\n&#183; Marksmen\n&#183; Yuri\n&#183; Queso2469\n&#183; Zanthros\n&#183; Lubey\n&#183; LesserFlame\n&#183; millatime21\n&#183; bagofsquirrels\n&#183; ZizouMunoz\n&#183; sensual kazoo\n&#183; vesperdem\n&#183; Big Saffron\n&#183; rtwishon\n&#183; Jean Machine\n&#183; CottonHeads\n&#183; chimericdream\n&#183; Gyro\n&#183; Jehrendil\n&#183; Slaser360\n&#183; Myra G.\n&#183; Guy \n&#183; jpc\n&#183; LaserLemons\n&#183; Miner of 8 bits\n&#183; hazmodan\n&#183; moss \n&#183; Sunlis\n&#183; Theishiopian\n&#183; Jink\n&#183; AshCraft\n&#183; IllegalEagle\n&#183; Guybrush\n&#183; Requios\n&#183; 4096 RF\n&#183; zaknirahc\n&#183; TheDankMemeRises\n&#183; tomd1969\n&#183; VirenRunner\n&#183; LolaLela\n&#183; serkan\n&#183; Silviuz\n&#183; Jester\n&#183; Kyle\n&#183; Niv \n&#183; Fredster\n&#183; Redstone Says\n&#183; azurecrab5\n&#183; Freeziu\n&#183; End_Rage\n&#183; Lombbm\n&#183; TytusDeZoo\n&#183; Halcyon_Daze\n&#183; Guilherme R.\n&#183; Michael M.\n&#183; Loukenshrew\n&#183; tater\n&#183; Spencer G.\n&#183; breadtoast\n&#183; Poke_Heart\n&#183; 501warhead\n&#183; Captain S.\n&#183; Chewy\n&#183; Nary\n&#183; SillySnowFox\n&#183; Quacky\n<p>&nbsp;</p>\n\n\n## About\n\n<p>Welcome to Create, a mod offering a variety of tools and blocks for Building, Decoration and Aesthetic Automation.</p>\n<p>The added elements of tech are designed to leave as many design choices to the player as possible. With Create, the game isn't played inside a bunch of UIs, it challenges you to setup contraptions of animated components working together in many possible arrangements.</p>\n<p>Create's visual in-game documentation called 'Ponder' will guide you though all added mechanics and gadgets.</p>\n<p><strong>Important</strong>: In order to be able to see all recipes required in Create, consider installing a Recipe Viewer mod. Create has full support for <a href=\"https://www.curseforge.com/minecraft/mc-mods/jei\">JEI</a>, <a href=\"https://modrinth.com/mod/rei\">REI</a>, and <a href=\"https://modrinth.com/mod/emi\">EMI</a>. The vanilla recipe book will not be able to guide you through the experience by itself.</p>\n<p style=\"text-align: left;\">&nbsp;</p>\n<p><a href=\"https://github.com/Fabricators-of-Create/Create/issues\"><img src=\"https://i.imgur.com/qPmjSXy.png\" width=\"160\" /></a> <a href=\"https://www.youtube.com/channel/UCrKV2QTuyGcv4E3eSJpBiYA/playlists\"><img src=\"https://i.imgur.com/L1bU9mr.png\" width=\"160\" /></a><a href=\"https://discord.gg/hmaD7Se\"><img src=\"https://i.imgur.com/uf6V9ZX.png\" width=\"160\" /></a> <a href=\"https://github.com/Creators-of-Create/Create/wiki/Supporting-the-Project\"><img src=\"https://i.imgur.com/fHQ45KR.png\" width=\"227\" /></a></p>\n<p>&nbsp;</p>\n\n## Development\n\n<p>Find out about supported versions and what's currently in the works in <a href=\"https://github.com/Creators-of-Create/Create/wiki/dev.status\">this dedicated wiki page.</a></p>\n<p>&nbsp;</p>\n\n### Developers\n\n<p>simibubi, Jozufozu, Pepper, Zelophed, gamez7, Grimmauld, Snownee</p>\n\n### Porters\n\n<p>Pepper, Tropheus Jay, AlphaMode, smellypengu, Aeiou, Whangd00dle, YTG123</p>\n\n### Artists\n\n<p>Kryppers, voxel_dani, LeastReality, vectorwing</p>\n\n### Special thanks to\n\n<p>tterrag, evanthebruce, D'Arcy Olla</p>\n\n<p>&nbsp;</p>\n\n## Localization\nTranslations may be unfinished or out of date.\n\n* en_us (English US)\n* de_de (German) by Vexatos, Azratosh, SaurierZockt, DreiMu, muffinbarde, Peatral\n* nl_nl (Dutch) by Prusias\n* fr_fr (French) by Kiro, dindin-glitch\n* zh_cn (Chinese) by TUsama, BigDaleAHA, gloomybanana, Snownee, MacrousHyucen, Demonese, StarFish\n* zh_tw (Chinese, Traditional) by dunois\n* ru_ru (Russian) by sqcode06, Hanqnero, sirabein, pgkrol, Alepod\n* pt_br (Brazilian) by lucassabreu, vyhi\n* jp_jp (Japanese) by MORIMORI0317, CKenJa, RakuGaki-MC\n* ko_kr (Korean) by qkrehf2, red1854th\n* it_it (Italian) by Masterlupo, Chexet48\n* es_es (Spanish) by FrannDzs, muriplz\n* es_mx (Spanish, Mexico) by JohanIvan\n* es_cl (Spanish, Chile) by Alonsinwhat\n* pl_pl (Polish) by joker876\n* ro_ro (Romanian) by andreutu",
+          "published": "2022-05-17T01:52:23.290587Z",
+          "updated": "2024-04-08T05:14:05.421821Z",
+          "status": "approved",
+          "license": {
+            "id": "MIT",
+            "name": "MIT License"
+          },
+          "client_side": "required",
+          "server_side": "required",
+          "categories": [
+            "decoration",
+            "equipment",
+            "technology"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/Xbc0uyRg/f9d7c09397588b690cf3c09303d7812837b2caab.png",
+          "issues_url": "https://github.com/Fabricators-of-Create/Create/issues",
+          "source_url": "https://github.com/Fabricators-of-Create/Create",
+          "wiki_url": "https://github.com/Creators-of-Create/Create/wiki",
+          "discord_url": "https://discord.com/invite/hmaD7Se",
+          "donation_urls": [],
+          "gallery": []
+        },
+        "modrinthVersion": {
+          "id": "h2HgGyvA",
+          "project_id": "Xbc0uyRg",
+          "author_id": "zvYJrcc6",
+          "name": "Create 1.20.1 v0.5.1.f Patch 1",
+          "version_number": "0.5.1-f-build.1417+mc1.20.1",
+          "changelog": "- fix crashes with fluid and item schedule conditions (#1363, #1391, #1392)\n- fix crashes viewing recipes in REI (#1378, #1379, #1380, #1382, #1395)\n- fix ingredients of sequenced assembly recipes not being properly linked to their uses (#1394)\n- marked known outdated broken addon versions as incompatible\n- marked Sound Physics Remastered as broken due to calling non thread safe code off thread\n- add cycling to the block displayed in manual item application in EMI\n- fix manual item application recipes in emi rendering the shadow in front (#1383)\n- make hidden items not show up in REI & EMI\n- fix log spam with Continuity  (#1370)\n- fix backtanks not updating neighboring blocks (#1396)\n- fix basin tooltips not updating when removing fluid (#1411)\n- fix outputs of draining recipes not being indexed (#1409)\n- fix incorrect chances being shown on fan recipes (#1393)\n- fix stress tooltips not being shown until entering singleplayer (#1265)\n- fix creative crates on contraptions causing crashes",
+          "date_published": "2024-04-08T05:14:07.661497Z",
+          "version_type": "beta",
+          "files": [
+            {
+              "hashes": {
+                "sha1": "dc5c230e3b293092b457200883398225fffab597",
+                "sha512": "bc8e3afc219ecf9d475f4b56f421024f76fc20bce941a2c956ecca1e8905b39d946a124aca48cb391a0a60314d68fd5413c8c12d0ad1f605159b10611595878f"
+              },
+              "url": "https://cdn.modrinth.com/data/Xbc0uyRg/versions/h2HgGyvA/create-fabric-0.5.1-f-build.1417%2Bmc1.20.1.jar",
+              "filename": "create-fabric-0.5.1-f-build.1417+mc1.20.1.jar",
+              "primary": true,
+              "size": 21952417
+            }
+          ],
+          "dependencies": [
+            {
+              "project_id": "P7dR8mSH",
+              "dependency_type": "required"
+            }
+          ],
+          "game_versions": [
+            "1.20.1"
+          ],
+          "loaders": [
+            "fabric",
+            "quilt"
+          ]
+        }
+      },
+      {
+        "name": "Create: Steam 'n' Rails",
+        "version": "Steam 'n' Rails 1.6.4 Fabric 1.20.1",
+        "optional": true,
+        "file": "Steam_Rails-1.6.4+fabric-mc1.20.1.jar",
+        "type": "mods",
+        "description": "Adding depth to Create's rail network & steam system",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 688231,
+        "curseForgeFileId": 5331298,
+        "curseForgeProject": {
+          "id": 688231,
+          "name": "Create: Steam 'n' Rails",
+          "authors": [
+            {
+              "id": 102652063,
+              "name": "IThundxr",
+              "url": "https://www.curseforge.com/members/ithundxr"
+            },
+            {
+              "id": 102751478,
+              "name": "slimeistdev",
+              "url": "https://www.curseforge.com/members/slimeistdev"
+            },
+            {
+              "id": 100962249,
+              "name": "spottytheturtle",
+              "url": "https://www.curseforge.com/members/spottytheturtle"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Adding depth to Create's rail network & steam system",
+          "categories": [
+            {
+              "name": "Player Transport",
+              "slug": "technology-player-transport",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/technology/technology-player-transport",
+              "dateModified": "2014-05-08T17:38:58.357Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 414,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/29/635351495383551178.png",
+              "parentCategoryId": 412,
+              "classId": 6
+            },
+            {
+              "name": "Addons",
+              "slug": "mc-addons",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-addons",
+              "dateModified": "2014-05-08T17:09:48.63Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 426,
+              "iconUrl": "https://media.forgecdn.net/avatars/5/998/635351477886290676.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Utility & QoL",
+              "slug": "utility-qol",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/utility-qol",
+              "dateModified": "2021-11-17T11:45:09.143Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 5191,
+              "iconUrl": "https://media.forgecdn.net/avatars/456/558/637727379086405233.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Mobs",
+              "slug": "world-mobs",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen/world-mobs",
+              "dateModified": "2014-05-08T17:46:59.507Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 411,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/53/635351500195070414.png",
+              "parentCategoryId": 406,
+              "classId": 6
+            },
+            {
+              "name": "Create",
+              "slug": "create",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-addons/create",
+              "dateModified": "2023-06-16T15:13:08.513Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 6484,
+              "iconUrl": "https://media.forgecdn.net/avatars/834/490/638225251884617502.png",
+              "parentCategoryId": 426,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 6484,
+          "classId": 6,
+          "slug": "create-steam-n-rails",
+          "isFeatured": false,
+          "dateModified": "2024-08-01T15:04:54.007Z",
+          "dateCreated": "2022-10-13T08:40:01.797Z",
+          "dateReleased": "2024-05-09T22:45:15.623Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/create-steam-n-rails",
+            "wikiUrl": "https://github.com/Layers-of-Railways/Railway/wiki",
+            "issuesUrl": "https://github.com/Layers-of-Railways/Railway/issues",
+            "sourceUrl": "https://github.com/Layers-of-Railways/Railway"
+          },
+          "logo": {
+            "id": 1065609,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/1065/609/256/256/638599304770885171.webp",
+            "title": "638599304770885171.webp",
+            "url": "https://media.forgecdn.net/avatars/1065/609/638599304770885171.webp",
+            "modId": 688231
+          },
+          "allowModDistribution": true,
+          "screenshots": [
+            {
+              "id": 794768,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/794/768/310/172/5bbbf18334d180062b2863c1391e4a99cb28755d.png",
+              "title": "Train",
+              "url": "https://media.forgecdn.net/attachments/794/768/5bbbf18334d180062b2863c1391e4a99cb28755d.png",
+              "modId": 688231
+            },
+            {
+              "id": 794780,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/794/780/310/172/e265a189b456bbf95ab5c143872e9c079e570345.png",
+              "title": "Train",
+              "url": "https://media.forgecdn.net/attachments/794/780/e265a189b456bbf95ab5c143872e9c079e570345.png",
+              "modId": 688231
+            },
+            {
+              "id": 794769,
+              "description": "64a92e01eaee601cba08f7d3ebbdd72f8d43bd2c.png",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/794/769/310/172/64a92e01eaee601cba08f7d3ebbdd72f8d43bd2c.png",
+              "title": "Train",
+              "url": "https://media.forgecdn.net/attachments/794/769/64a92e01eaee601cba08f7d3ebbdd72f8d43bd2c.png",
+              "modId": 688231
+            },
+            {
+              "id": 794778,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/794/778/310/172/ba03df6b05f67c9430f082bfe08fa1d8d6d04ceb.png",
+              "title": "Train",
+              "url": "https://media.forgecdn.net/attachments/794/778/ba03df6b05f67c9430f082bfe08fa1d8d6d04ceb.png",
+              "modId": 688231
+            },
+            {
+              "id": 794772,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/794/772/310/172/6d1ae78c9b0b359e6190fff2848f6c4bc7049666.png",
+              "title": "Train",
+              "url": "https://media.forgecdn.net/attachments/794/772/6d1ae78c9b0b359e6190fff2848f6c4bc7049666.png",
+              "modId": 688231
+            },
+            {
+              "id": 794767,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/794/767/310/172/37e664fcc9f8613913419ade4219dc81a44f423e.png",
+              "title": "Train",
+              "url": "https://media.forgecdn.net/attachments/794/767/37e664fcc9f8613913419ade4219dc81a44f423e.png",
+              "modId": 688231
+            },
+            {
+              "id": 794777,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/794/777/310/172/cd91295324f53aa124a7d4076fe1ed309699b261.png",
+              "title": "Train",
+              "url": "https://media.forgecdn.net/attachments/794/777/cd91295324f53aa124a7d4076fe1ed309699b261.png",
+              "modId": 688231
+            },
+            {
+              "id": 794773,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/794/773/310/172/81069e1eb33e4f9df010595d0c05787663e78610.png",
+              "title": "Train",
+              "url": "https://media.forgecdn.net/attachments/794/773/81069e1eb33e4f9df010595d0c05787663e78610.png",
+              "modId": 688231
+            },
+            {
+              "id": 794779,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/794/779/310/172/d23e0a17d240e56ff3ba534ae73444d433b0b189.png",
+              "title": "Train",
+              "url": "https://media.forgecdn.net/attachments/794/779/d23e0a17d240e56ff3ba534ae73444d433b0b189.png",
+              "modId": 688231
+            },
+            {
+              "id": 794774,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/794/774/310/172/b541ced05f30da9024e30f28d3cd83520bb1a45f.webp",
+              "title": "logo",
+              "url": "https://media.forgecdn.net/attachments/794/774/b541ced05f30da9024e30f28d3cd83520bb1a45f.webp",
+              "modId": 688231
+            },
+            {
+              "id": 794781,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/794/781/310/172/ed524979b5837465cc9f2c7e5202bd4a85a4d380.png",
+              "title": "Train",
+              "url": "https://media.forgecdn.net/attachments/794/781/ed524979b5837465cc9f2c7e5202bd4a85a4d380.png",
+              "modId": 688231
+            },
+            {
+              "id": 794771,
+              "description": "7400d2a88ad585e73107ed962fedd30b661f5faf.png",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/794/771/310/172/7400d2a88ad585e73107ed962fedd30b661f5faf.png",
+              "title": "Train",
+              "url": "https://media.forgecdn.net/attachments/794/771/7400d2a88ad585e73107ed962fedd30b661f5faf.png",
+              "modId": 688231
+            },
+            {
+              "id": 794766,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/794/766/310/172/373254a059528c242dec5d1d74fc5563eb84cc9b.png",
+              "title": "Train",
+              "url": "https://media.forgecdn.net/attachments/794/766/373254a059528c242dec5d1d74fc5563eb84cc9b.png",
+              "modId": 688231
+            },
+            {
+              "id": 794775,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/794/775/310/172/b6270ce3e1bc04eeffdbb6d4cd702f211c5f95e3.png",
+              "title": "Train",
+              "url": "https://media.forgecdn.net/attachments/794/775/b6270ce3e1bc04eeffdbb6d4cd702f211c5f95e3.png",
+              "modId": 688231
+            },
+            {
+              "id": 794776,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/794/776/310/172/cf6a7c0277f471d74ad02f86e71b8622a5eee248.png",
+              "title": "Train",
+              "url": "https://media.forgecdn.net/attachments/794/776/cf6a7c0277f471d74ad02f86e71b8622a5eee248.png",
+              "modId": 688231
+            },
+            {
+              "id": 794765,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/794/765/310/172/3051e2357a1a5d7c911ded25ebde75bac4f7ee6f.png",
+              "title": "Train",
+              "url": "https://media.forgecdn.net/attachments/794/765/3051e2357a1a5d7c911ded25ebde75bac4f7ee6f.png",
+              "modId": 688231
+            },
+            {
+              "id": 794770,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/794/770/310/172/7fcb660bfeab0a308a79d62da6271b949c3a90d0.png",
+              "title": "Train",
+              "url": "https://media.forgecdn.net/attachments/794/770/7fcb660bfeab0a308a79d62da6271b949c3a90d0.png",
+              "modId": 688231
+            },
+            {
+              "id": 794764,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/794/764/310/172/1027adc412c38d2ea073b5a0c5c7f850a98567a2.png",
+              "title": "Train",
+              "url": "https://media.forgecdn.net/attachments/794/764/1027adc412c38d2ea073b5a0c5c7f850a98567a2.png",
+              "modId": 688231
+            }
+          ],
+          "mainFileId": 5331300
+        },
+        "curseForgeFile": {
+          "id": 5331298,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "Steam 'n' Rails 1.6.4 Fabric 1.20.1",
+          "fileName": "Steam_Rails-1.6.4+fabric-mc1.20.1.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2024-05-09T22:44:55.333Z",
+          "fileLength": 9135839,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 624165,
+              "relationType": 3
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 1117673863,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 2392141903,
+              "name": "Steam_Rails-common-refmap.json"
+            },
+            {
+              "fingerprint": 2217117924,
+              "name": "Steam_Rails-fabric-refmap.json"
+            },
+            {
+              "fingerprint": 902772394,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 468800133,
+              "name": "com"
+            },
+            {
+              "fingerprint": 411267627,
+              "name": "data"
+            },
+            {
+              "fingerprint": 3950524164,
+              "name": "fabric.mod.json"
+            },
+            {
+              "fingerprint": 2345289485,
+              "name": "railways-common.mixins.json"
+            },
+            {
+              "fingerprint": 767966954,
+              "name": "railways.accesswidener"
+            },
+            {
+              "fingerprint": 1599509345,
+              "name": "railways.mixins.json"
+            },
+            {
+              "fingerprint": 2116009822,
+              "name": "resourcepacks"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "6aebceb3b11005d9cf7255f26344e1c3a635c91c",
+              "algo": 1
+            },
+            {
+              "value": "f11983a15bb6640708c7d47add8bfa7f",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-09-01T00:00:00Z",
+              "gameVersionName": "Fabric"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-05-26T00:00:00Z",
+              "gameVersionName": "Quilt"
+            }
+          ],
+          "gameVersions": [
+            "Fabric",
+            "1.20.1",
+            "Quilt"
+          ],
+          "fileFingerprint": 3050478170,
+          "modId": 688231
+        },
+        "modrinthProject": {
+          "id": "ZzjhlDgM",
+          "slug": "create-steam-n-rails",
+          "project_type": "mod",
+          "team": "vFOPaRz3",
+          "title": "Create: Steam 'n' Rails",
+          "description": "Adding depth to Create's rail network & steam system",
+          "body": "### Need a server host? We personally recommend Bloom Host! Grab a server [here](https://billing.bloom.host/aff.php?aff=17)!\n[![bloom-gif](https://bloom.host/assets/images/Comp_2.gif)](https://billing.bloom.host/aff.php?aff=17)\n\n[![discord-plural](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/social/discord-plural_vector.svg)](https://discord.gg/md78MGbEfK)\n\n**Create: Steam & Rails** \n\nAll aboard a mod dedicated to expanding the possibilities of Create’s railway system. We are turning a basic logistical system into an extensive and aesthetic integration of railways into Minecraft.\n\nFeatures\n\n ****Tracks****\n\n*   Decorate your builds and bring new life and depth to your rail networks with _eight_ new rail types! They’re fully compatible with the existing rails, as well as each other. Try our signature dark oak rails to give your build that distinguished look, make it really stand out with gold and nether wood rails or give our monorail track a go..\n*   Additionally you can right-click a track with any slab creates a grade crossing track,works on slopes and turns for that extra bit of spice.  \n      \n    **Semaphores**\n*   Make your train yards and junctions pop with our new Semaphore blocks! They serve the same purpose as nixie tubes, but do so in a far more aesthetically pleasing way.\n\n  \n**Conductors**\n\n*   Construct a cute little conductor. A Remote Redstone operator and toolbox carrier, all in one adorable creature!\n\n**Minecarts**\n\n*   Workbench Cart - Crafting on the move\n*   Jukebox Cart - Music on the move\n\n**Coupling block**\n\n*   Blocks that can connect or disconnect two trains when powered\n\n**Conductor Whistles**\n\n*   whistles that can summon a train driven by a conductor\n\n**Smokestacks**\n\n*   A variety of decorative alternatives to campfires.\n\nSteam 'n Rails development would not be possible without the amazing contributions of the following people:\n\n* ToOpa\n* Luna\n* Rdh\n* Ya\n* Megamikey\n* RakuGaki\n* Flashduke\n* Robotix\n* Tiestoettoet\n* Qirmack\n* Jab_of_jobe\n* Casey\n* Omokage R\n* AndreSk_\n* Poly1810\n* Bluephi09\n* Redcat\n",
+          "published": "2023-05-24T13:27:17.940720Z",
+          "updated": "2024-05-09T22:45:17.554079Z",
+          "status": "approved",
+          "license": {
+            "id": "LGPL-3.0-only",
+            "name": "GNU Lesser General Public License v3.0 only"
+          },
+          "client_side": "required",
+          "server_side": "required",
+          "categories": [
+            "technology",
+            "transportation",
+            "utility"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/ZzjhlDgM/efac0150d612ab52768620dd53a7e8c27ce2fb0d.webp",
+          "issues_url": "https://github.com/Layers-of-Railways/Railway/issues",
+          "source_url": "https://github.com/Layers-of-Railways/Railway",
+          "wiki_url": "https://github.com/Layers-of-Railways/Railway/wiki",
+          "discord_url": "https://discord.gg/gcgfkca4rq",
+          "donation_urls": [
+            {
+              "id": "other",
+              "platform": "Other",
+              "url": "https://opencollective.com/railways"
+            }
+          ],
+          "gallery": [
+            {
+              "url": "https://cdn.modrinth.com/data/ZzjhlDgM/images/1027adc412c38d2ea073b5a0c5c7f850a98567a2.png",
+              "featured": false,
+              "created": "2023-10-03T20:19:51.293585Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/ZzjhlDgM/images/3051e2357a1a5d7c911ded25ebde75bac4f7ee6f.png",
+              "featured": false,
+              "created": "2023-10-03T20:21:55.055346Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/ZzjhlDgM/images/373254a059528c242dec5d1d74fc5563eb84cc9b.png",
+              "featured": false,
+              "created": "2023-10-03T20:22:08.075766Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/ZzjhlDgM/images/37e664fcc9f8613913419ade4219dc81a44f423e.png",
+              "featured": false,
+              "created": "2023-10-03T20:20:12.338688Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/ZzjhlDgM/images/5bbbf18334d180062b2863c1391e4a99cb28755d.png",
+              "featured": false,
+              "created": "2023-10-03T20:21:48.006989Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/ZzjhlDgM/images/64a92e01eaee601cba08f7d3ebbdd72f8d43bd2c.png",
+              "featured": false,
+              "created": "2023-10-03T20:19:24.987514Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/ZzjhlDgM/images/6d1ae78c9b0b359e6190fff2848f6c4bc7049666.png",
+              "featured": false,
+              "created": "2023-10-03T20:20:05.596759Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/ZzjhlDgM/images/7400d2a88ad585e73107ed962fedd30b661f5faf.png",
+              "featured": false,
+              "created": "2023-10-03T20:19:45.760722Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/ZzjhlDgM/images/7fcb660bfeab0a308a79d62da6271b949c3a90d0.png",
+              "featured": false,
+              "created": "2023-10-03T20:22:01.282177Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/ZzjhlDgM/images/81069e1eb33e4f9df010595d0c05787663e78610.png",
+              "featured": false,
+              "created": "2023-10-03T20:20:19.377470Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/ZzjhlDgM/images/b541ced05f30da9024e30f28d3cd83520bb1a45f.webp",
+              "featured": true,
+              "created": "2023-08-01T19:19:33.272122Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/ZzjhlDgM/images/b6270ce3e1bc04eeffdbb6d4cd702f211c5f95e3.png",
+              "featured": false,
+              "created": "2023-10-03T20:21:25.427003Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/ZzjhlDgM/images/ba03df6b05f67c9430f082bfe08fa1d8d6d04ceb.png",
+              "featured": false,
+              "created": "2023-10-03T20:20:26.305079Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/ZzjhlDgM/images/cd91295324f53aa124a7d4076fe1ed309699b261.png",
+              "featured": false,
+              "created": "2023-10-03T20:21:35.866546Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/ZzjhlDgM/images/cf6a7c0277f471d74ad02f86e71b8622a5eee248.png",
+              "featured": false,
+              "created": "2023-10-03T20:19:37.652897Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/ZzjhlDgM/images/d23e0a17d240e56ff3ba534ae73444d433b0b189.png",
+              "featured": false,
+              "created": "2023-10-03T20:19:32.018933Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/ZzjhlDgM/images/e265a189b456bbf95ab5c143872e9c079e570345.png",
+              "featured": false,
+              "created": "2023-10-03T20:21:43.013569Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/ZzjhlDgM/images/ed524979b5837465cc9f2c7e5202bd4a85a4d380.png",
+              "featured": false,
+              "created": "2023-10-03T20:19:58.186392Z",
+              "ordering": 0.0
+            }
+          ]
+        },
+        "modrinthVersion": {
+          "id": "AJ3IGl3n",
+          "project_id": "ZzjhlDgM",
+          "author_id": "2pSgrUlO",
+          "name": "Steam 'n' Rails 1.6.4 Fabric 1.20.1",
+          "version_number": "1.6.4+fabric-mc1.20.1",
+          "changelog": "Steam 'n' Rails 1.6.4:\n\nAdditions:\n- Custom icons for narrow/wide gauge track items (vanilla wood tracks only) (Thanks Adeline!!)\n- Animated flywheels: Flywheels will now move when apart of a train (configurable by clients)\n\nFixes\n- Fix Copycat headstock's being transparent when using shaders\n- Fix archbar bogey axle locations & Texture\n- Fix bad texture name causing a warning in logs\n- Fix crash when running setStation({}) (https://github.com/Creators-of-Create/Create/issues/5818)\n\nRemovals\n- Conductor caps tab",
+          "date_published": "2024-05-09T22:44:57.854946Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha1": "6aebceb3b11005d9cf7255f26344e1c3a635c91c",
+                "sha512": "e2c1ea06c270118a99d6a047f48eb210b047c6a25b3f05c53e53f0e4d1fc2805cff23aea02f8543af7d175c4f35bd43ba928be13c443dfa122ae13f8043fa3f3"
+              },
+              "url": "https://cdn.modrinth.com/data/ZzjhlDgM/versions/AJ3IGl3n/Steam_Rails-1.6.4%2Bfabric-mc1.20.1.jar",
+              "filename": "Steam_Rails-1.6.4+fabric-mc1.20.1.jar",
+              "primary": true,
+              "size": 9135839
+            }
+          ],
+          "dependencies": [
+            {
+              "project_id": "Xbc0uyRg",
+              "dependency_type": "required"
+            }
+          ],
+          "game_versions": [
+            "1.20.1"
+          ],
+          "loaders": [
+            "fabric",
+            "quilt"
+          ]
+        }
+      },
+      {
+        "name": "Tom's Simple Storage Mod",
+        "version": "Tom's Storage 1.20-1.6.8 Fabric",
+        "optional": true,
+        "file": "toms_storage_fabric-1.20-1.6.8.jar",
+        "type": "mods",
+        "description": "Simple vanilla style storage mod",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 396826,
+        "curseForgeFileId": 5548579,
+        "curseForgeProject": {
+          "id": 396826,
+          "name": "Tom's Simple Storage Mod (Fabric)",
+          "authors": [
+            {
+              "id": 20152707,
+              "name": "tom54541",
+              "url": "https://www.curseforge.com/members/tom54541"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Simple vanilla style storage mod for Fabric",
+          "categories": [
+            {
+              "name": "Storage",
+              "slug": "storage",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/storage",
+              "dateModified": "2014-05-08T17:41:17.203Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 420,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/35/635351496772023801.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Technology",
+              "slug": "technology",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/technology",
+              "dateModified": "2014-05-08T17:37:54.597Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 412,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/27/635351494745973439.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 412,
+          "classId": 6,
+          "slug": "toms-storage-fabric",
+          "isFeatured": false,
+          "dateModified": "2024-08-20T15:47:26.667Z",
+          "dateCreated": "2020-07-20T10:52:20.187Z",
+          "dateReleased": "2024-08-20T15:31:45.917Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/toms-storage-fabric",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/tom5454/Toms-Storage/issues",
+            "sourceUrl": "https://github.com/tom5454/Toms-Storage/tree/fabric"
+          },
+          "logo": {
+            "id": 287454,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/287/454/256/256/637308391402323410.png",
+            "title": "637308391402323410.png",
+            "url": "https://media.forgecdn.net/avatars/287/454/637308391402323410.png",
+            "modId": 396826
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 5647328
+        },
+        "curseForgeFile": {
+          "id": 5548579,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "Tom's Storage 1.20-1.6.8 Fabric",
+          "fileName": "toms_storage_fabric-1.20-1.6.8.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2024-07-20T13:43:04.84Z",
+          "fileLength": 1522417,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 310111,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 348521,
+              "relationType": 1
+            },
+            {
+              "fileId": 0,
+              "modId": 238222,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 459496,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 580555,
+              "relationType": 2
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 1512898996,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 1214585089,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 2656402120,
+              "name": "com"
+            },
+            {
+              "fingerprint": 1805822428,
+              "name": "data"
+            },
+            {
+              "fingerprint": 3747997862,
+              "name": "fabric.mod.json"
+            },
+            {
+              "fingerprint": 4227461825,
+              "name": "icon.png"
+            },
+            {
+              "fingerprint": 3242026356,
+              "name": "pack.mcmeta"
+            },
+            {
+              "fingerprint": 2237863743,
+              "name": "tomsstorage.accesswidener"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "7b312448ab19201634f03c121df79aff64b8b2ae",
+              "algo": 1
+            },
+            {
+              "value": "684dbe46b8fe1a8294cb617b1e2cf067",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-09-01T00:00:00Z",
+              "gameVersionName": "Fabric"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020",
+              "gameVersion": "1.20",
+              "gameVersionReleaseDate": "2023-06-07T00:00:00Z",
+              "gameVersionName": "1.20"
+            }
+          ],
+          "gameVersions": [
+            "Fabric",
+            "1.20.1",
+            "1.20"
+          ],
+          "fileFingerprint": 2900904265,
+          "modId": 396826
+        },
+        "modrinthProject": {
+          "id": "XZNI4Cpy",
+          "slug": "toms-storage",
+          "project_type": "mod",
+          "team": "VI0FnQUK",
+          "title": "Tom's Simple Storage Mod",
+          "description": "Simple vanilla style storage mod",
+          "body": "## Tom's Simple Storage Mod\n![Banner](https://raw.githubusercontent.com/tom5454/Toms-Storage/master/banner.png)\nOn Fabric [Indium](https://modrinth.com/mod/indium) is required if you have Sodium installed!  \nSimple vanilla style storage mod.  \nFeatures:  \n- Storage & Crafting Terminal\n- Inventory Connector\n- Open Crate\n- Wireless terminal\n- Filtered connectors\n- Inventory Hopper\n\nMod Spotlights:  \n<iframe allowfullscreen=\"allowfullscreen\" src=\"https://www.youtube.com/embed/RwRKNhZ7uec\"></iframe>  \n<iframe allowfullscreen=\"allowfullscreen\" src=\"https://www.youtube.com/embed/nW5ElcWiC3c\"></iframe>",
+          "published": "2022-03-19T16:02:49.136992Z",
+          "updated": "2024-08-20T15:31:50.193745Z",
+          "status": "approved",
+          "license": {
+            "id": "MIT",
+            "name": "MIT License"
+          },
+          "client_side": "required",
+          "server_side": "required",
+          "categories": [
+            "storage"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/XZNI4Cpy/icon.png",
+          "issues_url": "https://github.com/tom5454/Toms-Storage/issues",
+          "source_url": "https://github.com/tom5454/Toms-Storage",
+          "donation_urls": [
+            {
+              "id": "github",
+              "platform": "Github",
+              "url": "https://github.com/sponsors/tom5454"
+            },
+            {
+              "id": "ko-fi",
+              "platform": "Ko-fi",
+              "url": "https://ko-fi.com/tom5454"
+            },
+            {
+              "id": "patreon",
+              "platform": "Patreon",
+              "url": "https://www.patreon.com/tom5454"
+            }
+          ],
+          "gallery": []
+        },
+        "modrinthVersion": {
+          "id": "9YQrQcI9",
+          "project_id": "XZNI4Cpy",
+          "author_id": "WBSj30w3",
+          "name": "Tom's Storage 1.20-1.6.8 Fabric",
+          "version_number": "1.20-1.6.8-fabric",
+          "changelog": "Added NBT/component and tag search ([#417](https://github.com/tom5454/Toms-Storage/issues/417))  \nFixed dark terminal background on 1.20.4",
+          "date_published": "2024-07-20T13:43:07.533748Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha512": "5890a47b763cdd6f1ade3290b643337e9f5768b89ab83cd21b2bea6321b58dadb331276525111d369caf01ab129cefca2cce608b294a602dd92a789b1bceb94e",
+                "sha1": "7b312448ab19201634f03c121df79aff64b8b2ae"
+              },
+              "url": "https://cdn.modrinth.com/data/XZNI4Cpy/versions/9YQrQcI9/toms_storage_fabric-1.20-1.6.8.jar",
+              "filename": "toms_storage_fabric-1.20-1.6.8.jar",
+              "primary": true,
+              "size": 1522417
+            }
+          ],
+          "dependencies": [
+            {
+              "project_id": "9s6osm5g"
+            },
+            {
+              "project_id": "Orvt0mRa",
+              "dependency_type": "optional"
+            },
+            {
+              "project_id": "fRiHVvU7",
+              "dependency_type": "optional"
+            },
+            {
+              "project_id": "nfn13YXA",
+              "dependency_type": "optional"
+            },
+            {
+              "project_id": "u6dRKJwZ",
+              "dependency_type": "optional"
+            }
+          ],
+          "game_versions": [
+            "1.20",
+            "1.20.1"
+          ],
+          "loaders": [
+            "fabric"
+          ]
+        }
+      },
+      {
+        "name": "Grappling Hook Mod: Restitched",
+        "version": "Grappling Hook Mod: Restitched v2.0+1.20.1 alpha-test",
+        "optional": true,
+        "file": "grapplemod-1.99.0+1.20.1.beta.fabric.jar",
+        "type": "mods",
+        "description": "A port of Yyon's original grappling hook mod - The mod adds grappling hooks with several different modifiers to improve traversal within your world, ranging from force fields to double hooks.",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "modrinthProject": {
+          "id": "f4hp6FTb",
+          "slug": "grappling-hook-mod-fabric",
+          "project_type": "mod",
+          "team": "3GfLr2n3",
+          "title": "Grappling Hook Mod: Restitched",
+          "description": "A port of Yyon's original grappling hook mod - The mod adds grappling hooks with several different modifiers to improve traversal within your world, ranging from force fields to double hooks.",
+          "body": "[![](https://raw.githubusercontent.com/squeeglii/grapplemod-restitched/latest/docs/media/banner.png)](https://github.com/squeeglii/grapplemod-restitched)\n\n[![Minecraft Version](https://img.shields.io/badge/Minecraft-v1.20.1-blue?style=flat-square)](https://www.minecraft.net/en-us)\n[![Fabric Loader Version](https://img.shields.io/badge/Fabric_Loader-v0.14.21-AA8554?style=flat-square)](https://fabricmc.net/use/installer/)\n[![Cloth Config Version](https://img.shields.io/badge/Cloth_Config-v11.0.99-pink?style=flat-square)](https://modrinth.com/mod/cloth-config)\n[![Mod Menu Version](https://img.shields.io/badge/Mod_Menu-v7.1.0-indigo?style=flat-square)](https://modrinth.com/mod/modmenu)\n[![GPL-3.0](https://img.shields.io/badge/License-GNU_GPL_3.0-mint?style=flat-square)](https://www.gnu.org/licenses/gpl-3.0.en.html)\n\n[![Modrinth](https://img.shields.io/modrinth/dt/f4hp6FTb?logo=modrinth&style=flat-square)](https://modrinth.com/mod/grappling-hook-mod-fabric)\n[![Curseforge](https://cf.way2muchnoise.eu/short_grappling-hook-restitched.svg?badge_style=flat)](https://www.curseforge.com/minecraft/mc-mods/grappling-hook-restitched)\n\n---\n\n# Project Overview\n\nA classic Grappling Hook mod with great physics and a wide range of customizations! This Minecraft mod is written for\nthe Fabric & Quilt mod loaders for modern versions of Minecraft (1.18.2+) - Changes tend to focus on making it more\nextendable, as well as improving compatibility with other mods. Improvements to older features are also being sprinkled\nin from time to time.\n\nThis mod's official project pages can be found below:\n\n- [Modrinth](https://modrinth.com/mod/grappling-hook-mod-fabric)\n- [CurseForge](https://curseforge.com/minecraft/mc-mods/grappling-hook-restitched) \n\nFabric compatibility *comes first* due to its current adoption in the Minecraft Modding community, however Quilt is\nsupported by the mod currently! In the case that either Mod Loader encounters a problem, make sure to\n[submit a bug report!](https://github.com/squeeglii/grapplemod-restitched)\n\n\n\n## 🔗 Origins\n\nThis repository is an unofficial fork of Yyon's [Grappling Hook Mod](https://github.com/yyon/grapplemod), which was \nwritten to support the Forge mod loader. It has a history stretching back all the way to its MCreator roots in 2015,\nimplementing improved physics, upgrades, and better integrations since.\n\nYou can find the links to its official project pages (and the downloads) here:\n\n- [Modrinth](https://modrinth.com/mod/grappling-hook-mod/versions)\n- [CurseForge](https://www.curseforge.com/minecraft/mc-mods/grappling-hook-mod) (More up-to-date? Last checked 19/6/23)\n\nThis fork's root stems from the 1.19.2 version of v13, created under the original scope of providing an alternative\nunder the Fabric & Quilt ecosystems, as well as updating these ports to future versions. With the original scope met,\nfuture versions now focus on enhancements on top of the original work, as well as perpetual support into the future.\n\n\n## ☎️ Contact\n\n- **Discord:** [Support Server or](https://discord.gg/94c45XagEH) @CG360\n- **GitHub:** [/squeeglii](https://github.com/squeeglii)\n\n\n## 📜 Credits:\n\nSee [ATTRIBUTIONS.md](/ATTRIBUTIONS.md) for credits with attached licenses, such as for sounds and code.\nThere are some smaller credits also found on [the original Forge repository!](https://github.com/yyon/grapplemod/)\nwhich have been omitted here.\n\n### Technical Contributions\n\n- **Original Mod** - Yyon\n- **Textures** - Mayesnake\n- **Forge 1.18+** - Nyfaria\n- **Fabric/Quilt 1.18.2+** - CG360\n\n### Translations\n\n- **Russian** - Blueberryy\n- **French** - Neerwan\n- **Brazilian Portuguese** - Eufranio\n\n\n\n\n--- \n\n# Contributing\n\nPull Requests and Issues are always welcome! Try to stick to templates where available but deviate if some components\ndon't apply. Detail is important when debugging an issue or trying to implement a new system however so prioritise\nthat!\n\nThanks for any help in advance! :)  -- I keep an eye out for Issues and PRs fairly regularly.\n",
+          "published": "2023-01-31T20:14:03.088565Z",
+          "updated": "2024-04-11T18:36:55.005343Z",
+          "status": "approved",
+          "license": {
+            "id": "GPL-3.0-only",
+            "name": "GNU General Public License v3.0 only"
+          },
+          "client_side": "required",
+          "server_side": "required",
+          "categories": [
+            "adventure",
+            "equipment",
+            "transportation"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/f4hp6FTb/f1f4c69dee8a46df11d37cbe43b8f13ccb34c4ae.png",
+          "issues_url": "https://github.com/squeeglii/grapplemod-restitched/issues",
+          "source_url": "https://github.com/squeeglii/grapplemod-restitched",
+          "donation_urls": [],
+          "gallery": [
+            {
+              "url": "https://cdn.modrinth.com/data/f4hp6FTb/images/6d5b0a8b60881d3e436c65633bb8f9fc987ba42b.png",
+              "featured": true,
+              "title": "Just swinging <3",
+              "created": "2023-01-31T20:18:40.084864Z",
+              "ordering": 1.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/f4hp6FTb/images/fe7ca9623ffcfb49f19255769d8fc3ea01c7abc8.png",
+              "featured": false,
+              "title": "Every Item + Upgrade makes a return!",
+              "created": "2023-01-31T21:12:57.573765Z",
+              "ordering": 2.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/f4hp6FTb/images/acba4edccee8248ed20625cff156d300c4b67b5b.png",
+              "featured": false,
+              "title": "Brought back the rope physics!",
+              "created": "2023-01-31T20:19:24.069731Z",
+              "ordering": 3.0
+            }
+          ]
+        },
+        "modrinthVersion": {
+          "id": "jVjsFtrx",
+          "project_id": "f4hp6FTb",
+          "author_id": "1pe2x7wX",
+          "name": "Grappling Hook Mod: Restitched v2.0+1.20.1 alpha-test",
+          "version_number": "1.99.0+1.20.1.beta.fabric",
+          "changelog": "## 2.0 Preview #1 (1.99.0)\n\n- Large internal changes for better stability.\n- Texture changes to make the mod more consistent with vanilla\n- Advancements to guide people through the mod's progression.\n- Hooks are now saved when leaving & joining a world.\n- Added several datapacks to customise how you play\n- Rebalanced a lot of the recipes\n- Added the dye bag for customising your hook\n\n\nOther changes are present in the mod (Compatibility API, blueprints, etc) but are not yet ready. This is literally just for testing some of the simpler features.",
+          "date_published": "2024-04-11T18:36:55.993019Z",
+          "version_type": "alpha",
+          "files": [
+            {
+              "hashes": {
+                "sha1": "3e1c03e3572a4c2741e594e11b872b2821f29079",
+                "sha512": "b91eae3ddfba21d1fadcdbb103386e59a8a296a35cc75bc2c27ab09a64df1dfbf197853639b194dc1465bd191ea68f5b31694aa8a176800c064c3504736ad845"
+              },
+              "url": "https://cdn.modrinth.com/data/f4hp6FTb/versions/jVjsFtrx/grapplemod-1.99.0%2B1.20.1.beta.fabric.jar",
+              "filename": "grapplemod-1.99.0+1.20.1.beta.fabric.jar",
+              "primary": true,
+              "size": 941250
+            }
+          ],
+          "dependencies": [
+            {
+              "project_id": "9s6osm5g",
+              "dependency_type": "required"
+            },
+            {
+              "project_id": "P7dR8mSH",
+              "dependency_type": "required"
+            }
+          ],
+          "game_versions": [
+            "1.20.1"
+          ],
+          "loaders": [
+            "fabric"
+          ]
+        }
+      },
+      {
+        "name": "Immersive Aircraft",
+        "version": "[Fabric 1.20.1] Immersive Aircraft - 1.0.1",
+        "optional": true,
+        "file": "immersive_aircraft-1.0.1+1.20.1-fabric.jar",
+        "type": "mods",
+        "description": "A bunch of rustic aircraft to travel, transport, and explore!",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 666014,
+        "curseForgeFileId": 5351804,
+        "curseForgeProject": {
+          "id": 666014,
+          "name": "Immersive Aircraft [Fabric/Forge]",
+          "authors": [
+            {
+              "id": 100413081,
+              "name": "Conczin",
+              "url": "https://www.curseforge.com/members/conczin"
+            }
+          ],
+          "gameId": 432,
+          "summary": "A set of vanilla style, customizable and upgradable aircraft, from biplanes to airships",
+          "categories": [
+            {
+              "name": "Adventure and RPG",
+              "slug": "adventure-rpg",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/adventure-rpg",
+              "dateModified": "2014-05-08T17:42:09.54Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 422,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/37/635351497295252123.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Technology",
+              "slug": "technology",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/technology",
+              "dateModified": "2014-05-08T17:37:54.597Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 412,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/27/635351494745973439.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Player Transport",
+              "slug": "technology-player-transport",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/technology/technology-player-transport",
+              "dateModified": "2014-05-08T17:38:58.357Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 414,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/29/635351495383551178.png",
+              "parentCategoryId": 412,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 414,
+          "classId": 6,
+          "slug": "immersive-aircraft",
+          "isFeatured": false,
+          "dateModified": "2024-08-12T16:19:19.097Z",
+          "dateCreated": "2022-08-29T12:58:55.673Z",
+          "dateReleased": "2024-05-17T21:21:51.93Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/immersive-aircraft",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/Luke100000/ImmersiveAircraft/issues",
+            "sourceUrl": "https://github.com/Luke100000/ImmersiveAircraft"
+          },
+          "logo": {
+            "id": 656842,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/656/842/256/256/638056986831428322.png",
+            "title": "638056986831428322.png",
+            "url": "https://media.forgecdn.net/avatars/656/842/638056986831428322.png",
+            "modId": 666014
+          },
+          "allowModDistribution": true,
+          "screenshots": [
+            {
+              "id": 612754,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/612/754/310/172/quadrocopter.jpg",
+              "title": "Quadrocopter",
+              "url": "https://media.forgecdn.net/attachments/612/754/quadrocopter.jpg",
+              "modId": 666014
+            },
+            {
+              "id": 533938,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/533/938/310/172/screen4.png",
+              "title": "First person",
+              "url": "https://media.forgecdn.net/attachments/533/938/screen4.png",
+              "modId": 666014
+            },
+            {
+              "id": 612755,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/612/755/310/172/recipes.png",
+              "title": "Recipes",
+              "url": "https://media.forgecdn.net/attachments/612/755/recipes.png",
+              "modId": 666014
+            },
+            {
+              "id": 612752,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/612/752/310/172/gyrodyne.jpg",
+              "title": "Gyrodyne",
+              "url": "https://media.forgecdn.net/attachments/612/752/gyrodyne.jpg",
+              "modId": 666014
+            },
+            {
+              "id": 533937,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/533/937/310/172/screen1.png",
+              "title": "Multiplayer",
+              "url": "https://media.forgecdn.net/attachments/533/937/screen1.png",
+              "modId": 666014
+            },
+            {
+              "id": 612751,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/612/751/310/172/biplane.jpg",
+              "title": "Biplane",
+              "url": "https://media.forgecdn.net/attachments/612/751/biplane.jpg",
+              "modId": 666014
+            },
+            {
+              "id": 612753,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/612/753/310/172/airship.jpg",
+              "title": "Airship",
+              "url": "https://media.forgecdn.net/attachments/612/753/airship.jpg",
+              "modId": 666014
+            },
+            {
+              "id": 636011,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/636/11/310/172/upgrades.png",
+              "title": "Upgrades",
+              "url": "https://media.forgecdn.net/attachments/636/11/upgrades.png",
+              "modId": 666014
+            },
+            {
+              "id": 636012,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/636/12/310/172/inventory.png",
+              "title": "Inventory",
+              "url": "https://media.forgecdn.net/attachments/636/12/inventory.png",
+              "modId": 666014
+            }
+          ],
+          "mainFileId": 5351805
+        },
+        "curseForgeFile": {
+          "id": 5351804,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "[Fabric 1.20.1] Immersive Aircraft - 1.0.1",
+          "fileName": "immersive_aircraft-1.0.1+1.20.1-fabric.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2024-05-17T21:21:46.293Z",
+          "fileLength": 2062434,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 306612,
+              "relationType": 3
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 2244277326,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 769020009,
+              "name": "architectury_inject_immersiveaircraft_common_05eb38c828444afdbc12f96a3872b8bd_d642f2ad744209f371ec8dafbd7a8746bd73e05032340d8d115a1cb056b555a2immersive_aircraft1011201devjar"
+            },
+            {
+              "fingerprint": 1140882848,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 3936574239,
+              "name": "data"
+            },
+            {
+              "fingerprint": 239538509,
+              "name": "fabric.mod.json"
+            },
+            {
+              "fingerprint": 914348129,
+              "name": "hotswap-agent.properties"
+            },
+            {
+              "fingerprint": 1158784594,
+              "name": "icon.png"
+            },
+            {
+              "fingerprint": 4239759975,
+              "name": "immersive_aircraft-common-refmap.json"
+            },
+            {
+              "fingerprint": 2082091473,
+              "name": "immersive_aircraft.accessWidener"
+            },
+            {
+              "fingerprint": 1266953015,
+              "name": "immersive_aircraft.mixins.json"
+            },
+            {
+              "fingerprint": 2218692495,
+              "name": "immersive_aircraft"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "176e53080376f80a12640c405984dbb1a764875b",
+              "algo": 1
+            },
+            {
+              "value": "eeaf20dc66d38604eb5965b8b9aa5259",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-09-01T00:00:00Z",
+              "gameVersionName": "Fabric"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            }
+          ],
+          "gameVersions": [
+            "Fabric",
+            "1.20.1"
+          ],
+          "fileFingerprint": 3394360776,
+          "modId": 666014
+        },
+        "modrinthProject": {
+          "id": "x3HZvrj6",
+          "slug": "immersive-aircraft",
+          "project_type": "mod",
+          "team": "lVzmYLvB",
+          "title": "Immersive Aircraft",
+          "description": "A bunch of rustic aircraft to travel, transport, and explore!",
+          "body": "# Immersive Aircraft\n\nThis mod adds bunch of rustic aircraft to travel, transport, and explore!\nThe aircraft have a strong focus on being vanilla-faithful and many details and functionalities, without being overly complicated.\n\n## Addons\n* [Man of Many Planes](https://modrinth.com/mod/man-of-many-planes)\n\nOh and look, multiplayer compatible!\n\n![Multiplayer](https://cdn.modrinth.com/data/cached_images/4a1359df6f2febedd25b255fe90107dcd78c70a8.jpeg)\n\n&nbsp;  \n\n# Biplane\n\nLet's start with the classic biplane. Fast, one seat, medium difficulty.\n\n![Biplane](https://cdn.modrinth.com/data/cached_images/1cd4e2e5afa0bb45bc3622c7abfce47f14293794.jpeg)\n\n&nbsp;  \n\n# Airship\n\nSlower, but with two seats. Quite easy to maneuver, with acceptable speed thanks to the engine in the back.\n\n![Airship](https://cdn.modrinth.com/data/cached_images/d1e925cdcb7d4212c3ec688af6ab9017f8a2fde3.jpeg)\n\n&nbsp;  \n\n# Gyrodyne\n\nHuman-powered primitive dual seater. Trusty, yet neither the fastest nor the easiest to fly.\nNeeds a good initial push to get the rotor spinning.\nThe first one guessing my inspiration here can suggest one new (fitting) aircraft :)\n\n![Gyrodyne](https://cdn.modrinth.com/data/cached_images/f21c7ed0070043cfd12cb66afaa2cf8e04dbdab0.jpeg)\n\n&nbsp;  \n\n# Some items to tinker\n\nSince aircraft are generally more complex than, e.g. a boat, a handful of items has been added to make crafting aircraft feel more like actually assembling something.\n\n![Recipes](https://cdn.modrinth.com/data/cached_images/b483b7f43b2afab67e59f7c3e3f09dcfefd89b60.png)",
+          "published": "2022-11-29T20:25:04.808037Z",
+          "updated": "2024-05-17T21:21:53.420674Z",
+          "status": "approved",
+          "license": {
+            "id": "GPL-3.0-only",
+            "name": "GNU General Public License v3.0 only"
+          },
+          "client_side": "required",
+          "server_side": "required",
+          "categories": [
+            "adventure",
+            "technology",
+            "transportation"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/x3HZvrj6/f051c47a2e3d0760397e0c4c488af0a615bc36a2.png",
+          "issues_url": "https://github.com/Luke100000/ImmersiveAircraft/issues",
+          "source_url": "https://github.com/Luke100000/ImmersiveAircraft",
+          "discord_url": "https://discord.gg/agxcvAdj2a",
+          "donation_urls": [
+            {
+              "id": "patreon",
+              "platform": "Patreon",
+              "url": "https://www.patreon.com/conczin"
+            }
+          ],
+          "gallery": [
+            {
+              "url": "https://cdn.modrinth.com/data/x3HZvrj6/images/0727deb841b003ce21884971cd535fd8f9580356.png",
+              "featured": true,
+              "title": "Multiplayer",
+              "created": "2022-12-03T21:13:17.603497Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/x3HZvrj6/images/0e00a9f9ebec0dc4fa06e2a2f83b7101c0c6fc6f.png",
+              "featured": false,
+              "title": "Multiplayer",
+              "created": "2022-12-03T21:13:14.114984Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/x3HZvrj6/images/385da739ec20b19c4f6767ca4dd7f0018a931149.jpeg",
+              "featured": false,
+              "title": "Airship",
+              "created": "2022-12-03T21:13:07.200538Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/x3HZvrj6/images/4a0b8944c9f9406f2f9391cea303046d917071ca.jpeg",
+              "featured": false,
+              "title": "Biplane",
+              "created": "2022-12-03T21:13:08.329260Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/x3HZvrj6/images/9ed165b20952259e2d2e4b62d89ef15059349f83.jpeg",
+              "featured": false,
+              "title": "Gyrodyne",
+              "created": "2022-12-03T21:13:09.328841Z",
+              "ordering": 0.0
+            }
+          ]
+        },
+        "modrinthVersion": {
+          "id": "3hpofkRO",
+          "project_id": "x3HZvrj6",
+          "author_id": "TJkJC5Fn",
+          "name": "[Fabric 1.20.1] Immersive Aircraft - 1.0.1",
+          "version_number": "1.0.1+1.20.1",
+          "changelog": "# 1.0.1\n\n* Fixed infinite fuel airship\n* Fixed wrong keybinds on Forge\n* Fixed offset weapons\n* Increased culling box of warship so avoid popping in and out\n\n# 1.0.0\n\n* Added the Warship (thanks Maugwei!)\n* Changes to core, keep addons up to date!\n    * Made many changes to allow easier addons\n* Vehicles now implement inventory interface, thus working with hoppers etc\n* Rockets now boost based on duration\n* You no longer yeet yourself out of the aircraft when sneak-right clicking\n* No more mining slowdown while in aircraft\n* Added config flags to:\n    * Drop the inventory (default true to stay faithful to e.g., boats)\n    * Drop the equipment/customization (default false, as that's just annoying)\n\n# 0.7.5\n\n* Various smaller fixes\n* Added config flag to allow block damage for bomb bay\n* Fixed heavy crossbow in creative\n* Durability upgrades no longer mess with vehicle health bar\n\n# 0.7.4\n\n* Fixed issues with building\n* Fixed background not being dim in inventory\n\n# 0.7.3\n\n* Added camera offset, especially for larger aircraft\n* Fixed cargo airship's sails\n* You can now exit every aircraft properly, and don't stand on its top\n\n# 0.7.2\n\n* Fixed negative modifiers not working as intended\n* Added rotary cannon sound\n* Creative players no longer require ammo\n* The gyroscope now also stabilizes the pitch\n* Updated icons (Thanks 김작업!)\n* Weapons now also work when daylight cycle is off\n* Fixed bullets being funky\n* Added fancy sinking bubbles\n\n# 0.7.1\n\n* TNT dropper now requires 0.2 TNT per shot, instead of 0.02 typo\n* Added keybind for using weapons/mounts\n* Fixed gunpowder typo, can now be used in rotary cannon\n* Added a cooldown, so you don't bomb your aircraft when entering\n* Fixed sound of telescope\n* Fixed client ticking at higher rate than server\n\n# 0.7.0\n\n* Aircraft now have a health bar, building up visual damage until they explode\n    * Right click fixes it again\n* Added 4 weapon/utilities\n    * Telescope – Twice the zoom as a spyglass and always available\n    * Heavy Crossbow – Shots arrows with a lot of force\n    * Rotary Cannon – Automatic cannon on a gyroscopic mount\n    * Bomb Bay – Drops tiny TNT packets (no block destruction)\n* Reorders slots to no longer burn your banners (Existing aircraft needs some manual fixing)\n* Added support for modded fuel (Thanks Brandon!)\n* Biplanes can now reverse\n* REI is now also supported\n* Fixed client tracking range (Vehicles are now 2.4x farther visible)\n* You now have to confirm R to dismount when in flight\n* You now get reminded how to exit when trying to shift\n* Quadrocopter now have a strafing movement and do not affect the camera, making it way more usable for building and\n  first person operations\n* Aircraft are now party data driven, allowing easier modification of model, inventory, weapon mounts etc\n\n# 0.6.2\n\n* Fixed another server crash on Fabric\n* Reverted removal of Multi-Keybindings as player got angry\n\n# 0.6.1\n\n* Fixed server crash on Fabric\n\n# 0.6.0\n\n* Added datapack support for custom upgrades\n* Configurable vehicle explosions\n* Removed Multi-Keybindings as it no longer works with Forge anyways\n    * Also removed separate keybinds for pull and push\n* Added config to block aircraft in certain dimensions\n* Added JEI support for the larger inventories\n\n# 0.5.2\n\n* Switched to PacketByteBuf serializer\n\n# 0.5.1\n\n* Fixed glitch on sails when pausing\n* Aircraft no longer break on autostep\n\n# 0.5.0\n\n* Added Cargo Airship\n* You can now kick out entities using shift-right click\n* Added fall damage when crashing the aircraft (never lethal by default, configurable)\n* Fixed inventory staying open after entity got removed\n* Mirrored banners correctly\n\n# 0.4.2\n\n* Engines now have a fuel buffer and then die slowly when out of fuel\n* Configurable fuel consumption can now exceed 1\n* If fuel consumption is set to 0, no initial item needs to get burned\n* Don't burn fuel in creative mode (configurable)\n* The engine no longer burns the whole bucket\n* Added a configurable fuel map\n* Cut default wind sensibility in half\n* Changed back to custom Keybindings, allowing to reuse keys without conflicts\n    * A config flag exists to disable this in case of mod conflicts\n\n# 0.4.1\n\n* Fixed fuel notification on gyrodyne\n* Fixed air friction stat color\n* Fixed server crash\n\n# 0.4.0\n\n* Added inventory\n* Added fuel\n    * The Gyrodyne burns your body fat instead\n* Added 9 unique upgrade items\n* Added banners to enhance the look of the Airplane and Airship\n* Added dye slots to tint the Airships sails\n* Added rocket boost\n* Improved wind mechanics, configurable\n* Crashing aircraft now destroys them, configurable\n    * By default, only player can destroy aircraft to avoid a rogue skeleton throwing your stuff on the floor\n\n# 0.3.1\n\n* Used even less aggressive keybinding method\n* Fixed discriminator byte crashes\n\n# 0.3.0\n\n* Added Quadrocopter\n* Fixed non-pilot dismounting\n* Switched to less intrusive multi keybindings injection to restore mod compatibility\n* Fixed controller animation of airship\n* Added support for modmenu and cloth config\n* Added item tooltip description\n* You can no longer apply knockback to your vehicle\n* Fixed the Biplane phantom push when leaving\n* Fixed first person camera offset\n* Vehicles can have a separate camera perspective, and is third person by default (configurable)\n* Creative mode destroys airplanes immediately\n\n# 0.2.1\n\n* Fixed Forge on 1.19.x\n\n# 0.2.0\n\n* Added keybindings\n* Added fancy GUI\n* Improved and optimized aircraft textures (thanks stohun!)\n* Fixed and updated translations\n* Fixed WAILA translations\n* Enhanced recipes\n* Fixed non player mount positions\n* Made all vehicles more durable\n* You can no longer hit your own aircraft while flying\n* Random entity will never occupy the last seat\n\n# 0.1.1\n\n* Fixed broken sneaking animation outside aircraft\n\n# 0.1.0\n\n* Initial release\n* Added hull, engine, sail, propeller and boiler item\n* Added airship, biplane and gyrodyne aircraft",
+          "date_published": "2024-05-17T21:21:49.502456Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha512": "ca519251caa0c2d7f9900e72092ac133c3fad2ade8f93a33ab0a7247ce014aeabd4012020640e44ecc84329ee20ecbe9692831c8c03d04e1047b472239e8720b",
+                "sha1": "176e53080376f80a12640c405984dbb1a764875b"
+              },
+              "url": "https://cdn.modrinth.com/data/x3HZvrj6/versions/3hpofkRO/immersive_aircraft-1.0.1%2B1.20.1-fabric.jar",
+              "filename": "immersive_aircraft-1.0.1+1.20.1-fabric.jar",
+              "primary": true,
+              "size": 2062434
+            }
+          ],
+          "dependencies": [
+            {
+              "project_id": "P7dR8mSH",
+              "dependency_type": "required"
+            }
+          ],
+          "game_versions": [
+            "1.20.1"
+          ],
+          "loaders": [
+            "fabric"
+          ]
+        }
+      },
+      {
+        "name": "Small Ships",
+        "version": "Small Ships 2.0.0-b1.4 [Fabric 1.20.1]",
+        "optional": true,
+        "file": "smallships-fabric-1.20.1-2.0.0-b1.4.jar",
+        "type": "mods",
+        "description": "Vanilla friendly Ships for Minecraft. Now with cannons!",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 450659,
+        "curseForgeFileId": 5566902,
+        "curseForgeProject": {
+          "id": 450659,
+          "name": "Small Ships [Fabric & Forge]",
+          "authors": [
+            {
+              "id": 29012315,
+              "name": "talhanation",
+              "url": "https://www.curseforge.com/members/talhanation"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Vanilla friendly Ships for Minecraft. Now with cannons!",
+          "categories": [
+            {
+              "name": "Adventure and RPG",
+              "slug": "adventure-rpg",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/adventure-rpg",
+              "dateModified": "2014-05-08T17:42:09.54Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 422,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/37/635351497295252123.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Storage",
+              "slug": "storage",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/storage",
+              "dateModified": "2014-05-08T17:41:17.203Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 420,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/35/635351496772023801.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Map and Information",
+              "slug": "map-information",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/map-information",
+              "dateModified": "2014-05-08T17:42:23.74Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 423,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/38/635351497437388438.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Player Transport",
+              "slug": "technology-player-transport",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/technology/technology-player-transport",
+              "dateModified": "2014-05-08T17:38:58.357Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 414,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/29/635351495383551178.png",
+              "parentCategoryId": 412,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 422,
+          "classId": 6,
+          "slug": "small-ships",
+          "isFeatured": false,
+          "dateModified": "2024-08-12T13:14:02.84Z",
+          "dateCreated": "2021-02-25T16:09:52.917Z",
+          "dateReleased": "2024-08-10T04:22:38.057Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/small-ships",
+            "wikiUrl": "",
+            "issuesUrl": "https://discord.gg/NG8vuDekTT"
+          },
+          "logo": {
+            "id": 901587,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/901/587/256/256/638349051640200134.png",
+            "title": "638349051640200134.png",
+            "url": "https://media.forgecdn.net/avatars/901/587/638349051640200134.png",
+            "modId": 450659
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 3425477
+        },
+        "curseForgeFile": {
+          "id": 5566902,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "smallships-fabric-1.20.1-2.0.0-b1.4.jar",
+          "fileName": "smallships-fabric-1.20.1-2.0.0-b1.4.jar",
+          "releaseType": 2,
+          "fileStatus": 4,
+          "fileDate": "2024-07-26T04:18:43.987Z",
+          "fileLength": 2160482,
+          "dependencies": [],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 370028723,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 956271674,
+              "name": "smallships.accesswidener"
+            },
+            {
+              "fingerprint": 4056751898,
+              "name": "smallships-common.mixins.json"
+            },
+            {
+              "fingerprint": 2814412795,
+              "name": "smallships-common-soft.mixins.json"
+            },
+            {
+              "fingerprint": 4269038381,
+              "name": "data"
+            },
+            {
+              "fingerprint": 2609962960,
+              "name": "smallships-common-refmap.json"
+            },
+            {
+              "fingerprint": 2388279599,
+              "name": "smallships.mixin.json"
+            },
+            {
+              "fingerprint": 1833652643,
+              "name": "fabric.mod.json"
+            },
+            {
+              "fingerprint": 1188643967,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 3789492525,
+              "name": "smallships-fabric-refmap.json"
+            },
+            {
+              "fingerprint": 2367055178,
+              "name": "com"
+            },
+            {
+              "fingerprint": 1393556185,
+              "name": "architectury_inject_smallships_common_a40db9b33247431d9b503e4dad12d6b6_98066c63129845817bac4b2bd46b07d3ecf585292a885bfa98e04b18fc73bac9smallships200b14devjar"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "6c12ee505822a6f28e4bd027c4107d59eaecbf2e",
+              "algo": 1
+            },
+            {
+              "value": "55a119178db5c795f5589c75d0400384",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-09-01T00:00:00Z",
+              "gameVersionName": "Fabric"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Client"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Server"
+            }
+          ],
+          "gameVersions": [
+            "Fabric",
+            "Client",
+            "1.20.1",
+            "Server"
+          ],
+          "fileFingerprint": 1548643514,
+          "modId": 450659
+        },
+        "modrinthProject": {
+          "id": "rGWEHQrP",
+          "slug": "small-ships",
+          "project_type": "mod",
+          "team": "9XduuTDC",
+          "title": "Small Ships",
+          "description": "Vanilla friendly Ships for Minecraft. Now with cannons!",
+          "body": "<img src=\"https://i.imgur.com/V1c4392.png\" alt=\"\" />\n\n<h1>Showcase</h1>\n<p><img src=\"https://i.imgur.com/XfsA0QO.png\" alt=\"\" /></p>\n<p><img src=\"https://i.imgur.com/macrlW5.png\" alt=\"\" /></p>\n<p><img src=\"https://i.imgur.com/OIEce55.png\" alt=\"\" /></p>\n<p><strong>Want&nbsp;to&nbsp;host&nbsp;a&nbsp;server to play Small Ships with your friends?</strong></p>\n<p><img src=\"https://bloom.host/assets/images/Comp_2.gif\" alt=\"\" /></p>\n<p><strong>Rent&nbsp;your&nbsp;own&nbsp;minecraft server&nbsp;<a href=\"https://www.curseforge.com/linkout?remoteUrl=https%253a%252f%252fbilling.bloom.host%252faff.php%253faff%253d5\">here</a></strong></p>\n<p><strong>More&nbsp;information&nbsp;on&nbsp;how&nbsp;to&nbsp;set&nbsp;it&nbsp;up&nbsp;<a href=\"https://www.curseforge.com/linkout?remoteUrl=https%253a%252f%252fdocs.bloom.host%252f\">here</a></strong></p>\n<p><strong>Join my Discord!</strong></p>\n<p><a href=\"https://discord.gg/NG8vuDekTT\"><strong><img src=\"https://i.imgur.com/TtWzxhu.png\" alt=\"\" /></strong></a></p>\n<p><em><strong>check out my other mods:</strong></em></p>\n<p><a href=\"https://www.curseforge.com/minecraft/mc-mods/workers\"><em><strong><img src=\"https://i.imgur.com/bMd1xPZ.png\" alt=\"\" /></strong></em></a></p>\n<p><strong>Hire Villager Workers and&nbsp;let them farm, mine or even fish for you!</strong></p>\n<p><a href=\"https://www.curseforge.com/minecraft/mc-mods/recruits\"><img src=\"https://i.imgur.com/sPzS3TG.png\" alt=\"\" /></a></p>\n<p><strong>Recruit Villagers and command them into war!</strong></p>\n<h2><strong>Explanation</strong></h2>\n<p>Place the ship far away from you, into water. They need space to spawn.</p>\n<p>Use Right Click to sit in the ship.</p>\n<p><strong>While</strong><strong>sitting in the Ship:</strong>&nbsp; &nbsp;</p>\n<p>Press \"R\" to open/close the Ships Sail.&nbsp;</p>\n<p>Or Press \"W\" to increase and \"S\" to decrease the Sail.</p>\n<p>In Thrid Person View with F5 , scroll with you Mousewheel to change the distance of the View.</p>\n<p>To dismount a entity from the ship, right-click the entity.</p>\n<p>To open the Inventory outside of the ship,&nbsp; use crouch+right-click on the ship.</p>\n<p><strong>Cannons:</strong></p>\n<p>To add a cannon on your ship you need to right click the ship with a cannon in your hand.</p>\n<p>To shoot the cannon, you need to look in the direction of the cannon and press \"space\", while sitting in the ship. Note that you need to have a round shot in the ships inventory.</p>\n<p>The Key-Bind can be changed in the options. To remove a cannon, right-click the ship with a pickaxe.</p>\n\n<h2><strong>Detailed Features</strong></h2>\n<p><strong>Ship performance:</strong><br />In terms of ship performance, cold-water ships will be 10% faster in cold water biomes but 10% slower in warm water biomes. Conversely, warm-water ships will be 10% faster in warm water biomes but 10% slower in cold water biomes. It's important to note that the speed of the ships will also be affected by the number of cannons on board, reducing speed by 2.5% per cannon. Additionally, cargo on board can decrease the ship's speed by up to 10%.<br />&nbsp;<br /><strong>Sail coloring:</strong> You can customize sails by coloring them with dye items. Simply right-click the ship with the dye in your hand.</p>\n<p><strong>Ship repairing:</strong> You can repair your ship with iron nuggets and planks. Simply right-click the ship with the iron nuggets in your hand, you need to have a good supply of planks in your inventory.</p>\n<p><strong>Ship naming:</strong> You can name your ship with a name-tag. Simply right-click the ship with the name-tag in your hand.</p>\n<p>\n  <strong>Leashing: (1.18.2 to 1.20.6)</strong> Leashing allows players to tether ships. Leashed ships cannot be directly controlled, and only ships without a player on the controller seat can be leashed.\n  <br />\n  <img src=\"https://i.imgur.com/yhrQyxj.png\" alt=\"\" />\n</p>\n\n<h3><strong>Cog:</strong></h3>\n<p>The Cog is a medieval trade ship used in cold water biomes. It offers 108 item slots and can mount up to 4 cannons for defense. It can accommodate up to 5 passengers, including the captain. Although its maneuverability may not be the best, it is an excellent trading vessel with a top speed of 40 km/h and a sturdy hull strength of 300 hp.</p>\n<p><img src=\"https://i.imgur.com/NVoZq47.png\" alt=\"\" /></p>\n\n<h3><strong>Brigg:</strong></h3>\n<p>The Brigg is another medieval two-masted trade ship designed for cold water biomes. It provides 162 item slots and can mount up to 6 cannons for defense. With space for up to 11 passengers, including the captain, it excels in both trading and naval battles. The Brig has a top speed of 45 km/h, good maneuverability, and a hull strength of 400 hp.</p>\n<p><img src=\"https://i.imgur.com/MkPzrjP.png\" alt=\"\" /></p>\n\n<h3><strong>Galley:</strong></h3>\n<p>The Galley is specifically designed for warm water environments and naval warfare. It has 54 slots for items, exceptional maneuverability, and a top speed of 40 km/h. With seating for 9 passengers, including the captain and hull strength of 200 hp, it proves to be a promising vessel in various situations.</p>\n<p><img src=\"https://i.imgur.com/NsnNJEZ.png\" alt=\"\" /></p>\n\n<h3><strong>Drakkar:</strong></h3>\n<p>The Drakkar is specifically designed for cold water environments. It has 54 slots for items, exceptional maneuverability, and a top speed of 30 km/h. With seating for 11 passengers, including the captain and hull strength of 200 hp. Shields, also with banner patterns, can be attatched to grand additional defense. With its ice breaker abbility, it proves to be a promising vessel in cold and icy oceans.</p>\n<p><img src=\"https://i.imgur.com/XfsA0QO.png\" alt=\"\" /> &nbsp;</p>\n\n<h2><strong>Crafting</strong></h2>\n<p><strong>Sail:</strong></p>\n<p><strong><img src=\"https://i.imgur.com/Tsc64Lk.png\" alt=\"\" /></strong></p>\n<p><strong>Cannon:</strong></p>\n<p><strong><img src=\"https://i.imgur.com/WmbTriI.png\" alt=\"\" /></strong></p>\n<p><strong>Cannon Ball:</strong></p>\n<p><img src=\"https://i.imgur.com/8HbdFK6.png\" alt=\"\" /></p>\n<p><strong>Cog:</strong></p>\n<p><img src=\"https://i.imgur.com/m8yFnWV.png\" alt=\"\" /></p>\n<p><strong>Brigg:</strong><br /><img src=\"https://i.imgur.com/vbCF3ze.png\" alt=\"\" /></p>\n<p><strong>Galley:</strong><br /><img src=\"https://i.imgur.com/LM0VF0x.png\" alt=\"\" /></p>\n<p><strong>Drakkar:</strong><br /><img src=\"https://i.imgur.com/EkCyM1W.png\" alt=\"\" /></p>\n\n<h2>Small Ships Wiki</h2>\n<a href=\"https://github.com/talhanation/wiki/wiki/Small-Ships-Wiki\">\n  <p>Visit the wiki to get a better overview!</p>\n<a/>\n\n<h2><strong>Modpack permissions</strong></h2>\n<p>You are allowed to use the Small Ships Mod in any kind of modpack, as long as you link back to this page and don&rsquo;t make any money of the modpack.&nbsp;undefined</p>",
+          "published": "2023-05-30T18:12:58.265976Z",
+          "updated": "2024-08-10T04:28:23.018480Z",
+          "status": "approved",
+          "license": {
+            "id": "LicenseRef-All-Rights-Reserved",
+            "name": "",
+            "url": "https://github.com/talhanation/smallships/blob/main/LICENSE.txt"
+          },
+          "client_side": "required",
+          "server_side": "required",
+          "categories": [
+            "adventure",
+            "game-mechanics",
+            "transportation"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/rGWEHQrP/c558c0c537914ca7b14b9b877ca4d24d1d103153.png",
+          "issues_url": "https://discord.gg/nGDC7FEUfR",
+          "wiki_url": "https://github.com/talhanation/wiki/wiki/Small-Ships-Wiki",
+          "discord_url": "https://discord.gg/NG8vuDekTT",
+          "donation_urls": [],
+          "gallery": [
+            {
+              "url": "https://cdn.modrinth.com/data/rGWEHQrP/images/907c9a9d7518a855ebf09605b35f2d39f4abc3b0.jpeg",
+              "featured": false,
+              "title": "sunset",
+              "description": "brigg sailing towards the horizon",
+              "created": "2023-05-30T20:02:37.796625Z",
+              "ordering": 0.0
+            }
+          ]
+        },
+        "modrinthVersion": {
+          "id": "gpbYUuEr",
+          "project_id": "rGWEHQrP",
+          "author_id": "GfKge7Tb",
+          "name": "Small Ships 2.0.0-b1.4 [Fabric 1.20.1]",
+          "version_number": "2.0.0-b1.4",
+          "changelog": "+ fix bamboo and cherry recipe advancements",
+          "date_published": "2024-07-26T04:04:30.242631Z",
+          "version_type": "beta",
+          "files": [
+            {
+              "hashes": {
+                "sha1": "6c12ee505822a6f28e4bd027c4107d59eaecbf2e",
+                "sha512": "a08da465ff2fdd69fea612e33fb209d349925e8b8b268aede484e624949677c1b1a39e281f7aaeb21687d5068bbe0e5319d41b867149a789b4421b5b96136b73"
+              },
+              "url": "https://cdn.modrinth.com/data/rGWEHQrP/versions/gpbYUuEr/smallships-fabric-1.20.1-2.0.0-b1.4.jar",
+              "filename": "smallships-fabric-1.20.1-2.0.0-b1.4.jar",
+              "primary": true,
+              "size": 2160482
+            }
+          ],
+          "dependencies": [
+            {
+              "project_id": "P7dR8mSH",
+              "dependency_type": "required"
+            },
+            {
+              "project_id": "ohNO6lps"
+            }
+          ],
+          "game_versions": [
+            "1.20.1"
+          ],
+          "loaders": [
+            "fabric"
+          ]
+        }
+      },
+      {
+        "name": "Sophisticated Core (Unofficial Fabric port)",
+        "version": "Sophisticated Core 0.5.109+mc1.20.1-build.104",
+        "optional": true,
+        "file": "sophisticatedcore-0.5.109+mc1.20.1-SNAPSHOT-build.104.jar",
+        "type": "mods",
+        "description": "This is the Unofficial Fabric version of Sophisticated Core",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 979317,
+        "curseForgeFileId": 5450729,
+        "curseForgeProject": {
+          "id": 979317,
+          "name": "Sophisticated Core (Unofficial Fabric port)",
+          "authors": [
+            {
+              "id": 105721409,
+              "name": "salandora",
+              "url": "https://www.curseforge.com/members/salandora"
+            },
+            {
+              "id": 13011800,
+              "name": "P3pp3rF1y",
+              "url": "https://www.curseforge.com/members/p3pp3rf1y"
+            }
+          ],
+          "gameId": 432,
+          "summary": "The Unofficial Fabric version of the Sophisticated Core Library",
+          "categories": [
+            {
+              "name": "API and Library",
+              "slug": "library-api",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/library-api",
+              "dateModified": "2014-05-23T03:21:44.06Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 421,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/36/635351496947765531.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 421,
+          "classId": 6,
+          "slug": "sophisticated-core-unofficial-fabric-port",
+          "isFeatured": false,
+          "dateModified": "2024-06-20T19:36:19.187Z",
+          "dateCreated": "2024-02-25T08:57:35.23Z",
+          "dateReleased": "2024-06-20T19:10:09.173Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/sophisticated-core-unofficial-fabric-port",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/Salandora/SophisticatedCore/issues",
+            "sourceUrl": "https://github.com/Salandora/SophisticatedCore"
+          },
+          "logo": {
+            "id": 953609,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/953/609/256/256/638444484403169250.png",
+            "title": "638444484403169250.png",
+            "url": "https://media.forgecdn.net/avatars/953/609/638444484403169250.png",
+            "modId": 979317
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 5450729
+        },
+        "curseForgeFile": {
+          "id": 5450729,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "sophisticatedcore-0.5.109+mc1.20.1-SNAPSHOT-build.104.jar",
+          "fileName": "sophisticatedcore-0.5.109+mc1.20.1-SNAPSHOT-build.104.jar",
+          "releaseType": 2,
+          "fileStatus": 4,
+          "fileDate": "2024-06-20T19:10:09.173Z",
+          "fileLength": 2208193,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 306612,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 696251,
+              "relationType": 1
+            },
+            {
+              "fileId": 0,
+              "modId": 547434,
+              "relationType": 1
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 2886637197,
+              "name": "fabric.mod.json"
+            },
+            {
+              "fingerprint": 3737962659,
+              "name": "sophisticatedcore.accesswidener"
+            },
+            {
+              "fingerprint": 896519691,
+              "name": "porting_lib"
+            },
+            {
+              "fingerprint": 2226923820,
+              "name": "LICENSE_sophisticatedcore"
+            },
+            {
+              "fingerprint": 1428025864,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 3283456239,
+              "name": "SophisticatedCoreFabric.png"
+            },
+            {
+              "fingerprint": 2582676618,
+              "name": "net"
+            },
+            {
+              "fingerprint": 3955604244,
+              "name": "data"
+            },
+            {
+              "fingerprint": 587268843,
+              "name": "sophisticatedcore-refmap.json"
+            },
+            {
+              "fingerprint": 3654564944,
+              "name": "sophisticatedcore.mixins.json"
+            },
+            {
+              "fingerprint": 3640101168,
+              "name": "pack.mcmeta"
+            },
+            {
+              "fingerprint": 1167240197,
+              "name": "compat"
+            },
+            {
+              "fingerprint": 196824727,
+              "name": "META-INF"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "6115c54fd7eec1f440494931726ae0034af407af",
+              "algo": 1
+            },
+            {
+              "value": "89dfc2fe0eb54bc03e32b17e110e2736",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-09-01T00:00:00Z",
+              "gameVersionName": "Fabric"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Client"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Server"
+            }
+          ],
+          "gameVersions": [
+            "Fabric",
+            "Client",
+            "1.20.1",
+            "Server"
+          ],
+          "fileFingerprint": 1519638835,
+          "modId": 979317
+        },
+        "modrinthProject": {
+          "id": "9jxwkYQL",
+          "slug": "sophisticated-core-(unofficial-fabric-port)",
+          "project_type": "mod",
+          "team": "1DT1DN0E",
+          "title": "Sophisticated Core (Unofficial Fabric port)",
+          "description": "This is the Unofficial Fabric version of Sophisticated Core",
+          "body": "## ATTENTION: The bug has been found and a new update is released.\n\nThis is the Unofficial Fabric version of Sophisticated Core\n\nFor more information please check the official page of [Sophisticated Core (CurseForge)](https://www.curseforge.com/minecraft/mc-mods/sophisticated-core) by P3pp3rF1y.\n \nThe 1.19.4 port is using a heavily modified version of [Porting-Lib](https://modrinth.com/mod/porting_lib) the modified version is embedded and can be found [here](https://github.com/Salandora/Porting-Lib).\n\nAll other versions include unmodified Porting-Lib.",
+          "published": "2024-04-28T12:53:55.350250Z",
+          "updated": "2024-06-20T19:51:37.511623Z",
+          "status": "approved",
+          "license": {
+            "id": "LGPL-3.0-only",
+            "name": "GNU Lesser General Public License v3.0 only"
+          },
+          "client_side": "required",
+          "server_side": "required",
+          "categories": [
+            "library"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/9jxwkYQL/1cdcf75010fe58c81e40085534750f2b7236d08a.png",
+          "issues_url": "https://github.com/Salandora/SophisticatedCore/issues",
+          "source_url": "https://github.com/Salandora/SophisticatedCore",
+          "donation_urls": [],
+          "gallery": [
+            {
+              "url": "https://cdn.modrinth.com/data/9jxwkYQL/images/1cdcf75010fe58c81e40085534750f2b7236d08a.png",
+              "featured": true,
+              "created": "2024-04-28T14:35:56.714528Z",
+              "ordering": 0.0
+            }
+          ]
+        },
+        "modrinthVersion": {
+          "id": "w3jSSP5U",
+          "project_id": "9jxwkYQL",
+          "author_id": "pwgmrjoy",
+          "name": "Sophisticated Core 0.5.109+mc1.20.1-build.104",
+          "version_number": "0.5.109+mc1.20.1-build.104",
+          "changelog": "Another bugfix release of SophisticatedCore for Fabric for MC 1.20.1.  \nIt is based on Version 0.5.108 of SophisticatedCore.\n\n### **Fixes**\n\n*   Check if the items are empty before trying to extract them. Fixes a crash with Void Upgrade in GUI mode\n*   Fix litematica server side due to an accidentally used class from malilib.\n*   Fixes an incompatibility with other storage mods extracting items via the extract function that was not implemented\n*   Fix crashes in the FilteredItemHandler\n*   Renamed porting\\_lib loot to base and added the level snapshot functionality. Fixes a bug with the pump upgrade crashing the game whenever it tries to place a fluid.\n*   Fix a bug with Limited Barrels and Void upgrade not working properly. Items where not inserted when right-clicking and also not voided.\n*   Fix a bug where items from the compression upgrade do not show up for pulling out and also did not show up in jade\n*   **Fixes an item loss when all slots are filled and only memory slots are left empty**\n*   **Fixes a major item loss issue in the InventoryHandler**",
+          "date_published": "2024-06-20T19:51:38.058567Z",
+          "version_type": "beta",
+          "files": [
+            {
+              "hashes": {
+                "sha512": "be08e6ed5b52d48f4227a7a86eddb7b9fab909abaf1e73f3e1be0a77786716cea9d7cb19d28f46a2cd9137a513fc6c15fdfcb4aab66921933f10d7128d6489b4",
+                "sha1": "6115c54fd7eec1f440494931726ae0034af407af"
+              },
+              "url": "https://cdn.modrinth.com/data/9jxwkYQL/versions/w3jSSP5U/sophisticatedcore-0.5.109%2Bmc1.20.1-SNAPSHOT-build.104.jar",
+              "filename": "sophisticatedcore-0.5.109+mc1.20.1-SNAPSHOT-build.104.jar",
+              "primary": true,
+              "size": 2208193
+            }
+          ],
+          "dependencies": [
+            {
+              "project_id": "P7dR8mSH",
+              "dependency_type": "required"
+            },
+            {
+              "project_id": "ohNO6lps"
+            },
+            {
+              "project_id": "tEJPA4Ty"
+            }
+          ],
+          "game_versions": [
+            "1.20.1"
+          ],
+          "loaders": [
+            "fabric"
+          ]
+        }
+      },
+      {
+        "name": "Sophisticated Backpacks (Unoffical Fabric port)",
+        "version": "Sophisticated Backpacks 3.19.5+mc1.20.1-build.104",
+        "optional": true,
+        "file": "sophisticatedbackpacks-3.19.5+mc1.20.1-SNAPSHOT-build.104.jar",
+        "type": "mods",
+        "description": "This is the Unofficial Fabric version of Sophisticated Backpacks.",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 979322,
+        "curseForgeFileId": 5450748,
+        "curseForgeProject": {
+          "id": 979322,
+          "name": "Sophisticated Backpacks (Unofficial Fabric port)",
+          "authors": [
+            {
+              "id": 105721409,
+              "name": "salandora",
+              "url": "https://www.curseforge.com/members/salandora"
+            },
+            {
+              "id": 13011800,
+              "name": "P3pp3rF1y",
+              "url": "https://www.curseforge.com/members/p3pp3rf1y"
+            }
+          ],
+          "gameId": 432,
+          "summary": "The Unofficial Fabric version of Sophisticated Backpacks",
+          "categories": [
+            {
+              "name": "Armor, Tools, and Weapons",
+              "slug": "armor-weapons-tools",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/armor-weapons-tools",
+              "dateModified": "2014-05-08T17:44:39.057Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 434,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/47/635351498790409758.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Storage",
+              "slug": "storage",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/storage",
+              "dateModified": "2014-05-08T17:41:17.203Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 420,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/35/635351496772023801.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 434,
+          "classId": 6,
+          "slug": "sophisticated-backpacks-unofficial-fabric-port",
+          "isFeatured": false,
+          "dateModified": "2024-06-20T19:40:30.083Z",
+          "dateCreated": "2024-02-25T09:18:13.703Z",
+          "dateReleased": "2024-06-20T19:15:54.317Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks-unofficial-fabric-port",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/Salandora/SophisticatedBackpacks/issues",
+            "sourceUrl": "https://github.com/Salandora/SophisticatedBackpacks"
+          },
+          "logo": {
+            "id": 953614,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/953/614/256/256/638444494937273439.png",
+            "title": "638444494937273439.png",
+            "url": "https://media.forgecdn.net/avatars/953/614/638444494937273439.png",
+            "modId": 979322
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 5450748
+        },
+        "curseForgeFile": {
+          "id": 5450748,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "sophisticatedbackpacks-3.19.5+mc1.20.1-SNAPSHOT-build.104.jar",
+          "fileName": "sophisticatedbackpacks-3.19.5+mc1.20.1-SNAPSHOT-build.104.jar",
+          "releaseType": 2,
+          "fileStatus": 4,
+          "fileDate": "2024-06-20T19:15:54.317Z",
+          "fileLength": 2144085,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 502516,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 238222,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 421839,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 324717,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 310111,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 341284,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 580555,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 979317,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 306612,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 695433,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 547434,
+              "relationType": 1
+            },
+            {
+              "fileId": 0,
+              "modId": 696251,
+              "relationType": 1
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 522840573,
+              "name": "fabric.mod.json"
+            },
+            {
+              "fingerprint": 3033311137,
+              "name": "sophisticatedbackpacks-refmap.json"
+            },
+            {
+              "fingerprint": 253346895,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 2793170532,
+              "name": "net"
+            },
+            {
+              "fingerprint": 1988248058,
+              "name": "data"
+            },
+            {
+              "fingerprint": 3299441793,
+              "name": "SophisticatedBackpacksFabric.png"
+            },
+            {
+              "fingerprint": 1102936719,
+              "name": "pack.mcmeta"
+            },
+            {
+              "fingerprint": 1071083120,
+              "name": "compat"
+            },
+            {
+              "fingerprint": 1533506236,
+              "name": "logo.png"
+            },
+            {
+              "fingerprint": 1267678373,
+              "name": "sophisticatedbackpacks.mixins.json"
+            },
+            {
+              "fingerprint": 2285079336,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 2226923820,
+              "name": "LICENSE_sophisticatedbackpacks"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "ac80455db96f2b55a3e7342b26638b17ba8dec4e",
+              "algo": 1
+            },
+            {
+              "value": "0b32fa21dd53dd23a2471aff4a47d334",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-09-01T00:00:00Z",
+              "gameVersionName": "Fabric"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Client"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Server"
+            }
+          ],
+          "gameVersions": [
+            "Fabric",
+            "Client",
+            "1.20.1",
+            "Server"
+          ],
+          "fileFingerprint": 2165970649,
+          "modId": 979322
+        },
+        "modrinthProject": {
+          "id": "ouNrBQtq",
+          "slug": "sophisticated-backpacks-(unoffical-fabric-port)",
+          "project_type": "mod",
+          "team": "L8ZMkJI5",
+          "title": "Sophisticated Backpacks (Unoffical Fabric port)",
+          "description": "This is the Unofficial Fabric version of Sophisticated Backpacks.",
+          "body": "## ATTENTION: The bug has been found and a new update is released.\n\nThis is the Unofficial Fabric version of Sophisticated Backpacks\n\nFor more information please check the official page of [Sophisticated Backpacks (CurseForge)](https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks) by P3pp3rF1y.\n\nThis mod needs [Sophisticated Core (Unofficial Fabric Port)](https://modrinth.com/mod/sophisticated-core-(unofficial-fabric-port)).\n\n\n**[Indium](https://modrinth.com/mod/indium) is required if you use Sodium!**\n\n\nThe 1.19.4 port is using a heavily modified version of [Porting-Lib](https://modrinth.com/mod/porting_lib) the modified version is embedded and can be found [here](https://github.com/Salandora/Porting-Lib).\n\nAll other versions include unmodified Porting-Lib.\n\nLooking for a storage mod too? Checkout [Sophisticated Storage (Unofficial Fabric Port)!](https://modrinth.com/mod/sophisticated-storage-(unofficial-fabric-port))",
+          "published": "2024-04-28T12:57:55.663801Z",
+          "updated": "2024-06-20T20:05:49.106760Z",
+          "status": "approved",
+          "license": {
+            "id": "LGPL-3.0-only",
+            "name": "GNU Lesser General Public License v3.0 only"
+          },
+          "client_side": "required",
+          "server_side": "required",
+          "categories": [
+            "equipment",
+            "storage"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/ouNrBQtq/56b67d5dca36a29d363c74b78c33f4458b1bdb6b.png",
+          "issues_url": "https://github.com/Salandora/SophisticatedBackpacks/issues",
+          "source_url": "https://github.com/Salandora/SophisticatedBackpacks",
+          "donation_urls": [],
+          "gallery": [
+            {
+              "url": "https://cdn.modrinth.com/data/ouNrBQtq/images/47deb631107067c2377fd7551643df3a0da7de67.png",
+              "featured": true,
+              "created": "2024-04-28T14:34:51.094343Z",
+              "ordering": 0.0
+            }
+          ]
+        },
+        "modrinthVersion": {
+          "id": "lbSRE8Te",
+          "project_id": "ouNrBQtq",
+          "author_id": "pwgmrjoy",
+          "name": "Sophisticated Backpacks 3.19.5+mc1.20.1-build.104",
+          "version_number": "3.19.5+mc1.20.1-build.104",
+          "changelog": "Another bugfix release of SophisticatedBackpacks for Fabric for MC 1.19.2.  \nIt is based on Version 3.19.4 of SophisticatedBackpacks.\n\n**Don't forget to update SophisticatedCore!**\n\n### General\n\n*   ModernKeybinding is no longer a hard dependency, but optional\n\n### Fixes\n\n*   Trinket compatibility causing a crash when the TrinketInventory was cleared\n*   Fix another compatibility issue with repurposed structures",
+          "date_published": "2024-06-20T20:05:50.043773Z",
+          "version_type": "beta",
+          "files": [
+            {
+              "hashes": {
+                "sha512": "b9fbd1f8550c8be9cd12161a403cafafbd6f4ec774cc2ea7e64844014232a75a6cc3ca7f913a3e59116c4ff2c2c9b219bcb8840db65b814d493a5ccfa5f03070",
+                "sha1": "ac80455db96f2b55a3e7342b26638b17ba8dec4e"
+              },
+              "url": "https://cdn.modrinth.com/data/ouNrBQtq/versions/lbSRE8Te/sophisticatedbackpacks-3.19.5%2Bmc1.20.1-SNAPSHOT-build.104.jar",
+              "filename": "sophisticatedbackpacks-3.19.5+mc1.20.1-SNAPSHOT-build.104.jar",
+              "primary": true,
+              "size": 2144085
+            }
+          ],
+          "dependencies": [
+            {
+              "project_id": "9jxwkYQL",
+              "dependency_type": "required"
+            },
+            {
+              "project_id": "P7dR8mSH",
+              "dependency_type": "required"
+            },
+            {
+              "project_id": "ohNO6lps"
+            },
+            {
+              "project_id": "tEJPA4Ty"
+            }
+          ],
+          "game_versions": [
+            "1.20.1"
+          ],
+          "loaders": [
+            "fabric"
+          ]
+        }
       }
     ],
     "ignoredUpdates": [],
     "ignoreAllUpdates": false,
     "vanillaInstance": true,
-    "lastPlayed": 1724609159619,
-    "numPlays": 26
+    "lastPlayed": 1724610513569,
+    "numPlays": 27
   },
   "id": "1.20.1",
   "complianceLevel": 1,
