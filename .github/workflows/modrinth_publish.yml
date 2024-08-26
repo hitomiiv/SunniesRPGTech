@@ -1,3 +1,5 @@
+name: Publish to Modrinth
+
 on:
   release:
     types: [ published ]
