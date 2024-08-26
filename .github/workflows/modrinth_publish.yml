@@ -19,7 +19,7 @@ jobs:
       with:
         token: ${{ secrets.MODRINTH_TOKEN }}
         project: hEe6vPdd
-        file: '${GITHUB_WORKSPACE}/Sunnie.s.RPG.Tech.1.20.1.mrpack'
+        file: ${{ github.workspace }}/Sunnie.s.RPG.Tech.1.20.1.mrpack
         changelog: ${{ github.event.release.body }}
         loaders: fabric
         api-domain: api.modrinth.com
