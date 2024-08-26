@@ -1,4 +1,4 @@
-name: Create and publish release
+name: Create release
 
 on:
   push:
@@ -21,7 +21,7 @@ jobs:
           sparse-checkout-cone-mode: false
       - name: Create release
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.PAT }}
           tag: ${{ github.ref_name }}
         run: |
           gh release create "$tag" "${GITHUB_WORKSPACE}/Sunnie's RPG Tech 1.20.1.mrpack" \
@@ -29,17 +29,3 @@ jobs:
               --title="${tag}" \
               --generate-notes
 
-  publish:
-    name: Publish to Modrinth
-    needs: release
-    runs-on: ubuntu-latest
-    steps:
-    - name: Publish to Modrinth
-      uses: cloudnode-pro/modrinth-publish@1.0.0
-      with:
-        token: ${{ secrets.MODRINTH_TOKEN }}
-        project: hEe6vPdd
-        file: target/Sunnie's RPG Tech 1.20.1.mrpack
-        changelog: ${{ github.event.release.body }}
-        loaders: fabric
-        api-domain: api.modrinth.com

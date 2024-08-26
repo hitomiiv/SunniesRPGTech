@@ -1,0 +1,20 @@
+name: Publish to Modrinth
+
+on:
+  release:
+    types: [ published ]
+
+jobs:
+  publish:
+    name: Publish to Modrinth
+    runs-on: ubuntu-latest
+    steps:
+    - name: Publish to Modrinth
+      uses: cloudnode-pro/modrinth-publish@1.0.0
+      with:
+        token: ${{ secrets.MODRINTH_TOKEN }}
+        project: hEe6vPdd
+        file: target/Sunnie's RPG Tech 1.20.1.mrpack
+        changelog: ${{ github.event.release.body }}
+        loaders: fabric
+        api-domain: api.modrinth.com
