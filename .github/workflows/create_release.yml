@@ -13,12 +13,18 @@ jobs:
     name: Release pushed tag
     runs-on: ubuntu-latest
     steps:
+      - name: Get mrpack file
+        uses: actions/checkout@v4
+        with:
+          sparse-checkout: |
+            Sunnie's RPG Tech 1.20.1.mrpack
+          sparse-checkout-cone-mode: false
       - name: Create release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           tag: ${{ github.ref_name }}
         run: |
-          gh release create "$tag" "${GITHUB_REPOSITORY}/Sunnie's RPG Tech 1.20.1.mrpack" \
+          gh release create "$tag" "${GITHUB_WORKSPACE}/Sunnie's RPG Tech 1.20.1.mrpack" \
               --repo="$GITHUB_REPOSITORY" \
               --title="${tag}" \
               --generate-notes
