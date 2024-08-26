@@ -8,6 +8,7 @@
 #!/mods/
 !/config/
 !.gitignore
+!/.github/
 !/options.txt
 !/instance.json
 !/*.mrpack
