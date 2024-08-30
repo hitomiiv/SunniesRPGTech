@@ -59442,13 +59442,786 @@
             "quilt"
           ]
         }
+      },
+      {
+        "name": "Pickup Notifications",
+        "version": "1.5.2 for 1.20-1.20.1",
+        "optional": true,
+        "file": "pickupnotifications-1.5.2+1.20.jar",
+        "type": "mods",
+        "description": "Show popup notifications when you pick up items.",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "modrinthProject": {
+          "id": "wWiJfmyy",
+          "slug": "pickup-notifications",
+          "project_type": "mod",
+          "team": "Jz5BiFOb",
+          "title": "Pickup Notifications",
+          "description": "Show popup notifications when you pick up items.",
+          "body": "# Pickup Notifications\n\n![](https://img.shields.io/badge/Loader-Fabric-%23313e51?style=for-the-badge)\n![](https://img.shields.io/badge/MC-1.20--1.20.4%20|%201.19.x%20|%201.18.2-%23313e51?style=for-the-badge)\n![](https://img.shields.io/badge/Side-Client%20+%20Server-%23313e51?style=for-the-badge)\n\n<a href=\"https://ko-fi.com/roundaround\">\n  <img src=\"https://gistcdn.githack.com/Roundaround/98ecf33ee2e067ca7d7cea091de04307/raw/ef54ea02d444dc0ebff3018a34777ece8f71347a/ko-fi_button.svg\" />\n</a>\n\n---\n\nShow popup notifications when you pick up items. Shows the items stripped of all unique data (enchantments, name, condition) and shows the raw item icon and name. As of 1.1.0, the mod is now required to be installed on the server (in addition to the client) to work in multiplayer!\n\n<img src=\"https://cdn.modrinth.com/data/wWiJfmyy/images/39d92e7ed23270ebe50fa0953a75691cd133a226.png\" alt=\"\" />\n\n### Configuration\n\nYou can configure the behavior of the mod from the `pickupnotifications.toml` file within your config folder. If you have ModMenu installed, you can also access the configuration through the UI in ModMenu's mod list!\n\n`modEnabled`: `true|false` - Simple toggle for the mod! Set to `false` to disable.\n\n`guiAlignment`: `\"top_left\"|\"top_right\"|\"bottom_left\"|\"bottom_right\"` - Where to position the notifications.\n\n`guiOffset`: `\"(<Integer>,<Integer>)\"` - The amount to offset the notifications from the edge of the screen.\n\n`guiScale`: `Decimal` - Scale to render notifications at.\n\n`maxNotifications`: `Integer` - How many notifications can be on the screen at a time. Additional notifications will be queued up and shown once there is room.\n\n`iconAlignment`: `\"outside\"|\"inside\"|\"left\"|\"right\"` - Whether the item icons should appear on the 'left' or  'right' of notifications, always on the 'outside' (left for left-aligned, right for right-aligned), or always on the 'inside' of notifications.\n\n`showUniqueInfo`: `true|false` - Whether to show custom names, rarity, and enchantments in the notifications.\n\n`renderBackground`: `true|false` - Whether to render the background behind notifications.\n\n`backgroundOpacity`: `Decimal` - Opacity of the notification background color.\n\n`renderShadow`: `true|false` - Whether to render text shadow in notifications.\n\n#### Version 1.2.4\n\n`guiOffsetX`: `Integer` - The amount to offset the notifications from the side of the screen.\n\n`guiOffsetY`: `Integer` - The amount to offset the notifications from the top or bottom of the screen.",
+          "published": "2022-06-06T20:01:17.509607Z",
+          "updated": "2023-12-25T21:25:03.274036Z",
+          "status": "approved",
+          "license": {
+            "id": "MIT",
+            "name": "MIT License"
+          },
+          "client_side": "required",
+          "server_side": "required",
+          "categories": [
+            "utility"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/wWiJfmyy/icon.png",
+          "issues_url": "https://github.com/Roundaround/mc-fabric-pickup-notifications/issues",
+          "source_url": "https://github.com/Roundaround/mc-fabric-pickup-notifications",
+          "donation_urls": [
+            {
+              "id": "ko-fi",
+              "platform": "Ko-fi",
+              "url": "https://ko-fi.com/roundaround"
+            }
+          ],
+          "gallery": [
+            {
+              "url": "https://cdn.modrinth.com/data/wWiJfmyy/images/39d92e7ed23270ebe50fa0953a75691cd133a226.png",
+              "featured": false,
+              "title": "Demonstration",
+              "created": "2022-06-06T20:01:15.552072Z",
+              "ordering": 0.0
+            }
+          ]
+        },
+        "modrinthVersion": {
+          "id": "JDGK6lvV",
+          "project_id": "wWiJfmyy",
+          "author_id": "leBC4TgK",
+          "name": "1.5.2 for 1.20-1.20.1",
+          "version_number": "1.5.2",
+          "changelog": "- Fixed issue that could cause game to crash when picking up a LOT of items all at once (backported from version 1.6.1).",
+          "date_published": "2023-12-25T20:12:22.363825Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha512": "ea78239f46d166af723268ddb77149de806f051c3e599a8a83e2e61c402e4ffe244d770067e87b773cfd14eced683e651c68ff8f5e0e6c74aba3773ae9a2fb9b",
+                "sha1": "eab15357ca4ccb578da59993716371d21a024983"
+              },
+              "url": "https://cdn.modrinth.com/data/wWiJfmyy/versions/JDGK6lvV/pickupnotifications-1.5.2%2B1.20.jar",
+              "filename": "pickupnotifications-1.5.2+1.20.jar",
+              "primary": true,
+              "size": 649315
+            }
+          ],
+          "dependencies": [],
+          "game_versions": [
+            "1.20",
+            "1.20.1"
+          ],
+          "loaders": [
+            "fabric",
+            "quilt"
+          ]
+        }
+      },
+      {
+        "name": "Jade 🔍",
+        "version": "[Fabric 1.20.1] 11.11.0",
+        "optional": true,
+        "file": "Jade-1.20-fabric-11.11.0.jar",
+        "type": "mods",
+        "description": "Shows information about what you are looking at. (Hwyla/Waila fork for Minecraft 1.16+)",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 324717,
+        "curseForgeFileId": 5666690,
+        "curseForgeProject": {
+          "id": 324717,
+          "name": "Jade 🔍",
+          "authors": [
+            {
+              "id": 21286654,
+              "name": "Snownee",
+              "url": "https://www.curseforge.com/members/snownee"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Shows information about what you are looking at. (Hwyla/WAILA fork for Minecraft 1.16+)",
+          "categories": [
+            {
+              "name": "Utility & QoL",
+              "slug": "utility-qol",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/utility-qol",
+              "dateModified": "2021-11-17T11:45:09.143Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 5191,
+              "iconUrl": "https://media.forgecdn.net/avatars/456/558/637727379086405233.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Map and Information",
+              "slug": "map-information",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/map-information",
+              "dateModified": "2014-05-08T17:42:23.74Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 423,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/38/635351497437388438.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 423,
+          "classId": 6,
+          "slug": "jade",
+          "isFeatured": false,
+          "dateModified": "2024-08-28T18:35:08.437Z",
+          "dateCreated": "2019-06-19T05:06:23.563Z",
+          "dateReleased": "2024-08-28T18:28:43.69Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/jade",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/Snownee/Jade/issues?q=is%3Aissue",
+            "sourceUrl": "https://github.com/Snownee/Jade"
+          },
+          "logo": {
+            "id": 207323,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/207/323/256/256/636965628804677340.png",
+            "title": "636965628804677340.png",
+            "url": "https://media.forgecdn.net/avatars/207/323/636965628804677340.png",
+            "modId": 324717
+          },
+          "allowModDistribution": true,
+          "screenshots": [
+            {
+              "id": 254867,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/254/867/310/172/2019-06-19_18.png",
+              "title": "mob effects",
+              "url": "https://media.forgecdn.net/attachments/254/867/2019-06-19_18.png",
+              "modId": 324717
+            },
+            {
+              "id": 291527,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/291/527/310/172/tim20200511195706.png",
+              "title": "Command Block",
+              "url": "https://media.forgecdn.net/attachments/291/527/tim20200511195706.png",
+              "modId": 324717
+            },
+            {
+              "id": 291523,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/291/523/310/172/tim20200511195815.png",
+              "title": "Note Block",
+              "url": "https://media.forgecdn.net/attachments/291/523/tim20200511195815.png",
+              "modId": 324717
+            },
+            {
+              "id": 254866,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/254/866/310/172/2019-06-19_18.png",
+              "title": "horse stats",
+              "url": "https://media.forgecdn.net/attachments/254/866/2019-06-19_18.png",
+              "modId": 324717
+            },
+            {
+              "id": 254865,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/254/865/310/172/2019-06-19_18.png",
+              "title": "chest",
+              "url": "https://media.forgecdn.net/attachments/254/865/2019-06-19_18.png",
+              "modId": 324717
+            },
+            {
+              "id": 546809,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/546/809/310/172/6.gif",
+              "title": "Breaking Progress",
+              "url": "https://media.forgecdn.net/attachments/546/809/6.gif",
+              "modId": 324717
+            },
+            {
+              "id": 291521,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/291/521/310/172/tim20200511195828.png",
+              "title": "TNT",
+              "url": "https://media.forgecdn.net/attachments/291/521/tim20200511195828.png",
+              "modId": 324717
+            },
+            {
+              "id": 254864,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/254/864/310/172/2019-06-19_18.png",
+              "title": "item frame",
+              "url": "https://media.forgecdn.net/attachments/254/864/2019-06-19_18.png",
+              "modId": 324717
+            },
+            {
+              "id": 291522,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/291/522/310/172/tim20200511195823.png",
+              "title": "Beehive",
+              "url": "https://media.forgecdn.net/attachments/291/522/tim20200511195823.png",
+              "modId": 324717
+            },
+            {
+              "id": 291525,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/291/525/310/172/tim20200511195806.png",
+              "title": "Hide Mod Name",
+              "url": "https://media.forgecdn.net/attachments/291/525/tim20200511195806.png",
+              "modId": 324717
+            },
+            {
+              "id": 291526,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/291/526/310/172/tim20200511195756.png",
+              "title": "Armor Stand",
+              "url": "https://media.forgecdn.net/attachments/291/526/tim20200511195756.png",
+              "modId": 324717
+            },
+            {
+              "id": 254863,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/254/863/310/172/2019-06-19_18.png",
+              "title": "brewing stand",
+              "url": "https://media.forgecdn.net/attachments/254/863/2019-06-19_18.png",
+              "modId": 324717
+            },
+            {
+              "id": 291524,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/291/524/310/172/tim20200511195729.png",
+              "title": "Painting",
+              "url": "https://media.forgecdn.net/attachments/291/524/tim20200511195729.png",
+              "modId": 324717
+            }
+          ],
+          "mainFileId": 5639994
+        },
+        "curseForgeFile": {
+          "id": 5666690,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "[Fabric 1.20.1] 11.11.0",
+          "fileName": "Jade-1.20-fabric-11.11.0.jar",
+          "releaseType": 2,
+          "fileStatus": 4,
+          "fileDate": "2024-08-26T22:26:11.463Z",
+          "fileLength": 570166,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 238222,
+              "relationType": 2
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 1183320998,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 316591136,
+              "name": "pack.mcmeta"
+            },
+            {
+              "fingerprint": 101970034,
+              "name": "jade.mixins.json"
+            },
+            {
+              "fingerprint": 1723435461,
+              "name": "jade.accesswidener"
+            },
+            {
+              "fingerprint": 1859719455,
+              "name": "icon.png"
+            },
+            {
+              "fingerprint": 3757581978,
+              "name": "fabric.mod.json"
+            },
+            {
+              "fingerprint": 2350790481,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 3570273628,
+              "name": "jade.refmap.json"
+            },
+            {
+              "fingerprint": 3752317745,
+              "name": "snownee"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "a2980804c7d3570c6e799b2e3760d27be783bdf7",
+              "algo": 1
+            },
+            {
+              "value": "04eb36a1b93c9e2761a8bcb2ee9f0a47",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-09-01T00:00:00Z",
+              "gameVersionName": "Fabric"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020",
+              "gameVersion": "1.20",
+              "gameVersionReleaseDate": "2023-06-07T00:00:00Z",
+              "gameVersionName": "1.20"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-05-26T00:00:00Z",
+              "gameVersionName": "Quilt"
+            }
+          ],
+          "gameVersions": [
+            "Fabric",
+            "1.20.1",
+            "1.20",
+            "Quilt"
+          ],
+          "fileFingerprint": 965809799,
+          "modId": 324717
+        },
+        "modrinthProject": {
+          "id": "nvQzSEkH",
+          "slug": "jade",
+          "project_type": "mod",
+          "team": "UadxHcYS",
+          "title": "Jade 🔍",
+          "description": "Shows information about what you are looking at. (Hwyla/Waila fork for Minecraft 1.16+)",
+          "body": "# Jade 🔍\n\n<center><img src=\"https://cdn.modrinth.com/data/nvQzSEkH/images/7d10e9c837c33d81b39950fb2f7bacc85df92ee3.gif\"/></center>\n\nJade is the information HUD mod - Hwyla/Waila for modern Minecraft versions. Designed for better user experience and API.\n\nJade can be installed only on the client side. But many features require Jade on the server side. (item storage, horse stats, bees in beehive...)\n\n**For mod integration, try Jade Addons: [Forge](https://modrinth.com/mod/jade-addons-forge)  [Fabric](https://modrinth.com/mod/jade-addons-fabric)**\n\n### Keys (default):\n\n - Keypad 0: Open configuration screen\n - Keypad 1: Toggle overlay\n - Keypad 2: Toggle liquid display\n - Keypad 3: Show recipes (Requires JEI)\n - Keypad 4: Show uses (Requires JEI)\n - Keypad 5: Narrate target\n\n### Notable changes compared to Hwyla:\n\n - API re-design\n - More vanilla addons\n - Higher configurability\n - Better accessibility\n\n[![Interested in supporting me and the development of mods? BisectHosting is the perfect solution. New customers can use the promotion code \"snownee\" to get a 25% discount on their first month of a gaming server. With 24/7 support and fast response times, you can expect top-notch service for all your gaming needs.](https://www.bisecthosting.com/partners/custom-banners/e826c64b-9e14-433d-a083-26f659f8a41c.webp)](https://rb.gy/oktbru)\n",
+          "published": "2021-09-18T08:14:16.544897Z",
+          "updated": "2024-08-28T18:28:48.314160Z",
+          "status": "approved",
+          "license": {
+            "id": "CC-BY-NC-SA-4.0",
+            "name": "Creative Commons Attribution Non Commercial Share Alike 4.0 International"
+          },
+          "client_side": "optional",
+          "server_side": "optional",
+          "categories": [
+            "utility"
+          ],
+          "icon_url": "https://cdn.modrinth.com//data/nvQzSEkH/icon.png",
+          "issues_url": "https://github.com/Snownee/Jade/issues?q=is%3Aissue",
+          "source_url": "https://github.com/Snownee/Jade",
+          "donation_urls": [
+            {
+              "id": "ko-fi",
+              "platform": "Ko-fi",
+              "url": "https://ko-fi.com/snownee"
+            },
+            {
+              "id": "patreon",
+              "platform": "Patreon",
+              "url": "https://www.patreon.com/snownee"
+            }
+          ],
+          "gallery": [
+            {
+              "url": "https://cdn.modrinth.com/data/nvQzSEkH/images/0bf8da81675d890d2bccba0ed0f51a0fabef5267.png",
+              "featured": false,
+              "title": "Redstone support",
+              "created": "2022-12-11T09:22:23.125333Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/nvQzSEkH/images/25295e11ad9a003df27cea972bffb1c1323d5e52.png",
+              "featured": false,
+              "title": "Horse stats",
+              "created": "2022-12-11T09:22:24.186008Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/nvQzSEkH/images/4b47304960861088536652dfcc9dbf42ef59ce5e.png",
+              "featured": false,
+              "title": "Item storage",
+              "created": "2022-12-11T09:15:43.263966Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/nvQzSEkH/images/6582f2217c9ce0d9fdc694e0f945dbe2ba10b5e2.png",
+              "featured": false,
+              "title": "Shows targeted face, position and distance",
+              "created": "2022-12-11T09:34:30.088195Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/nvQzSEkH/images/7d10e9c837c33d81b39950fb2f7bacc85df92ee3.gif",
+              "featured": false,
+              "title": "Harvestability and mining progress",
+              "created": "2022-12-11T09:46:54.705238Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/nvQzSEkH/images/80e67bb1f4c38d64a1561a7080a663711507c4f8.png",
+              "featured": false,
+              "title": "Shows item names in inventory",
+              "created": "2022-12-11T09:22:25.339079Z",
+              "ordering": 0.0
+            }
+          ]
+        },
+        "modrinthVersion": {
+          "id": "bwDoSE9Z",
+          "project_id": "nvQzSEkH",
+          "author_id": "UxbEV316",
+          "name": "[Fabric 1.20.1] 11.11.0",
+          "version_number": "11.11.0+fabric",
+          "changelog": "## 11.11.0\n\n- feat: show hints in chat instead of toast\n- feat: indicate if signs have wax applied or not ([#336](https://github.com/Snownee/Jade/issues/336))\n- fix: server data for beehive blocks being cleared\n- feat: show villager mod name according to its profession\n\n## 11.10.2\n\n- feat: print error stack trace in console log\n- fix: minor porting oversight\n- fix: incompatibility with Wilder Wild (close [#458](https://github.com/Snownee/Jade/issues/458))\n- fix: \"Loot not generated yet\" not showing (close [#454](https://github.com/Snownee/Jade/issues/454))\n- feat: hiding more modded trapped chests\n- fix: allow empty view groups (close: [#448](https://github.com/Snownee/Jade/issues/448))\n\n## 11.10.0\n\n- fix: incorrect tool indicated for Bamboo (close [#429](https://github.com/Snownee/Jade/issues/429))\n- fix: HarvestToolProvider positioning\n- fix: WailaExceptionHandler causing crash ([#413](https://github.com/Snownee/Jade/issues/413))\n- improve: fluid text display\n- fix: hide tooltip when boss bar overlap doesn't work (close [#410](https://github.com/Snownee/Jade/issues/410))\n\n## 11.9.2\n\n- fix: a crash related to item mod name tooltip (close [#403](https://github.com/Snownee/Jade/issues/403))\n\n## 11.9.1\n\n- improve: use display name on players ([#256](https://github.com/Snownee/Jade/issues/256))\n- improve: blame the correct mod\n- improve: ensure built-in plugins are correctly loaded\n\n## 11.9.0\n\n- improve: do not load UsernameCache on dedicated server\n- fix: `item_storage.normal_amount` can't be set to 0 ([#395](https://github.com/Snownee/Jade/issues/395))\n- backport 1.20.5 to 1.20.1 ([#394](https://github.com/Snownee/Jade/issues/394))\n\n## 11.8.0\n\n- feat: add support for multipart entity (close [#364](https://github.com/Snownee/Jade/issues/364))\n- [Feature Backport]: Cherry Picked Camo Block Visibility Commit ([#355](https://github.com/Snownee/Jade/issues/355))\n\n## 11.7.0\n\n- feat: avoid the overlay flickering while shooting projectiles\n- feat: campfire cooking time ([#346](https://github.com/Snownee/Jade/issues/346))\n\n## 11.6.4\n\n- fix: the server data mess\n- fix: random translation patches\n- fix: global waystones show as unbreakable ([#317](https://github.com/Snownee/Jade/issues/317))\n- fix: the \"flip with main hand\" option is not respected\n- chore: bump gradle version\n- fix: cannot see through waterlogged blocks ([#342](https://github.com/Snownee/Jade/issues/342))\n\n## 11.6.2\n\n- fix: overlay rendering logic is different with Forge edition, causing unable to do pondering with Jade Addons\n\n## 11.6.1\n\n- fix: Incorrect display of Zombie Villager conversion time ([#308](https://github.com/Snownee/Jade/issues/308))\n- fix: status effect display ([#303](https://github.com/Snownee/Jade/issues/303))\n- fix: mod name showing twice in some cases in JEI ([#302](https://github.com/Snownee/Jade/issues/302))\n\n## 11.6.0\n\n- fix: disable server data verification for replaced accessors\n- improve: allow using custom container finder\n- fix: crash in the last commit\n- fix: lingering server data\n- fix: bugs related to getting pick result\n- improve the latest PR\n- Improve painting tooltip ([#300](https://github.com/Snownee/Jade/issues/300))\n- improve: do not show energy storage if capacity is 0\n- feat: option to always show harvest info\n- fix: mislocated breaking progress (workaround) ([#295](https://github.com/Snownee/Jade/issues/295))\n- improve: make toasts last longer\n- feat: show fluid tank capacity while holding shift\n- feat: collecting items information\n- improve: item amount display\n\n## 11.5.1\n\n- fix: bossbar rectangle calculation ([#289](https://github.com/Snownee/Jade/issues/289))\n- improve: better mod name for enchanted book and potions\n- fix: duplicate mod name in item tooltip in creative inventory ([#288](https://github.com/Snownee/Jade/issues/288))\n- feat: better text shadow\n- improve: narrate text in a progress\n- fix: cycle option value not being saved correctly\n\n## 11.5.0\n\n- chore: move release type to gradle.properties\n- fix: user name cache lag ([#287](https://github.com/Snownee/Jade/issues/287))\n- fix: bugs in the last commit\n- feat: item storage caching\n- Update lang/pt_br.json ([#286](https://github.com/Snownee/Jade/issues/286))\n- fix: backport many bug fixes\n- feat: TTS toggle hint ([#282](https://github.com/Snownee/Jade/issues/282))\n- feat: disappearing delay\n- chore: message format tip\n\n## 11.4.3\n\n- fix: Crash upon opening Mod Settings ([#284](https://github.com/Snownee/Jade/issues/284))\n- remove Fabric API dependency\n\n## 11.4.2\n\n- feat: tweaks to the custom theme\n\n## 11.4.1\n\n- fix: theme background image\n\n## 11.4.0\n\n- improve: tweaks to HorseStatsProvider\n- Update Horse Speed to correct value ([#283](https://github.com/Snownee/Jade/issues/283))\n- mark as quilt-compatible\n- improve: make text in progress element easier to see  in light color scheme\n- improve: trim the value saved by slider option\n- feat: calibrated sculk sensor block input\n- improve: do not display pitch if the noteblock is not tunable\n- custom theme v2\n- update issue template\n- fix: mob spawner provider order\n- refactor: tooltip positioning\n- fix: NPE looking at fluid with no sprites ([#281](https://github.com/Snownee/Jade/issues/281))\n- fix: oversights in health displaying\n- feat: built-in tech reborn energy support\n- feat: Do not display Jade when there is a boss bar. ([#276](https://github.com/Snownee/Jade/issues/276))\n- improve: change option entry order\n\n## 11.3.1\n\n- unified publishing\n",
+          "date_published": "2024-08-26T22:26:17.639205Z",
+          "version_type": "beta",
+          "files": [
+            {
+              "hashes": {
+                "sha512": "db6525e8bc7c3d109d5802f5674437bc8d3afa561fad0b74e2cacd61ba3fd8a5bb39734988c343d73438441255fdc4c7fd8c6d7c8a8ce1f99c19a20780b5a9f6",
+                "sha1": "a2980804c7d3570c6e799b2e3760d27be783bdf7"
+              },
+              "url": "https://cdn.modrinth.com/data/nvQzSEkH/versions/bwDoSE9Z/Jade-1.20-fabric-11.11.0.jar",
+              "filename": "Jade-1.20-fabric-11.11.0.jar",
+              "primary": true,
+              "size": 570166
+            }
+          ],
+          "dependencies": [
+            {
+              "project_id": "u6dRKJwZ",
+              "dependency_type": "optional"
+            }
+          ],
+          "game_versions": [
+            "1.20",
+            "1.20.1"
+          ],
+          "loaders": [
+            "fabric",
+            "quilt"
+          ]
+        }
+      },
+      {
+        "name": "Inventory Sorting",
+        "version": "Inventory Sorting 1.9.0-1.20",
+        "optional": true,
+        "file": "InventorySorter-1.9.0-1.20.jar",
+        "type": "mods",
+        "description": "Quick, simple, and lightweight inventory sorting",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 325471,
+        "curseForgeFileId": 4597704,
+        "curseForgeProject": {
+          "id": 325471,
+          "name": "Inventory Sorting",
+          "authors": [
+            {
+              "id": 8602880,
+              "name": "Kyrptonaught",
+              "url": "https://www.curseforge.com/members/kyrptonaught"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Quick, simple, and lightweight inventory sorting",
+          "categories": [
+            {
+              "name": "Storage",
+              "slug": "storage",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/storage",
+              "dateModified": "2014-05-08T17:41:17.203Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 420,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/35/635351496772023801.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Utility & QoL",
+              "slug": "utility-qol",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/utility-qol",
+              "dateModified": "2021-11-17T11:45:09.143Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 5191,
+              "iconUrl": "https://media.forgecdn.net/avatars/456/558/637727379086405233.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Server Utility",
+              "slug": "server-utility",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/server-utility",
+              "dateModified": "2014-05-08T17:44:55.057Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 435,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/48/635351498950580836.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 420,
+          "classId": 6,
+          "slug": "inventory-sorting",
+          "isFeatured": false,
+          "dateModified": "2024-01-29T02:55:34.877Z",
+          "dateCreated": "2019-06-27T07:59:26.16Z",
+          "dateReleased": "2024-01-29T02:51:26.92Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/inventory-sorting",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/kyrptonaught/Inventory-Sorter/issues",
+            "sourceUrl": "https://github.com/kyrptonaught/Inventory-Sorter"
+          },
+          "logo": {
+            "id": 219943,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/219/943/256/256/637017846777406794.png",
+            "title": "637017846777406794.png",
+            "url": "https://media.forgecdn.net/avatars/219/943/637017846777406794.png",
+            "modId": 325471
+          },
+          "allowModDistribution": true,
+          "screenshots": [
+            {
+              "id": 260050,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/260/50/310/172/after.png",
+              "title": "After",
+              "url": "https://media.forgecdn.net/attachments/260/50/after.png",
+              "modId": 325471
+            },
+            {
+              "id": 260195,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/260/195/310/172/2019-08-19_00.png",
+              "title": "Config",
+              "url": "https://media.forgecdn.net/attachments/260/195/2019-08-19_00.png",
+              "modId": 325471
+            },
+            {
+              "id": 260051,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/260/51/310/172/2019-08-17_16.png",
+              "title": "Inventory",
+              "url": "https://media.forgecdn.net/attachments/260/51/2019-08-17_16.png",
+              "modId": 325471
+            },
+            {
+              "id": 260049,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/260/49/310/172/before.png",
+              "title": "Before",
+              "url": "https://media.forgecdn.net/attachments/260/49/before.png",
+              "modId": 325471
+            },
+            {
+              "id": 260196,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/260/196/310/172/2019-08-19_00.png",
+              "title": "Config",
+              "url": "https://media.forgecdn.net/attachments/260/196/2019-08-19_00.png",
+              "modId": 325471
+            }
+          ],
+          "mainFileId": 5066467
+        },
+        "curseForgeFile": {
+          "id": 4597704,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "InventorySorter-1.9.0-1.20.jar",
+          "fileName": "InventorySorter-1.9.0-1.20.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2023-06-19T22:12:47.12Z",
+          "fileLength": 222894,
+          "dependencies": [],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 3311529462,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 1926976397,
+              "name": "LICENSE_InventorySorter"
+            },
+            {
+              "fingerprint": 1277270783,
+              "name": "net.kyrptonaught.inventorysorter.json"
+            },
+            {
+              "fingerprint": 3720772649,
+              "name": "fabric.mod.json"
+            },
+            {
+              "fingerprint": 1551688478,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 2648022870,
+              "name": "InventorySorter-refmap.json"
+            },
+            {
+              "fingerprint": 1060294501,
+              "name": "net"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "19b4af69600fc940112f36a3256d492670d8d4c5",
+              "algo": 1
+            },
+            {
+              "value": "2d2f84fefe22a636f54a8368d3276647",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-09-01T00:00:00Z",
+              "gameVersionName": "Fabric"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Client"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020",
+              "gameVersion": "1.20",
+              "gameVersionReleaseDate": "2023-06-07T00:00:00Z",
+              "gameVersionName": "1.20"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Server"
+            }
+          ],
+          "gameVersions": [
+            "Fabric",
+            "Client",
+            "1.20.1",
+            "1.20",
+            "Server"
+          ],
+          "fileFingerprint": 1398127217,
+          "modId": 325471
+        },
+        "modrinthProject": {
+          "id": "5ibSyLAz",
+          "slug": "inventory-sorting",
+          "project_type": "mod",
+          "team": "OsHRhj5s",
+          "title": "Inventory Sorting",
+          "description": "Quick, simple, and lightweight inventory sorting",
+          "body": "### Inventory Sorting  \nQuick, simple, and lightweight Inventory sorter built for Fabric  \n<img src=\"https://i.imgur.com/Ol1Tcf8.png\" alt=\"\" width=\"95\" height=\"32\" />  \n\n\n\n\n\nWays to sort an inventory: \n- Clicking the appropriate sort button\n- Using the keybind\n- *Middle clicking an empty slot\n- *Double clicking an empty slot\n-  */sort or /sortme command\n\n*works server-side only with vanilla clients!\n\n \nYou can edit the config in game using the mod Mod Menu or by manually editing the config file.\n\nVanilla clients can use the /invSort command to edit the config as well.\n\n \n\nInventories can now be blacklisted in game(as of 1.8.2). Hold left control and press the sort button in an inventory. Or use the /invsort blacklist cmd. OP is required.\n\nFeatures two types of blacklists :\n- Do Not Sort - This inventory is not sortable and a button will not be displayed, but your inventory can.\n- Hide Buttons - Both the opened inventory and your inventory cannot be sorted, buttons will not be displayed for either.\n\n \n\n \n\nTired of a messy inventory?\n\nBefore  \n<img src=\"https://raw.githubusercontent.com/kyrptonaught/Inventory-Sorter/master/before.png\" alt=\"Before\" width=\"450\" height=\"253\" />\n\nAfter  \n<img src=\"https://raw.githubusercontent.com/kyrptonaught/Inventory-Sorter/master/after.png\" alt=\"After\" width=\"450\" height=\"253\" />\n \n\nNote:  \nInventory Sorting is required to be installed on the server as well. Unfortunately this prevents you from sorting inventories on a server that do not have the mod installed. Having a server component allows the sorting to be smoother and better on the network/server. When initiating the sort, your client simply tells the server to sort the inventory you're using, rather than your client spamming the server manually moving the items around.",
+          "published": "2022-12-12T18:42:36.173136Z",
+          "updated": "2024-01-29T02:51:24.317005Z",
+          "status": "approved",
+          "license": {
+            "id": "MIT",
+            "name": "MIT License"
+          },
+          "client_side": "unsupported",
+          "server_side": "required",
+          "categories": [
+            "storage",
+            "utility"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/5ibSyLAz/5590c9168b256a538bcc7704f2984b7ee29f9c1b.png",
+          "issues_url": "https://github.com/kyrptonaught/Inventory-Sorter",
+          "source_url": "https://github.com/kyrptonaught/Inventory-Sorter",
+          "donation_urls": [
+            {
+              "id": "paypal",
+              "platform": "Paypal",
+              "url": "https://www.paypal.com/donate/?business=EU3B5KCHV8QNW&no_recurring=0&item_name=Hi%21+It%27s+Kyrptonaught%2C+thanks+a+bunch+for+supporting+the+development+of+my+minecraft+mods%21+Anything+is+appreciated%21&currency_code=USD"
+            }
+          ],
+          "gallery": []
+        },
+        "modrinthVersion": {
+          "id": "tr2ZGtz4",
+          "project_id": "5ibSyLAz",
+          "author_id": "dTrHFjYJ",
+          "name": "Inventory Sorting 1.9.0-1.20",
+          "version_number": "1.9.0-1.20",
+          "changelog": "Fix config entries not being type-able",
+          "date_published": "2023-06-19T22:13:07.031809Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha512": "bb8f71a53940e82ddc20918b64602b2f6dfa289055966e43d1c324266d24ef06161d4a0d71a9abda6081d53559c1bd8264187ae369583bfea9a8c3ef9dc59c93",
+                "sha1": "19b4af69600fc940112f36a3256d492670d8d4c5"
+              },
+              "url": "https://cdn.modrinth.com/data/5ibSyLAz/versions/tr2ZGtz4/InventorySorter-1.9.0-1.20.jar",
+              "filename": "InventorySorter-1.9.0-1.20.jar",
+              "primary": true,
+              "size": 222894
+            }
+          ],
+          "dependencies": [],
+          "game_versions": [
+            "1.20",
+            "1.20.1"
+          ],
+          "loaders": [
+            "fabric"
+          ]
+        }
       }
     ],
     "ignoredUpdates": [],
     "ignoreAllUpdates": false,
     "vanillaInstance": true,
-    "lastPlayed": 1725051744133,
-    "numPlays": 39,
+    "lastPlayed": 1725060468749,
+    "numPlays": 74,
     "lastExportName": "Sunnie's RPG Tech",
     "lastExportVersion": "1.20.1",
     "lastExportAuthor": "Hitomiiv",
