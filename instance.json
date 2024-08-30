@@ -43520,100 +43520,6 @@
         }
       },
       {
-        "name": "Just Enough Resources (JER)",
-        "version": "1.4.0.247 for Fabric 1.20.1",
-        "optional": true,
-        "file": "JustEnoughResources-Fabric-1.20.1-1.4.0.247.jar",
-        "type": "mods",
-        "description": "JEI integration that adds info on mobs, world gen, villagers and many more!",
-        "disabled": false,
-        "userAdded": true,
-        "wasSelected": true,
-        "skipped": false,
-        "modrinthProject": {
-          "id": "uEfK2CXF",
-          "slug": "just-enough-resources-jer",
-          "project_type": "mod",
-          "team": "AkDxT5le",
-          "title": "Just Enough Resources (JER)",
-          "description": "JEI integration that adds info on mobs, world gen, villagers and many more!",
-          "body": "# Just Enough  Resources (JER)\n\nAddon to JEI, adds different features\n\n## Features\n- Dungeon chest loot\n- Enchantment information\n- Mob drops\n- Plant and seed drops\n- Villager trades\n- World gen information\n\n### Create your own ore graphs\nYou can create your own graphs using [RegionScanner](https://github.com/RundownRhino/RegionScanner)",
-          "published": "2023-04-07T17:54:48.655449Z",
-          "updated": "2024-08-25T12:27:30.464272Z",
-          "status": "approved",
-          "license": {
-            "id": "LicenseRef-Dont-Be-a-Jerk",
-            "name": "",
-            "url": "https://github.com/way2muchnoise/JustEnoughResources/blob/master/LICENSE.md"
-          },
-          "client_side": "required",
-          "server_side": "unsupported",
-          "categories": [
-            "utility"
-          ],
-          "icon_url": "https://cdn.modrinth.com/data/uEfK2CXF/db41e4e93f179df846380cbb2413f8120def75df.png",
-          "issues_url": "https://github.com/way2muchnoise/JustEnoughResources/issues",
-          "source_url": "https://github.com/way2muchnoise/JustEnoughResources",
-          "donation_urls": [
-            {
-              "id": "github",
-              "platform": "Github",
-              "url": "https://github.com/sponsors/way2muchnoise"
-            }
-          ],
-          "gallery": [
-            {
-              "url": "https://cdn.modrinth.com/data/uEfK2CXF/images/248a40ed643ef625d2265dc8dcb8ecf70b2e5bb2.png",
-              "featured": false,
-              "title": "Mod drops",
-              "created": "2023-04-08T17:48:50.329322Z",
-              "ordering": 0.0
-            },
-            {
-              "url": "https://cdn.modrinth.com/data/uEfK2CXF/images/b4935d6eb25b3a0d56a99d6e678e743bd006d3ed.png",
-              "featured": false,
-              "title": "Villager trades",
-              "created": "2023-04-08T17:48:59.192113Z",
-              "ordering": 0.0
-            }
-          ]
-        },
-        "modrinthVersion": {
-          "id": "9HWvOVzO",
-          "project_id": "uEfK2CXF",
-          "author_id": "cusaSPBz",
-          "name": "1.4.0.247 for Fabric 1.20.1",
-          "version_number": "1.4.0.247",
-          "changelog": "No changelog was specified.",
-          "date_published": "2024-01-24T19:30:18.031862Z",
-          "version_type": "beta",
-          "files": [
-            {
-              "hashes": {
-                "sha512": "d2b329c7771b668edc297f71718a42a484d965873937077acbc93fbd15d03881750e431d6f27732cfc3cd7687469b951c06bbf4f1563872b2e6a5e4a8010defe",
-                "sha1": "505b27e4e902645d8104133a2a5d9ea409b645b1"
-              },
-              "url": "https://cdn.modrinth.com/data/uEfK2CXF/versions/9HWvOVzO/JustEnoughResources-Fabric-1.20.1-1.4.0.247.jar",
-              "filename": "JustEnoughResources-Fabric-1.20.1-1.4.0.247.jar",
-              "primary": true,
-              "size": 278357
-            }
-          ],
-          "dependencies": [
-            {
-              "project_id": "u6dRKJwZ",
-              "dependency_type": "required"
-            }
-          ],
-          "game_versions": [
-            "1.20.1"
-          ],
-          "loaders": [
-            "fabric"
-          ]
-        }
-      },
-      {
         "name": "Just Enough Professions (JEP)",
         "version": "JustEnoughProfessions 1.20.1",
         "optional": true,
@@ -59541,8 +59447,8 @@
     "ignoredUpdates": [],
     "ignoreAllUpdates": false,
     "vanillaInstance": true,
-    "lastPlayed": 1724702723160,
-    "numPlays": 38,
+    "lastPlayed": 1725051744133,
+    "numPlays": 39,
     "lastExportName": "Sunnie's RPG Tech",
     "lastExportVersion": "1.20.1",
     "lastExportAuthor": "Hitomiiv",
@@ -59705,10 +59611,10 @@
   "minimumLauncherVersion": "21",
   "assetIndex": {
     "id": "5",
-    "sha1": "c9305ae3fc6ab8ca96d8906b333eb9a0668f0a88",
+    "sha1": "102454a05c5e871fe2370467fcca6f85b29c1b66",
     "size": 411881,
-    "url": "https://piston-meta.mojang.com/v1/packages/c9305ae3fc6ab8ca96d8906b333eb9a0668f0a88/5.json",
-    "totalSize": 626081602
+    "url": "https://piston-meta.mojang.com/v1/packages/102454a05c5e871fe2370467fcca6f85b29c1b66/5.json",
+    "totalSize": 626087095
   },
   "assets": "5",
   "downloads": {
