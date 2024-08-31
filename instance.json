@@ -60830,6 +60830,329 @@
             "quilt"
           ]
         }
+      },
+      {
+        "name": "Tech RPG Font",
+        "version": "Tech RPG Font",
+        "optional": true,
+        "file": "Tech RPG Font.zip",
+        "type": "resourcepack",
+        "description": "A Sharp Tech Based RPG Font",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 759452,
+        "curseForgeFileId": 4670758,
+        "curseForgeProject": {
+          "id": 759452,
+          "name": "Tech RPG Font",
+          "authors": [
+            {
+              "id": 102553253,
+              "name": "GamerPotion",
+              "url": "https://www.curseforge.com/members/gamerpotion"
+            }
+          ],
+          "gameId": 432,
+          "summary": "A Sharp Tech Based RPG Font",
+          "categories": [
+            {
+              "name": "32x",
+              "slug": "thirty-two-x",
+              "url": "https://www.curseforge.com/minecraft/texture-packs/thirty-two-x",
+              "dateModified": "2020-06-30T17:54:39.087Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 394,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/77/635351599006894511.png",
+              "parentCategoryId": 12,
+              "classId": 12
+            },
+            {
+              "name": "Modern",
+              "slug": "modern",
+              "url": "https://www.curseforge.com/minecraft/texture-packs/modern",
+              "dateModified": "2020-06-30T17:54:39.13Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 401,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/55/635351500520222907.png",
+              "parentCategoryId": 12,
+              "classId": 12
+            },
+            {
+              "name": "Font Packs",
+              "slug": "font-packs",
+              "url": "https://www.curseforge.com/minecraft/texture-packs/font-packs",
+              "dateModified": "2022-02-14T12:58:24.507Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 5244,
+              "iconUrl": "https://media.forgecdn.net/avatars/493/926/637804403044903691.png",
+              "parentCategoryId": 12,
+              "classId": 12
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 394,
+          "classId": 12,
+          "slug": "tech-rpg-font",
+          "isFeatured": false,
+          "dateModified": "2024-08-13T00:54:15.477Z",
+          "dateCreated": "2022-12-21T01:04:17.827Z",
+          "dateReleased": "2024-04-23T21:21:12.527Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/texture-packs/tech-rpg-font",
+            "wikiUrl": ""
+          },
+          "logo": {
+            "id": 758716,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/758/716/256/256/638094373145137445.png",
+            "title": "638094373145137445.png",
+            "url": "https://media.forgecdn.net/avatars/758/716/638094373145137445.png",
+            "modId": 759452
+          },
+          "allowModDistribution": true,
+          "screenshots": [
+            {
+              "id": 585632,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/585/632/310/172/aldrich-font-character-map.png",
+              "title": "Letters",
+              "url": "https://media.forgecdn.net/attachments/585/632/aldrich-font-character-map.png",
+              "modId": 759452
+            },
+            {
+              "id": 567085,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/567/85/310/172/tech-image.png",
+              "title": "Screenshot",
+              "url": "https://media.forgecdn.net/attachments/567/85/tech-image.png",
+              "modId": 759452
+            }
+          ],
+          "mainFileId": 5285976
+        },
+        "curseForgeFile": {
+          "id": 4670758,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "Tech RPG Font.zip",
+          "fileName": "Tech RPG Font.zip",
+          "releaseType": 2,
+          "fileStatus": 4,
+          "fileDate": "2023-07-29T11:11:32.643Z",
+          "fileLength": 30535,
+          "dependencies": [],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 2505257611,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 1545703061,
+              "name": "pack.mcmeta"
+            },
+            {
+              "fingerprint": 1063596327,
+              "name": "pack.png"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "6b04229e435d9141e37c05d9922a01f952dfffe6",
+              "algo": 1
+            },
+            {
+              "value": "a6561798d972b39b3fcb39187c4896f9",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0000000001.0000000017.0000000001",
+              "gameVersion": "1.17.1",
+              "gameVersionReleaseDate": "2021-07-06T14:16:03.97Z",
+              "gameVersionName": "1.17.1"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000019.0000000003",
+              "gameVersion": "1.19.3",
+              "gameVersionReleaseDate": "2022-10-19T00:00:00Z",
+              "gameVersionName": "1.19.3"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000018.0000000001",
+              "gameVersion": "1.18.1",
+              "gameVersionReleaseDate": "2021-12-10T10:37:38.06Z",
+              "gameVersionName": "1.18.1"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000017",
+              "gameVersion": "1.17",
+              "gameVersionReleaseDate": "2020-11-12T00:00:00Z",
+              "gameVersionName": "1.17"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000019.0000000004",
+              "gameVersion": "1.19.4",
+              "gameVersionReleaseDate": "2023-03-09T00:00:00Z",
+              "gameVersionName": "1.19.4"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000016.0000000005",
+              "gameVersion": "1.16.5",
+              "gameVersionReleaseDate": "2021-01-15T14:14:48.91Z",
+              "gameVersionName": "1.16.5"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000018.0000000002",
+              "gameVersion": "1.18.2",
+              "gameVersionReleaseDate": "2022-02-28T14:23:37.723Z",
+              "gameVersionName": "1.18.2"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000019.0000000002",
+              "gameVersion": "1.19.2",
+              "gameVersionReleaseDate": "2022-08-05T14:12:22.413Z",
+              "gameVersionName": "1.19.2"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020",
+              "gameVersion": "1.20",
+              "gameVersionReleaseDate": "2023-06-07T00:00:00Z",
+              "gameVersionName": "1.20"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000019.0000000001",
+              "gameVersion": "1.19.1",
+              "gameVersionReleaseDate": "2022-06-28T00:00:00Z",
+              "gameVersionName": "1.19.1"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000018",
+              "gameVersion": "1.18",
+              "gameVersionReleaseDate": "2021-11-30T16:23:01.427Z",
+              "gameVersionName": "1.18"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000019",
+              "gameVersion": "1.19",
+              "gameVersionReleaseDate": "2022-06-07T15:38:07.377Z",
+              "gameVersionName": "1.19"
+            }
+          ],
+          "gameVersions": [
+            "1.17.1",
+            "1.19.3",
+            "1.18.1",
+            "1.17",
+            "1.19.4",
+            "1.16.5",
+            "1.18.2",
+            "1.19.2",
+            "1.20.1",
+            "1.20",
+            "1.19.1",
+            "1.18",
+            "1.19"
+          ],
+          "fileFingerprint": 2921573004,
+          "modId": 759452
+        },
+        "modrinthProject": {
+          "id": "XFnaXwdB",
+          "slug": "tech-rpg-font",
+          "project_type": "resourcepack",
+          "team": "txWh0Xw8",
+          "title": "Tech RPG Font",
+          "description": "A Sharp Tech Based RPG Font",
+          "body": "<p>Get a server today and play with your friends! Click <a href=\"https://www.bisecthosting.com/gamerpotion\">HERE</a> or below banner &amp; Use Code <strong>GAMERPOTION</strong> to get 25 off!</p>\n<p><a href=\"https://www.bisecthosting.com/gamerpotion\"><img src=\"https://media.forgecdn.net/attachments/684/717/cbf4e971-7207-4602-bd76-b44081f9b7df.png\" alt=\"\" /></a></p>\n<p><img src=\"https://img.shields.io/badge/Font Style-Technical-black?style=plastic\" /> <a href=\"https://ko-fi.com/gamerpotion\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://img.shields.io/badge/buy me a coffee-support-orange?style=plastic\" /></a> <a href=\"https://discord.gg/uCPfPBvsRJ\"><img src=\"https://img.shields.io/discord/870825743788158986?color=blue&amp;style=plastic\" /></a> <a href=\"https://modrinth.com/user/GamerPotionDev\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://img.shields.io/badge/my other-projects-orange?style=plastic\" /></a> <a href=\"https://www.bisecthosting.com/gamerpotion\"><img src=\"https://img.shields.io/badge/get%20a%20server-click%20here-blue?style=plastic\" /></a></p>\n<p>&nbsp;</p>\n<p><span style=\"font-size: 24px; font-family: andale mono, monospace;\"><strong>Tech RPG Font</strong></span></p>\n<p><span style=\"font-family: andale mono, monospace;\">&nbsp;</span></p>\n<p><span style=\"font-family: andale mono, monospace; font-size: 18px;\">Your vanilla experience will be further improved thanks to this modern and unique crisp tech styled font which is easy to read. Made for the <a style=\"font-family: andale mono, monospace; font-size: 18px;\" href=\"https://www.curseforge.com/minecraft/modpacks/darkrpg\">DarkRPG</a> modpack but now available to the public!<br /></span></p>\n<p><span style=\"font-family: andale mono, monospace; font-size: 18px;\">&nbsp;</span></p>\n<p><span style=\"font-family: andale mono, monospace; font-size: 18px;\">Based on the popular <a style=\"font-family: andale mono, monospace; font-size: 18px;\" href=\"https://fonts.google.com/specimen/Aldrich\">Aldrich</a> Google Font by MADType.</span></p>\n<p><span style=\"font-family: andale mono, monospace; font-size: 18px;\">The font is licensed under the Open Font License.<br /><br /></span></p>\n<p><span style=\"font-family: andale mono, monospace; font-size: 18px;\"><img src=\"https://media.forgecdn.net/attachments/585/632/aldrich-font-character-map.png\" alt=\"\" width=\"1000\" height=\"1150\" /></span></p>\n<p>&nbsp;</p>\n<p><span style=\"font-size: 24px; font-family: andale mono, monospace;\"><strong>Screenshots (from DarkRPG)</strong></span></p>\n<p>&nbsp;<br /><img src=\"https://media.forgecdn.net/attachments/567/85/tech-image.png\" alt=\"\" width=\"1142\" height=\"600\" /></p>\n<p>&nbsp;</p>\n<p>Click the banner below to get your server today! or go to <a href=\"https://www.bisecthosting.com/gamerpotion\">BisectHosting.com</a>&nbsp; and make sure to use the code '<strong>gamerpotion</strong>' to get your 25% off.</p>\n<p><a href=\"https://www.bisecthosting.com/gamerpotion\"><img src=\"https://media.forgecdn.net/attachments/608/745/bisect-banner-large3.png\" alt=\"\" width=\"621\" height=\"415\" /></a></p>\n<p><a href=\"https://www.ko-fi.com/gamerpotion\"><img src=\"https://storage.ko-fi.com/cdn/brandasset/kofi_bg_tag_dark.png\" width=\"341\" height=\"129\" /></a></p>",
+          "published": "2024-03-30T11:42:55.302186Z",
+          "updated": "2024-04-23T21:28:23.099410Z",
+          "status": "approved",
+          "license": {
+            "id": "GPL-2.0-only",
+            "name": "GNU General Public License v2.0 only"
+          },
+          "client_side": "required",
+          "server_side": "unsupported",
+          "categories": [
+            "fonts",
+            "realistic",
+            "simplistic"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/XFnaXwdB/f402525dcb9007da6a69318b7cf1db2703f88a19.png",
+          "issues_url": "https://discord.gg/uCPfPBvsRJ",
+          "donation_urls": [
+            {
+              "id": "ko-fi",
+              "platform": "Ko-fi",
+              "url": "https://ko-fi.com/gamerpotion"
+            }
+          ],
+          "gallery": [
+            {
+              "url": "https://cdn.modrinth.com/data/XFnaXwdB/images/707157c4c14111e4a88c9eea74f63f4113ded44f.png",
+              "featured": true,
+              "title": "Tech RPG Font Screenshot",
+              "description": "Tech RPG Font Screenshot",
+              "created": "2024-03-30T11:44:05.259109Z",
+              "ordering": 0.0
+            }
+          ]
+        },
+        "modrinthVersion": {
+          "id": "wWxnM6DD",
+          "project_id": "XFnaXwdB",
+          "author_id": "EkPzRInN",
+          "name": "Tech RPG Font",
+          "version_number": "1.0.0",
+          "changelog": "<p><span style=\"font-size: 24px;\"><a style=\"font-size: 24px;\" href=\"https://www.bisecthosting.com/gamerpotion\">Click</a> for an amazing server! Use code <em>GAMERPOTION</em> and get 25% off!<br /></span></p>\n<p><a href=\"https://www.bisecthosting.com/gamerpotion\"><img src=\"https://media.forgecdn.net/attachments/684/717/cbf4e971-7207-4602-bd76-b44081f9b7df.png\" /></a></p>",
+          "date_published": "2024-03-30T11:45:32.802316Z",
+          "version_type": "beta",
+          "files": [
+            {
+              "hashes": {
+                "sha1": "6b04229e435d9141e37c05d9922a01f952dfffe6",
+                "sha512": "fd42d48784860b49dcf6de3734f8365e6364a26bd520d585c76b017f6b3969be6eaedeffc6a1a315ee3e3a9a33b84bae8db0ef1d9fbe341a79aa9d0e9d4eff5c"
+              },
+              "url": "https://cdn.modrinth.com/data/XFnaXwdB/versions/wWxnM6DD/Tech%20RPG%20Font.zip",
+              "filename": "Tech RPG Font.zip",
+              "primary": true,
+              "size": 30535
+            }
+          ],
+          "dependencies": [],
+          "game_versions": [
+            "1.16.5",
+            "1.17",
+            "1.17.1",
+            "1.18",
+            "1.18.1",
+            "1.18.2",
+            "1.19",
+            "1.19.1",
+            "1.19.2",
+            "1.19.3",
+            "1.19.4",
+            "1.20",
+            "1.20.1"
+          ],
+          "loaders": [
+            "minecraft"
+          ]
+        }
       }
     ],
     "ignoredUpdates": [],
