@@ -60215,13 +60215,108 @@
             "fabric"
           ]
         }
+      },
+      {
+        "name": "SwingThrough",
+        "version": "1.0.6+1.20",
+        "optional": true,
+        "file": "swingthrough-1.0.6+1.20.jar",
+        "type": "mods",
+        "description": "Allows targeting (and interacting with and attacking) living entities through transparent blocks like grass, crops, and flowers.",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "modrinthProject": {
+          "id": "JyKlunuD",
+          "slug": "swingthrough",
+          "project_type": "mod",
+          "team": "E0zqKMUo",
+          "title": "SwingThrough",
+          "description": "Allows targeting (and interacting with and attacking) living entities through transparent blocks like grass, crops, and flowers.",
+          "body": "<!--suppress HtmlDeprecatedTag, XmlDeprecatedElement -->\n<center>\n<img alt=\"preview\" src=\"https://cdn.modrinth.com/data/JyKlunuD/images/e1fb90dd7ba165b9043fbd4b752c42103dc9e7ef.png\"/>\nAllows targeting living entities through transparent blocks.<br/>\nRequires <a href=\"https://modrinth.com/mod/connector\">Connector</a> on neoforge.<br/>\n</center>\n\n---\n\nThis mod discards the block crosshair target to allow an entity to be targeted instead, when:\n\n- The block has empty collision\n- The entity is living and attackable\n- You're not directly riding the entity\n- The entity is within reach (exact interaction range in 1.21)\n\nThanks to this implementation, the block outline will also disappear while you're targeting the entity.\n\n#### Technical Notes\n\nThis mod is comprised of a [single mixin](https://github.com/sisby-folk/swingthrough/blob/1.19/src/main/java/folk/sisby/swingthrough/mixin/client/GameRendererMixin.java) with about 4 lines of meaningful code:\n\n- 2 lines to use the full entity targeting range if the block meets the conditions\n- 2 lines to discard the block target if the full range was used and the entity meets the conditions\n\nIt performs no additional raycasts or radius searches.\n\n## Afterword\n\nAll mods are built on the work of many others.\n\nWe made this mod for [Tinkerer's Quilt](https://modrinth.com/modpack/tinkerers-quilt) - our modpack about ease of play and vanilla content.\n",
+          "published": "2023-06-10T06:43:29.446889Z",
+          "updated": "2024-08-22T01:50:06.986999Z",
+          "status": "approved",
+          "license": {
+            "id": "LGPL-3.0-only",
+            "name": "GNU Lesser General Public License v3.0 only"
+          },
+          "client_side": "required",
+          "server_side": "unsupported",
+          "categories": [
+            "game-mechanics",
+            "utility"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/JyKlunuD/fcfbfb16eb4e661b4147f206d8bff5a6519310ef.png",
+          "issues_url": "https://github.com/sisby-folk/swingthrough/issues",
+          "source_url": "https://github.com/sisby-folk/swingthrough",
+          "donation_urls": [],
+          "gallery": [
+            {
+              "url": "https://cdn.modrinth.com/data/JyKlunuD/images/e1fb90dd7ba165b9043fbd4b752c42103dc9e7ef.png",
+              "featured": true,
+              "title": "Preview",
+              "created": "2024-08-12T02:35:37.516663Z",
+              "ordering": 0.0
+            }
+          ]
+        },
+        "modrinthVersion": {
+          "id": "6SlMTGJa",
+          "project_id": "JyKlunuD",
+          "author_id": "HrZk20E5",
+          "name": "1.0.6+1.20",
+          "version_number": "1.0.6+1.20",
+          "changelog": "Fixes:\n- Fix crash due to compiling on incorrect version for 1.16-1.20\n\n\nChangelog: https://github.com/sisby-folk/swingthrough/releases/tag/v1.0.6+1.20",
+          "date_published": "2024-08-22T01:50:08.021631Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha512": "8fd6ba62261fd060de31c0e71e81013ce5e9aaa75ff70d343465417c94050aa22e200e8b7c96a30d12a038fdcc043fe5fdd00ec6c820955da68117fdd174e5f9",
+                "sha1": "fe9c7077b69767b3a175e1d310f95b0ebab66747"
+              },
+              "url": "https://cdn.modrinth.com/data/JyKlunuD/versions/6SlMTGJa/swingthrough-1.0.6%2B1.20.jar",
+              "filename": "swingthrough-1.0.6+1.20.jar",
+              "primary": true,
+              "size": 22347
+            }
+          ],
+          "dependencies": [],
+          "game_versions": [
+            "1.16",
+            "1.16.1",
+            "1.16.2",
+            "1.16.3",
+            "1.16.4",
+            "1.16.5",
+            "1.17",
+            "1.17.1",
+            "1.18",
+            "1.18.1",
+            "1.18.2",
+            "1.19",
+            "1.19.1",
+            "1.19.2",
+            "1.19.3",
+            "1.19.4",
+            "1.20",
+            "1.20.1",
+            "1.20.2"
+          ],
+          "loaders": [
+            "fabric",
+            "quilt"
+          ]
+        }
       }
     ],
     "ignoredUpdates": [],
     "ignoreAllUpdates": false,
     "vanillaInstance": true,
-    "lastPlayed": 1725060468749,
-    "numPlays": 74,
+    "lastPlayed": 1725064411947,
+    "numPlays": 76,
     "lastExportName": "Sunnie's RPG Tech",
     "lastExportVersion": "1.20.1",
     "lastExportAuthor": "Hitomiiv",
