@@ -60310,13 +60310,533 @@
             "quilt"
           ]
         }
+      },
+      {
+        "name": "ToastBegone",
+        "version": "toastbegone-fabric-1.20-1.2.0",
+        "optional": true,
+        "file": "toastbegone-fabric-1.20-1.2.0.jar",
+        "type": "mods",
+        "description": "A simple and configurable toast disabler",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 1092015,
+        "curseForgeFileId": 5669151,
+        "curseForgeProject": {
+          "id": 1092015,
+          "name": "ToastBegone",
+          "authors": [
+            {
+              "id": 100045096,
+              "name": "Raxdiam",
+              "url": "https://www.curseforge.com/members/raxdiam"
+            }
+          ],
+          "gameId": 432,
+          "summary": "A simple and configurable toast disabler",
+          "categories": [
+            {
+              "name": "Utility & QoL",
+              "slug": "utility-qol",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/utility-qol",
+              "dateModified": "2021-11-17T11:45:09.143Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 5191,
+              "iconUrl": "https://media.forgecdn.net/avatars/456/558/637727379086405233.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 2,
+          "primaryCategoryId": 5191,
+          "classId": 6,
+          "slug": "toastbegone",
+          "isFeatured": false,
+          "dateModified": "2024-08-27T18:40:52.16Z",
+          "dateCreated": "2024-08-27T18:31:26.773Z",
+          "dateReleased": "2024-08-27T18:31:26.773Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/toastbegone",
+            "issuesUrl": "https://github.com/Raxdiam/ToastBegone/issues",
+            "sourceUrl": "https://github.com/Raxdiam/ToastBegone"
+          },
+          "logo": {
+            "id": 1069065,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/1069/65/256/256/638603802869264489.png",
+            "title": "638603802869264489.png",
+            "url": "https://media.forgecdn.net/avatars/1069/65/638603802869264489.png",
+            "modId": 1092015
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 0
+        },
+        "curseForgeFile": {
+          "id": 5669151,
+          "gameId": 432,
+          "isAvailable": false,
+          "displayName": "toastbegone-fabric-1.20-1.2.0",
+          "fileName": "toastbegone-fabric-1.20-1.2.0.jar",
+          "releaseType": 1,
+          "fileStatus": 3,
+          "fileDate": "2024-08-27T18:34:48.657Z",
+          "fileLength": 1117277,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 308702,
+              "relationType": 2
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 2480665118,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 2226923820,
+              "name": "LICENSE"
+            },
+            {
+              "fingerprint": 1993310668,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 25559120,
+              "name": "com"
+            },
+            {
+              "fingerprint": 2779928857,
+              "name": "fabric.mod.json"
+            },
+            {
+              "fingerprint": 3432198399,
+              "name": "pack.mcmeta"
+            },
+            {
+              "fingerprint": 4180355591,
+              "name": "toastbegone.mixins.json"
+            },
+            {
+              "fingerprint": 277074332,
+              "name": "toastbegone.refmap.json"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "6c03e14ebc24b724d3c11a9d779b72821aeaf7a6",
+              "algo": 1
+            },
+            {
+              "value": "aa2465d7c485408b7a1f5f155a3f2a91",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-09-01T00:00:00Z",
+              "gameVersionName": "Fabric"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Client"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020",
+              "gameVersion": "1.20",
+              "gameVersionReleaseDate": "2023-06-07T00:00:00Z",
+              "gameVersionName": "1.20"
+            }
+          ],
+          "gameVersions": [
+            "Fabric",
+            "Client",
+            "1.20.1",
+            "1.20"
+          ],
+          "fileFingerprint": 4259409544,
+          "modId": 1092015
+        },
+        "modrinthProject": {
+          "id": "g8reZf3x",
+          "slug": "toastbegone",
+          "project_type": "mod",
+          "team": "fouyCmgg",
+          "title": "ToastBegone",
+          "description": "A simple and configurable toast disabler",
+          "body": "A simple and configurable mod that can block any type of toast notification.\n\nBlocks tutorial and recipe toasts by default.\n",
+          "published": "2024-06-18T15:13:46.039157Z",
+          "updated": "2024-08-27T15:15:07.813336Z",
+          "status": "approved",
+          "license": {
+            "id": "GPL-3.0-only",
+            "name": "GNU General Public License v3.0 only"
+          },
+          "client_side": "required",
+          "server_side": "unsupported",
+          "categories": [
+            "utility"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/g8reZf3x/abd459e44c638b2e440e937600148ee3b8a04aed.png",
+          "issues_url": "https://github.com/Raxdiam/ToastBegone/issues",
+          "source_url": "https://github.com/Raxdiam/ToastBegone",
+          "donation_urls": [
+            {
+              "id": "bmac",
+              "platform": "Bmac",
+              "url": "https://www.buymeacoffee.com/raxdiam"
+            },
+            {
+              "id": "ko-fi",
+              "platform": "Ko-fi",
+              "url": "https://ko-fi.com/raxdiam"
+            },
+            {
+              "id": "paypal",
+              "platform": "Paypal",
+              "url": "https://www.paypal.com/paypalme/Raxdiam"
+            }
+          ],
+          "gallery": []
+        },
+        "modrinthVersion": {
+          "id": "ixnLpbxR",
+          "project_id": "g8reZf3x",
+          "author_id": "8RChgC0b",
+          "name": "toastbegone-fabric-1.20-1.2.0",
+          "version_number": "1.2.0",
+          "changelog": "- Backport to 1.20(.1)\n- Add configuration options to block any toast type",
+          "date_published": "2024-08-27T15:12:40.782212Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha1": "6c03e14ebc24b724d3c11a9d779b72821aeaf7a6",
+                "sha512": "04414d16b37c45b3f392f559867b7e0a172fc157fceb9bc1de6c58916d670d6d698416659d43c759a8573ed0eb3cae7ebd5ad64ef54ddd6c1acc3041d1e7d088"
+              },
+              "url": "https://cdn.modrinth.com/data/g8reZf3x/versions/ixnLpbxR/toastbegone-fabric-1.20-1.2.0.jar",
+              "filename": "toastbegone-fabric-1.20-1.2.0.jar",
+              "primary": true,
+              "size": 1117277
+            }
+          ],
+          "dependencies": [
+            {
+              "project_id": "mOgUt4GM",
+              "dependency_type": "optional"
+            }
+          ],
+          "game_versions": [
+            "1.20",
+            "1.20.1"
+          ],
+          "loaders": [
+            "fabric"
+          ]
+        }
+      },
+      {
+        "name": "LootBeams Fabric Updated",
+        "version": "LootBeams Fabric Updated 1.0.3",
+        "optional": true,
+        "file": "lootbeams-1.0.3.jar",
+        "type": "mods",
+        "description": "A Minecraft Fabric mod for 1.20.1 that adds colorful and customizable loot beams to dropped items!",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 991318,
+        "curseForgeFileId": 5205319,
+        "curseForgeProject": {
+          "id": 991318,
+          "name": "LootBeams Fabric Updated",
+          "authors": [
+            {
+              "id": 102395269,
+              "name": "jwalkin",
+              "url": "https://www.curseforge.com/members/jwalkin"
+            }
+          ],
+          "gameId": 432,
+          "summary": "A Minecraft Fabric mod for 1.20.1 that adds colorful and customizable loot beams to dropped items!",
+          "categories": [
+            {
+              "name": "Cosmetic",
+              "slug": "cosmetic",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/cosmetic",
+              "dateModified": "2014-05-08T17:42:35.597Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 424,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/39/635351497555976928.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Armor, Tools, and Weapons",
+              "slug": "armor-weapons-tools",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/armor-weapons-tools",
+              "dateModified": "2014-05-08T17:44:39.057Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 434,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/47/635351498790409758.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Utility & QoL",
+              "slug": "utility-qol",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/utility-qol",
+              "dateModified": "2021-11-17T11:45:09.143Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 5191,
+              "iconUrl": "https://media.forgecdn.net/avatars/456/558/637727379086405233.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Map and Information",
+              "slug": "map-information",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/map-information",
+              "dateModified": "2014-05-08T17:42:23.74Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 423,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/38/635351497437388438.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 424,
+          "classId": 6,
+          "slug": "lootbeams-fabric-updated",
+          "isFeatured": false,
+          "dateModified": "2024-03-24T10:21:21.423Z",
+          "dateCreated": "2024-03-23T14:20:54.85Z",
+          "dateReleased": "2024-03-23T14:40:27.477Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/lootbeams-fabric-updated"
+          },
+          "logo": {
+            "id": 967837,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/967/837/256/256/638468004548707340.jpeg",
+            "title": "638468004548707340.jpeg",
+            "url": "https://media.forgecdn.net/avatars/967/837/638468004548707340.jpeg",
+            "modId": 991318
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 5205319
+        },
+        "curseForgeFile": {
+          "id": 5205319,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "LootBeams Fabric Updated 1.0.3",
+          "fileName": "lootbeams-1.0.3.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2024-03-23T14:40:27.477Z",
+          "fileLength": 183853,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 348521,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 306612,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 308702,
+              "relationType": 2
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 3220747621,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 5852357,
+              "name": "LICENSE_lootbeams"
+            },
+            {
+              "fingerprint": 631142067,
+              "name": "pack.mcmeta"
+            },
+            {
+              "fingerprint": 1237187449,
+              "name": "mixin.lootbeams.json"
+            },
+            {
+              "fingerprint": 1819824836,
+              "name": "fabric.mod.json"
+            },
+            {
+              "fingerprint": 3615138171,
+              "name": "banner.png"
+            },
+            {
+              "fingerprint": 2078715488,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 3642013069,
+              "name": "lootbeams-refmap.json"
+            },
+            {
+              "fingerprint": 2306979854,
+              "name": "com"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "4798756a0e63ec1527ce66679e84ee626315c260",
+              "algo": 1
+            },
+            {
+              "value": "55439743e7c8c4151034fd02e4576302",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-09-01T00:00:00Z",
+              "gameVersionName": "Fabric"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Client"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            }
+          ],
+          "gameVersions": [
+            "Fabric",
+            "Client",
+            "1.20.1"
+          ],
+          "fileFingerprint": 857336309,
+          "modId": 991318
+        },
+        "modrinthProject": {
+          "id": "WfqS5LUm",
+          "slug": "lootbeamsfabricupdated",
+          "project_type": "mod",
+          "team": "BczgdY8h",
+          "title": "LootBeams Fabric Updated",
+          "description": "A Minecraft Fabric mod for 1.20.1 that adds colorful and customizable loot beams to dropped items!",
+          "body": "# An&nbsp;[Updated](https://modrinth.com/mod/lootbeams-fabric)&nbsp;Fabric fork version of&nbsp;[LootBeams](https://www.curseforge.com/minecraft/mc-mods/loot-beams)(for Forge)\n\nA 1.20.1 Fabric client-side Minecraft mod that adds colorful and customizable loot beams to dropped items!\n\nLoot Beams are added to all items by default and they change colors depending on the items name. You can, however, specify a whitelist/blacklist for Beams, color overrides, and even NBT tags to change their color! (like `\"lootbeams.color:\"0xFFFFFF\"`).\n\nBeams also have nametags that show up when looking at an item or crouching so you can see what an item is without even picking it up. This mod is client-side, meaning it will run on vanilla servers and forge servers that do not have this mod installed!\n\n## But what are the differences of another fork?\nI've ported it to 1.20.1 as previous was stuck. Also i've added translation support and overhauled fade from forge version (original implementation are less flexible and has visual bugs)",
+          "published": "2023-08-21T11:46:47.368062Z",
+          "updated": "2023-08-30T13:06:19.955215Z",
+          "status": "approved",
+          "license": {
+            "id": "MIT",
+            "name": "MIT License"
+          },
+          "client_side": "required",
+          "server_side": "unsupported",
+          "categories": [
+            "utility"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/WfqS5LUm/ffb61378b0a5e32dce3369571dc13614f95072d3.png",
+          "issues_url": "https://github.com/VanderCat/LootBeamsFabricUpdated/issues",
+          "source_url": "https://github.com/VanderCat/LootBeamsFabricUpdated",
+          "donation_urls": [],
+          "gallery": [
+            {
+              "url": "https://cdn.modrinth.com/data/WfqS5LUm/images/17aeea0821fd945aa8b3a2f234f4d4c5546bb920.png",
+              "featured": true,
+              "created": "2023-08-21T12:00:30.589532Z",
+              "ordering": 0.0
+            }
+          ]
+        },
+        "modrinthVersion": {
+          "id": "ud9Tn5wm",
+          "project_id": "WfqS5LUm",
+          "author_id": "Tthxx2u8",
+          "name": "LootBeams Fabric Updated 1.0.3",
+          "version_number": "1.0.3",
+          "changelog": "# Additions\n- Added option to always draw lore (2nd line in tooltip) on specified items. Added music disks to this list by default so you can see track info as rarity.\n# Fixes\n- Fix border see-through mode as it was not intended\n- Updated localization files (#1)",
+          "date_published": "2023-08-30T13:06:20.881219Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha1": "4798756a0e63ec1527ce66679e84ee626315c260",
+                "sha512": "8ab6c1fd723ebccdd9681b54f0cb93cc2d8669de00e1604c1425abb8b62ebdd7bc180e6ef3d924e91951fa1f1c98a5ba00b98285296bf6ff8cae9b30bd128062"
+              },
+              "url": "https://cdn.modrinth.com/data/WfqS5LUm/versions/ud9Tn5wm/lootbeams-1.0.3.jar",
+              "filename": "lootbeams-1.0.3.jar",
+              "primary": true,
+              "size": 183853
+            }
+          ],
+          "dependencies": [
+            {
+              "project_id": "mOgUt4GM",
+              "dependency_type": "optional"
+            },
+            {
+              "project_id": "9s6osm5g",
+              "dependency_type": "optional"
+            },
+            {
+              "project_id": "P7dR8mSH",
+              "dependency_type": "required"
+            }
+          ],
+          "game_versions": [
+            "1.20.1"
+          ],
+          "loaders": [
+            "fabric",
+            "quilt"
+          ]
+        }
       }
     ],
     "ignoredUpdates": [],
     "ignoreAllUpdates": false,
     "vanillaInstance": true,
-    "lastPlayed": 1725064411947,
-    "numPlays": 76,
+    "lastPlayed": 1725066297663,
+    "numPlays": 77,
     "lastExportName": "Sunnie's RPG Tech",
     "lastExportVersion": "1.20.1",
     "lastExportAuthor": "Hitomiiv",
