@@ -63,6 +63,9 @@ mode = "fancy"
 				enderman = true
 				llama = true
 				goat = true
+				parrot = true
+				turtle = true
+				ocelot = true
 
 			[light_sources.settings.entities.artifacts]
 				mimic = true
