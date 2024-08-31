@@ -66,6 +66,12 @@ mode = "fancy"
 				parrot = true
 				turtle = true
 				ocelot = true
+				illusioner = true
+				item_frame = true
+				magma_cube = true
+				potion = true
+				wandering_trader = true
+				wither_skeleton = true
 
 			[light_sources.settings.entities.artifacts]
 				mimic = true
@@ -75,4 +81,5 @@ mode = "fancy"
 
 			[light_sources.settings.entities.biomeswevegone]
 				man_o_war = true
+				oddion = true
 

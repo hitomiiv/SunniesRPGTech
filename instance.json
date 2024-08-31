@@ -13425,225 +13425,6 @@
         }
       },
       {
-        "name": "Wall Jumped",
-        "version": "1.4.4",
-        "optional": true,
-        "file": "walljump-fabric-1.20.1-1.4.4.jar",
-        "type": "mods",
-        "description": "A Fabric 1.19.4 port of Updated Wall-Jump! as both previous projects are no longer maintained.",
-        "disabled": false,
-        "userAdded": true,
-        "wasSelected": true,
-        "skipped": false,
-        "curseForgeProjectId": 858060,
-        "curseForgeFileId": 4865635,
-        "curseForgeProject": {
-          "id": 858060,
-          "name": "Wall Jumped",
-          "authors": [
-            {
-              "id": 27597203,
-              "name": "AzureDoomC",
-              "url": "https://www.curseforge.com/members/azuredoomc"
-            }
-          ],
-          "gameId": 432,
-          "summary": "A Fabric 1.19.4 port of Updated Wall-Jump! as both previous projects are no longer maintained.",
-          "categories": [
-            {
-              "name": "Player Transport",
-              "slug": "technology-player-transport",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/technology/technology-player-transport",
-              "dateModified": "2014-05-08T17:38:58.357Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 414,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/29/635351495383551178.png",
-              "parentCategoryId": 412,
-              "classId": 6
-            }
-          ],
-          "status": 4,
-          "primaryCategoryId": 414,
-          "classId": 6,
-          "slug": "wall-jumped",
-          "isFeatured": false,
-          "dateModified": "2023-11-14T02:26:05.203Z",
-          "dateCreated": "2023-05-04T18:25:59.367Z",
-          "dateReleased": "2023-11-14T01:56:01.357Z",
-          "links": {
-            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/wall-jumped",
-            "issuesUrl": "https://github.com/AzureDoom/Wall-Jump/issues",
-            "sourceUrl": "https://github.com/AzureDoom/Wall-Jump"
-          },
-          "logo": {
-            "id": 813609,
-            "description": "",
-            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/813/609/256/256/638188215593951736.png",
-            "title": "638188215593951736.png",
-            "url": "https://media.forgecdn.net/avatars/813/609/638188215593951736.png",
-            "modId": 858060
-          },
-          "allowModDistribution": true,
-          "screenshots": [],
-          "mainFileId": 4865641
-        },
-        "curseForgeFile": {
-          "id": 4865635,
-          "gameId": 432,
-          "isAvailable": true,
-          "displayName": "walljump-fabric-1.20.1-1.4.4.jar",
-          "fileName": "walljump-fabric-1.20.1-1.4.4.jar",
-          "releaseType": 1,
-          "fileStatus": 4,
-          "fileDate": "2023-11-14T01:53:44.837Z",
-          "fileLength": 6929745,
-          "dependencies": [
-            {
-              "fileId": 0,
-              "modId": 817423,
-              "relationType": 3
-            },
-            {
-              "fileId": 0,
-              "modId": 306612,
-              "relationType": 3
-            }
-          ],
-          "alternateFileId": 0,
-          "modules": [
-            {
-              "fingerprint": 1167009108,
-              "name": "META-INF"
-            },
-            {
-              "fingerprint": 2060624349,
-              "name": "LICENSE"
-            },
-            {
-              "fingerprint": 1337642875,
-              "name": "assets"
-            },
-            {
-              "fingerprint": 373571487,
-              "name": "fabric.mod.json"
-            },
-            {
-              "fingerprint": 2680836397,
-              "name": "genandnic"
-            },
-            {
-              "fingerprint": 3852643113,
-              "name": "walljump-fabric-1.20.1-refmap.json"
-            },
-            {
-              "fingerprint": 2208051408,
-              "name": "walljump.aw"
-            },
-            {
-              "fingerprint": 4190489818,
-              "name": "walljump.mixins.json"
-            }
-          ],
-          "isServerPack": false,
-          "hashes": [
-            {
-              "value": "7413559ed4bb213479fe6227be30a7b7e842d30c",
-              "algo": 1
-            },
-            {
-              "value": "53963bfb74541d4671e625358475837f",
-              "algo": 2
-            }
-          ],
-          "sortableGameVersions": [
-            {
-              "gameVersionPadded": "0",
-              "gameVersion": "",
-              "gameVersionReleaseDate": "2022-09-01T00:00:00Z",
-              "gameVersionName": "Fabric"
-            },
-            {
-              "gameVersionPadded": "0000000001.0000000020.0000000001",
-              "gameVersion": "1.20.1",
-              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
-              "gameVersionName": "1.20.1"
-            }
-          ],
-          "gameVersions": [
-            "Fabric",
-            "1.20.1"
-          ],
-          "fileFingerprint": 3258912966,
-          "modId": 858060
-        },
-        "modrinthProject": {
-          "id": "ulUgV6dN",
-          "slug": "wall-jumped",
-          "project_type": "mod",
-          "team": "CJjZrmgt",
-          "title": "Wall Jumped",
-          "description": "A Fabric 1.19.4 port of Updated Wall-Jump! as both previous projects are no longer maintained.",
-          "body": "<font size=+2>\n<center>\nThis is for <b>Fabric</b> only and requires Fabric API.\n</br>\n</br>\n<a href=\"https://discord.gg/4vEKxfK\"> <img src=\"https://img.shields.io/discord/574529906076286996?color=red&label=Discord&logo=Discord&logoColor=red&style=for-the-badge\" alt=\"discord\"/> </a>\n<a href=\"https://www.patreon.com/azurezdoom\"> <img src=\"https://img.shields.io/endpoint.svg?url=https://shieldsio-patreon.vercel.app/api?username=azurezdoom&type=patrons&style=for-the-badge\" alt=\"patreon\"/> </a>\n<a href=\"https://modrinth.com/mod/connector\"> <img src=\"https://raw.githubusercontent.com/Sinytra/.github/main/badges/connector/compact.svg\" alt=\"connector\"/> </a>\n</br>\n</br>\n\nThis is a 1.19.4 (and possibly beyond) port of [Updated Wall Jump](https://legacy.curseforge.com/minecraft/mc-mods/updated-wall-jump). This is the same mod written by genandnic of [Wall Jump](https://legacy.curseforge.com/minecraft/mc-mods/wall-jump-fabric), but it's for 1.19.4.\n\n<font size=\"10\">\nWall-to-wall platforming in Minecraft! \n</br></br>\n<font size=+1>\n\nWith this mod installed, players can perform new movements that will allow them to navigate their environment more dynamically.\n\nWall jumping allows players to jump off walls to gain additional height or reach areas that might otherwise be out of reach. To perform a wall jump, the player must jump towards a wall and then jump again off of the wall at the right moment. Timing is crucial, as the player must hit the wall at the correct angle and jump off at the right time to gain the maximum height.\n\nDouble jumping allows players to jump twice in quick succession, providing even more mobility and allowing them to reach even higher places. To perform a double jump, the player must jump once, then jump again while still in midair. This technique is helpful in reaching higher ledges or avoiding obstacles in the player's path.\n\nPlease see the following on how to do the various actions ingame!\n\n<b>Wall Cling</b>: Jump towards a wall and hold the wall jump key (LSHIFT). \n\n<b>Wall Jump</b>: While wall clinging, keep holding W and let go of LSHIFT to wall jump.\n\n<b>Double Jump</b>: Optional mid-air jump that you can use to your advantage.\n\n</font></font></font></font></center>",
-          "published": "2023-05-04T18:21:23.797356Z",
-          "updated": "2023-11-14T01:56:07.596451Z",
-          "status": "approved",
-          "license": {
-            "id": "GPL-3.0-only",
-            "name": "GNU General Public License v3.0 only"
-          },
-          "client_side": "required",
-          "server_side": "unsupported",
-          "categories": [
-            "game-mechanics"
-          ],
-          "icon_url": "https://cdn.modrinth.com/data/ulUgV6dN/1e026932468f5dc227444892b11cc5e06f1587a7.png",
-          "issues_url": "https://github.com/AzureDoom/Wall-Jump/issues",
-          "source_url": "https://github.com/AzureDoom/Wall-Jump",
-          "donation_urls": [],
-          "gallery": []
-        },
-        "modrinthVersion": {
-          "id": "S8hgsE3p",
-          "project_id": "ulUgV6dN",
-          "author_id": "eQORCpQI",
-          "name": "1.4.4",
-          "version_number": "1.4.4",
-          "changelog": "v1.4.4\n\n- Fixes Enchantments applying non-armor items.",
-          "date_published": "2023-11-14T01:53:52.530467Z",
-          "version_type": "release",
-          "files": [
-            {
-              "hashes": {
-                "sha512": "e6323cf397ae0ed3cafba6ba161f55a24bc74815bca3d92f8ad8b903329b8be34902a736400495f286ac4cf2ff2927559224d07a65fac0a9d49c0c70bf1664f6",
-                "sha1": "7413559ed4bb213479fe6227be30a7b7e842d30c"
-              },
-              "url": "https://cdn.modrinth.com/data/ulUgV6dN/versions/S8hgsE3p/walljump-fabric-1.20.1-1.4.4.jar",
-              "filename": "walljump-fabric-1.20.1-1.4.4.jar",
-              "primary": true,
-              "size": 6929745
-            }
-          ],
-          "dependencies": [
-            {
-              "project_id": "7zlUOZvb",
-              "dependency_type": "required"
-            },
-            {
-              "project_id": "P7dR8mSH",
-              "dependency_type": "required"
-            }
-          ],
-          "game_versions": [
-            "1.20.1"
-          ],
-          "loaders": [
-            "fabric",
-            "quilt"
-          ]
-        }
-      },
-      {
         "name": "Diggus Maximus",
         "version": "Diggus Maximus 1.5.9-1.20",
         "optional": true,
@@ -66442,13 +66223,780 @@
             "fabric"
           ]
         }
+      },
+      {
+        "name": "When Dungeons Arise",
+        "version": "When Dungeons Arise 2.1.57-1.20.1",
+        "optional": true,
+        "file": "DungeonsArise-1.20.1-2.1.57-fabric-release.jar",
+        "type": "mods",
+        "description": "Adds various elegant -and likely hostile- roguelike dungeons and structures that generate on your worlds!",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 511812,
+        "curseForgeFileId": 4799321,
+        "curseForgeProject": {
+          "id": 511812,
+          "name": "When Dungeons Arise - Fabric!",
+          "authors": [
+            {
+              "id": 101731217,
+              "name": "Aureljz",
+              "url": "https://www.curseforge.com/members/aureljz"
+            },
+            {
+              "id": 101897796,
+              "name": "diamondtown_",
+              "url": "https://www.curseforge.com/members/diamondtown_"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Adds various elegant -and likely hostile- roguelike dungeons and structures that generate on your worlds!",
+          "categories": [
+            {
+              "name": "World Gen",
+              "slug": "world-gen",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen",
+              "dateModified": "2017-10-16T21:40:11.473Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 406,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/26/635351494599748860.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Structures",
+              "slug": "world-structures",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen/world-structures",
+              "dateModified": "2014-05-08T17:37:17.173Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 409,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/24/635351494371736208.png",
+              "parentCategoryId": 406,
+              "classId": 6
+            },
+            {
+              "name": "Adventure and RPG",
+              "slug": "adventure-rpg",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/adventure-rpg",
+              "dateModified": "2014-05-08T17:42:09.54Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 422,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/37/635351497295252123.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 409,
+          "classId": 6,
+          "slug": "when-dungeons-arise-fabric",
+          "isFeatured": false,
+          "dateModified": "2024-08-09T00:13:36.603Z",
+          "dateCreated": "2021-08-06T05:39:08.417Z",
+          "dateReleased": "2024-08-09T00:06:40.493Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/when-dungeons-arise-fabric",
+            "wikiUrl": "",
+            "sourceUrl": "https://github.com/Aureljz/WhenDungeonsArise--Fabric"
+          },
+          "logo": {
+            "id": 415170,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/415/170/256/256/637638255678686098.png",
+            "title": "637638255678686098.png",
+            "url": "https://media.forgecdn.net/avatars/415/170/637638255678686098.png",
+            "modId": 511812
+          },
+          "allowModDistribution": true,
+          "screenshots": [
+            {
+              "id": 388567,
+              "description": "(Picture by Dras)",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/388/567/310/172/2021-08-10_22.png",
+              "title": "Thornborn Towers",
+              "url": "https://media.forgecdn.net/attachments/388/567/2021-08-10_22.png",
+              "modId": 511812
+            }
+          ],
+          "mainFileId": 5609702
+        },
+        "curseForgeFile": {
+          "id": 4799321,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "DungeonsArise-1.20.1-2.1.57-fabric-release.jar",
+          "fileName": "DungeonsArise-1.20.1-2.1.57-fabric-release.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2023-10-15T05:31:23.233Z",
+          "fileLength": 9005634,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 306612,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 306612,
+              "relationType": 3
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 1382193411,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 3406075849,
+              "name": "pack.mcmeta"
+            },
+            {
+              "fingerprint": 496072224,
+              "name": "img.png"
+            },
+            {
+              "fingerprint": 926882889,
+              "name": "fabric.mod.json"
+            },
+            {
+              "fingerprint": 3909069195,
+              "name": "data"
+            },
+            {
+              "fingerprint": 3957248713,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 4142794344,
+              "name": "net"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "d0af8c6c8c79ac2e14bcd8527725dd2004c65fe9",
+              "algo": 1
+            },
+            {
+              "value": "c025aa532cfc5854f47a942cb358665d",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000002",
+              "gameVersion": "1.20.2",
+              "gameVersionReleaseDate": "2023-09-21T15:25:15.053Z",
+              "gameVersionName": "1.20.2"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-09-01T00:00:00Z",
+              "gameVersionName": "Fabric"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            }
+          ],
+          "gameVersions": [
+            "1.20.2",
+            "Fabric",
+            "1.20.1"
+          ],
+          "fileFingerprint": 551060520,
+          "modId": 511812
+        },
+        "modrinthProject": {
+          "id": "8DfbfASn",
+          "slug": "when-dungeons-arise",
+          "project_type": "mod",
+          "team": "WWPHgngw",
+          "title": "When Dungeons Arise",
+          "description": "Adds various elegant -and likely hostile- roguelike dungeons and structures that generate on your worlds!",
+          "body": "![enter image description here](https://i.postimg.cc/L5B71YXY/WDA0-Fabric.png)\n\n**When Dungeons Arise** is a massive dungeon generator which gathers plenty of dungeons and generates them randomly on your worlds to ensure glorious adventures and challenges. We have took a step away from standard vanilla structures, resulting in imposing dungeons to lose yourself into.\n\nHowever, be wary when you venture into a palace in search of precious loot, and don't forget to land safely after raiding a hostile airship. Dungeons will generate foes to keep you away from them... at least until you're ready to walk across countless, dangerous passages...\n\n___Currently generates 30+ unique structures.___\n\n**Requires both Cloth Config API and Fabric API (on Fabric versions)**\n\n## **Screenshots**\n\n![enter image description here](https://i.postimg.cc/7LkKgPFS/2021-08-05-22-47-36.png)![enter image description here](https://i.postimg.cc/VvP95ZwL/2021-07-20-19-50-37.png)![enter image description here](https://i.postimg.cc/bvxL5kWn/2021-07-07-04-17-46.png)![enter image description here](https://i.postimg.cc/qvxV0HHz/2021-07-11-17-10-09.png)![enter image description here](https://i.postimg.cc/zDbsvg1m/2021-07-11-17-13-41.png)\n\n\n",
+          "published": "2021-09-18T15:10:39.986884Z",
+          "updated": "2024-08-18T20:24:26.915051Z",
+          "status": "approved",
+          "license": {
+            "id": "LicenseRef-All-Rights-Reserved",
+            "name": ""
+          },
+          "client_side": "unsupported",
+          "server_side": "required",
+          "categories": [
+            "adventure",
+            "worldgen"
+          ],
+          "icon_url": "https://cdn.modrinth.com//data/8DfbfASn/icon.png",
+          "discord_url": "https://discord.gg/lunapixel",
+          "donation_urls": [],
+          "gallery": [
+            {
+              "url": "https://cdn.modrinth.com/data/8DfbfASn/images/135241bb799f37bc0c8c3fcce89e301d8481700c.png",
+              "featured": true,
+              "title": "Mechanical Nest",
+              "created": "2023-10-15T05:40:35.480905Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/8DfbfASn/images/4b0f2db6ccbc181fad6ade3e1d4bff043dc7807e.png",
+              "featured": false,
+              "title": "Mechanical Nest",
+              "created": "2023-10-15T05:42:16.605769Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/8DfbfASn/images/7f144957798934dd9b538cadf13fd91ce9da660a.png",
+              "featured": false,
+              "title": "Foundry Entrance",
+              "created": "2023-04-20T05:30:27.006217Z",
+              "ordering": 0.0
+            }
+          ]
+        },
+        "modrinthVersion": {
+          "id": "Vd5XOXlj",
+          "project_id": "8DfbfASn",
+          "author_id": "JW8OlCkl",
+          "name": "When Dungeons Arise 2.1.57-1.20.1",
+          "version_number": "2.1.57-1.20.1",
+          "changelog": "* Fixed missing loot tables in the Infested Temple and Bandit Towers\n\n* Rearranged major and minor structures to avoid certain clashes.\n\n* Fixed language and advancement files (Thanks to TinyBlackQvQ! Check their github pr)\n\n * Added a new massive dungeon, the Mechanical Nest!\n\nThe Mechanical Nest is a huge, procedurally generated steampunk/scifi flying city. It has over 160 randomized parts, including rooms, furniture, towers, the occasional blimp and tons of enemies! Check out for traps and piston contraptions!\n\nI believe this could be our most complex structure yet. And who knows, we might make modded addons for it in the future ;)",
+          "date_published": "2023-10-15T05:38:11.512686Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha1": "d0af8c6c8c79ac2e14bcd8527725dd2004c65fe9",
+                "sha512": "83509ed624236c32277906d8a39a81c55deb5b13782506aba5a67728d8615f9cce76671fd52743caaa4d17516473fe248b3154400146adbabaa436a652aa9837"
+              },
+              "url": "https://cdn.modrinth.com/data/8DfbfASn/versions/Vd5XOXlj/DungeonsArise-1.20.1-2.1.57-fabric-release.jar",
+              "filename": "DungeonsArise-1.20.1-2.1.57-fabric-release.jar",
+              "primary": true,
+              "size": 9005634
+            }
+          ],
+          "dependencies": [],
+          "game_versions": [
+            "1.20",
+            "1.20.1",
+            "1.20.2"
+          ],
+          "loaders": [
+            "fabric"
+          ]
+        }
+      },
+      {
+        "name": "When Dungeons Arise: Seven Seas",
+        "version": "When Dungeons Arise: Seven Seas 1.0.2",
+        "optional": true,
+        "file": "DungeonsAriseSevenSeas-1.20.x-1.0.2-fabric.jar",
+        "type": "mods",
+        "description": "Elegant - and likely hostile - vessels lost in the seven seas...",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 953637,
+        "curseForgeFileId": 4981340,
+        "curseForgeProject": {
+          "id": 953637,
+          "name": "When Dungeons Arise - Seven Seas",
+          "authors": [
+            {
+              "id": 101731217,
+              "name": "Aureljz",
+              "url": "https://www.curseforge.com/members/aureljz"
+            },
+            {
+              "id": 107151980,
+              "name": "Zephyrusjz",
+              "url": "https://www.curseforge.com/members/zephyrusjz"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Elegant - and likely hostile - vessels lost in the seven seas...",
+          "categories": [
+            {
+              "name": "Adventure and RPG",
+              "slug": "adventure-rpg",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/adventure-rpg",
+              "dateModified": "2014-05-08T17:42:09.54Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 422,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/37/635351497295252123.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "World Gen",
+              "slug": "world-gen",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen",
+              "dateModified": "2017-10-16T21:40:11.473Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 406,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/26/635351494599748860.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Structures",
+              "slug": "world-structures",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen/world-structures",
+              "dateModified": "2014-05-08T17:37:17.173Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 409,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/24/635351494371736208.png",
+              "parentCategoryId": 406,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 406,
+          "classId": 6,
+          "slug": "when-dungeons-arise-seven-seas",
+          "isFeatured": false,
+          "dateModified": "2024-08-25T07:17:47.097Z",
+          "dateCreated": "2023-12-24T07:50:35.53Z",
+          "dateReleased": "2024-08-25T07:11:30.453Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/when-dungeons-arise-seven-seas",
+            "wikiUrl": ""
+          },
+          "logo": {
+            "id": 923415,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/923/415/256/256/638390067375153270.png",
+            "title": "638390067375153270.png",
+            "url": "https://media.forgecdn.net/avatars/923/415/638390067375153270.png",
+            "modId": 953637
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 5661269
+        },
+        "curseForgeFile": {
+          "id": 4981340,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "[FABRIC] DungeonsAriseSevenSeas-1.20.x-1.0.2-fabric",
+          "fileName": "DungeonsAriseSevenSeas-1.20.x-1.0.2-fabric.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2023-12-24T22:02:00.65Z",
+          "fileLength": 250352,
+          "dependencies": [],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 1290029782,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 18375977,
+              "name": "LICENSE_dungeons_arise_seven_seas"
+            },
+            {
+              "fingerprint": 2118621879,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 3057659328,
+              "name": "data"
+            },
+            {
+              "fingerprint": 3040441529,
+              "name": "dungeons_arise_seven_seas.mixins.json"
+            },
+            {
+              "fingerprint": 1084283100,
+              "name": "fabric.mod.json"
+            },
+            {
+              "fingerprint": 1394677476,
+              "name": "net"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "f71f5c74875e036cc697370c3088e2bee68fd25c",
+              "algo": 1
+            },
+            {
+              "value": "e4b86ea348a0ece9fd941dfb2446610a",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000002",
+              "gameVersion": "1.20.2",
+              "gameVersionReleaseDate": "2023-09-21T15:25:15.053Z",
+              "gameVersionName": "1.20.2"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-09-01T00:00:00Z",
+              "gameVersionName": "Fabric"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000003",
+              "gameVersion": "1.20.3",
+              "gameVersionReleaseDate": "2023-12-05T17:24:10.113Z",
+              "gameVersionName": "1.20.3"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020",
+              "gameVersion": "1.20",
+              "gameVersionReleaseDate": "2023-06-07T00:00:00Z",
+              "gameVersionName": "1.20"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000004",
+              "gameVersion": "1.20.4",
+              "gameVersionReleaseDate": "2023-12-07T15:17:47.907Z",
+              "gameVersionName": "1.20.4"
+            }
+          ],
+          "gameVersions": [
+            "1.20.2",
+            "Fabric",
+            "1.20.3",
+            "1.20.1",
+            "1.20",
+            "1.20.4"
+          ],
+          "fileFingerprint": 82524464,
+          "modId": 953637
+        },
+        "modrinthProject": {
+          "id": "ZsrrjDbP",
+          "slug": "when-dungeons-arise-seven-seas",
+          "project_type": "mod",
+          "team": "WcqGASUd",
+          "title": "When Dungeons Arise: Seven Seas",
+          "description": "Elegant - and likely hostile - vessels lost in the seven seas...",
+          "body": "![Seven Seas](https://i.postimg.cc/ydXSmCxs/seven-seas-banner.png)\n\n \n\n**Explore, loot and ravage wandering vessels lost in the seven seas.**\n\n \n\n**Seven Seas** is an expansion of the structures mod [When Dungeons Arise](https://www.curseforge.com/minecraft/mc-mods/when-dungeons-arise). While the latter focuses on massive land structures, Seven Seas takes this further by adding complex ships and other oceanic dungeons, while following similar design ideas, vanilla customization and datapack possibilities.\n\n![](https://i.postimg.cc/rmm9g90D/2023-12-24-05-10-11.png)\n\n \n\n### Structures List\n\n(as of version 1.0.1)\n\n \n\n_**Corsair Corvette**_\n\n_**![](https://i.postimg.cc/k40f4bGD/2023-12-24-05-20-54.png)**_\n\n![](https://i.postimg.cc/65W7nPCf/2023-12-24-04-33-15.png)\n\n![](https://i.postimg.cc/c13FzXk3/2023-12-24-05-20-12.png)\n\n![](https://i.postimg.cc/Qt9fhbXR/2023-12-24-05-21-20.png)\n\n \n\n_**Pirate Junkship**_\n\n_**![](https://i.postimg.cc/WpxQFdCG/2023-12-24-05-12-49.png)**_\n\n![](https://i.postimg.cc/rFfDJ9JX/2023-12-24-04-36-03.png)\n\n![](https://i.postimg.cc/MHgtnjGv/2023-12-24-05-13-39.png)\n\n \n\n_**Unicorn Galleon**_\n\n_**![](https://i.postimg.cc/CxstQm17/2023-12-24-05-15-49.png)**_\n\n![](https://i.postimg.cc/mD99pFr3/2023-12-24-04-37-44.png)\n\n![](https://i.postimg.cc/YqH6V8Yv/2023-12-24-04-38-36.png)\n\n![](https://i.postimg.cc/XJpzXWg1/2023-12-24-05-16-21.png)\n\n \n\n_**Small Yacht**_\n\n![](https://i.postimg.cc/wByR3sDK/2023-12-24-04-43-29.png)\n\n![](https://i.postimg.cc/VkHbYFrB/2023-12-24-04-42-37.png)\n\n \n\n_**Victory Frigate**_\n\n_**![](https://i.postimg.cc/Kc168Pqc/2023-12-24-05-10-36.png)**_\n\n![](https://i.postimg.cc/prYFRbzp/2023-12-24-04-40-56.png)\n\n![](https://i.postimg.cc/W4BFZb7d/2023-12-24-04-47-44.png)\n\n![](https://i.postimg.cc/mZ1nsbkt/2023-12-24-05-18-20.png)**![](https://i.postimg.cc/htcZTTrd/2023-12-24-05-18-38.png)**\n\n**![](https://i.postimg.cc/q77mZrWB/2023-12-24-05-19-12.png)**\n\n**![](https://i.postimg.cc/6pcj0qj1/2023-12-24-05-19-21.png)**\n\n![](https://i.postimg.cc/VLWqcMWD/2023-12-24-04-41-50.png)\n\nundefinedundefined\n\n_\\* All pictures taken using [Complementary Unbound](https://legacy.curseforge.com/minecraft/shaders/complementary-unbound) shaders & during Christmas (Oops?)_\n\n \n\n### **FAQ**\n\n**Can I use this without When Dungeons Arise?**\n\nYes.\n\n**Can I use this server-side only without installing it on clients?**\n\nYes.\n\n**Will you port this back to 1.12.2?**\n\nNo.\n\n**Do these dungeons generate if I add them on a world I already explored?**\n\nYes. You will have to explore further and load new chunks though! Remember to save a backup of your world just in case.\n\n**Are you going to add a config file?**\n\nThis mod is datapack-based, and therefore datapacks are required to configure it. Public templates will be available soon.",
+          "published": "2024-01-19T22:35:17.535892Z",
+          "updated": "2024-01-19T22:37:44.375539Z",
+          "status": "approved",
+          "license": {
+            "id": "LicenseRef-All-Rights-Reserved",
+            "name": ""
+          },
+          "client_side": "unsupported",
+          "server_side": "required",
+          "categories": [
+            "adventure",
+            "worldgen"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/ZsrrjDbP/18ddad0287fa98f3056db4baa187fecd0c28a6ca.png",
+          "donation_urls": [],
+          "gallery": []
+        },
+        "modrinthVersion": {
+          "id": "ZQjAxRej",
+          "project_id": "ZsrrjDbP",
+          "author_id": "JW8OlCkl",
+          "name": "When Dungeons Arise: Seven Seas 1.0.2",
+          "version_number": "1.0.2",
+          "changelog": "Initial Release",
+          "date_published": "2024-01-19T22:36:57.068453Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha1": "f71f5c74875e036cc697370c3088e2bee68fd25c",
+                "sha512": "2668f1392137f3713661bc0cf8604441f4365bd19a597d5af747571453cf256311171ee6639f7d28924067074ad3243336e1bf3420c55aab9230281cea35d5da"
+              },
+              "url": "https://cdn.modrinth.com/data/ZsrrjDbP/versions/ZQjAxRej/DungeonsAriseSevenSeas-1.20.x-1.0.2-fabric.jar",
+              "filename": "DungeonsAriseSevenSeas-1.20.x-1.0.2-fabric.jar",
+              "primary": true,
+              "size": 250352
+            }
+          ],
+          "dependencies": [],
+          "game_versions": [
+            "1.20",
+            "1.20.1",
+            "1.20.2",
+            "1.20.3",
+            "1.20.4"
+          ],
+          "loaders": [
+            "fabric"
+          ]
+        }
+      },
+      {
+        "name": "Wall-Jump TXF",
+        "version": "Wall-Jump TXF 1.20.1-1.2.4-fabric",
+        "optional": true,
+        "file": "walljump-1.20.1-1.2.4-fabric.jar",
+        "type": "mods",
+        "description": "Wall jump, double jump, fence jump & more",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 909143,
+        "curseForgeFileId": 5673498,
+        "curseForgeProject": {
+          "id": 909143,
+          "name": "Wall-Jump TXF",
+          "authors": [
+            {
+              "id": 101051350,
+              "name": "jahirtrap",
+              "url": "https://www.curseforge.com/members/jahirtrap"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Wall jump, double jump, fence jump & more",
+          "categories": [
+            {
+              "name": "Player Transport",
+              "slug": "technology-player-transport",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/technology/technology-player-transport",
+              "dateModified": "2014-05-08T17:38:58.357Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 414,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/29/635351495383551178.png",
+              "parentCategoryId": 412,
+              "classId": 6
+            },
+            {
+              "name": "Utility & QoL",
+              "slug": "utility-qol",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/utility-qol",
+              "dateModified": "2021-11-17T11:45:09.143Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 5191,
+              "iconUrl": "https://media.forgecdn.net/avatars/456/558/637727379086405233.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 414,
+          "classId": 6,
+          "slug": "wall-jump-txf",
+          "isFeatured": false,
+          "dateModified": "2024-08-29T07:21:24.247Z",
+          "dateCreated": "2023-09-02T03:58:41.007Z",
+          "dateReleased": "2024-08-29T07:14:45.373Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/wall-jump-txf",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/jahirxtrap/walljump/issues",
+            "sourceUrl": "https://github.com/jahirxtrap/walljump"
+          },
+          "logo": {
+            "id": 872899,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/872/899/256/256/638292239210486786.png",
+            "title": "638292239210486786.png",
+            "url": "https://media.forgecdn.net/avatars/872/899/638292239210486786.png",
+            "modId": 909143
+          },
+          "allowModDistribution": true,
+          "screenshots": [
+            {
+              "id": 722781,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/722/781/310/172/2023-09-01_23.png",
+              "title": "Wall Jump",
+              "url": "https://media.forgecdn.net/attachments/722/781/2023-09-01_23.png",
+              "modId": 909143
+            }
+          ],
+          "mainFileId": 5673518
+        },
+        "curseForgeFile": {
+          "id": 5673498,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "Wall-Jump TXF 1.20.1-1.2.4-fabric",
+          "fileName": "walljump-1.20.1-1.2.4-fabric.jar",
+          "releaseType": 2,
+          "fileStatus": 4,
+          "fileDate": "2024-08-29T07:07:04.33Z",
+          "fileLength": 153543,
+          "dependencies": [],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 1434719481,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 2647660496,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 2770770347,
+              "name": "com"
+            },
+            {
+              "fingerprint": 3109952936,
+              "name": "fabric.mod.json"
+            },
+            {
+              "fingerprint": 509810197,
+              "name": "logo.png"
+            },
+            {
+              "fingerprint": 2748872252,
+              "name": "walljump.mixins.json"
+            },
+            {
+              "fingerprint": 372028340,
+              "name": "walljump.refmap.json"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "82a78a007ce49c84fc848f4a7303c22a889bee1e",
+              "algo": 1
+            },
+            {
+              "value": "da443e6800862728d4c9b516df718313",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-09-01T00:00:00Z",
+              "gameVersionName": "Fabric"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020",
+              "gameVersion": "1.20",
+              "gameVersionReleaseDate": "2023-06-07T00:00:00Z",
+              "gameVersionName": "1.20"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-05-26T00:00:00Z",
+              "gameVersionName": "Quilt"
+            }
+          ],
+          "gameVersions": [
+            "Fabric",
+            "1.20.1",
+            "1.20",
+            "Quilt"
+          ],
+          "fileFingerprint": 917076197,
+          "modId": 909143
+        },
+        "modrinthProject": {
+          "id": "oUoetxfR",
+          "slug": "wall-jump-txf",
+          "project_type": "mod",
+          "team": "gvfQkDbq",
+          "title": "Wall-Jump TXF",
+          "description": "Wall jump, double jump, fence jump & more",
+          "body": "<h2><strong>Wall-Jump TXF mod</strong></h2>\n<p><a href=\"https://www.curseforge.com/minecraft/mc-mods/wall-jump-txf\"><img src=\"https://cf.way2muchnoise.eu/full_909143_downloads.svg?badge_style=flat\" alt=\"CurseForge downloads\" /></a> <a href=\"https://modrinth.com/mod/wall-jump-txf\"><img src=\"https://img.shields.io/badge/dynamic/json?color=2d2d2d&amp;colorA=17b85a&amp;style=flat-square&amp;label=&amp;suffix= downloads&amp;query=downloads&amp;url=https://api.modrinth.com/v2/project/oUoetxfR&amp;logo=modrinth&amp;logoColor=2d2d2d\" alt=\"Modrinth downloads\" /></a></p>\n\nWall jump, double jump, fence jump & more\n\n<strong>This mod adds:</strong>\n\n<strong>Wall Cling:</strong> Jump towards a wall and hold the wall jump key (LSHIFT)\n\n<strong>Wall Jump:</strong> While wall clinging, keep holding W and let go of LSHIFT to wall jump\n\n<strong>Double Jump:</strong> Optional mid-air jump\n\n<strong>Speed Boost:</strong> Boosts your speed while sprinting\n\n<strong>Steep Assist:</strong> Walk up steps even while airborne, also jump over fences\n\n<strong>Fabric/Quilt dependencies:</strong>\n\n- <a href=\"https://modrinth.com/mod/modmenu\" target=\"_blank\">Mod Menu mod</a> <strong>(Optional)</strong>\n\n<img src=\"https://cdn.modrinth.com/data/oUoetxfR/images/ccab85538f124c14fc7b772ddaff7c4c4097593a.png\">",
+          "published": "2023-09-02T04:01:28.285889Z",
+          "updated": "2024-08-29T07:14:43.771955Z",
+          "status": "approved",
+          "license": {
+            "id": "GPL-3.0-only",
+            "name": "GNU General Public License v3.0 only"
+          },
+          "client_side": "required",
+          "server_side": "required",
+          "categories": [
+            "game-mechanics"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/oUoetxfR/4b6b3d344aef426385cc3a3c19cd98bee8322ee8.png",
+          "issues_url": "https://github.com/jahirxtrap/walljump/issues",
+          "source_url": "https://github.com/jahirxtrap/walljump",
+          "donation_urls": [],
+          "gallery": [
+            {
+              "url": "https://cdn.modrinth.com/data/oUoetxfR/images/ccab85538f124c14fc7b772ddaff7c4c4097593a.png",
+              "featured": true,
+              "title": "Wall Jump",
+              "created": "2023-09-02T04:24:27.248523Z",
+              "ordering": 0.0
+            }
+          ]
+        },
+        "modrinthVersion": {
+          "id": "i7HgIw68",
+          "project_id": "oUoetxfR",
+          "author_id": "f8jFEUgz",
+          "name": "Wall-Jump TXF 1.20.1-1.2.4-fabric",
+          "version_number": "1.20.1-1.2.4-fabric",
+          "changelog": "- Updated config lib",
+          "date_published": "2024-08-29T07:07:03.528687Z",
+          "version_type": "beta",
+          "files": [
+            {
+              "hashes": {
+                "sha512": "b16e62af9aefcfa87e025c9cc60fa579b52a9a3f8af4c6b95b93130d9a1149a0c6b5dd0c635008ea062894512197eb95379efb8184384915fc551d3bab6e33e4",
+                "sha1": "82a78a007ce49c84fc848f4a7303c22a889bee1e"
+              },
+              "url": "https://cdn.modrinth.com/data/oUoetxfR/versions/i7HgIw68/walljump-1.20.1-1.2.4-fabric.jar",
+              "filename": "walljump-1.20.1-1.2.4-fabric.jar",
+              "primary": true,
+              "size": 153543
+            }
+          ],
+          "dependencies": [],
+          "game_versions": [
+            "1.20",
+            "1.20.1"
+          ],
+          "loaders": [
+            "fabric",
+            "quilt"
+          ]
+        }
       }
     ],
     "ignoredUpdates": [],
     "ignoreAllUpdates": false,
     "vanillaInstance": true,
-    "lastPlayed": 1725115013018,
-    "numPlays": 79,
+    "lastPlayed": 1725116962590,
+    "numPlays": 83,
     "lastExportName": "Sunnie's RPG Tech",
     "lastExportVersion": "1.20.1",
     "lastExportAuthor": "Hitomiiv",
