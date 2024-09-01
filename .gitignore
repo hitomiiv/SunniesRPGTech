@@ -2,13 +2,16 @@
 /*/
 /*
 
-# Excludes
-#!/resourcepacks/
-#!/shaderpacks/
-#!/mods/
-!/config/
-!.gitignore
+# Include git & github files
 !/.github/
-!/options.txt
+!.gitignore
+
+# Include pack information
 !/instance.json
 !/*.mrpack
+
+# Include config files except user options
+!/config/
+/config/inventorysorter/config.json5
+/config/sodium-extra-options.json
+/config/presencefootsteps/userconfig.json
