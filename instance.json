@@ -67336,13 +67336,305 @@
             "fabric"
           ]
         }
+      },
+      {
+        "name": "Third Person Maps",
+        "version": "Third Person Maps v1.5.1 [1.20] [1.20.1]",
+        "optional": true,
+        "file": "third-person-maps-1.5.1+1.20.1.jar",
+        "type": "mods",
+        "description": "Render those pesky Minecraft Maps in everyone's favorite perspective: third person. #thirdpersongang",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 431171,
+        "curseForgeFileId": 4595212,
+        "curseForgeProject": {
+          "id": 431171,
+          "name": "Third Person Maps",
+          "authors": [
+            {
+              "id": 101782880,
+              "name": "Pepperoni__Jabroni__",
+              "url": "https://www.curseforge.com/members/pepperoni__jabroni__"
+            },
+            {
+              "id": 101631956,
+              "name": "Pepperoni_Jabroni_",
+              "url": "https://www.curseforge.com/members/pepperoni_jabroni_"
+            }
+          ],
+          "gameId": 432,
+          "summary": " Render those pesky Maps in third person (everyone's favorite perspective)",
+          "categories": [
+            {
+              "name": "Map and Information",
+              "slug": "map-information",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/map-information",
+              "dateModified": "2014-05-08T17:42:23.74Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 423,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/38/635351497437388438.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Adventure and RPG",
+              "slug": "adventure-rpg",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/adventure-rpg",
+              "dateModified": "2014-05-08T17:42:09.54Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 422,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/37/635351497295252123.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Cosmetic",
+              "slug": "cosmetic",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/cosmetic",
+              "dateModified": "2014-05-08T17:42:35.597Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 424,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/39/635351497555976928.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 423,
+          "classId": 6,
+          "slug": "third-person-maps",
+          "isFeatured": false,
+          "dateModified": "2024-06-14T21:52:45.157Z",
+          "dateCreated": "2020-12-26T01:47:14.163Z",
+          "dateReleased": "2024-06-14T21:46:53.197Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/third-person-maps",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/Pepperoni-Jabroni/ThirdPersonMaps/issues",
+            "sourceUrl": "https://github.com/Pepperoni-Jabroni/ThirdPersonMaps"
+          },
+          "logo": {
+            "id": 332987,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/332/987/256/256/637465078332867332.png",
+            "title": "637465078332867332.png",
+            "url": "https://media.forgecdn.net/avatars/332/987/637465078332867332.png",
+            "modId": 431171
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 5429327
+        },
+        "curseForgeFile": {
+          "id": 4595212,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "third-person-maps-1.5.1+1.20.1.jar",
+          "fileName": "third-person-maps-1.5.1+1.20.1.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2023-06-18T16:00:07.36Z",
+          "fileLength": 478255,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 306612,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 348521,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 308702,
+              "relationType": 3
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 2847387834,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 2226923820,
+              "name": "LICENSE_third-person-maps"
+            },
+            {
+              "fingerprint": 1370248902,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 998826922,
+              "name": "fabric.mod.json"
+            },
+            {
+              "fingerprint": 946332720,
+              "name": "thirdpersonmaps.mixins.json"
+            },
+            {
+              "fingerprint": 2039824247,
+              "name": "third-person-maps-refmap.json"
+            },
+            {
+              "fingerprint": 3402690386,
+              "name": "pepjebs"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "0351be3767062e0aaa20d0d1fb009e2bfe0853ae",
+              "algo": 1
+            },
+            {
+              "value": "e217f363e63e34d538131a63f5ee1380",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-09-01T00:00:00Z",
+              "gameVersionName": "Fabric"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Client"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020",
+              "gameVersion": "1.20",
+              "gameVersionReleaseDate": "2023-06-07T00:00:00Z",
+              "gameVersionName": "1.20"
+            }
+          ],
+          "gameVersions": [
+            "Fabric",
+            "Client",
+            "1.20.1",
+            "1.20"
+          ],
+          "fileFingerprint": 3347797092,
+          "modId": 431171
+        },
+        "modrinthProject": {
+          "id": "H0x6CMOI",
+          "slug": "third-person-maps",
+          "project_type": "mod",
+          "team": "6bmSY5Ec",
+          "title": "Third Person Maps",
+          "description": "Render those pesky Minecraft Maps in everyone's favorite perspective: third person. #thirdpersongang",
+          "body": "<center>\n  <img src=\"https://user-images.githubusercontent.com/17690401/209392408-4ca02c99-e13b-466a-b790-5d1d9ed45dcb.png\">\n  </br></br>\n  Render those pesky Minecraft Maps in everyone's favorite perspective: third person. #thirdpersongang\n  </br></br>\n  <a href=\"https://www.curseforge.com/minecraft/mc-mods/fabric-api\"><img src=\"https://i.imgur.com/Ol1Tcf8.png\" width=\"149\" height=\"50\" title=\"Fabric API\" alt=\"Fabric API\"></a>\n  </br></br>\n  <a href=\"https://www.curseforge.com/minecraft/mc-mods/third-person-maps\"><img alt=\"Curseforge\" src=\"https://cf.way2muchnoise.eu/full_431171_downloads.svg\"></a> <a href=\"https://modrinth.com/mod/third-person-maps\"><img alt=\"Modrinth\" src=\"https://img.shields.io/modrinth/dt/third-person-maps?label=Modrinth%20Downloads\"></a> <a href=\"https://github.com/Pepperoni-Jabroni/ThirdPersonMaps\"><img alt=\"GitHub\" src=\"https://img.shields.io/github/downloads/Pepperoni-Jabroni/ThirdPersonMaps/total?label=Downloads&logo=github\"></a>\n</center>\n\n## 📖 About\nThis is a **client-side mod**. All you have to do is simply hold a Map & be in third person! The Map HUD works exactly as you'd expect:\n- Updates in real time\n- Works with non-fully explored Maps\n- Works at any scale\n- Works with both left & right hands\n\nYou can force the Map scale in the HUD if you don't like the default size. Please see the file in your config folder.\n\n## ⚙️ Config\nThe mod is highly configurable and offers in-game config editing with ModMenu. See the current config [options here](https://github.com/Pepperoni-Jabroni/ThirdPersonMaps/blob/main/src/main/java/pepjebs/thirdpersonmaps/config/ThirdPersonMapsConfig.java)!\n\n## ⛓ Dependencies\n- Required:\n   - [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api)\n   - [Cloth Config](https://www.curseforge.com/minecraft/mc-mods/cloth-config)\n- Optional:\n   - [Mod Menu](https://www.curseforge.com/minecraft/mc-mods/modmenu)\n\n## 📃 Changelog\nChangelogs are available [at the GitHub Releases section](https://github.com/Pepperoni-Jabroni/ThirdPersonMaps/releases)\n\n## 📸 Media\n## Standard Map First Person\n![](https://i.imgur.com/pW9xYq6.png)\n\n## Map Rendering in Third Person\n![](https://i.imgur.com/r20ej6f.png)\n\n## Works in Left Hand too\n![](https://i.imgur.com/JzYEEdy.png)\n\n## Plays nice with Potion Effects & Map Exploration\n![](https://i.imgur.com/pZEkG7Q.png)",
+          "published": "2022-07-28T02:20:23.117096Z",
+          "updated": "2024-06-14T21:46:26.457169Z",
+          "status": "approved",
+          "license": {
+            "id": "LGPL-3.0-only",
+            "name": "GNU Lesser General Public License v3.0 only"
+          },
+          "client_side": "required",
+          "server_side": "unsupported",
+          "categories": [
+            "adventure",
+            "equipment",
+            "utility"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/H0x6CMOI/icon.png",
+          "issues_url": "https://github.com/Pepperoni-Jabroni/ThirdPersonMaps/issues",
+          "source_url": "https://github.com/Pepperoni-Jabroni/ThirdPersonMaps",
+          "donation_urls": [],
+          "gallery": [
+            {
+              "url": "https://cdn.modrinth.com/data/H0x6CMOI/images/026eb7f757d71f534e2eb6000f84fc742ece7d64.png",
+              "featured": false,
+              "created": "2023-05-07T19:29:05.139040Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/H0x6CMOI/images/731b1ab6f4b85414d19eb63ca329f14f05d35b3c.png",
+              "featured": false,
+              "created": "2023-05-07T19:30:55.554198Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/H0x6CMOI/images/bdd805a61394d748f4f84566eb4633b5d2fffa92.png",
+              "featured": true,
+              "created": "2023-05-07T21:06:59.517449Z",
+              "ordering": 0.0
+            }
+          ]
+        },
+        "modrinthVersion": {
+          "id": "cqgOyDfs",
+          "project_id": "H0x6CMOI",
+          "author_id": "rBl8Mq9S",
+          "name": "Third Person Maps v1.5.1 [1.20] [1.20.1]",
+          "version_number": "1.5.1",
+          "changelog": "In this version:\n- Update to 1.20/1.20.1",
+          "date_published": "2023-06-18T15:59:23.247771Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha1": "0351be3767062e0aaa20d0d1fb009e2bfe0853ae",
+                "sha512": "a72d87963440a081eee40f08249a82744e210601ac43c5ab40b8b19280d747a6b25e5bc4f3714c00d2d1820baf51e3248810dfe2707efa54cae7a954e319475b"
+              },
+              "url": "https://cdn.modrinth.com/data/H0x6CMOI/versions/cqgOyDfs/third-person-maps-1.5.1%2B1.20.1.jar",
+              "filename": "third-person-maps-1.5.1+1.20.1.jar",
+              "primary": true,
+              "size": 478255
+            }
+          ],
+          "dependencies": [
+            {
+              "version_id": "s7VTKfLA",
+              "project_id": "9s6osm5g",
+              "dependency_type": "required"
+            },
+            {
+              "version_id": "XheZ9iGK",
+              "project_id": "P7dR8mSH",
+              "dependency_type": "required"
+            },
+            {
+              "version_id": "eTCL1uh8",
+              "project_id": "mOgUt4GM",
+              "dependency_type": "optional"
+            }
+          ],
+          "game_versions": [
+            "1.20",
+            "1.20.1"
+          ],
+          "loaders": [
+            "fabric"
+          ]
+        }
       }
     ],
     "ignoredUpdates": [],
     "ignoreAllUpdates": false,
     "vanillaInstance": true,
-    "lastPlayed": 1725203402720,
-    "numPlays": 86,
+    "lastPlayed": 1725203884852,
+    "numPlays": 87,
     "lastExportName": "Sunnie's RPG Tech",
     "lastExportVersion": "1.20.1",
     "lastExportAuthor": "Hitomiiv",
