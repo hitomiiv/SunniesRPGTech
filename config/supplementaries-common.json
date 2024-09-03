@@ -238,7 +238,7 @@
   },
   "tools": {
     "quiver": {
-      "enabled": false,
+      "enabled": true,
       "use_without_slow": true,
       "slots": 6,
       "quiver_skeleton_spawn_chance": 0.03,
