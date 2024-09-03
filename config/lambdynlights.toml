@@ -118,7 +118,12 @@ mode = "fancy"
 				koi = true
 				bluegill = true
 				goldfish = true
+				meadowlark = true
+				catfish = true
 
 			[light_sources.settings.entities.smallships]
 				brigg = true
+
+			[light_sources.settings.entities.mythicmounts]
+				geckotoalizard = true
 

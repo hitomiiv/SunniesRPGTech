@@ -67031,385 +67031,6 @@
         }
       },
       {
-        "name": "Just Enough Items",
-        "version": "15.16.2.73 for Fabric 1.20.1",
-        "optional": true,
-        "file": "jei-1.20.1-fabric-15.16.2.73.jar",
-        "type": "mods",
-        "description": "JEI - View Items and Recipes",
-        "disabled": false,
-        "userAdded": true,
-        "wasSelected": true,
-        "skipped": false,
-        "curseForgeProjectId": 238222,
-        "curseForgeFileId": 5683453,
-        "curseForgeProject": {
-          "id": 238222,
-          "name": "Just Enough Items (JEI)",
-          "authors": [
-            {
-              "id": 17072262,
-              "name": "mezz",
-              "url": "https://www.curseforge.com/members/mezz"
-            }
-          ],
-          "gameId": 432,
-          "summary": "View Items and Recipes",
-          "categories": [
-            {
-              "name": "API and Library",
-              "slug": "library-api",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/library-api",
-              "dateModified": "2014-05-23T03:21:44.06Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 421,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/36/635351496947765531.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
-              "name": "Map and Information",
-              "slug": "map-information",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/map-information",
-              "dateModified": "2014-05-08T17:42:23.74Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 423,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/38/635351497437388438.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            }
-          ],
-          "status": 4,
-          "primaryCategoryId": 423,
-          "classId": 6,
-          "slug": "jei",
-          "isFeatured": false,
-          "dateModified": "2024-09-01T14:06:36.483Z",
-          "dateCreated": "2015-11-23T22:55:58.84Z",
-          "dateReleased": "2024-09-01T14:01:44.32Z",
-          "links": {
-            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/jei",
-            "wikiUrl": "",
-            "issuesUrl": "https://github.com/mezz/JustEnoughItems/issues?q=is%3Aissue",
-            "sourceUrl": "https://github.com/mezz/JustEnoughItems"
-          },
-          "logo": {
-            "id": 29069,
-            "description": "",
-            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/29/69/256/256/635838945588716414.jpeg",
-            "title": "635838945588716414.jpeg",
-            "url": "https://media.forgecdn.net/avatars/29/69/635838945588716414.jpeg",
-            "modId": 238222
-          },
-          "allowModDistribution": true,
-          "screenshots": [
-            {
-              "id": 31417,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/31/417/310/172/thzzdin.png",
-              "title": "Recipe Completion",
-              "url": "https://media.forgecdn.net/attachments/31/417/thzzdin.png",
-              "modId": 238222
-            },
-            {
-              "id": 31419,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/31/419/310/172/t7f7jh6.png",
-              "title": "Potions",
-              "url": "https://media.forgecdn.net/attachments/31/419/t7f7jh6.png",
-              "modId": 238222
-            },
-            {
-              "id": 31420,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/31/420/310/172/tgafkma.png",
-              "title": "Itemlist Edit Mode",
-              "url": "https://media.forgecdn.net/attachments/31/420/tgafkma.png",
-              "modId": 238222
-            },
-            {
-              "id": 31418,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/31/418/310/172/9lngh5f.png",
-              "title": "Big Screen Support",
-              "url": "https://media.forgecdn.net/attachments/31/418/9lngh5f.png",
-              "modId": 238222
-            }
-          ],
-          "mainFileId": 5626488
-        },
-        "curseForgeFile": {
-          "id": 5683453,
-          "gameId": 432,
-          "isAvailable": true,
-          "displayName": "jei-1.20.1-fabric-15.16.2.73.jar",
-          "fileName": "jei-1.20.1-fabric-15.16.2.73.jar",
-          "releaseType": 2,
-          "fileStatus": 4,
-          "fileDate": "2024-09-01T14:01:36.093Z",
-          "fileLength": 1394977,
-          "dependencies": [],
-          "alternateFileId": 0,
-          "modules": [
-            {
-              "fingerprint": 4083670576,
-              "name": "META-INF"
-            },
-            {
-              "fingerprint": 3915139988,
-              "name": "assets"
-            },
-            {
-              "fingerprint": 1431992051,
-              "name": "fabric.mod.json"
-            },
-            {
-              "fingerprint": 1056944492,
-              "name": "jei-1.20.1-fabric-refmap.json"
-            },
-            {
-              "fingerprint": 2007185424,
-              "name": "jei-icon.png"
-            },
-            {
-              "fingerprint": 2262576366,
-              "name": "jei.accesswidener"
-            },
-            {
-              "fingerprint": 1640667786,
-              "name": "jei.mixins.json"
-            },
-            {
-              "fingerprint": 452067219,
-              "name": "mezz"
-            },
-            {
-              "fingerprint": 2606738017,
-              "name": "pack.mcmeta"
-            }
-          ],
-          "isServerPack": false,
-          "hashes": [
-            {
-              "value": "7afe80b6610f2b1944a371806b090132d799441e",
-              "algo": 1
-            },
-            {
-              "value": "d4b12d0efd9e2b07883f6209f96c6039",
-              "algo": 2
-            }
-          ],
-          "sortableGameVersions": [
-            {
-              "gameVersionPadded": "0",
-              "gameVersion": "",
-              "gameVersionReleaseDate": "2022-09-01T00:00:00Z",
-              "gameVersionName": "Fabric"
-            },
-            {
-              "gameVersionPadded": "0000000001.0000000020.0000000001",
-              "gameVersion": "1.20.1",
-              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
-              "gameVersionName": "1.20.1"
-            }
-          ],
-          "gameVersions": [
-            "Fabric",
-            "1.20.1"
-          ],
-          "fileFingerprint": 4203360969,
-          "modId": 238222
-        },
-        "modrinthProject": {
-          "id": "u6dRKJwZ",
-          "slug": "jei",
-          "project_type": "mod",
-          "team": "H2zAm1Kt",
-          "title": "Just Enough Items",
-          "description": "JEI - View Items and Recipes",
-          "body": "# Just Enough Items\nJEI is an item and recipe viewing mod for Minecraft, built from the ground up for stability and performance.\n\n![JEI Recipe GUI](https://cdn.modrinth.com/data/u6dRKJwZ/images/ee0ea4051573264d2b4edb53f9d4e634faa11f21.png)\n\n## Controls\n\n### Inventory:\n*(Minecraft Options -> Controls)*\n\nShow **R**ecipes: *Hover over item + R*  \nShow **U**ses: *Hover over item + U*  \nToggle Item List **O**verlay: *Control + O*  \n\n### Item List:\nShow Recipes: *Click Item or type R*  \nShow Uses: *Right-Click Item or type U*  \nNext/Previous page: *Scroll Wheel*  \n\n### Search:\nSelect Search Bar: *Click or Control + F*  \nClear Search: *Right Click*  \nPrevious Search: *Up Arrow * \nSearch by Mod Name: *Type @ in front of a word (@thaum)*  \nMultiple terms work together *(wand @thaum)*  \n\nExclude search terms: *Type - in front of a word (@thaum -wand)*  \n\nSearch terms that have spaces in them: *Type \"\" around the words (\"two words\")*\n\n### Recipe View:\nNext/Previous page: *Scroll Wheel*  \nShow all Recipes: *Click the recipe category's name*  \nMove items into crafting area: *Click the [+] button. Shift-Click to move multiple sets of items.*  \n\n<details>\n<summary>View advanced controls</summary>\n\n### Advanced Search:\nSearch by Tooltip Only: *Type # in front of a word*  \nSearch by OreDict name: *Type $ in front of a word*  \nSearch by Creative Tab: *Type % in front of a word*  \nMultiple Searches: *Separate terms with | characters, like \"wrench|hammer\"*  \n\n### With Cheat Mode Active:\nGet a full stack of Items: *Click Item*  \nGet one Item: *Right-Click Item*  \nDelete Item: *Drop an Item into the Item List*  \n\n### With Item List Edit Mode Active: \n*(These controls are shown in-game on the item tooltip)*\n\nHide Item: *Control-Click Item*  \nHide Items and Sub-Items: *Control-Right-Click Item*  \nHide all Items from a mod: *Control-Shift-Click Item*\n\n</details>\n\n## FAQ\n### Can I include JEI in my mod pack?\nOf course!\n\n### Can JEI run client-only, or with a vanilla server?\nYes, with some features disabled:\n- The \"Move items into crafting area\" [+] buttons.\n- Cheating in items that have lots of NBT data.\n- Deleting items.\n\n### Where can I find the ___ feature from NEI?\n\n[The chart here shows which mods support each feature.](https://docs.google.com/spreadsheets/d/1NEWZjKvWB-SibY1BXc1zoYkK7AhjMMBZess9wMy--6w/edit#gid=0)\n\n### I have an issue / bug / crash / report / request, where can I send it?\n[JEI Github Issues Page](https://github.com/mezz/JustEnoughItems/issues)\n\n## Support\n[Become a patron on Patreon](https://www.patreon.com/mezz)",
-          "published": "2023-01-27T05:19:03.821699Z",
-          "updated": "2024-09-01T14:01:59.223860Z",
-          "status": "approved",
-          "license": {
-            "id": "MIT",
-            "name": "MIT License"
-          },
-          "client_side": "required",
-          "server_side": "unsupported",
-          "categories": [
-            "library",
-            "utility"
-          ],
-          "icon_url": "https://cdn.modrinth.com/data/u6dRKJwZ/565c44deeac2a38cbb6c600b5e002fac59572b88.png",
-          "issues_url": "https://github.com/mezz/JustEnoughItems/issues?q=is%3Aissue",
-          "source_url": "https://github.com/mezz/JustEnoughItems",
-          "wiki_url": "https://github.com/mezz/JustEnoughItems/wiki",
-          "discord_url": "https://discord.gg/sCQcWU2",
-          "donation_urls": [
-            {
-              "id": "patreon",
-              "platform": "Patreon",
-              "url": "https://www.patreon.com/mezz"
-            }
-          ],
-          "gallery": [
-            {
-              "url": "https://cdn.modrinth.com/data/u6dRKJwZ/images/4ebe4cc9942c4bf0b07fdac67f93026b42f9a4d4.png",
-              "featured": false,
-              "title": "Recipe Completion",
-              "created": "2023-01-27T05:18:47.838148Z",
-              "ordering": 0.0
-            },
-            {
-              "url": "https://cdn.modrinth.com/data/u6dRKJwZ/images/ee0ea4051573264d2b4edb53f9d4e634faa11f21.png",
-              "featured": false,
-              "title": "JEI Recipe GUI",
-              "created": "2023-01-27T05:27:31.621057Z",
-              "ordering": 0.0
-            },
-            {
-              "url": "https://cdn.modrinth.com/data/u6dRKJwZ/images/f281af132332942e0739d557d6608e9263273fbb.jpeg",
-              "featured": true,
-              "title": "jei-header",
-              "description": "Zoomed image of JEI viewed on a high resolution CRT monitor",
-              "created": "2023-01-29T23:20:13.068911Z",
-              "ordering": 0.0
-            },
-            {
-              "url": "https://cdn.modrinth.com/data/u6dRKJwZ/images/156edbd1e04f86d64edc4f41a6d00e849bc7984b.png",
-              "featured": false,
-              "title": "Potions",
-              "created": "2023-01-27T05:18:47.838148Z",
-              "ordering": 1.0
-            },
-            {
-              "url": "https://cdn.modrinth.com/data/u6dRKJwZ/images/b9efa7c6ecb817461416e6a30d8dfc0cc01e8566.png",
-              "featured": false,
-              "title": "Itemlist Edit Mode",
-              "created": "2023-01-27T05:18:47.838148Z",
-              "ordering": 2.0
-            },
-            {
-              "url": "https://cdn.modrinth.com/data/u6dRKJwZ/images/b1d94b5957935666467e1b2073d5cf92993b4078.png",
-              "featured": false,
-              "title": "Big Screen Support",
-              "created": "2023-01-27T05:18:47.838148Z",
-              "ordering": 3.0
-            }
-          ]
-        },
-        "modrinthVersion": {
-          "id": "lXg3u7Je",
-          "project_id": "u6dRKJwZ",
-          "author_id": "nMXRSbhF",
-          "name": "15.16.2.73 for Fabric 1.20.1",
-          "version_number": "15.16.2.73",
-          "changelog": "  * [Clean up item stack batch rendering a little](https://github.com/mezz/JustEnoughItems/commit/ac7c600f40b5242dcbb0ae38d98c26981cd9744e) - mezz\n",
-          "date_published": "2024-09-01T14:01:51.465384Z",
-          "version_type": "beta",
-          "files": [
-            {
-              "hashes": {
-                "sha1": "7afe80b6610f2b1944a371806b090132d799441e",
-                "sha512": "09ccf5e3fd71ad5b2de4b430050017301b27278a8afcdaff177b23e097bec34b6976535913f3a633a1472120d516a0748ec8b172604ecbd35d4e32eca91c0f70"
-              },
-              "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/lXg3u7Je/jei-1.20.1-fabric-15.16.2.73.jar",
-              "filename": "jei-1.20.1-fabric-15.16.2.73.jar",
-              "primary": true,
-              "size": 1394977
-            }
-          ],
-          "dependencies": [],
-          "game_versions": [
-            "1.20.1"
-          ],
-          "loaders": [
-            "fabric"
-          ]
-        }
-      },
-      {
-        "name": "Just Enough Professions (JEP)",
-        "version": "JustEnoughProfessions 1.20.1",
-        "optional": true,
-        "file": "JustEnoughProfessions-fabric-1.20.1-3.0.1.jar",
-        "type": "mods",
-        "description": "A JEI addon that adds profession workstations",
-        "disabled": false,
-        "userAdded": true,
-        "wasSelected": true,
-        "skipped": false,
-        "modrinthProject": {
-          "id": "kB56GtWA",
-          "slug": "just-enough-professions-jep",
-          "project_type": "mod",
-          "team": "Kxgfhtlq",
-          "title": "Just Enough Professions (JEP)",
-          "description": "A JEI addon that adds profession workstations",
-          "body": "This mod adds new functionality to <a title=\"Just Enough Items\" href=\"https://www.curseforge.com/minecraft/mc-mods/jei\"><strong>JEI</strong></a>. This new functionality allows the user to determine which worktables are required for each villager profession.<br>\n<br>\nTo do so you can use JEI's Uses key (Default: U) on an Emerald or Villager Spawn Egg and it will display a list of all Villager Professions. If you wanna know what mod added the profession you can hold shift to make it display the mod id in front of the profession.<br>\n<br>\nIf you're searching for a <a title=\"Roughly Enough Items\" href=\"https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items\"><strong>REI</strong> </a>equivalent see <a title=\"Roughly Enough Professions (REP)\" href=\"https://modrinth.com/mod/roughly-enough-professions-rep\">Roughly Enough Professions (REP)</a><br>\n<br>\n<p><img src=\"https://i.imgur.com/0KFppoR.png\" alt=\"Akliz Partner\" width=\"320\" height=\"152\"></p>\n<p><a href=\"https://www.akliz.net/mrbysco\" rel=\"nofollow\">Need a server? Get 20% off your first month by using promo code \"mrbysco\"</a></p>\n \n<b>For questions feel free to join my Discord.</b>\n\n## Want to support us? ##\n<p><a href=\"https://www.patreon.com/Mrbysco\" rel=\"nofollow\"><img src=\"https://i.imgur.com/CEpJohV.png\" alt=\"Patreon\" width=\"152\" height=\"35\"></a>&nbsp; -Mrbysco</p>\n<p><a href=\"https://www.patreon.com/ShyNieke\" rel=\"nofollow\"><img src=\"https://i.imgur.com/CEpJohV.png\" alt=\"Patreon\" width=\"152\" height=\"35\"></a>&nbsp; -ShyNieke</p>",
-          "published": "2022-05-24T20:48:44.380623Z",
-          "updated": "2024-07-17T00:16:43.662886Z",
-          "status": "approved",
-          "license": {
-            "id": "MIT",
-            "name": "MIT License"
-          },
-          "client_side": "required",
-          "server_side": "required",
-          "categories": [],
-          "icon_url": "https://cdn.modrinth.com/data/kB56GtWA/icon.png",
-          "issues_url": "https://github.com/Mrbysco/JustEnoughProfessions/issues",
-          "source_url": "https://github.com/Mrbysco/JustEnoughProfessions",
-          "discord_url": "https://discord.gg/maPeNBK",
-          "donation_urls": [
-            {
-              "id": "other",
-              "platform": "Other",
-              "url": "https://streamelements.com/shynieke/tip"
-            }
-          ],
-          "gallery": []
-        },
-        "modrinthVersion": {
-          "id": "ReZvAI2I",
-          "project_id": "kB56GtWA",
-          "author_id": "zhhfxDQr",
-          "name": "JustEnoughProfessions 1.20.1",
-          "version_number": "3.0.1",
-          "changelog": "* Initial update to 1.20",
-          "date_published": "2023-06-14T18:03:23.772168Z",
-          "version_type": "beta",
-          "files": [
-            {
-              "hashes": {
-                "sha512": "29c0c312a6b0cda31d0920dad092bb23d0af2deba501ea35fd0303a01b588848c51e5b2ffd8b1a7d0e480feeb216441349b43841c8bfcf0176248e3a980f2308",
-                "sha1": "9f00e215a8951c5c36f2c568d6294c987dd3e172"
-              },
-              "url": "https://cdn.modrinth.com/data/kB56GtWA/versions/ReZvAI2I/JustEnoughProfessions-fabric-1.20.1-3.0.1.jar",
-              "filename": "JustEnoughProfessions-fabric-1.20.1-3.0.1.jar",
-              "primary": true,
-              "size": 23365
-            }
-          ],
-          "dependencies": [
-            {
-              "version_id": "HtjsxDMk",
-              "project_id": "u6dRKJwZ",
-              "dependency_type": "required"
-            }
-          ],
-          "game_versions": [
-            "1.20.1"
-          ],
-          "loaders": [
-            "fabric"
-          ]
-        }
-      },
-      {
         "name": "Async Locator",
         "version": "[Fabric 1.20] 1.3.0",
         "optional": true,
@@ -70017,13 +69638,1955 @@
             "quilt"
           ]
         }
+      },
+      {
+        "name": "EMI",
+        "version": "1.1.12+1.20.1+fabric",
+        "optional": true,
+        "file": "emi-1.1.12+1.20.1+fabric.jar",
+        "type": "mods",
+        "description": "A featureful and accessible item and recipe viewer",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 580555,
+        "curseForgeFileId": 5619581,
+        "curseForgeProject": {
+          "id": 580555,
+          "name": "EMI",
+          "authors": [
+            {
+              "id": 100436320,
+              "name": "EmilyPloszaj",
+              "url": "https://www.curseforge.com/members/emilyploszaj"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Featureful and accessible modern item and recipe viewer with JEI compatibility",
+          "categories": [
+            {
+              "name": "Map and Information",
+              "slug": "map-information",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/map-information",
+              "dateModified": "2014-05-08T17:42:23.74Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 423,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/38/635351497437388438.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "API and Library",
+              "slug": "library-api",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/library-api",
+              "dateModified": "2014-05-23T03:21:44.06Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 421,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/36/635351496947765531.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 423,
+          "classId": 6,
+          "slug": "emi",
+          "isFeatured": false,
+          "dateModified": "2024-08-11T22:17:52.747Z",
+          "dateCreated": "2022-02-16T02:26:33.87Z",
+          "dateReleased": "2024-08-11T22:12:25.14Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/emi",
+            "wikiUrl": "https://github.com/emilyploszaj/emi/wiki/",
+            "issuesUrl": "",
+            "sourceUrl": "https://github.com/emilyploszaj/emi"
+          },
+          "logo": {
+            "id": 545351,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/545/351/256/256/637878590194850929.png",
+            "title": "637878590194850929.png",
+            "url": "https://media.forgecdn.net/avatars/545/351/637878590194850929.png",
+            "modId": 580555
+          },
+          "allowModDistribution": true,
+          "screenshots": [
+            {
+              "id": 633287,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/633/287/310/172/recipe_tree.png",
+              "title": "Recipe Tree",
+              "url": "https://media.forgecdn.net/attachments/633/287/recipe_tree.png",
+              "modId": 580555
+            },
+            {
+              "id": 633276,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/633/276/310/172/emi.png",
+              "title": "EMI",
+              "url": "https://media.forgecdn.net/attachments/633/276/emi.png",
+              "modId": 580555
+            }
+          ],
+          "mainFileId": 5619591
+        },
+        "curseForgeFile": {
+          "id": 5619581,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "emi-1.1.12+1.20.1+fabric",
+          "fileName": "emi-1.1.12+1.20.1+fabric.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2024-08-11T22:11:24.913Z",
+          "fileLength": 1010574,
+          "dependencies": [],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 787888907,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 3130757698,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 2784100065,
+              "name": "dev"
+            },
+            {
+              "fingerprint": 1363505575,
+              "name": "emi-fabric-refmap.json"
+            },
+            {
+              "fingerprint": 4051955278,
+              "name": "emi-fabric.mixins.json"
+            },
+            {
+              "fingerprint": 817935017,
+              "name": "emi-xplat-refmap.json"
+            },
+            {
+              "fingerprint": 2486216238,
+              "name": "emi.accesswidener"
+            },
+            {
+              "fingerprint": 3494011006,
+              "name": "emi.mixins.json"
+            },
+            {
+              "fingerprint": 3344885796,
+              "name": "fabric.mod.json"
+            },
+            {
+              "fingerprint": 2341449709,
+              "name": "icon.png"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "06d746aacb02fe985bed4815749a59e33568ee97",
+              "algo": 1
+            },
+            {
+              "value": "5c607c5f512a47ae261f5f973347f32f",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-09-01T00:00:00Z",
+              "gameVersionName": "Fabric"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-05-26T00:00:00Z",
+              "gameVersionName": "Quilt"
+            }
+          ],
+          "gameVersions": [
+            "Fabric",
+            "1.20.1",
+            "Quilt"
+          ],
+          "fileFingerprint": 2135624797,
+          "modId": 580555
+        },
+        "modrinthProject": {
+          "id": "fRiHVvU7",
+          "slug": "emi",
+          "project_type": "mod",
+          "team": "OqEReJSr",
+          "title": "EMI",
+          "description": "A featureful and accessible item and recipe viewer",
+          "body": "# EMI\nEMI is a featureful and accessible item and recipe viewer. It brings many new features, and optimizes for the user experience. Outside of the standard Fabric/Quilt API, EMI requires **zero** dependencies, and can be launched with the game simply and easily.\n\n![](https://cdn.modrinth.com/data/fRiHVvU7/images/0d3b5b33d0016b21834ce6f3602169f7c48de13f.png)\n\n![](https://cdn.modrinth.com/data/fRiHVvU7/images/f3c8b452eae6dde028c37e3a3e3792459468d865.png)\n\n## Runtime JEI Compat\nFor runtime JEI compat, all you need to do is install JEI alongside EMI and they will work together to share recipes. JEI will be hidden.\n\n## What does EMI bring to the table?\n\nOf course EMI comes with every feature you'd come to expect from the outset, viewing recipes, favoriting items, searching, and the like. But what's new that EMI offers?\n\n* A craftable mode for **quickly crafting** any recipes you're able to make, usable by toggle or as a config for empty searches\n* **Recipes** can be **favorited** with items, and also can be used to quickly craft at a button press\n* A **recipe tree** for breaking down the cost of a complex craft, showing you **every step**, how many **base ingredients** you need, and what you'll have leftover\n* A **recipe tree crafting mode**, counting up the materials and steps you need to be complete to finish a task, including **synthetic favorites** in your sidebar you can use to **craft every step** for exactly as much as you need\n* Smart display of **tags**, with translations, models, and tooltips, showing you ingredients at a glance, such as \"Planks\" instead of slowly rotating through every plank in the game.\n* Smart breakdowns of base costs, letting recipe trees automatically break down to base ingredients, and letting you define **your own defaults** as you play\n* **Tooltips** for recipes, tags, and ingredients showing you what will be crafted, and what makes up an ingredient\n* Binds for quick crafting **straight into your inventory or cursor**, one or many at a time, in conjunction with recipes favorites or the craftable mode\n* A **clean** and **modern** API, built from the ground up to be simple, powerful, and suit all of EMI's features\n* **Zero third party dependencies**. EMI only requires standard, first party Fabric/Quilt APIs\n\n\n## What does EMI stand for?\nIt doesn't, it's not an acronym. Or maybe it's an acronym without a meaning? If it makes you more comfortable, you can pick one from the list below, or make your own up.\n\n* Emi Memy Imi\n* Exhaustively Many Items\n* Explicitly Mandated Items\n* Endless Material Information\n* Expounded Minutia Introspection\n* Earnestly Made Imitation\n* Even More Items\n* Eminence, My Inception\n* Emi's Magic Inventory\n* Efficiently Managed Inventory\n* Exploring Modified: Iridescent\n* Expropriated Matter Insights",
+          "published": "2022-06-08T18:43:43.368416Z",
+          "updated": "2024-08-11T22:12:22.370166Z",
+          "status": "approved",
+          "license": {
+            "id": "MIT",
+            "name": "MIT License"
+          },
+          "client_side": "required",
+          "server_side": "unsupported",
+          "categories": [
+            "library",
+            "utility"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/fRiHVvU7/395fe5302b2bab612ef0623509f768f3c5a5ee0f.webp",
+          "issues_url": "https://github.com/emilyploszaj/emi/issues/",
+          "source_url": "https://github.com/emilyploszaj/emi/",
+          "wiki_url": "https://github.com/emilyploszaj/emi/wiki/",
+          "discord_url": "https://discord.gg/T2PuD9RTWV",
+          "donation_urls": [],
+          "gallery": [
+            {
+              "url": "https://cdn.modrinth.com/data/fRiHVvU7/images/0d3b5b33d0016b21834ce6f3602169f7c48de13f.png",
+              "featured": false,
+              "title": "EMI",
+              "description": "EMI's recipe screen and interface",
+              "created": "2023-03-12T06:27:47.113202Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/fRiHVvU7/images/f3c8b452eae6dde028c37e3a3e3792459468d865.png",
+              "featured": false,
+              "title": "Recipe Tree",
+              "description": "Several instances of EMI's recipe tree",
+              "created": "2023-03-12T06:46:01.741792Z",
+              "ordering": 0.0
+            }
+          ]
+        },
+        "modrinthVersion": {
+          "id": "CMFWLyX6",
+          "project_id": "fRiHVvU7",
+          "author_id": "R6WsWKy9",
+          "name": "1.1.12+1.20.1+fabric",
+          "version_number": "1.1.12+1.20.1+fabric",
+          "changelog": "### Tweaks\n* Tweaked JEI/EMI compatibility disabling to not load plugins earlier than previously expected\n\n### Fixes\n* Fixed regression in item group querying causing errors to cascade outside of single groups\n",
+          "date_published": "2024-08-11T22:11:20.566932Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha1": "06d746aacb02fe985bed4815749a59e33568ee97",
+                "sha512": "59a8512aff4c89d7c9131712bc34b7a9a81d36f9bb2f41eaf0f2c619deeefa7c85bc761a4758ec3379cb67891adfb7712aa3dc15efa98717dc7a93028813b42e"
+              },
+              "url": "https://cdn.modrinth.com/data/fRiHVvU7/versions/CMFWLyX6/emi-1.1.12%2B1.20.1%2Bfabric.jar",
+              "filename": "emi-1.1.12+1.20.1+fabric.jar",
+              "primary": true,
+              "size": 1010574
+            }
+          ],
+          "dependencies": [],
+          "game_versions": [
+            "1.20.1"
+          ],
+          "loaders": [
+            "fabric",
+            "quilt"
+          ]
+        }
+      },
+      {
+        "name": "EMI Trades",
+        "version": "[Fabric/Quilt 1.20.1] 1.2.1",
+        "optional": true,
+        "file": "emitrades-fabric-1.2.1+mc1.20.1.jar",
+        "type": "mods",
+        "description": "Villager trading for EMI.",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 735523,
+        "curseForgeFileId": 4901193,
+        "curseForgeProject": {
+          "id": 735523,
+          "name": "EMI Trades (Villager Trading EMI Plugin)",
+          "authors": [
+            {
+              "id": 103101273,
+              "name": "fzzyhmstrs",
+              "url": "https://www.curseforge.com/members/fzzyhmstrs"
+            },
+            {
+              "id": 102589601,
+              "name": "Flamarine",
+              "url": "https://www.curseforge.com/members/flamarine"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Villager trading for EMI.",
+          "categories": [
+            {
+              "name": "API and Library",
+              "slug": "library-api",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/library-api",
+              "dateModified": "2014-05-23T03:21:44.06Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 421,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/36/635351496947765531.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Map and Information",
+              "slug": "map-information",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/map-information",
+              "dateModified": "2014-05-08T17:42:23.74Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 423,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/38/635351497437388438.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Utility & QoL",
+              "slug": "utility-qol",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/utility-qol",
+              "dateModified": "2021-11-17T11:45:09.143Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 5191,
+              "iconUrl": "https://media.forgecdn.net/avatars/456/558/637727379086405233.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 5191,
+          "classId": 6,
+          "slug": "emi-trades-villager-trading-emi-plugin",
+          "isFeatured": false,
+          "dateModified": "2024-01-13T13:37:19.123Z",
+          "dateCreated": "2022-12-13T02:49:16.733Z",
+          "dateReleased": "2024-01-13T13:29:01.877Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/emi-trades-villager-trading-emi-plugin",
+            "issuesUrl": "https://github.com/pkstDev/EMITrades/issues",
+            "sourceUrl": "https://github.com/pkstDev/EMITrades"
+          },
+          "logo": {
+            "id": 674244,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/674/244/256/256/638064965567615524.png",
+            "title": "638064965567615524.png",
+            "url": "https://media.forgecdn.net/avatars/674/244/638064965567615524.png",
+            "modId": 735523
+          },
+          "allowModDistribution": true,
+          "screenshots": [
+            {
+              "id": 548422,
+              "description": "Shows an open EMI recipe viewer screen with the EMI Trades category selected, displaying a selection of trades along with a tooltip describing enchanted books.",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/548/422/310/172/emi_trades.png",
+              "title": "EMI Trades Example",
+              "url": "https://media.forgecdn.net/attachments/548/422/emi_trades.png",
+              "modId": 735523
+            }
+          ],
+          "mainFileId": 5029251
+        },
+        "curseForgeFile": {
+          "id": 4901193,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "[Fabric/Quilt 1.20.1] 1.2.1",
+          "fileName": "emitrades-fabric-1.2.1+mc1.20.1.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2023-11-26T01:20:57.977Z",
+          "fileLength": 51479,
+          "dependencies": [],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 879135151,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 2237771951,
+              "name": "architectury_inject_EMITrades_common_9338d27f798a42a983813a41a9417935_d6c31b6dbe718991c527756e8e1835b73627db5a90e6e5cc6dd391a77e745957emitradescommon121mc1201devjar"
+            },
+            {
+              "fingerprint": 731303551,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 3538023407,
+              "name": "emitrades.accesswidener"
+            },
+            {
+              "fingerprint": 1340531800,
+              "name": "fabric.mod.json"
+            },
+            {
+              "fingerprint": 1597623078,
+              "name": "icon.png"
+            },
+            {
+              "fingerprint": 1948243719,
+              "name": "io"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "72b51627c09e539e9f6194fc5aad862ff5f09461",
+              "algo": 1
+            },
+            {
+              "value": "2ad3e27f208eb72fb9373795f1e614b6",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-09-01T00:00:00Z",
+              "gameVersionName": "Fabric"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-05-26T00:00:00Z",
+              "gameVersionName": "Quilt"
+            }
+          ],
+          "gameVersions": [
+            "Fabric",
+            "1.20.1",
+            "Quilt"
+          ],
+          "fileFingerprint": 3399349697,
+          "modId": 735523
+        },
+        "modrinthProject": {
+          "id": "j2HhbEE7",
+          "slug": "emitrades",
+          "project_type": "mod",
+          "team": "ojklZL2q",
+          "title": "EMI Trades",
+          "description": "Villager trading for EMI.",
+          "body": "# EMI Trades\n\nAn addon for EMI adding Villager Trade support.\n\n### Features\n\n* Showing the costs and payments\n* Showing the level required for a trade\n* Wandering trader trade support\n\n### Config\n\nThis mod adds a very simple config in 1.0.2 (`config/emitrades.toml` or `config/emitrades.json5` in 1.2.0+), only to toggle the old and new display of recipes. No GUI yet, so you need to manually edit it.",
+          "published": "2022-08-29T09:34:43.925580Z",
+          "updated": "2024-01-13T13:28:55.533855Z",
+          "status": "approved",
+          "license": {
+            "id": "MIT",
+            "name": "MIT License"
+          },
+          "client_side": "required",
+          "server_side": "unsupported",
+          "categories": [
+            "economy",
+            "utility"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/j2HhbEE7/icon.png",
+          "issues_url": "https://github.com/Prismwork/EMITrades/issues",
+          "source_url": "https://github.com/Prismwork/EMITrades",
+          "discord_url": "https://discord.gg/zfPcG37uvm",
+          "donation_urls": [],
+          "gallery": [
+            {
+              "url": "https://cdn.modrinth.com/data/j2HhbEE7/images/6049bea6835e14217556b30ed4dfaac29d15ed03.png",
+              "featured": true,
+              "title": "The \"Villager Trades\" Category",
+              "created": "2022-08-29T09:59:11.048396Z",
+              "ordering": 0.0
+            }
+          ]
+        },
+        "modrinthVersion": {
+          "id": "kWMqVWTm",
+          "project_id": "j2HhbEE7",
+          "author_id": "hXPplFm2",
+          "name": "[Fabric/Quilt 1.20.1] 1.2.1",
+          "version_number": "fabric-1.2.1+mc1.20.1",
+          "changelog": "* Russian translation by Disketaa\n",
+          "date_published": "2023-11-26T01:20:52.561174Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha512": "ab4a29bec2b4b093dcfa4fb6deba5929f4e50f012a9ea1000665a70271de634ee9c0cf8f502855eb1fd6162d4a3d595b17f387804dcf8a9e8afad8b041279aee",
+                "sha1": "72b51627c09e539e9f6194fc5aad862ff5f09461"
+              },
+              "url": "https://cdn.modrinth.com/data/j2HhbEE7/versions/kWMqVWTm/emitrades-fabric-1.2.1%2Bmc1.20.1.jar",
+              "filename": "emitrades-fabric-1.2.1+mc1.20.1.jar",
+              "primary": true,
+              "size": 51479
+            }
+          ],
+          "dependencies": [],
+          "game_versions": [
+            "1.20.1"
+          ],
+          "loaders": [
+            "fabric",
+            "quilt"
+          ]
+        }
+      },
+      {
+        "name": "EMIffect",
+        "version": "[Fabric/Quilt 1.20.1] 1.1.2",
+        "optional": true,
+        "file": "emiffect-fabric-1.1.2+mc1.20.1.jar",
+        "type": "mods",
+        "description": "EMI addon that appends status effects in EMI and provides information about each status effect.",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 735528,
+        "curseForgeFileId": 4901310,
+        "curseForgeProject": {
+          "id": 735528,
+          "name": "EMIffect (Status Effects EMI Plugin)",
+          "authors": [
+            {
+              "id": 103101273,
+              "name": "fzzyhmstrs",
+              "url": "https://www.curseforge.com/members/fzzyhmstrs"
+            },
+            {
+              "id": 102589601,
+              "name": "Flamarine",
+              "url": "https://www.curseforge.com/members/flamarine"
+            }
+          ],
+          "gameId": 432,
+          "summary": "EMI addon that appends status effects in EMI and provides information about each status effect. ",
+          "categories": [
+            {
+              "name": "Map and Information",
+              "slug": "map-information",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/map-information",
+              "dateModified": "2014-05-08T17:42:23.74Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 423,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/38/635351497437388438.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Utility & QoL",
+              "slug": "utility-qol",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/utility-qol",
+              "dateModified": "2021-11-17T11:45:09.143Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 5191,
+              "iconUrl": "https://media.forgecdn.net/avatars/456/558/637727379086405233.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "API and Library",
+              "slug": "library-api",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/library-api",
+              "dateModified": "2014-05-23T03:21:44.06Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 421,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/36/635351496947765531.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 5191,
+          "classId": 6,
+          "slug": "emiffect-status-effects-emi-plugin",
+          "isFeatured": false,
+          "dateModified": "2023-11-26T02:52:23.713Z",
+          "dateCreated": "2022-12-13T03:06:23.353Z",
+          "dateReleased": "2023-11-26T02:37:07.083Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/emiffect-status-effects-emi-plugin"
+          },
+          "logo": {
+            "id": 674253,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/674/253/256/256/638064975833827329.png",
+            "title": "638064975833827329.png",
+            "url": "https://media.forgecdn.net/avatars/674/253/638064975833827329.png",
+            "modId": 735528
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 4901311
+        },
+        "curseForgeFile": {
+          "id": 4901310,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "[Fabric/Quilt 1.20.1] 1.1.2",
+          "fileName": "emiffect-fabric-1.1.2+mc1.20.1.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2023-11-26T02:37:05.897Z",
+          "fileLength": 18348,
+          "dependencies": [],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 2260074711,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 3195493349,
+              "name": "architectury_inject_EMIffect_common_1cb695df90a247da8556e6b29988512a_a3d175dacece447b941ec61e3a6ea98df6e6c3d9259c6bb8d3ab54416ff6a21bemiffectcommon112mc1201devjar"
+            },
+            {
+              "fingerprint": 3928234469,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 1078021995,
+              "name": "fabric.mod.json"
+            },
+            {
+              "fingerprint": 1055930853,
+              "name": "icon.png"
+            },
+            {
+              "fingerprint": 649461686,
+              "name": "io"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "8a63f92080a05eeb53547ec76be615c5576ef901",
+              "algo": 1
+            },
+            {
+              "value": "0936879bd788e777d72069f1fdf507e7",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-09-01T00:00:00Z",
+              "gameVersionName": "Fabric"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-05-26T00:00:00Z",
+              "gameVersionName": "Quilt"
+            }
+          ],
+          "gameVersions": [
+            "Fabric",
+            "1.20.1",
+            "Quilt"
+          ],
+          "fileFingerprint": 1475449063,
+          "modId": 735528
+        },
+        "modrinthProject": {
+          "id": "705gWllI",
+          "slug": "emiffect",
+          "project_type": "mod",
+          "team": "HwYj2fSV",
+          "title": "EMIffect",
+          "description": "EMI addon that appends status effects in EMI and provides information about each status effect.",
+          "body": "# EMIffect\n\nEMI addon that appends status effects in EMI and provides information about each status effect.\n\nInspired by [Just Enough Effect Descriptions](https://www.curseforge.com/minecraft/mc-mods/just-enough-effect-descriptions-jeed), and existing descriptions were taken from JEED.\n\nModders can add descriptions for their own status effects via language files. The format follows JEED: `effect.[mod_id].[effect_name].description`\n",
+          "published": "2022-11-14T14:08:44.217201Z",
+          "updated": "2023-11-26T02:37:05.805312Z",
+          "status": "approved",
+          "license": {
+            "id": "MIT",
+            "name": "MIT License"
+          },
+          "client_side": "required",
+          "server_side": "unsupported",
+          "categories": [
+            "magic",
+            "utility"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/705gWllI/e940511ee36de841ea1c55777a27f06cf0cff5e6.png",
+          "issues_url": "https://github.com/Prismwork/EMIffect/issues",
+          "source_url": "https://github.com/Prismwork/EMIffect",
+          "discord_url": "https://discord.gg/zfPcG37uvm",
+          "donation_urls": [],
+          "gallery": [
+            {
+              "url": "https://cdn.modrinth.com/data/705gWllI/images/6274851b065d15477e902328c03487f550009367.png",
+              "featured": false,
+              "title": "Information UI",
+              "created": "2022-11-14T14:15:45.705773Z",
+              "ordering": 0.0
+            }
+          ]
+        },
+        "modrinthVersion": {
+          "id": "BslzSzGd",
+          "project_id": "705gWllI",
+          "author_id": "hXPplFm2",
+          "name": "[Fabric/Quilt 1.20.1] 1.1.2",
+          "version_number": "fabric-1.1.2+mc1.20.1",
+          "changelog": "* Fix #9\n",
+          "date_published": "2023-11-26T02:37:01.103905Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha1": "8a63f92080a05eeb53547ec76be615c5576ef901",
+                "sha512": "084bcd4a045e1a58cfff4fb6b8707ff72904ec183464b5c0772bcda11e4b369a503e00c386893da286b2675489ce2704759b5d36cdb42674b9a991f0ceaea331"
+              },
+              "url": "https://cdn.modrinth.com/data/705gWllI/versions/BslzSzGd/emiffect-fabric-1.1.2%2Bmc1.20.1.jar",
+              "filename": "emiffect-fabric-1.1.2+mc1.20.1.jar",
+              "primary": true,
+              "size": 18348
+            }
+          ],
+          "dependencies": [],
+          "game_versions": [
+            "1.20.1"
+          ],
+          "loaders": [
+            "fabric",
+            "quilt"
+          ]
+        }
+      },
+      {
+        "name": "Fzzy Config",
+        "version": "fzzy_config-0.3.7+1.20.1",
+        "optional": true,
+        "file": "fzzy_config-0.3.7+1.20.1.jar",
+        "type": "mods",
+        "description": "Config API with automatic GUIs, powerful validation options, server-client sync, and more!",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 1005914,
+        "curseForgeFileId": 5663911,
+        "curseForgeProject": {
+          "id": 1005914,
+          "name": "Fzzy Config",
+          "authors": [
+            {
+              "id": 103101273,
+              "name": "fzzyhmstrs",
+              "url": "https://www.curseforge.com/members/fzzyhmstrs"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Config API with automatic GUIs, powerful validation options, server-client sync, and more!",
+          "categories": [
+            {
+              "name": "API and Library",
+              "slug": "library-api",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/library-api",
+              "dateModified": "2014-05-23T03:21:44.06Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 421,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/36/635351496947765531.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Utility & QoL",
+              "slug": "utility-qol",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/utility-qol",
+              "dateModified": "2021-11-17T11:45:09.143Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 5191,
+              "iconUrl": "https://media.forgecdn.net/avatars/456/558/637727379086405233.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 421,
+          "classId": 6,
+          "slug": "fzzy-config",
+          "isFeatured": false,
+          "dateModified": "2024-08-29T07:33:23.673Z",
+          "dateCreated": "2024-04-19T17:07:07.463Z",
+          "dateReleased": "2024-08-29T00:06:48.197Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/fzzy-config",
+            "wikiUrl": "https://github.com/fzzyhmstrs/fconfig/wiki",
+            "issuesUrl": "https://github.com/fzzyhmstrs/fconfig/issues",
+            "sourceUrl": "https://github.com/fzzyhmstrs/fconfig"
+          },
+          "logo": {
+            "id": 983198,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/983/198/256/256/638491432276475239.png",
+            "title": "638491432276475239.png",
+            "url": "https://media.forgecdn.net/avatars/983/198/638491432276475239.png",
+            "modId": 1005914
+          },
+          "allowModDistribution": true,
+          "screenshots": [
+            {
+              "id": 850000,
+              "description": "All settings are controlled with powerful pre--defined widgets, some inline and some as popups.",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/850/0/310/172/2024-04-19_13.png",
+              "title": "Powerful Widgets",
+              "url": "https://media.forgecdn.net/attachments/850/0/2024-04-19_13.png",
+              "modId": 1005914
+            },
+            {
+              "id": 849993,
+              "description": "Mods can add multiple configs under one namespace. All configs in that namespace will be summarized in a \"header\" screen with buttons leading to each. Configs can have settings that prompt a restart.",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/849/993/310/172/2024-04-19_13.png",
+              "title": "Config List Screen",
+              "url": "https://media.forgecdn.net/attachments/849/993/2024-04-19_13.png",
+              "modId": 1005914
+            },
+            {
+              "id": 849994,
+              "description": "A typical config screen. The breadcrumbs at the top track back to the previous config screens opened. The settings list is fully translatable and describable. settings can be searched for at the bottom.",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/849/994/310/172/2024-04-19_13.png",
+              "title": "Config Screen",
+              "url": "https://media.forgecdn.net/attachments/849/994/2024-04-19_13.png",
+              "modId": 1005914
+            },
+            {
+              "id": 850004,
+              "description": "Fzzy Config works with a variety of common key combinations, such as copy/paste, page up/down, and more. It also supports context menus via right clicking.",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/850/4/310/172/2024-04-19_13.png",
+              "title": "Hotkey Information",
+              "url": "https://media.forgecdn.net/attachments/850/4/2024-04-19_13.png",
+              "modId": 1005914
+            },
+            {
+              "id": 849996,
+              "description": "All tracked changes can be viewed in the Change History button of the Change Manager",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/849/996/310/172/2024-04-19_13.png",
+              "title": "Change History",
+              "url": "https://media.forgecdn.net/attachments/849/996/2024-04-19_13.png",
+              "modId": 1005914
+            },
+            {
+              "id": 849995,
+              "description": "All changes are tracked and can be applied, reverted, and more.",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/849/995/310/172/2024-04-19_13.png",
+              "title": "Change Manager",
+              "url": "https://media.forgecdn.net/attachments/849/995/2024-04-19_13.png",
+              "modId": 1005914
+            },
+            {
+              "id": 849991,
+              "description": "use the /configure command to open any registered config screen, or access them thru ModMenu or Catalogue",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/849/991/310/172/2024-04-19_13.png",
+              "title": "Config Command",
+              "url": "https://media.forgecdn.net/attachments/849/991/2024-04-19_13.png",
+              "modId": 1005914
+            }
+          ],
+          "mainFileId": 5672867
+        },
+        "curseForgeFile": {
+          "id": 5663911,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "fzzy_config-0.3.7+1.20.1",
+          "fileName": "fzzy_config-0.3.7+1.20.1.jar",
+          "releaseType": 2,
+          "fileStatus": 4,
+          "fileDate": "2024-08-26T01:05:14.16Z",
+          "fileLength": 1343329,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 306612,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 308769,
+              "relationType": 3
+            }
+          ],
+          "alternateFileId": 5663912,
+          "modules": [
+            {
+              "fingerprint": 3591550930,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 4210262563,
+              "name": "LICENSE_fzzy_config"
+            },
+            {
+              "fingerprint": 4269819899,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 1005238266,
+              "name": "fabric.mod.json"
+            },
+            {
+              "fingerprint": 1147074351,
+              "name": "fzzy_config-refmap.json"
+            },
+            {
+              "fingerprint": 830799935,
+              "name": "fzzy_config.mixins.json"
+            },
+            {
+              "fingerprint": 1336578689,
+              "name": "fzzy_config_credits.txt"
+            },
+            {
+              "fingerprint": 2352835906,
+              "name": "me"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "bdb4accf5a8b77e078f18b1e99f9b6885f9fdec3",
+              "algo": 1
+            },
+            {
+              "value": "9d0ae7c3ec9ddd9bfdebbb7886750a57",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-09-01T00:00:00Z",
+              "gameVersionName": "Fabric"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-05-26T00:00:00Z",
+              "gameVersionName": "Quilt"
+            }
+          ],
+          "gameVersions": [
+            "Fabric",
+            "1.20.1",
+            "Quilt"
+          ],
+          "fileFingerprint": 202494021,
+          "modId": 1005914
+        },
+        "modrinthProject": {
+          "id": "hYykXjDp",
+          "slug": "fzzy-config",
+          "project_type": "mod",
+          "team": "grL46X9H",
+          "title": "Fzzy Config",
+          "description": "Config API with automatic GUIs, powerful validation options, server-client sync, and more!",
+          "body": "![Main Banner](https://cdn.modrinth.com/data/cached_images/4095e50395d9e7c53e93c92f8cf8849e88030950.png)\nFzzy Config is a powerful configuration engine for Minecraft Mods that meets you where you want to be. Quick and dirty or detailed and featureful, Fzzy Config will work with you. It provides a wide array of features above and beyond what you can find in other libraries.\n\n## The Basics\n* Automatic serialization to TOML.\n* Minimal API with lightweight integration requirements\n\n## GUIs\n* Automatic GUI generation based on the layout and content of your config files.\n* Screens are fully keyboard-navigable and narratable out of the box.\n  * Fully vetted and tested by a visually impaired member of the modding community.\n* No need for screen builders or registration.\n* ModMenu and Catalogue automatically integrated.\n\n## Synchronization\n* Automatic server-client sync.\n* Push live updates to a server from a client.\n* Forward client settings to other users who want your setup.\n\n## Validation\n* Validation and Correction built into everything, beyond just primitive types.\n* Tightly control what values a player can choose from and how they choose them.\n* Automatic suggestions for settings like tags and identifiers.\n\n## Updates\n* Versioned updates supported with one simple method implementation.\n* Scrape previous configs to easily update from another config library.\n\n## Flexibility\n* Implement a config with as little or much effort as you want.\n* Plain java/kotlin object, or Minecraft GameOptions-like carefully crafted settings.\n\n[![Discord Banner](https://i.imgur.com/iXATO6K.png)]([https://discord.gg/Fnw2UbE72x](https://discord.gg/Fnw2UbE72x))\n[![Ronald McDonald House Donation Link](https://cdn.modrinth.com/data/cached_images/5f2635e02e8561eb3ae165bda17a9579841d3882.png)](https://tiltify.com/+team-timefall/team-timefall-annual-charity-2024)\n\n[![Bisect Hosting Banner](https://www.bisecthosting.com/partners/custom-banners/85a7141b-76c9-4f0c-bd04-21f4b0d56c4a.webp \"Bisect Hosting Banner\")](https://bisecthosting.com/fzzyhmstrs)",
+          "published": "2024-04-19T17:14:53.663062Z",
+          "updated": "2024-08-29T00:06:52.951813Z",
+          "status": "approved",
+          "license": {
+            "id": "LicenseRef-TDL-M",
+            "name": "",
+            "url": "https://github.com/fzzyhmstrs/Timefall-Development-Licence-Modified"
+          },
+          "client_side": "required",
+          "server_side": "required",
+          "categories": [
+            "game-mechanics",
+            "library"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/hYykXjDp/11f469b1bf1f201a95c2e3ddc09ca47d85c3ed53.png",
+          "issues_url": "https://github.com/fzzyhmstrs/fconfig/issues",
+          "source_url": "https://github.com/fzzyhmstrs/fconfig",
+          "wiki_url": "https://github.com/fzzyhmstrs/fconfig/wiki",
+          "discord_url": "https://discord.gg/zDbaYmUba2",
+          "donation_urls": [
+            {
+              "id": "ko-fi",
+              "platform": "Ko-fi",
+              "url": "https://ko-fi.com/fzzyhmstrs"
+            }
+          ],
+          "gallery": [
+            {
+              "url": "https://cdn.modrinth.com/data/hYykXjDp/images/13612c565ce0dc43567af4cbd97f1309fc20e075.png",
+              "featured": false,
+              "title": "Config Screen",
+              "description": "A typical config screen. The breadcrumbs at the top track back to the previous config screens opened. The settings list is fully translatable and describable. settings can be searched for at the bottom.",
+              "created": "2024-04-19T17:33:52.054733Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/hYykXjDp/images/439458795cd3832dc39d01aabb458e5a6452b561.png",
+              "featured": false,
+              "title": "Powerful Widgets",
+              "description": "All settings are controlled with powerful pre--defined widgets, some inline and some as popups.",
+              "created": "2024-04-19T17:36:26.429487Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/hYykXjDp/images/4c0c202d43851348a839b1afb350d9af64a60a4f.png",
+              "featured": false,
+              "title": "Hotkey Information",
+              "description": "Fzzy Config works with a variety of common key combinations, such as copy/paste, page up/down, and more. It also supports context menus via right clicking.",
+              "created": "2024-04-19T17:42:44.239676Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/hYykXjDp/images/571f003721e469b25e5fccbc82431dfe98ac8a9a.png",
+              "featured": false,
+              "title": "Change Manager",
+              "description": "All changes are tracked and can be applied, reverted, and more.",
+              "created": "2024-04-19T17:34:29.615312Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/hYykXjDp/images/75f1c10719dd0aaef92de2263c495c19141fcc97.png",
+              "featured": false,
+              "title": "Change History",
+              "description": "All tracked changes can be viewed in the Change History button of the Change Manager",
+              "created": "2024-04-19T17:35:23.897675Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/hYykXjDp/images/b8375f38086f3fab3752c0b7cf8965c8688d2e04.png",
+              "featured": false,
+              "title": "Config Command",
+              "description": "use the /configure command to open any registered config screen, or access them thru ModMenu or Catalogue",
+              "created": "2024-04-19T17:31:08.705879Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/hYykXjDp/images/f4ad79b0f5c3b7ed391f068f3ffd82aa5711d5b2.png",
+              "featured": false,
+              "title": "Config List Screen",
+              "description": "Mods can add multiple configs under one namespace. All configs in that namespace will be summarized in a \"header\" screen with buttons leading to each. Configs can have settings that prompt a restart.",
+              "created": "2024-04-19T17:32:09.992931Z",
+              "ordering": 0.0
+            }
+          ]
+        },
+        "modrinthVersion": {
+          "id": "Hj0W8asN",
+          "project_id": "hYykXjDp",
+          "author_id": "ANKRvkxl",
+          "name": "fzzy_config-0.3.7+1.20.1",
+          "version_number": "0.3.7+1.20.1",
+          "changelog": "### Additions\n* Added `ConfigApiJava` which includes methods that may cause IDE issues if called by java code directly from ConfigApi.\n* Added `translate` helper method to `ValidatedChoice` for shortcutting common translation/description provider creation.\n* Added `min(a,b)` and `max(a,b)` to `Expression`\n\n### Changes\n* `ValidatedExpression` widget now includes max and min, and the widget buttons have descriptive tooltips.\n\n### Fixes\n* Serializer will now ignore a `@ConvertFrom` file candidate if it is missing (already converted, or never existed), rather than tossing an exception into the log.",
+          "date_published": "2024-08-26T01:05:20.993431Z",
+          "version_type": "beta",
+          "files": [
+            {
+              "hashes": {
+                "sha1": "bdb4accf5a8b77e078f18b1e99f9b6885f9fdec3",
+                "sha512": "9ca74d4db45645b37173ebde1a8928dac6ffff26e22f83072245a2845d03cc74f3e8355da0a591c5fce0d72f66fea5d4ed537e5247ec633055471b941fdb7396"
+              },
+              "url": "https://cdn.modrinth.com/data/hYykXjDp/versions/Hj0W8asN/fzzy_config-0.3.7%2B1.20.1.jar",
+              "filename": "fzzy_config-0.3.7+1.20.1.jar",
+              "primary": true,
+              "size": 1343329
+            },
+            {
+              "hashes": {
+                "sha512": "4a71466b5e67be7f52d46bb08d5ab3a4d67dc01b1f90fd76b29365a625193487ee2ae994aa55aa90ba3962ef0e8eaaee40f2eac7e7c6f239cc0dcdb354416097",
+                "sha1": "9574a55c7b20c31cf4d59e09806761d85ec69cc6"
+              },
+              "url": "https://cdn.modrinth.com/data/hYykXjDp/versions/Hj0W8asN/fzzy_config-0.3.7%2B1.20.1-sources.jar",
+              "filename": "fzzy_config-0.3.7+1.20.1-sources.jar",
+              "primary": false,
+              "size": 320669
+            }
+          ],
+          "dependencies": [
+            {
+              "project_id": "Ha28R6CL",
+              "dependency_type": "required"
+            },
+            {
+              "project_id": "P7dR8mSH",
+              "dependency_type": "required"
+            }
+          ],
+          "game_versions": [
+            "1.20.1"
+          ],
+          "loaders": [
+            "fabric",
+            "quilt"
+          ]
+        }
+      },
+      {
+        "name": "EMI Loot",
+        "version": "EMI Loot 0.7.1+1.20.1",
+        "optional": true,
+        "file": "emi_loot-0.7.1+1.20.1.jar",
+        "type": "mods",
+        "description": "A loot drop (chest, block, entity) plugin for the EMI Recipe and Item viewer.",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 681783,
+        "curseForgeFileId": 5681234,
+        "curseForgeProject": {
+          "id": 681783,
+          "name": "EMI Loot",
+          "authors": [
+            {
+              "id": 103101273,
+              "name": "fzzyhmstrs",
+              "url": "https://www.curseforge.com/members/fzzyhmstrs"
+            }
+          ],
+          "gameId": 432,
+          "summary": "A loot drop (chest, block, entity) plugin for the EMI Recipe and Item viewer.",
+          "categories": [
+            {
+              "name": "Map and Information",
+              "slug": "map-information",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/map-information",
+              "dateModified": "2014-05-08T17:42:23.74Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 423,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/38/635351497437388438.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "API and Library",
+              "slug": "library-api",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/library-api",
+              "dateModified": "2014-05-23T03:21:44.06Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 421,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/36/635351496947765531.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 423,
+          "classId": 6,
+          "slug": "emi-loot",
+          "isFeatured": false,
+          "dateModified": "2024-08-31T19:27:55.603Z",
+          "dateCreated": "2022-09-25T22:00:36.49Z",
+          "dateReleased": "2024-08-31T19:21:44.897Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/emi-loot",
+            "wikiUrl": "https://github.com/fzzyhmstrs/EMI_loot/wiki",
+            "issuesUrl": "https://github.com/fzzyhmstrs/EMI_loot/issues",
+            "sourceUrl": "https://github.com/fzzyhmstrs/EMI_loot"
+          },
+          "logo": {
+            "id": 614234,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/614/234/256/256/637997400365146063.png",
+            "title": "637997400365146063.png",
+            "url": "https://media.forgecdn.net/avatars/614/234/637997400365146063.png",
+            "modId": 681783
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 5681241
+        },
+        "curseForgeFile": {
+          "id": 5681234,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "emi_loot-0.7.1+1.20.1.jar",
+          "fileName": "emi_loot-0.7.1+1.20.1.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2024-08-31T19:20:39.683Z",
+          "fileLength": 372508,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 1091274,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 1005914,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 306612,
+              "relationType": 3
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 2944808237,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 2282252616,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 458469152,
+              "name": "data"
+            },
+            {
+              "fingerprint": 35787052,
+              "name": "emi_loot-refmap.json"
+            },
+            {
+              "fingerprint": 3216833453,
+              "name": "emi_loot.accesswidener"
+            },
+            {
+              "fingerprint": 578648490,
+              "name": "emi_loot.mixins.json"
+            },
+            {
+              "fingerprint": 2606946872,
+              "name": "fabric.mod.json"
+            },
+            {
+              "fingerprint": 2458303009,
+              "name": "fzzyhmstrs"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "cdddf165acbbc4d36889ac4f3820bbcbd670ecb2",
+              "algo": 1
+            },
+            {
+              "value": "03222dd86fd9099526057135d0a17992",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-09-01T00:00:00Z",
+              "gameVersionName": "Fabric"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Client"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020",
+              "gameVersion": "1.20",
+              "gameVersionReleaseDate": "2023-06-07T00:00:00Z",
+              "gameVersionName": "1.20"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Server"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-05-26T00:00:00Z",
+              "gameVersionName": "Quilt"
+            }
+          ],
+          "gameVersions": [
+            "Fabric",
+            "Client",
+            "1.20.1",
+            "1.20",
+            "Server",
+            "Quilt"
+          ],
+          "fileFingerprint": 765582105,
+          "modId": 681783
+        },
+        "modrinthProject": {
+          "id": "qbbO7Jns",
+          "slug": "emi-loot",
+          "project_type": "mod",
+          "team": "A6CuhMKl",
+          "title": "EMI Loot",
+          "description": "A loot drop (chest, block, entity) plugin for the EMI Recipe and Item viewer.",
+          "body": "[![Bisect Hosting Banner](https://www.bisecthosting.com/partners/custom-banners/85a7141b-76c9-4f0c-bd04-21f4b0d56c4a.webp \"Bisect Hosting Banner\")](https://bisecthosting.com/fzzyhmstrs)\n\n![Emi Loot chest screen](https://i.imgur.com/Jaf6bFD.png)\n\n![Chest screen with lots of drops condensed into lists sorted by percentage, each list displays the items in that percentage category.](https://i.imgur.com/0ew58PW.png)\n\n### EMI Loot\n\nEMI Loot is a plugin for the [EMI Recipe and Item viewer](https://modrinth.com/mod/emi) that displays loot tables for chests, blocks , and mobs.\n\n \n*EMI Loot is in beta! Please expect features to change and be added as development continues.*\n\n*All credit goes to EmilyPloszaj for the creation of EMI itself. This is just a plugin.*\n\n[![Join the Discord](https://i.imgur.com/iXATO6K.png)](https://discord.gg/zDbaYmUba2)\n[![Ronald McDonald House Donation Link](https://cdn.modrinth.com/data/cached_images/5f2635e02e8561eb3ae165bda17a9579841d3882.png)](https://tiltify.com/+team-timefall/team-timefall-annual-charity-2024)\n\n#### Wiki\n\nFor guides on how to use the data-driven systems in EMI Loot, please see [the wiki](https://github.com/fzzyhmstrs/EMI_loot/wiki)\n\n#### Notable Features\n\n- Chest loot is sorted by percentage and includes drops added to the loot tables by mods.\n- If a chest has too many loot options to fit onto the screen, EMI Loot will condense the output into lists of items stacked by same-percentage. Hovering over a certain percentage list will show the possible stacks you can expect to get at that probability.\n- Stack sizes shown represent the average item count you can expect to pull at a time (before factoring in the probability).\n- Block drops have been added. These views show the various drops available, split into different categories based on any particular circumstances needed to get that drop (Silk Touch, Shears, etc).\n- Mob drops have been added. Shows drops available split into categories based on circumstances needed to acquire them (only when a mob is on fire, extra with looting, etc)\n\n\n#### Features to come\n- Implement resource-pack driven system for defining custom conditions and how to parse them.\n- Add in fishing and other gameplay loot\n\n\n",
+          "published": "2022-09-25T22:13:18.112945Z",
+          "updated": "2024-08-31T19:14:47.802755Z",
+          "status": "approved",
+          "license": {
+            "id": "MIT",
+            "name": "MIT License"
+          },
+          "client_side": "required",
+          "server_side": "required",
+          "categories": [
+            "library",
+            "management",
+            "utility"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/qbbO7Jns/dec44ad1547e774b6fce97a5268f6ff6309ec40a.png",
+          "issues_url": "https://github.com/fzzyhmstrs/EMI_loot/issues",
+          "source_url": "https://github.com/fzzyhmstrs/EMI_loot",
+          "wiki_url": "https://github.com/fzzyhmstrs/EMI_loot/wiki",
+          "discord_url": "https://discord.gg/zDbaYmUba2",
+          "donation_urls": [
+            {
+              "id": "ko-fi",
+              "platform": "Ko-fi",
+              "url": "https://ko-fi.com/fzzyhmstrs"
+            }
+          ],
+          "gallery": []
+        },
+        "modrinthVersion": {
+          "id": "DjDkyJ8q",
+          "project_id": "qbbO7Jns",
+          "author_id": "ANKRvkxl",
+          "name": "EMI Loot 0.7.1+1.20.1",
+          "version_number": "0.7.1+1.20.1",
+          "changelog": "* Added configurable debug modes for loot table types, as well as missing translation logging for relevant categories.\n* Updated ru_ru\n* Update config to v1 with new settings\n* Added some missing archaeology and gameplay keys\n* If EMI Loot and Symbols n Stuff are installed together on first launch, \"tooltip mode\" will be the default layout.\n\nThanks to unilock and Korben on github for contributing to this update.",
+          "date_published": "2024-08-31T19:10:50.652660Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha1": "cdddf165acbbc4d36889ac4f3820bbcbd670ecb2",
+                "sha512": "62a11c9bdaf4d1e40248f945bd3b5a8c87cd4a4a26fd5a4f21cccbce8904d08caf5de297c8fe5bafecfc5fc21daa335104934bf3728971837154d0fdfe97c1ff"
+              },
+              "url": "https://cdn.modrinth.com/data/qbbO7Jns/versions/DjDkyJ8q/emi_loot-0.7.1%2B1.20.1.jar",
+              "filename": "emi_loot-0.7.1+1.20.1.jar",
+              "primary": true,
+              "size": 372508
+            }
+          ],
+          "dependencies": [
+            {
+              "project_id": "P7dR8mSH",
+              "dependency_type": "required"
+            },
+            {
+              "project_id": "fRiHVvU7",
+              "dependency_type": "required"
+            },
+            {
+              "project_id": "hYykXjDp",
+              "dependency_type": "required"
+            },
+            {
+              "project_id": "itOw2agq",
+              "dependency_type": "optional"
+            }
+          ],
+          "game_versions": [
+            "1.20",
+            "1.20.1"
+          ],
+          "loaders": [
+            "fabric",
+            "quilt"
+          ]
+        }
+      },
+      {
+        "name": "EMI Ores",
+        "version": "0.4+1.20.1",
+        "optional": true,
+        "file": "emi_ores-0.4+1.20.1.jar",
+        "type": "mods",
+        "description": "Easily view ore generation information from inside EMI.",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 974009,
+        "curseForgeFileId": 5213774,
+        "curseForgeProject": {
+          "id": 974009,
+          "name": "EMI Ores",
+          "authors": [
+            {
+              "id": 100965606,
+              "name": "Abbie34",
+              "url": "https://www.curseforge.com/members/abbie34"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Easily view ore generation information from inside EMI.",
+          "categories": [
+            {
+              "name": "World Gen",
+              "slug": "world-gen",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen",
+              "dateModified": "2017-10-16T21:40:11.473Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 406,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/26/635351494599748860.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Utility & QoL",
+              "slug": "utility-qol",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/utility-qol",
+              "dateModified": "2021-11-17T11:45:09.143Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 5191,
+              "iconUrl": "https://media.forgecdn.net/avatars/456/558/637727379086405233.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Ores and Resources",
+              "slug": "world-ores-resources",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen/world-ores-resources",
+              "dateModified": "2014-05-08T17:36:41.233Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 408,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/23/635351494012336510.png",
+              "parentCategoryId": 406,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 5191,
+          "classId": 6,
+          "slug": "emi-ores",
+          "isFeatured": false,
+          "dateModified": "2024-03-26T21:36:16.777Z",
+          "dateCreated": "2024-02-12T21:11:33.303Z",
+          "dateReleased": "2024-03-26T21:27:26Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/emi-ores",
+            "issuesUrl": "https://github.com/Abbie5/emi-ores/issues",
+            "sourceUrl": "https://github.com/Abbie5/emi-ores"
+          },
+          "logo": {
+            "id": 947346,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/947/346/256/256/638433690933293487.png",
+            "title": "638433690933293487.png",
+            "url": "https://media.forgecdn.net/avatars/947/346/638433690933293487.png",
+            "modId": 974009
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 5213774
+        },
+        "curseForgeFile": {
+          "id": 5213774,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "emi_ores-0.4+1.20.1.jar",
+          "fileName": "emi_ores-0.4+1.20.1.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2024-03-26T21:27:26Z",
+          "fileLength": 44794,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 580555,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 306612,
+              "relationType": 3
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 3228434937,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 1136524626,
+              "name": "LICENSE_emi_ores"
+            },
+            {
+              "fingerprint": 1321851770,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 2775153334,
+              "name": "cc"
+            },
+            {
+              "fingerprint": 731911004,
+              "name": "emi_ores-refmap.json"
+            },
+            {
+              "fingerprint": 576018715,
+              "name": "emi_ores.mixins.json"
+            },
+            {
+              "fingerprint": 142558688,
+              "name": "fabric.mod.json"
+            },
+            {
+              "fingerprint": 4274762855,
+              "name": "icon.png"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "f3f6d4e131545579d404fa52258b07b7a35a89da",
+              "algo": 1
+            },
+            {
+              "value": "60c36daa14349f7fa4771945db5276f7",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-09-01T00:00:00Z",
+              "gameVersionName": "Fabric"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            }
+          ],
+          "gameVersions": [
+            "Fabric",
+            "1.20.1"
+          ],
+          "fileFingerprint": 192001793,
+          "modId": 974009
+        },
+        "modrinthProject": {
+          "id": "sG4TqDb8",
+          "slug": "emi-ores",
+          "project_type": "mod",
+          "team": "epGaqBcx",
+          "title": "EMI Ores",
+          "description": "Easily view ore generation information from inside EMI.",
+          "body": "# EMI Ores\n\nEasily view ore generation information from inside [EMI](https://modrinth.com/mod/emi).\n\nEMI Ores is a plugin for the recipe viewer EMI that displays information about how ores generate in the world, including:\n\n- Y-level distribution\n- Vein size\n- Vein count per chunk\n- Biome restrictions\n\nThe mod is required on both client and server in order to function; if present on only one side it will silently disable itself.\n\nOwing to the fact that this mod gathers its data from data pack configured/placed features, modded ores should display correctly without additional configuration in the vast majority of cases.\n\nI currently consider this mod to be in an **ALPHA** state. It is still in the early stages of development and is subject to change. If you find any bugs or have a suggestion on how the mod should function, please open a ticket on the [issue tracker](https://github.com/Abbie5/emi-ores/issues).\n\n## Screenshots\n\n![ore_diamond](https://github.com/Abbie5/emi-ores/assets/43531981/3315b2ad-077c-417b-ba07-fcf0c8654b0c)\n![ore_emerald](https://github.com/Abbie5/emi-ores/assets/43531981/a5cf1d4b-4178-4f00-9443-962b8b977a2f)\n![ore_ancient_debris_large](https://github.com/Abbie5/emi-ores/assets/43531981/ba53c7ac-3636-4bfb-b98d-a2ac28070040)\n\n## Comparison with existing ore generation recipe viewer plugins\n\n| Feature | EMI Ores | [Just Enough Resources](https://modrinth.com/mod/just-enough-resources-jer) | [Roughly Enough Resources](https://www.curseforge.com/minecraft/mc-mods/roughly-enough-resources) |\n| --- | --- | --- | --- |\n| Display ore generation information | ✅ | ✅ | ✅ |\n| Display non-ore world generation information | ❌ | ❌ | ✅ |\n| Automatic modded ore support | ✅ | ❌ | ✅ |\n| Display biome restrictions | ✅ | ✅ | ❌ |\n| Combine stone and deepslate ores | ✅ | ✅ | ❌ |\n| Data source | Data pack placed/configured features | Hard-coded | Scanned chunks |\n| Recipe viewer support | EMI | [JEI](https://modrinth.com/mod/jei), EMI (via JEI) | [REI](https://modrinth.com/mod/rei) |\n| Display loot tables | ❌¹ | ✅ | ✅ |\n| Display villager trades | ❌² | ✅ | ❌ |\n| Display enchantments available on items | ⭕³ | ✅ | ❌ |\n\n1. See [EMI Loot](https://modrinth.com/mod/emi-loot).\n2. See [EMI Trades](https://modrinth.com/mod/emitrades).\n3. Available in EMI.\n",
+          "published": "2024-02-12T00:14:16.344341Z",
+          "updated": "2024-03-26T21:27:26.684158Z",
+          "status": "approved",
+          "license": {
+            "id": "LGPL-3.0-only",
+            "name": "GNU Lesser General Public License v3.0 only"
+          },
+          "client_side": "required",
+          "server_side": "required",
+          "categories": [
+            "utility",
+            "worldgen"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/sG4TqDb8/c5e85bcf5c2ac92ebffbd01f0e97c38fd9bc9743.png",
+          "issues_url": "https://github.com/Abbie5/emi-ores/issues",
+          "source_url": "https://github.com/Abbie5/emi-ores",
+          "donation_urls": [],
+          "gallery": [
+            {
+              "url": "https://cdn.modrinth.com/data/sG4TqDb8/images/43da9f160b86125af300f07c6145c27302820155.png",
+              "featured": false,
+              "title": "Ancient debris",
+              "created": "2024-02-12T20:26:07.795211Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/sG4TqDb8/images/6918a53fe35f9ce650968428557031a7653aeee5.png",
+              "featured": false,
+              "title": "Emerald ore",
+              "created": "2024-02-12T20:26:03.038820Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/sG4TqDb8/images/7a02cb9a3977a1f515b9eb25a3e429b059cc3319.png",
+              "featured": true,
+              "title": "Diamond ore",
+              "created": "2024-02-12T20:25:56.511582Z",
+              "ordering": 0.0
+            }
+          ]
+        },
+        "modrinthVersion": {
+          "id": "DLW2L0g5",
+          "project_id": "sG4TqDb8",
+          "author_id": "zN0tei5d",
+          "name": "0.4+1.20.1",
+          "version_number": "0.4+1.20.1",
+          "changelog": "- Add (hopefully) explanatory tooltip to distribution graph",
+          "date_published": "2024-03-26T21:27:27.211268Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha1": "f3f6d4e131545579d404fa52258b07b7a35a89da",
+                "sha512": "196e533ad70fc2910a62cb94f750cec2d77ec4e608ff831c8d201a8a0a16fb5e422f8a4b947b14e9841eb21bb7c94a61a7c2e7e7947168e1843eb52a96a81765"
+              },
+              "url": "https://cdn.modrinth.com/data/sG4TqDb8/versions/DLW2L0g5/emi_ores-0.4%2B1.20.1.jar",
+              "filename": "emi_ores-0.4+1.20.1.jar",
+              "primary": true,
+              "size": 44794
+            }
+          ],
+          "dependencies": [
+            {
+              "project_id": "fRiHVvU7",
+              "dependency_type": "required"
+            },
+            {
+              "project_id": "P7dR8mSH",
+              "dependency_type": "required"
+            }
+          ],
+          "game_versions": [
+            "1.20.1"
+          ],
+          "loaders": [
+            "fabric"
+          ]
+        }
+      },
+      {
+        "name": "EMI Enchanting",
+        "version": "EMI Enchanting 0.1.1+1.20.1",
+        "optional": true,
+        "file": "emi_enchanting-0.1.1+1.20.1.jar",
+        "type": "mods",
+        "description": "EMI Plugin that gives basic enchantment information; valid items, exlcusions, etc.",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 936713,
+        "curseForgeFileId": 5680665,
+        "curseForgeProject": {
+          "id": 936713,
+          "name": "EMI Enchanting",
+          "authors": [
+            {
+              "id": 103101273,
+              "name": "fzzyhmstrs",
+              "url": "https://www.curseforge.com/members/fzzyhmstrs"
+            }
+          ],
+          "gameId": 432,
+          "summary": "EMI Plugin that gives basic enchantment information; valid items, exlcusions, etc.",
+          "categories": [
+            {
+              "name": "Map and Information",
+              "slug": "map-information",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/map-information",
+              "dateModified": "2014-05-08T17:42:23.74Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 423,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/38/635351497437388438.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "API and Library",
+              "slug": "library-api",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/library-api",
+              "dateModified": "2014-05-23T03:21:44.06Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 421,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/36/635351496947765531.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 421,
+          "classId": 6,
+          "slug": "emi-enchanting",
+          "isFeatured": false,
+          "dateModified": "2024-08-31T16:20:48.447Z",
+          "dateCreated": "2023-11-12T22:11:52.053Z",
+          "dateReleased": "2024-08-31T16:16:39.41Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/emi-enchanting",
+            "issuesUrl": "https://github.com/fzzyhmstrs/EMI_enchanting/issues",
+            "sourceUrl": "https://github.com/fzzyhmstrs/EMI_enchanting"
+          },
+          "logo": {
+            "id": 904258,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/904/258/256/256/638354239120784536.png",
+            "title": "638354239120784536.png",
+            "url": "https://media.forgecdn.net/avatars/904/258/638354239120784536.png",
+            "modId": 936713
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 5680819
+        },
+        "curseForgeFile": {
+          "id": 5680665,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "emi_enchanting-0.1.1+1.20.1.jar",
+          "fileName": "emi_enchanting-0.1.1+1.20.1.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2024-08-31T15:20:38.123Z",
+          "fileLength": 14099,
+          "dependencies": [],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 267939461,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 2452241338,
+              "name": "fabric.mod.json"
+            },
+            {
+              "fingerprint": 3428428275,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 3546268570,
+              "name": "fzzyhmstrs"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "0e79ee58c44125a34f3aa84742f37f5d3288fd2f",
+              "algo": 1
+            },
+            {
+              "value": "efb1c8f9454e85967ccffa88c4fa7a73",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000002",
+              "gameVersion": "1.20.2",
+              "gameVersionReleaseDate": "2023-09-21T15:25:15.053Z",
+              "gameVersionName": "1.20.2"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000005",
+              "gameVersion": "1.20.5",
+              "gameVersionReleaseDate": "2024-04-23T15:00:48.803Z",
+              "gameVersionName": "1.20.5"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-09-01T00:00:00Z",
+              "gameVersionName": "Fabric"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Client"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000003",
+              "gameVersion": "1.20.3",
+              "gameVersionReleaseDate": "2023-12-05T17:24:10.113Z",
+              "gameVersionName": "1.20.3"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020",
+              "gameVersion": "1.20",
+              "gameVersionReleaseDate": "2023-06-07T00:00:00Z",
+              "gameVersionName": "1.20"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000006",
+              "gameVersion": "1.20.6",
+              "gameVersionReleaseDate": "2024-04-29T15:15:44.67Z",
+              "gameVersionName": "1.20.6"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000004",
+              "gameVersion": "1.20.4",
+              "gameVersionReleaseDate": "2023-12-07T15:17:47.907Z",
+              "gameVersionName": "1.20.4"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-05-26T00:00:00Z",
+              "gameVersionName": "Quilt"
+            }
+          ],
+          "gameVersions": [
+            "1.20.2",
+            "1.20.5",
+            "Fabric",
+            "Client",
+            "1.20.3",
+            "1.20.1",
+            "1.20",
+            "1.20.6",
+            "1.20.4",
+            "Quilt"
+          ],
+          "fileFingerprint": 365009644,
+          "modId": 936713
+        },
+        "modrinthProject": {
+          "id": "wbWoo11W",
+          "slug": "emi-enchanting",
+          "project_type": "mod",
+          "team": "w98HYGwj",
+          "title": "EMI Enchanting",
+          "description": "EMI Plugin that gives basic enchantment information; valid items, exlcusions, etc.",
+          "body": "![EMI Enchanting Information Example](https://i.imgur.com/zexjeZA.png)\n\n[![Bisect Hosting Link](https://www.bisecthosting.com/partners/custom-banners/85a7141b-76c9-4f0c-bd04-21f4b0d56c4a.webp)](https://bisecthosting.com/fzzyhmstrs)\n\n# EMI Enchanting\n\nEMI Enchanting is a plugin for the [EMI Recipe and Item viewer](https://modrinth.com/mod/emi) that displays various information about enchantments. Tab through the various information screens with the buttons at the bottom.\n\n* Basic summary info: Is the enchantment a curse? Can villagers trade it? What is it's maximum level?\n* Valid Items: Lists out every item that can be enchanted by the currently selected enchantment. Right click on an item to see every encahntment that piece of gear can validly have\n* Enchantment Description: Uses the same format as the mod of the same name, `enchantment.namespace.path.desc`\n* Exclusions: Lists out the enchantments that conflict with the currently selected one.\n\n[![Discord Invite Link](https://i.imgur.com/iXATO6K.png)](https://discord.gg/zDbaYmUba2)\n[![Ronald McDonald House Donation Link](https://cdn.modrinth.com/data/cached_images/5f2635e02e8561eb3ae165bda17a9579841d3882.png)](https://tiltify.com/+team-timefall/team-timefall-annual-charity-2024)",
+          "published": "2023-11-12T22:13:20.438179Z",
+          "updated": "2024-08-31T16:17:00.793806Z",
+          "status": "approved",
+          "license": {
+            "id": "MIT",
+            "name": "MIT License"
+          },
+          "client_side": "required",
+          "server_side": "unsupported",
+          "categories": [
+            "library",
+            "management",
+            "utility"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/wbWoo11W/67f7bec961dee33edd40f0578d952b31302606e7.png",
+          "issues_url": "https://github.com/fzzyhmstrs/EMI_enchanting/issues",
+          "source_url": "https://github.com/fzzyhmstrs/EMI_enchanting/",
+          "discord_url": "https://discord.gg/zDbaYmUba2",
+          "donation_urls": [
+            {
+              "id": "ko-fi",
+              "platform": "Ko-fi",
+              "url": "https://ko-fi.com/fzzyhmstrs"
+            }
+          ],
+          "gallery": []
+        },
+        "modrinthVersion": {
+          "id": "HNd1SJ3B",
+          "project_id": "wbWoo11W",
+          "author_id": "ANKRvkxl",
+          "name": "EMI Enchanting 0.1.1+1.20.1",
+          "version_number": "0.1.1+1.20.1",
+          "changelog": "Updated the method for retrieving Enchanted Books",
+          "date_published": "2024-08-31T15:21:29.967163Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha512": "5abfd1865a5cec512e0814c107c542dccd17c110cfa8a1e50dda5ee3f59cff196fa8f043eddb580647ba93b4b76817b7e2432f2a06642067b7eaa75c9eb3d15a",
+                "sha1": "0e79ee58c44125a34f3aa84742f37f5d3288fd2f"
+              },
+              "url": "https://cdn.modrinth.com/data/wbWoo11W/versions/HNd1SJ3B/emi_enchanting-0.1.1%2B1.20.1.jar",
+              "filename": "emi_enchanting-0.1.1+1.20.1.jar",
+              "primary": true,
+              "size": 14099
+            }
+          ],
+          "dependencies": [
+            {
+              "project_id": "fRiHVvU7",
+              "dependency_type": "required"
+            }
+          ],
+          "game_versions": [
+            "1.20",
+            "1.20.1",
+            "1.20.2",
+            "1.20.3",
+            "1.20.4",
+            "1.20.5",
+            "1.20.6"
+          ],
+          "loaders": [
+            "fabric",
+            "quilt"
+          ]
+        }
       }
     ],
     "ignoredUpdates": [],
     "ignoreAllUpdates": false,
     "vanillaInstance": true,
-    "lastPlayed": 1725380804743,
-    "numPlays": 97,
+    "lastPlayed": 1725382142917,
+    "numPlays": 99,
     "lastExportName": "Sunnie's RPG Tech",
     "lastExportVersion": "1.20.1",
     "lastExportAuthor": "Hitomiiv",

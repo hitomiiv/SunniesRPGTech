@@ -15,4 +15,10 @@
 /config/inventorysorter/config.json5
 /config/sodium-extra-options.json
 /config/presencefootsteps/userconfig.json
-/config/jei/
+/config/jei
+/config/emi.css
+/config/emi_loot_config.toml
+/config/emitrades.json5
+/config/iris.properties
+/config/fabric/indigo-renderer.properties
+/config/indium-renderer.properties
