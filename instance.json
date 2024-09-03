@@ -43000,385 +43000,6 @@
         }
       },
       {
-        "name": "Just Enough Items",
-        "version": "15.12.3.55 for Fabric 1.20.1",
-        "optional": true,
-        "file": "jei-1.20.1-fabric-15.12.3.55.jar",
-        "type": "mods",
-        "description": "JEI - View Items and Recipes",
-        "disabled": false,
-        "userAdded": true,
-        "wasSelected": true,
-        "skipped": false,
-        "curseForgeProjectId": 238222,
-        "curseForgeFileId": 5648526,
-        "curseForgeProject": {
-          "id": 238222,
-          "name": "Just Enough Items (JEI)",
-          "authors": [
-            {
-              "id": 17072262,
-              "name": "mezz",
-              "url": "https://www.curseforge.com/members/mezz"
-            }
-          ],
-          "gameId": 432,
-          "summary": "View Items and Recipes",
-          "categories": [
-            {
-              "name": "API and Library",
-              "slug": "library-api",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/library-api",
-              "dateModified": "2014-05-23T03:21:44.06Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 421,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/36/635351496947765531.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
-              "name": "Map and Information",
-              "slug": "map-information",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/map-information",
-              "dateModified": "2014-05-08T17:42:23.74Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 423,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/38/635351497437388438.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            }
-          ],
-          "status": 4,
-          "primaryCategoryId": 423,
-          "classId": 6,
-          "slug": "jei",
-          "isFeatured": false,
-          "dateModified": "2024-08-25T11:16:59.273Z",
-          "dateCreated": "2015-11-23T22:55:58.84Z",
-          "dateReleased": "2024-08-25T11:09:42.723Z",
-          "links": {
-            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/jei",
-            "wikiUrl": "",
-            "issuesUrl": "https://github.com/mezz/JustEnoughItems/issues?q=is%3Aissue",
-            "sourceUrl": "https://github.com/mezz/JustEnoughItems"
-          },
-          "logo": {
-            "id": 29069,
-            "description": "",
-            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/29/69/256/256/635838945588716414.jpeg",
-            "title": "635838945588716414.jpeg",
-            "url": "https://media.forgecdn.net/avatars/29/69/635838945588716414.jpeg",
-            "modId": 238222
-          },
-          "allowModDistribution": true,
-          "screenshots": [
-            {
-              "id": 31417,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/31/417/310/172/thzzdin.png",
-              "title": "Recipe Completion",
-              "url": "https://media.forgecdn.net/attachments/31/417/thzzdin.png",
-              "modId": 238222
-            },
-            {
-              "id": 31419,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/31/419/310/172/t7f7jh6.png",
-              "title": "Potions",
-              "url": "https://media.forgecdn.net/attachments/31/419/t7f7jh6.png",
-              "modId": 238222
-            },
-            {
-              "id": 31420,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/31/420/310/172/tgafkma.png",
-              "title": "Itemlist Edit Mode",
-              "url": "https://media.forgecdn.net/attachments/31/420/tgafkma.png",
-              "modId": 238222
-            },
-            {
-              "id": 31418,
-              "description": "",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/31/418/310/172/9lngh5f.png",
-              "title": "Big Screen Support",
-              "url": "https://media.forgecdn.net/attachments/31/418/9lngh5f.png",
-              "modId": 238222
-            }
-          ],
-          "mainFileId": 5626488
-        },
-        "curseForgeFile": {
-          "id": 5648526,
-          "gameId": 432,
-          "isAvailable": true,
-          "displayName": "jei-1.20.1-fabric-15.12.3.55.jar",
-          "fileName": "jei-1.20.1-fabric-15.12.3.55.jar",
-          "releaseType": 2,
-          "fileStatus": 4,
-          "fileDate": "2024-08-20T23:31:37.893Z",
-          "fileLength": 1373521,
-          "dependencies": [],
-          "alternateFileId": 0,
-          "modules": [
-            {
-              "fingerprint": 4150981221,
-              "name": "META-INF"
-            },
-            {
-              "fingerprint": 670826692,
-              "name": "assets"
-            },
-            {
-              "fingerprint": 858249258,
-              "name": "fabric.mod.json"
-            },
-            {
-              "fingerprint": 1056944492,
-              "name": "jei-1.20.1-fabric-refmap.json"
-            },
-            {
-              "fingerprint": 2007185424,
-              "name": "jei-icon.png"
-            },
-            {
-              "fingerprint": 2262576366,
-              "name": "jei.accesswidener"
-            },
-            {
-              "fingerprint": 1640667786,
-              "name": "jei.mixins.json"
-            },
-            {
-              "fingerprint": 1091008681,
-              "name": "mezz"
-            },
-            {
-              "fingerprint": 2606738017,
-              "name": "pack.mcmeta"
-            }
-          ],
-          "isServerPack": false,
-          "hashes": [
-            {
-              "value": "3781baa968eb0839ca9ec158b13ea6ceb60fc989",
-              "algo": 1
-            },
-            {
-              "value": "de5a61752df5b3bf4f554126d89c4a20",
-              "algo": 2
-            }
-          ],
-          "sortableGameVersions": [
-            {
-              "gameVersionPadded": "0",
-              "gameVersion": "",
-              "gameVersionReleaseDate": "2022-09-01T00:00:00Z",
-              "gameVersionName": "Fabric"
-            },
-            {
-              "gameVersionPadded": "0000000001.0000000020.0000000001",
-              "gameVersion": "1.20.1",
-              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
-              "gameVersionName": "1.20.1"
-            }
-          ],
-          "gameVersions": [
-            "Fabric",
-            "1.20.1"
-          ],
-          "fileFingerprint": 2613310261,
-          "modId": 238222
-        },
-        "modrinthProject": {
-          "id": "u6dRKJwZ",
-          "slug": "jei",
-          "project_type": "mod",
-          "team": "H2zAm1Kt",
-          "title": "Just Enough Items",
-          "description": "JEI - View Items and Recipes",
-          "body": "# Just Enough Items\nJEI is an item and recipe viewing mod for Minecraft, built from the ground up for stability and performance.\n\n![JEI Recipe GUI](https://cdn.modrinth.com/data/u6dRKJwZ/images/ee0ea4051573264d2b4edb53f9d4e634faa11f21.png)\n\n## Controls\n\n### Inventory:\n*(Minecraft Options -> Controls)*\n\nShow **R**ecipes: *Hover over item + R*  \nShow **U**ses: *Hover over item + U*  \nToggle Item List **O**verlay: *Control + O*  \n\n### Item List:\nShow Recipes: *Click Item or type R*  \nShow Uses: *Right-Click Item or type U*  \nNext/Previous page: *Scroll Wheel*  \n\n### Search:\nSelect Search Bar: *Click or Control + F*  \nClear Search: *Right Click*  \nPrevious Search: *Up Arrow * \nSearch by Mod Name: *Type @ in front of a word (@thaum)*  \nMultiple terms work together *(wand @thaum)*  \n\nExclude search terms: *Type - in front of a word (@thaum -wand)*  \n\nSearch terms that have spaces in them: *Type \"\" around the words (\"two words\")*\n\n### Recipe View:\nNext/Previous page: *Scroll Wheel*  \nShow all Recipes: *Click the recipe category's name*  \nMove items into crafting area: *Click the [+] button. Shift-Click to move multiple sets of items.*  \n\n<details>\n<summary>View advanced controls</summary>\n\n### Advanced Search:\nSearch by Tooltip Only: *Type # in front of a word*  \nSearch by OreDict name: *Type $ in front of a word*  \nSearch by Creative Tab: *Type % in front of a word*  \nMultiple Searches: *Separate terms with | characters, like \"wrench|hammer\"*  \n\n### With Cheat Mode Active:\nGet a full stack of Items: *Click Item*  \nGet one Item: *Right-Click Item*  \nDelete Item: *Drop an Item into the Item List*  \n\n### With Item List Edit Mode Active: \n*(These controls are shown in-game on the item tooltip)*\n\nHide Item: *Control-Click Item*  \nHide Items and Sub-Items: *Control-Right-Click Item*  \nHide all Items from a mod: *Control-Shift-Click Item*\n\n</details>\n\n## FAQ\n### Can I include JEI in my mod pack?\nOf course!\n\n### Can JEI run client-only, or with a vanilla server?\nYes, with some features disabled:\n- The \"Move items into crafting area\" [+] buttons.\n- Cheating in items that have lots of NBT data.\n- Deleting items.\n\n### Where can I find the ___ feature from NEI?\n\n[The chart here shows which mods support each feature.](https://docs.google.com/spreadsheets/d/1NEWZjKvWB-SibY1BXc1zoYkK7AhjMMBZess9wMy--6w/edit#gid=0)\n\n### I have an issue / bug / crash / report / request, where can I send it?\n[JEI Github Issues Page](https://github.com/mezz/JustEnoughItems/issues)\n\n## Support\n[Become a patron on Patreon](https://www.patreon.com/mezz)",
-          "published": "2023-01-27T05:19:03.821699Z",
-          "updated": "2024-08-25T11:10:36.384508Z",
-          "status": "approved",
-          "license": {
-            "id": "MIT",
-            "name": "MIT License"
-          },
-          "client_side": "required",
-          "server_side": "unsupported",
-          "categories": [
-            "library",
-            "utility"
-          ],
-          "icon_url": "https://cdn.modrinth.com/data/u6dRKJwZ/565c44deeac2a38cbb6c600b5e002fac59572b88.png",
-          "issues_url": "https://github.com/mezz/JustEnoughItems/issues?q=is%3Aissue",
-          "source_url": "https://github.com/mezz/JustEnoughItems",
-          "wiki_url": "https://github.com/mezz/JustEnoughItems/wiki",
-          "discord_url": "https://discord.gg/sCQcWU2",
-          "donation_urls": [
-            {
-              "id": "patreon",
-              "platform": "Patreon",
-              "url": "https://www.patreon.com/mezz"
-            }
-          ],
-          "gallery": [
-            {
-              "url": "https://cdn.modrinth.com/data/u6dRKJwZ/images/4ebe4cc9942c4bf0b07fdac67f93026b42f9a4d4.png",
-              "featured": false,
-              "title": "Recipe Completion",
-              "created": "2023-01-27T05:18:47.838148Z",
-              "ordering": 0.0
-            },
-            {
-              "url": "https://cdn.modrinth.com/data/u6dRKJwZ/images/ee0ea4051573264d2b4edb53f9d4e634faa11f21.png",
-              "featured": false,
-              "title": "JEI Recipe GUI",
-              "created": "2023-01-27T05:27:31.621057Z",
-              "ordering": 0.0
-            },
-            {
-              "url": "https://cdn.modrinth.com/data/u6dRKJwZ/images/f281af132332942e0739d557d6608e9263273fbb.jpeg",
-              "featured": true,
-              "title": "jei-header",
-              "description": "Zoomed image of JEI viewed on a high resolution CRT monitor",
-              "created": "2023-01-29T23:20:13.068911Z",
-              "ordering": 0.0
-            },
-            {
-              "url": "https://cdn.modrinth.com/data/u6dRKJwZ/images/156edbd1e04f86d64edc4f41a6d00e849bc7984b.png",
-              "featured": false,
-              "title": "Potions",
-              "created": "2023-01-27T05:18:47.838148Z",
-              "ordering": 1.0
-            },
-            {
-              "url": "https://cdn.modrinth.com/data/u6dRKJwZ/images/b9efa7c6ecb817461416e6a30d8dfc0cc01e8566.png",
-              "featured": false,
-              "title": "Itemlist Edit Mode",
-              "created": "2023-01-27T05:18:47.838148Z",
-              "ordering": 2.0
-            },
-            {
-              "url": "https://cdn.modrinth.com/data/u6dRKJwZ/images/b1d94b5957935666467e1b2073d5cf92993b4078.png",
-              "featured": false,
-              "title": "Big Screen Support",
-              "created": "2023-01-27T05:18:47.838148Z",
-              "ordering": 3.0
-            }
-          ]
-        },
-        "modrinthVersion": {
-          "id": "BatKHERl",
-          "project_id": "u6dRKJwZ",
-          "author_id": "nMXRSbhF",
-          "name": "15.12.3.55 for Fabric 1.20.1",
-          "version_number": "15.12.3.55",
-          "changelog": "  * [Update Forge for the new tooltips method](https://github.com/mezz/JustEnoughItems/commit/7698d5890662c68304addcc4f6ad9b00f219aea7) - mezz\n",
-          "date_published": "2024-08-20T23:31:53.108263Z",
-          "version_type": "beta",
-          "files": [
-            {
-              "hashes": {
-                "sha1": "3781baa968eb0839ca9ec158b13ea6ceb60fc989",
-                "sha512": "60c299eb20e61d7c3d21d391bf93a7386fb9eaba41cf3d56ce9eb263620cee3fcfe9b536d8039ebbdf112ad336145eb4731cd68698bc9ac72522fc60ded591d0"
-              },
-              "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/BatKHERl/jei-1.20.1-fabric-15.12.3.55.jar",
-              "filename": "jei-1.20.1-fabric-15.12.3.55.jar",
-              "primary": true,
-              "size": 1373521
-            }
-          ],
-          "dependencies": [],
-          "game_versions": [
-            "1.20.1"
-          ],
-          "loaders": [
-            "fabric"
-          ]
-        }
-      },
-      {
-        "name": "Just Enough Professions (JEP)",
-        "version": "JustEnoughProfessions 1.20.1",
-        "optional": true,
-        "file": "JustEnoughProfessions-fabric-1.20.1-3.0.1.jar",
-        "type": "mods",
-        "description": "A JEI addon that adds profession workstations",
-        "disabled": false,
-        "userAdded": true,
-        "wasSelected": true,
-        "skipped": false,
-        "modrinthProject": {
-          "id": "kB56GtWA",
-          "slug": "just-enough-professions-jep",
-          "project_type": "mod",
-          "team": "Kxgfhtlq",
-          "title": "Just Enough Professions (JEP)",
-          "description": "A JEI addon that adds profession workstations",
-          "body": "This mod adds new functionality to <a title=\"Just Enough Items\" href=\"https://www.curseforge.com/minecraft/mc-mods/jei\"><strong>JEI</strong></a>. This new functionality allows the user to determine which worktables are required for each villager profession.<br>\n<br>\nTo do so you can use JEI's Uses key (Default: U) on an Emerald or Villager Spawn Egg and it will display a list of all Villager Professions. If you wanna know what mod added the profession you can hold shift to make it display the mod id in front of the profession.<br>\n<br>\nIf you're searching for a <a title=\"Roughly Enough Items\" href=\"https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items\"><strong>REI</strong> </a>equivalent see <a title=\"Roughly Enough Professions (REP)\" href=\"https://modrinth.com/mod/roughly-enough-professions-rep\">Roughly Enough Professions (REP)</a><br>\n<br>\n<p><img src=\"https://i.imgur.com/0KFppoR.png\" alt=\"Akliz Partner\" width=\"320\" height=\"152\"></p>\n<p><a href=\"https://www.akliz.net/mrbysco\" rel=\"nofollow\">Need a server? Get 20% off your first month by using promo code \"mrbysco\"</a></p>\n \n<b>For questions feel free to join my Discord.</b>\n\n## Want to support us? ##\n<p><a href=\"https://www.patreon.com/Mrbysco\" rel=\"nofollow\"><img src=\"https://i.imgur.com/CEpJohV.png\" alt=\"Patreon\" width=\"152\" height=\"35\"></a>&nbsp; -Mrbysco</p>\n<p><a href=\"https://www.patreon.com/ShyNieke\" rel=\"nofollow\"><img src=\"https://i.imgur.com/CEpJohV.png\" alt=\"Patreon\" width=\"152\" height=\"35\"></a>&nbsp; -ShyNieke</p>",
-          "published": "2022-05-24T20:48:44.380623Z",
-          "updated": "2024-07-17T00:16:43.662886Z",
-          "status": "approved",
-          "license": {
-            "id": "MIT",
-            "name": "MIT License"
-          },
-          "client_side": "required",
-          "server_side": "required",
-          "categories": [],
-          "icon_url": "https://cdn.modrinth.com/data/kB56GtWA/icon.png",
-          "issues_url": "https://github.com/Mrbysco/JustEnoughProfessions/issues",
-          "source_url": "https://github.com/Mrbysco/JustEnoughProfessions",
-          "discord_url": "https://discord.gg/maPeNBK",
-          "donation_urls": [
-            {
-              "id": "other",
-              "platform": "Other",
-              "url": "https://streamelements.com/shynieke/tip"
-            }
-          ],
-          "gallery": []
-        },
-        "modrinthVersion": {
-          "id": "ReZvAI2I",
-          "project_id": "kB56GtWA",
-          "author_id": "zhhfxDQr",
-          "name": "JustEnoughProfessions 1.20.1",
-          "version_number": "3.0.1",
-          "changelog": "* Initial update to 1.20",
-          "date_published": "2023-06-14T18:03:23.772168Z",
-          "version_type": "beta",
-          "files": [
-            {
-              "hashes": {
-                "sha1": "9f00e215a8951c5c36f2c568d6294c987dd3e172",
-                "sha512": "29c0c312a6b0cda31d0920dad092bb23d0af2deba501ea35fd0303a01b588848c51e5b2ffd8b1a7d0e480feeb216441349b43841c8bfcf0176248e3a980f2308"
-              },
-              "url": "https://cdn.modrinth.com/data/kB56GtWA/versions/ReZvAI2I/JustEnoughProfessions-fabric-1.20.1-3.0.1.jar",
-              "filename": "JustEnoughProfessions-fabric-1.20.1-3.0.1.jar",
-              "primary": true,
-              "size": 23365
-            }
-          ],
-          "dependencies": [
-            {
-              "version_id": "HtjsxDMk",
-              "project_id": "u6dRKJwZ",
-              "dependency_type": "required"
-            }
-          ],
-          "game_versions": [
-            "1.20.1"
-          ],
-          "loaders": [
-            "fabric"
-          ]
-        }
-      },
-      {
         "name": "Comforts",
         "version": "comforts-fabric-6.4.0+1.20.1",
         "optional": true,
@@ -67628,13 +67249,3001 @@
             "fabric"
           ]
         }
+      },
+      {
+        "name": "Just Enough Items",
+        "version": "15.16.2.73 for Fabric 1.20.1",
+        "optional": true,
+        "file": "jei-1.20.1-fabric-15.16.2.73.jar",
+        "type": "mods",
+        "description": "JEI - View Items and Recipes",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 238222,
+        "curseForgeFileId": 5683453,
+        "curseForgeProject": {
+          "id": 238222,
+          "name": "Just Enough Items (JEI)",
+          "authors": [
+            {
+              "id": 17072262,
+              "name": "mezz",
+              "url": "https://www.curseforge.com/members/mezz"
+            }
+          ],
+          "gameId": 432,
+          "summary": "View Items and Recipes",
+          "categories": [
+            {
+              "name": "API and Library",
+              "slug": "library-api",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/library-api",
+              "dateModified": "2014-05-23T03:21:44.06Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 421,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/36/635351496947765531.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Map and Information",
+              "slug": "map-information",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/map-information",
+              "dateModified": "2014-05-08T17:42:23.74Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 423,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/38/635351497437388438.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 423,
+          "classId": 6,
+          "slug": "jei",
+          "isFeatured": false,
+          "dateModified": "2024-09-01T14:06:36.483Z",
+          "dateCreated": "2015-11-23T22:55:58.84Z",
+          "dateReleased": "2024-09-01T14:01:44.32Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/jei",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/mezz/JustEnoughItems/issues?q=is%3Aissue",
+            "sourceUrl": "https://github.com/mezz/JustEnoughItems"
+          },
+          "logo": {
+            "id": 29069,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/29/69/256/256/635838945588716414.jpeg",
+            "title": "635838945588716414.jpeg",
+            "url": "https://media.forgecdn.net/avatars/29/69/635838945588716414.jpeg",
+            "modId": 238222
+          },
+          "allowModDistribution": true,
+          "screenshots": [
+            {
+              "id": 31417,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/31/417/310/172/thzzdin.png",
+              "title": "Recipe Completion",
+              "url": "https://media.forgecdn.net/attachments/31/417/thzzdin.png",
+              "modId": 238222
+            },
+            {
+              "id": 31419,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/31/419/310/172/t7f7jh6.png",
+              "title": "Potions",
+              "url": "https://media.forgecdn.net/attachments/31/419/t7f7jh6.png",
+              "modId": 238222
+            },
+            {
+              "id": 31420,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/31/420/310/172/tgafkma.png",
+              "title": "Itemlist Edit Mode",
+              "url": "https://media.forgecdn.net/attachments/31/420/tgafkma.png",
+              "modId": 238222
+            },
+            {
+              "id": 31418,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/31/418/310/172/9lngh5f.png",
+              "title": "Big Screen Support",
+              "url": "https://media.forgecdn.net/attachments/31/418/9lngh5f.png",
+              "modId": 238222
+            }
+          ],
+          "mainFileId": 5626488
+        },
+        "curseForgeFile": {
+          "id": 5683453,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "jei-1.20.1-fabric-15.16.2.73.jar",
+          "fileName": "jei-1.20.1-fabric-15.16.2.73.jar",
+          "releaseType": 2,
+          "fileStatus": 4,
+          "fileDate": "2024-09-01T14:01:36.093Z",
+          "fileLength": 1394977,
+          "dependencies": [],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 4083670576,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 3915139988,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 1431992051,
+              "name": "fabric.mod.json"
+            },
+            {
+              "fingerprint": 1056944492,
+              "name": "jei-1.20.1-fabric-refmap.json"
+            },
+            {
+              "fingerprint": 2007185424,
+              "name": "jei-icon.png"
+            },
+            {
+              "fingerprint": 2262576366,
+              "name": "jei.accesswidener"
+            },
+            {
+              "fingerprint": 1640667786,
+              "name": "jei.mixins.json"
+            },
+            {
+              "fingerprint": 452067219,
+              "name": "mezz"
+            },
+            {
+              "fingerprint": 2606738017,
+              "name": "pack.mcmeta"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "7afe80b6610f2b1944a371806b090132d799441e",
+              "algo": 1
+            },
+            {
+              "value": "d4b12d0efd9e2b07883f6209f96c6039",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-09-01T00:00:00Z",
+              "gameVersionName": "Fabric"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            }
+          ],
+          "gameVersions": [
+            "Fabric",
+            "1.20.1"
+          ],
+          "fileFingerprint": 4203360969,
+          "modId": 238222
+        },
+        "modrinthProject": {
+          "id": "u6dRKJwZ",
+          "slug": "jei",
+          "project_type": "mod",
+          "team": "H2zAm1Kt",
+          "title": "Just Enough Items",
+          "description": "JEI - View Items and Recipes",
+          "body": "# Just Enough Items\nJEI is an item and recipe viewing mod for Minecraft, built from the ground up for stability and performance.\n\n![JEI Recipe GUI](https://cdn.modrinth.com/data/u6dRKJwZ/images/ee0ea4051573264d2b4edb53f9d4e634faa11f21.png)\n\n## Controls\n\n### Inventory:\n*(Minecraft Options -> Controls)*\n\nShow **R**ecipes: *Hover over item + R*  \nShow **U**ses: *Hover over item + U*  \nToggle Item List **O**verlay: *Control + O*  \n\n### Item List:\nShow Recipes: *Click Item or type R*  \nShow Uses: *Right-Click Item or type U*  \nNext/Previous page: *Scroll Wheel*  \n\n### Search:\nSelect Search Bar: *Click or Control + F*  \nClear Search: *Right Click*  \nPrevious Search: *Up Arrow * \nSearch by Mod Name: *Type @ in front of a word (@thaum)*  \nMultiple terms work together *(wand @thaum)*  \n\nExclude search terms: *Type - in front of a word (@thaum -wand)*  \n\nSearch terms that have spaces in them: *Type \"\" around the words (\"two words\")*\n\n### Recipe View:\nNext/Previous page: *Scroll Wheel*  \nShow all Recipes: *Click the recipe category's name*  \nMove items into crafting area: *Click the [+] button. Shift-Click to move multiple sets of items.*  \n\n<details>\n<summary>View advanced controls</summary>\n\n### Advanced Search:\nSearch by Tooltip Only: *Type # in front of a word*  \nSearch by OreDict name: *Type $ in front of a word*  \nSearch by Creative Tab: *Type % in front of a word*  \nMultiple Searches: *Separate terms with | characters, like \"wrench|hammer\"*  \n\n### With Cheat Mode Active:\nGet a full stack of Items: *Click Item*  \nGet one Item: *Right-Click Item*  \nDelete Item: *Drop an Item into the Item List*  \n\n### With Item List Edit Mode Active: \n*(These controls are shown in-game on the item tooltip)*\n\nHide Item: *Control-Click Item*  \nHide Items and Sub-Items: *Control-Right-Click Item*  \nHide all Items from a mod: *Control-Shift-Click Item*\n\n</details>\n\n## FAQ\n### Can I include JEI in my mod pack?\nOf course!\n\n### Can JEI run client-only, or with a vanilla server?\nYes, with some features disabled:\n- The \"Move items into crafting area\" [+] buttons.\n- Cheating in items that have lots of NBT data.\n- Deleting items.\n\n### Where can I find the ___ feature from NEI?\n\n[The chart here shows which mods support each feature.](https://docs.google.com/spreadsheets/d/1NEWZjKvWB-SibY1BXc1zoYkK7AhjMMBZess9wMy--6w/edit#gid=0)\n\n### I have an issue / bug / crash / report / request, where can I send it?\n[JEI Github Issues Page](https://github.com/mezz/JustEnoughItems/issues)\n\n## Support\n[Become a patron on Patreon](https://www.patreon.com/mezz)",
+          "published": "2023-01-27T05:19:03.821699Z",
+          "updated": "2024-09-01T14:01:59.223860Z",
+          "status": "approved",
+          "license": {
+            "id": "MIT",
+            "name": "MIT License"
+          },
+          "client_side": "required",
+          "server_side": "unsupported",
+          "categories": [
+            "library",
+            "utility"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/u6dRKJwZ/565c44deeac2a38cbb6c600b5e002fac59572b88.png",
+          "issues_url": "https://github.com/mezz/JustEnoughItems/issues?q=is%3Aissue",
+          "source_url": "https://github.com/mezz/JustEnoughItems",
+          "wiki_url": "https://github.com/mezz/JustEnoughItems/wiki",
+          "discord_url": "https://discord.gg/sCQcWU2",
+          "donation_urls": [
+            {
+              "id": "patreon",
+              "platform": "Patreon",
+              "url": "https://www.patreon.com/mezz"
+            }
+          ],
+          "gallery": [
+            {
+              "url": "https://cdn.modrinth.com/data/u6dRKJwZ/images/4ebe4cc9942c4bf0b07fdac67f93026b42f9a4d4.png",
+              "featured": false,
+              "title": "Recipe Completion",
+              "created": "2023-01-27T05:18:47.838148Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/u6dRKJwZ/images/ee0ea4051573264d2b4edb53f9d4e634faa11f21.png",
+              "featured": false,
+              "title": "JEI Recipe GUI",
+              "created": "2023-01-27T05:27:31.621057Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/u6dRKJwZ/images/f281af132332942e0739d557d6608e9263273fbb.jpeg",
+              "featured": true,
+              "title": "jei-header",
+              "description": "Zoomed image of JEI viewed on a high resolution CRT monitor",
+              "created": "2023-01-29T23:20:13.068911Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/u6dRKJwZ/images/156edbd1e04f86d64edc4f41a6d00e849bc7984b.png",
+              "featured": false,
+              "title": "Potions",
+              "created": "2023-01-27T05:18:47.838148Z",
+              "ordering": 1.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/u6dRKJwZ/images/b9efa7c6ecb817461416e6a30d8dfc0cc01e8566.png",
+              "featured": false,
+              "title": "Itemlist Edit Mode",
+              "created": "2023-01-27T05:18:47.838148Z",
+              "ordering": 2.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/u6dRKJwZ/images/b1d94b5957935666467e1b2073d5cf92993b4078.png",
+              "featured": false,
+              "title": "Big Screen Support",
+              "created": "2023-01-27T05:18:47.838148Z",
+              "ordering": 3.0
+            }
+          ]
+        },
+        "modrinthVersion": {
+          "id": "lXg3u7Je",
+          "project_id": "u6dRKJwZ",
+          "author_id": "nMXRSbhF",
+          "name": "15.16.2.73 for Fabric 1.20.1",
+          "version_number": "15.16.2.73",
+          "changelog": "  * [Clean up item stack batch rendering a little](https://github.com/mezz/JustEnoughItems/commit/ac7c600f40b5242dcbb0ae38d98c26981cd9744e) - mezz\n",
+          "date_published": "2024-09-01T14:01:51.465384Z",
+          "version_type": "beta",
+          "files": [
+            {
+              "hashes": {
+                "sha1": "7afe80b6610f2b1944a371806b090132d799441e",
+                "sha512": "09ccf5e3fd71ad5b2de4b430050017301b27278a8afcdaff177b23e097bec34b6976535913f3a633a1472120d516a0748ec8b172604ecbd35d4e32eca91c0f70"
+              },
+              "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/lXg3u7Je/jei-1.20.1-fabric-15.16.2.73.jar",
+              "filename": "jei-1.20.1-fabric-15.16.2.73.jar",
+              "primary": true,
+              "size": 1394977
+            }
+          ],
+          "dependencies": [],
+          "game_versions": [
+            "1.20.1"
+          ],
+          "loaders": [
+            "fabric"
+          ]
+        }
+      },
+      {
+        "name": "Just Enough Professions (JEP)",
+        "version": "JustEnoughProfessions 1.20.1",
+        "optional": true,
+        "file": "JustEnoughProfessions-fabric-1.20.1-3.0.1.jar",
+        "type": "mods",
+        "description": "A JEI addon that adds profession workstations",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "modrinthProject": {
+          "id": "kB56GtWA",
+          "slug": "just-enough-professions-jep",
+          "project_type": "mod",
+          "team": "Kxgfhtlq",
+          "title": "Just Enough Professions (JEP)",
+          "description": "A JEI addon that adds profession workstations",
+          "body": "This mod adds new functionality to <a title=\"Just Enough Items\" href=\"https://www.curseforge.com/minecraft/mc-mods/jei\"><strong>JEI</strong></a>. This new functionality allows the user to determine which worktables are required for each villager profession.<br>\n<br>\nTo do so you can use JEI's Uses key (Default: U) on an Emerald or Villager Spawn Egg and it will display a list of all Villager Professions. If you wanna know what mod added the profession you can hold shift to make it display the mod id in front of the profession.<br>\n<br>\nIf you're searching for a <a title=\"Roughly Enough Items\" href=\"https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items\"><strong>REI</strong> </a>equivalent see <a title=\"Roughly Enough Professions (REP)\" href=\"https://modrinth.com/mod/roughly-enough-professions-rep\">Roughly Enough Professions (REP)</a><br>\n<br>\n<p><img src=\"https://i.imgur.com/0KFppoR.png\" alt=\"Akliz Partner\" width=\"320\" height=\"152\"></p>\n<p><a href=\"https://www.akliz.net/mrbysco\" rel=\"nofollow\">Need a server? Get 20% off your first month by using promo code \"mrbysco\"</a></p>\n \n<b>For questions feel free to join my Discord.</b>\n\n## Want to support us? ##\n<p><a href=\"https://www.patreon.com/Mrbysco\" rel=\"nofollow\"><img src=\"https://i.imgur.com/CEpJohV.png\" alt=\"Patreon\" width=\"152\" height=\"35\"></a>&nbsp; -Mrbysco</p>\n<p><a href=\"https://www.patreon.com/ShyNieke\" rel=\"nofollow\"><img src=\"https://i.imgur.com/CEpJohV.png\" alt=\"Patreon\" width=\"152\" height=\"35\"></a>&nbsp; -ShyNieke</p>",
+          "published": "2022-05-24T20:48:44.380623Z",
+          "updated": "2024-07-17T00:16:43.662886Z",
+          "status": "approved",
+          "license": {
+            "id": "MIT",
+            "name": "MIT License"
+          },
+          "client_side": "required",
+          "server_side": "required",
+          "categories": [],
+          "icon_url": "https://cdn.modrinth.com/data/kB56GtWA/icon.png",
+          "issues_url": "https://github.com/Mrbysco/JustEnoughProfessions/issues",
+          "source_url": "https://github.com/Mrbysco/JustEnoughProfessions",
+          "discord_url": "https://discord.gg/maPeNBK",
+          "donation_urls": [
+            {
+              "id": "other",
+              "platform": "Other",
+              "url": "https://streamelements.com/shynieke/tip"
+            }
+          ],
+          "gallery": []
+        },
+        "modrinthVersion": {
+          "id": "ReZvAI2I",
+          "project_id": "kB56GtWA",
+          "author_id": "zhhfxDQr",
+          "name": "JustEnoughProfessions 1.20.1",
+          "version_number": "3.0.1",
+          "changelog": "* Initial update to 1.20",
+          "date_published": "2023-06-14T18:03:23.772168Z",
+          "version_type": "beta",
+          "files": [
+            {
+              "hashes": {
+                "sha512": "29c0c312a6b0cda31d0920dad092bb23d0af2deba501ea35fd0303a01b588848c51e5b2ffd8b1a7d0e480feeb216441349b43841c8bfcf0176248e3a980f2308",
+                "sha1": "9f00e215a8951c5c36f2c568d6294c987dd3e172"
+              },
+              "url": "https://cdn.modrinth.com/data/kB56GtWA/versions/ReZvAI2I/JustEnoughProfessions-fabric-1.20.1-3.0.1.jar",
+              "filename": "JustEnoughProfessions-fabric-1.20.1-3.0.1.jar",
+              "primary": true,
+              "size": 23365
+            }
+          ],
+          "dependencies": [
+            {
+              "version_id": "HtjsxDMk",
+              "project_id": "u6dRKJwZ",
+              "dependency_type": "required"
+            }
+          ],
+          "game_versions": [
+            "1.20.1"
+          ],
+          "loaders": [
+            "fabric"
+          ]
+        }
+      },
+      {
+        "name": "Async Locator",
+        "version": "[Fabric 1.20] 1.3.0",
+        "optional": true,
+        "file": "async-locator-fabric-1.20-1.3.0.jar",
+        "type": "mods",
+        "description": "Changes the searching of features to be asynchronous to mitigate associated lag",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 625069,
+        "curseForgeFileId": 4603345,
+        "curseForgeProject": {
+          "id": 625069,
+          "name": "Async Locator",
+          "authors": [
+            {
+              "id": 8189604,
+              "name": "bright_spark",
+              "url": "https://www.curseforge.com/members/bright_spark"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Changes the searching of features to be asynchronous to mitigate associated lag",
+          "categories": [
+            {
+              "name": "API and Library",
+              "slug": "library-api",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/library-api",
+              "dateModified": "2014-05-23T03:21:44.06Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 421,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/36/635351496947765531.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Server Utility",
+              "slug": "server-utility",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/server-utility",
+              "dateModified": "2014-05-08T17:44:55.057Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 435,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/48/635351498950580836.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Utility & QoL",
+              "slug": "utility-qol",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/utility-qol",
+              "dateModified": "2021-11-17T11:45:09.143Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 5191,
+              "iconUrl": "https://media.forgecdn.net/avatars/456/558/637727379086405233.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 5191,
+          "classId": 6,
+          "slug": "async-locator",
+          "isFeatured": false,
+          "dateModified": "2023-12-05T21:02:15.21Z",
+          "dateCreated": "2022-05-20T11:45:09.803Z",
+          "dateReleased": "2023-06-24T17:38:48.26Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/async-locator",
+            "issuesUrl": "https://github.com/thebrightspark/AsyncLocator/issues",
+            "sourceUrl": "https://github.com/thebrightspark/AsyncLocator"
+          },
+          "logo": {
+            "id": 549342,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/549/342/256/256/637886439098748898.png",
+            "title": "637886439098748898.png",
+            "url": "https://media.forgecdn.net/avatars/549/342/637886439098748898.png",
+            "modId": 625069
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 4607445
+        },
+        "curseForgeFile": {
+          "id": 4603345,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "async-locator-fabric-1.20-1.3.0.jar",
+          "fileName": "async-locator-fabric-1.20-1.3.0.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2023-06-22T18:24:45.413Z",
+          "fileLength": 279100,
+          "dependencies": [],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 1508078118,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 2447616899,
+              "name": "LICENSE_async-locator"
+            },
+            {
+              "fingerprint": 42087813,
+              "name": "pack.mcmeta"
+            },
+            {
+              "fingerprint": 1194714154,
+              "name": "logo.png"
+            },
+            {
+              "fingerprint": 50490184,
+              "name": "fabric.mod.json"
+            },
+            {
+              "fingerprint": 3941344101,
+              "name": "asynclocator.mixins.json"
+            },
+            {
+              "fingerprint": 1926665422,
+              "name": "asynclocator.refmap.json"
+            },
+            {
+              "fingerprint": 2601824526,
+              "name": "brightspark"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "9bd8650056dd2dbbc64c4842f4dc9b9391ee8bf9",
+              "algo": 1
+            },
+            {
+              "value": "1062b9cc003e31a084640033528d6c95",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000002",
+              "gameVersion": "1.20.2",
+              "gameVersionReleaseDate": "2023-09-21T15:25:15.053Z",
+              "gameVersionName": "1.20.2"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-09-01T00:00:00Z",
+              "gameVersionName": "Fabric"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020",
+              "gameVersion": "1.20",
+              "gameVersionReleaseDate": "2023-06-07T00:00:00Z",
+              "gameVersionName": "1.20"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Server"
+            }
+          ],
+          "gameVersions": [
+            "1.20.2",
+            "Fabric",
+            "1.20.1",
+            "1.20",
+            "Server"
+          ],
+          "fileFingerprint": 668220864,
+          "modId": 625069
+        },
+        "modrinthProject": {
+          "id": "rkN8aqci",
+          "slug": "async-locator",
+          "project_type": "mod",
+          "team": "dLnIWahV",
+          "title": "Async Locator",
+          "description": "Changes the searching of features to be asynchronous to mitigate associated lag",
+          "body": "Modifies vanilla behaviour when locating features to run asynchronously, mitigating associated lag.\n\nThis is currently implemented for:\n* Locate command when executed by a user\n* Villager explorer map trade offers\n* Dolphin treasure finding\n* Exploration map in chests (v1.1.0+)\n\nThis mod is only required to be installed server side! So clients only need this installed if they want it for single player.\n\n**This alone only works for vanilla (see list above). Other mods may need to implement usage of this mod themselves to make use of the async functionality.**\n\n## Incompatabilities\nMods that affect vanilla's structure locating features may impact Async Locator's functionality.\n\nRight now, the list below states other mods that I'm aware of:\n* [Structure Essentials](https://www.curseforge.com/minecraft/mc-mods/structure-essentials-forge-fabric)  \nHas been seen that on startup only one of either Async Locator's or Structure Essentials' locating improvements will work. No real issues otherwise, but only one of the mods are required.\n\n\n## Mod Integration\nOther mods can also use Async Locators as a dependency to implement the asynchronous locating into their own code.\nTo do so, please use [CurseMaven](https://www.cursemaven.com/) or [Modrinth Maven](https://docs.modrinth.com/docs/tutorials/maven/) to add this mod to your `build.gradle`, and then make use of the [AsyncLocator class](https://github.com/thebrightspark/AsyncLocator/blob/HEAD/Common/src/main/java/brightspark/asynclocator/AsyncLocator.java) and/or [logic classes](https://github.com/thebrightspark/AsyncLocator/tree/HEAD/Common/src/main/java/brightspark/asynclocator/logic).",
+          "published": "2022-12-23T21:26:01.858552Z",
+          "updated": "2023-06-24T17:36:55.673321Z",
+          "status": "approved",
+          "license": {
+            "id": "MIT",
+            "name": "MIT License"
+          },
+          "client_side": "unsupported",
+          "server_side": "required",
+          "categories": [
+            "library",
+            "optimization",
+            "utility"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/rkN8aqci/47856a081f4eaab4370d7ead5482ea10e3b40fb3.png",
+          "issues_url": "https://github.com/thebrightspark/AsyncLocator/issues",
+          "source_url": "https://github.com/thebrightspark/AsyncLocator",
+          "discord_url": "https://discord.gg/WASTJup",
+          "donation_urls": [],
+          "gallery": []
+        },
+        "modrinthVersion": {
+          "id": "xXhZI4u3",
+          "project_id": "rkN8aqci",
+          "author_id": "24YHDj0T",
+          "name": "[Fabric 1.20] 1.3.0",
+          "version_number": "1.20-1.3.0",
+          "changelog": "- Ported to 1.20",
+          "date_published": "2023-06-22T18:22:30.092592Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha512": "36f982e4dc065d79ebbb43527dcb406b4b8e9f5f3ac6041dad8787719219ca26639364cc518d07720bbc8fa9d283de31c909b0d4598d2f4807893abc3ad977fa",
+                "sha1": "9bd8650056dd2dbbc64c4842f4dc9b9391ee8bf9"
+              },
+              "url": "https://cdn.modrinth.com/data/rkN8aqci/versions/xXhZI4u3/async-locator-fabric-1.20-1.3.0.jar",
+              "filename": "async-locator-fabric-1.20-1.3.0.jar",
+              "primary": true,
+              "size": 279100
+            }
+          ],
+          "dependencies": [
+            {
+              "project_id": "P7dR8mSH",
+              "dependency_type": "required"
+            }
+          ],
+          "game_versions": [
+            "1.20",
+            "1.20.1",
+            "1.20.2"
+          ],
+          "loaders": [
+            "fabric"
+          ]
+        }
+      },
+      {
+        "name": "Wildlife [Fabric]",
+        "version": "Wildlife [Fabric] 1.20.1-2.2",
+        "optional": true,
+        "file": "wildlife-1.20.1-2.2.jar",
+        "type": "mods",
+        "description": "Adds extra animals and insects to Minecraft!",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 568457,
+        "curseForgeFileId": 4660904,
+        "curseForgeProject": {
+          "id": 568457,
+          "name": "Chirpy's Wildlife",
+          "authors": [
+            {
+              "id": 102277811,
+              "name": "chirpycricket__",
+              "url": "https://www.curseforge.com/members/chirpycricket__"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Adds extra animals and insects to Minecraft!",
+          "categories": [
+            {
+              "name": "Cosmetic",
+              "slug": "cosmetic",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/cosmetic",
+              "dateModified": "2014-05-08T17:42:35.597Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 424,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/39/635351497555976928.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Mobs",
+              "slug": "world-mobs",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen/world-mobs",
+              "dateModified": "2014-05-08T17:46:59.507Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 411,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/53/635351500195070414.png",
+              "parentCategoryId": 406,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 411,
+          "classId": 6,
+          "slug": "chirpys-wildlife",
+          "isFeatured": false,
+          "dateModified": "2023-07-23T22:05:06.89Z",
+          "dateCreated": "2022-01-17T01:06:12.927Z",
+          "dateReleased": "2023-07-23T21:58:44.657Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/chirpys-wildlife",
+            "wikiUrl": ""
+          },
+          "logo": {
+            "id": 480928,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/480/928/256/256/637779820102356150.png",
+            "title": "637779820102356150.png",
+            "url": "https://media.forgecdn.net/avatars/480/928/637779820102356150.png",
+            "modId": 568457
+          },
+          "allowModDistribution": false,
+          "screenshots": [],
+          "mainFileId": 4660904
+        },
+        "curseForgeFile": {
+          "id": 4660904,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "wildlife-1.20.1-2.2.jar",
+          "fileName": "wildlife-1.20.1-2.2.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2023-07-23T21:58:44.657Z",
+          "fileLength": 7376064,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 388172,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 393236,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 306612,
+              "relationType": 3
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 2010170021,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 3823568535,
+              "name": "wildlife.mixins.json"
+            },
+            {
+              "fingerprint": 315830132,
+              "name": "fabric.mod.json"
+            },
+            {
+              "fingerprint": 1281882620,
+              "name": "data"
+            },
+            {
+              "fingerprint": 3224455927,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 3902386634,
+              "name": "com"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "a58147b4e2e902611a18a9c57739498a44e08d0f",
+              "algo": 1
+            },
+            {
+              "value": "b80fdb8f1880e4c35b8419853549a64d",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-09-01T00:00:00Z",
+              "gameVersionName": "Fabric"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Client"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Server"
+            }
+          ],
+          "gameVersions": [
+            "Fabric",
+            "Client",
+            "1.20.1",
+            "Server"
+          ],
+          "fileFingerprint": 3021616829,
+          "modId": 568457
+        },
+        "modrinthProject": {
+          "id": "gkVIACVj",
+          "slug": "wildlife-fabric",
+          "project_type": "mod",
+          "team": "eEMceguX",
+          "title": "Wildlife [Fabric]",
+          "description": "Adds extra animals and insects to Minecraft!",
+          "body": "<p><img alt=\"Wildlife Banner Image\" style=\"display: block; margin-left: auto; margin-right: auto;\" src=\"https://i.imgur.com/VY8MNuM.png\" width=\"1000\" height=\"686\" /></p>\n<p style=\"text-align: left;\"><span style=\"font-size: 14px;\"><strong>Important:</strong> This mod requires Geckolib for Fabric. Patchouli is optional, but necessary for the guidebook.</span></p>\n<p style=\"text-align: left;\"><span style=\"font-size: 14px;\"><strong>Supported Mod Loaders:</strong> Fabric</span><span style=\"font-size: 14px;\"><span style=\"color: #ff9900;\"><strong><span style=\"text-decoration: underline; color: #ff9900;\"><br /></span></strong></span></span></p>\n<p><span style=\"text-decoration: underline; font-size: 14px;\"><strong>Mod Highlights:</strong></span></p>\n<ul>\n<li><span style=\"font-size: 14px;\">Adds 74 different kinds of animals and insects to the world.</span></li>\n<li><span style=\"font-size: 14px;\">Insects and smaller animals can be caught/released by right-clicking them.</span></li>\n<li><span style=\"font-size: 14px;\">Each species of songbird has its own unique birdsong.</span></li>\n<li><span style=\"font-size: 14px;\">Small animals can be placed on top of players' heads and on itemframes.</span></li>\n<li><span style=\"font-size: 14px;\">Rare albino variants.</span></li>\n<li><span style=\"font-size: 14px;\">Includes a Patchouli book with descriptions/illustrations for each animal.</span></li>\n<li><span style=\"font-size: 14px;\">Includes a config file that can be used to adjust spawn locations/frequency.</span></li>\n</ul>\n<p><span style=\"font-size: 14px;\"><em>&nbsp;Small animals can be caught by right-clicking on them with an empty hand and will ride on a player's head if placed there ^_^</em><br /></span></p>\n<p><span style=\"font-size: 14px;\"><img alt=\"A series of screenshots showing how to pick up a chickadee\" src=\"https://i.imgur.com/tJktzRs.png\" width=\"1125\" height=\"387\" /></span></p>\n<p><span style=\"font-size: 14px;\">&nbsp;</span></p>\n<p><span style=\"text-decoration: underline; font-size: 18px;\"><strong>Birds</strong></span></p>\n<table style=\"height: 439px;\" width=\"842\">\n<tbody>\n<tr>\n<td>\n<ul>\n<li><span style=\"font-size: 18px;\">Bluebirds</span></li>\n<li><span style=\"font-size: 18px;\">Black-Capped Chickadees</span></li>\n<li><span style=\"font-size: 18px;\">Cottonbirds</span></li>\n<li><span style=\"font-size: 18px;\">Scarlet Flycatchers</span></li>\n<li><span style=\"font-size: 18px;\">Goldfinchs</span></li>\n<li><span style=\"font-size: 18px;\">Lark Buntings</span></li>\n<li><span style=\"font-size: 18px;\">Meadowlarks</span></li>\n<li><span style=\"font-size: 18px;\">Orioles</span></li>\n<li><span style=\"font-size: 18px;\">Phoebes</span></li>\n<li><span style=\"font-size: 18px;\">Robins</span></li>\n<li><span style=\"font-size: 18px;\">Sparrows</span></li>\n<li><span style=\"font-size: 18px;\">Swallows</span></li>\n<li><span style=\"font-size: 18px;\">Towhee</span></li>\n<li><span style=\"font-size: 18px;\">White-eyed Vireos</span></li>\n<li><span style=\"font-size: 18px;\">Wrens&nbsp;</span></li>\n</ul>\n</td>\n<td>\n<p><span style=\"font-size: 18px;\"><img alt=\"Birds\" src=\"https://i.imgur.com/coi8t63.png\" width=\"396\" height=\"396\" /></span></p>\n</td>\n</tr>\n</tbody>\n</table>\n<p>&nbsp;</p>\n<p><span style=\"text-decoration: underline; font-size: 18px;\"><strong>Mammals</strong></span><strong><br />_______________________________________________________________________________ <br /><br /></strong></p>\n<p><span style=\"text-decoration: underline; font-size: 18px;\"><img src=\"https://i.imgur.com/Rek1GIg.png\" alt=\"Mammals\" width=\"870\" height=\"450\" /></span></p>\n<table style=\"height: 144px;\" width=\"421\">\n<tbody>\n<tr>\n<td>\n<ul>\n<li><span style=\"font-size: 18px;\">Anteaters</span></li>\n<li><span style=\"font-size: 18px;\">Armadillos</span></li>\n<li><span style=\"font-size: 18px;\">Badgers</span></li>\n<li><span style=\"font-size: 18px;\">Beavers</span></li>\n<li><span style=\"font-size: 18px;\">Boars<br /><img alt=\"Spacer image\" src=\"https://i.imgur.com/lYvYORa.png\" width=\"200\" height=\"25\" /></span></li>\n</ul>\n</td>\n<td>\n<ul>\n<li><span style=\"font-size: 18px;\">Capybaras</span></li>\n<li><span style=\"font-size: 18px;\">Deer</span></li>\n<li><span style=\"font-size: 18px;\">Ferrets</span></li>\n<li><span style=\"font-size: 18px;\">Hamsters</span></li>\n</ul>\n<p><span style=\"font-size: 18px;\"><img alt=\"Spacer image\" src=\"https://i.imgur.com/lYvYORa.png\" width=\"200\" height=\"25\" /><br /></span></p>\n</td>\n<td>\n<ul>\n<li><span style=\"font-size: 18px;\">Hedgehogs</span></li>\n<li><span style=\"font-size: 18px;\">Monkeys</span></li>\n<li><span style=\"font-size: 18px;\">Porcupines</span></li>\n<li><span style=\"font-size: 18px;\">Possums</span></li>\n</ul>\n<p><span style=\"font-size: 18px;\"><img alt=\"Spacer image\" src=\"https://i.imgur.com/lYvYORa.png\"  width=\"200\" height=\"25\" /></span><span style=\"font-size: 18px;\"><br /></span></p>\n</td>\n</tr>\n</tbody>\n</table>\n<p>&nbsp;</p>\n<p><span style=\"text-decoration: underline; font-size: 18px;\"><strong>Reptiles</strong></span><strong><br />_______________________________________________________________________________ <br /><br /></strong></p>\n<p><span style=\"text-decoration: underline; font-size: 18px;\"><img alt=\"Reptiles\" src=\"https://i.imgur.com/kTYBQBj.png\" width=\"800\" height=\"346\" /></span></p>\n<table style=\"height: 110px;\" width=\"477\">\n<tbody>\n<tr>\n<td>\n<ul>\n<li><span style=\"font-size: 18px;\">Chameleons<br /></span></li>\n<li><span style=\"font-size: 18px;\">Geckos</span></li>\n<li><span style=\"font-size: 18px;\">Grass Snakes</span></li>\n<li><span style=\"font-size: 18px;\">Iguanas<br /></span>\n<p>&nbsp;</p>\n<p><span style=\"font-size: 18px;\"><img alt=\"Spacer image\"  src=\"https://i.imgur.com/lYvYORa.png\" width=\"200\" height=\"25\" /></span></p>\n</li>\n</ul>\n</td>\n<td>\n<ul>\n<li><span style=\"font-size: 18px;\">King Snakes<br /></span></li>\n<li><span style=\"font-size: 18px;\">Milk Snakes</span></li>\n<li><span style=\"font-size: 18px;\">Pythons<br /></span></li>\n<li><span style=\"font-size: 18px;\"><span style=\"font-size: 18px;\">Alligators<br /></span></span>\n<p>&nbsp;</p>\n<p><span style=\"font-size: 18px;\"><img alt=\"Spacer image\" src=\"https://i.imgur.com/lYvYORa.png\" width=\"200\" height=\"25\" /></span></p>\n</li>\n</ul>\n</td>\n</tr>\n</tbody>\n</table>\n<p>&nbsp;</p>\n<p><span style=\"text-decoration: underline; font-size: 18px;\"><strong>Fish &amp; Aquatic Creatures</strong><strong><br />_______________________________________________________________________________ <br /><br /></strong></span></p>\n<p><span style=\"text-decoration: underline; font-size: 18px;\"><img alt=\"Fish and Aquatic Creatures\" src=\"https://i.imgur.com/6ycGdtw.png\" width=\"800\" height=\"498\" /></span></p>\n<table style=\"height: 177px;\" width=\"950\">\n<tbody>\n<tr>\n<td>\n<ul>\n<li><span style=\"font-size: 18px;\">Goldfish</span></li>\n<li><span style=\"font-size: 18px;\">Betta fish</span></li>\n<li><span style=\"font-size: 18px;\">Bluegill</span></li>\n<li><span style=\"font-size: 18px;\">Catfish<br /></span></li>\n<li><span style=\"font-size: 18px;\">Koi</span></li>\n<li><span style=\"font-size: 18px;\">Shrimp</span></li>\n<li><span style=\"font-size: 18px;\"><span style=\"font-size: 18px;\">Seahorse<br /></span></span>\n<p>&nbsp;</p>\n<p><span style=\"font-size: 18px;\"><img alt=\"Spacer image\" src=\"https://i.imgur.com/lYvYORa.png\" width=\"300\" height=\"25\" /></span></p>\n</li>\n</ul>\n</td>\n<td>\n<ul>\n<li><span style=\"font-size: 18px;\">Seahorse</span></li>\n<li><span style=\"font-size: 18px;\">Jellyfish<br /></span></li>\n<li><span style=\"font-size: 18px;\">Freshwater Prawns</span></li>\n<li><span style=\"font-size: 18px;\">Glow Jellyfish</span></li>\n<li><span style=\"font-size: 18px;\">Sea Urchins</span></li>\n<li><span style=\"font-size: 18px;\">Clams</span></li>\n<li><span style=\"font-size: 18px;\"><span style=\"font-size: 18px;\">Horseshoe Crabs<br /></span></span>\n<p>&nbsp;</p>\n<p><span style=\"font-size: 18px;\"><img alt=\"Spacer image\" src=\"https://i.imgur.com/lYvYORa.png\" width=\"300\" height=\"25\" /></span></p>\n</li>\n</ul>\n</td>\n<td>\n<ul>\n<li><span style=\"font-size: 18px;\">Starfish</span></li>\n<li><span style=\"font-size: 18px;\">Sand Dollars</span></li>\n<li><span style=\"font-size: 18px;\">Stingrays</span></li>\n<li><span style=\"font-size: 18px;\">Manta Rays<br /></span></li>\n<li><span style=\"font-size: 18px;\">Anglerfish</span></li>\n<li><span style=\"font-size: 18px;\">Hammerhead Sharks</span></li>\n<li><span style=\"font-size: 18px;\"><span style=\"font-size: 18px;\">Rainbow Trout<br /></span></span>\n<p>&nbsp;</p>\n<p><span style=\"font-size: 18px;\"><img alt=\"Spacer image\" src=\"https://i.imgur.com/lYvYORa.png\" width=\"300\" height=\"25\" /></span></p>\n</li>\n</ul>\n</td>\n</tr>\n</tbody>\n</table>\n<p>&nbsp;</p>\n<p><span style=\"text-decoration: underline; font-size: 18px;\"><strong>Insects &amp; Arthropods</strong><strong><br />_______________________________________________________________________________ <br /><br /></strong><br /></span></p>\n<p><span style=\"text-decoration: underline; font-size: 18px;\"><img src=\"https://i.imgur.com/d9QF0ld.png\" alt=\"Insects and Arthropods\" width=\"1000\" height=\"400\" /></span></p>\n<table style=\"height: 177px;\" width=\"950\">\n<tbody>\n<tr>\n<td>\n<ul>\n<li><span style=\"font-size: 18px;\">Ants</span></li>\n<li><span style=\"font-size: 18px;\">Crickets</span></li>\n<li><span style=\"font-size: 18px;\">Dragonflies</span></li>\n<li><span style=\"font-size: 18px;\">Glasswing Butterflies<br /></span></li>\n<li><span style=\"font-size: 18px;\">June Beetles</span></li>\n<li><span style=\"font-size: 18px;\"><span style=\"font-size: 18px;\">Ladybugs<br /></span></span>\n<p>&nbsp;</p>\n<p><span style=\"font-size: 18px;\"><img alt=\"Spacer image\" src=\"https://i.imgur.com/lYvYORa.png\" width=\"300\" height=\"25\" /></span></p>\n</li>\n</ul>\n</td>\n<td>\n<ul>\n<li><span style=\"font-size: 18px;\">Monarch Butterflies</span></li>\n<li><span style=\"font-size: 18px;\">Blue Morpho Butterflies<br /></span></li>\n<li><span style=\"font-size: 18px;\">Rhino Beetles</span></li>\n<li><span style=\"font-size: 18px;\">Snails</span></li>\n<li><span style=\"font-size: 18px;\">Spicebush Butterflies</span></li>\n<li><span style=\"font-size: 18px;\"><span style=\"font-size: 18px;\">Spiders<br /></span></span>\n<p>&nbsp;</p>\n<p><span style=\"font-size: 18px;\"><img alt=\"Spacer image\" alt=\"spacer image\" src=\"https://i.imgur.com/lYvYORa.png\" width=\"300\" height=\"25\" /></span></p>\n</li>\n</ul>\n</td>\n<td>\n<ul>\n<li><span style=\"font-size: 18px;\">Staghorn Beetles</span></li>\n<li><span style=\"font-size: 18px;\">Stickbugs</span></li>\n<li><span style=\"font-size: 18px;\">Sunflower Beetles</span></li>\n<li><span style=\"font-size: 18px;\">Tiger Swallowtail Butterflies<br /></span></li>\n<li><span style=\"font-size: 18px;\">Crabs</span></li>\n<li><span style=\"font-size: 18px;\"><span style=\"font-size: 18px;\">Hermit crabs<br /></span></span>\n<p>&nbsp;</p>\n<p><span style=\"font-size: 18px;\"><img  alt=\"spacer image\" src=\"https://i.imgur.com/lYvYORa.png\" width=\"300\" height=\"25\" /></span></p>\n</li>\n</ul>\n</td>\n</tr>\n</tbody>\n</table>\n<p>&nbsp;</p>\n<p><span style=\"font-size: 18px;\"><em><strong>Compatible with Patchouli:<br /></strong><span style=\"font-size: 14px;\">Use a book on a wildlife mob to get the guidebook.</span></em> <br /></span></p>\n<p><span style=\"font-size: 18px;\"><em><strong>_______________________________________________________________________________ <br /></strong></em></span></p>\n<p><span style=\"font-size: 14px;\"><img alt=\"A screenshot of the Patchouli guidebook.\" src=\"https://i.imgur.com/HLZOQjY.png\" alt=\"\" width=\"1108\" height=\"586\" /></span></p>\n<p><span style=\"font-size: 14px;\">&nbsp;</span></p>\n<p><span style=\"font-size: 14px;\">&nbsp;</span></p>\n<p>&nbsp;&nbsp;</p>\n<p><span style=\"font-size: 18px;\"><em><strong>Itemframes:</strong></em><br /></span></p>\n<p><span style=\"font-size: 18px;\"><em><strong>_______________________________________________________________________________ <br /><br /></strong></em></span></p>\n<p><span style=\"font-size: 14px;\"><img alt=\"A screenshot of the itemframes\" src=\"https://i.imgur.com/Rn3xnT4.png\" alt=\"\" width=\"1125\" height=\"738\" /></span></p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<p><span style=\"text-decoration: underline; font-size: 18px;\"><strong><img alt=\"Thank you banner\" src=\"https://cdn.discordapp.com/attachments/866521661880795147/880298426808565770/andspecialthanks21.png\" alt=\"Acknowledgements and special thanks\" width=\"320\" height=\"64\" /></strong></span></p>\n<p><span style=\"font-size: 18px;\">Many thanks to the project's patrons: <strong>Zura, Lavie, Kree, Atlan, Le fl&eacute;mmard, Eugene Nubberslaw, Azilea_Royalty, and Nil!</strong></span></p>\n<p><span style=\"font-size: 14px;\">Please consider supporting the developers on <a href=\"https://www.patreon.com/chirpycricket\" target=\"_blank\" rel=\"noopener noreferrer\">Patreon</a> if you like the mods!</span></p>\n<p>&nbsp;</p>",
+          "published": "2023-08-08T01:10:56.039759Z",
+          "updated": "2023-08-08T04:35:10.946536Z",
+          "status": "approved",
+          "license": {
+            "id": "LicenseRef-All-Rights-Reserved",
+            "name": ""
+          },
+          "client_side": "required",
+          "server_side": "required",
+          "categories": [
+            "mobs"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/gkVIACVj/dc5d684e8d97bbeec6ae9b5a96cd7520131a0ec3.png",
+          "discord_url": "https://discord.gg/ZNMECpNpE9",
+          "donation_urls": [
+            {
+              "id": "patreon",
+              "platform": "Patreon",
+              "url": "https://www.patreon.com/chirpycricket"
+            }
+          ],
+          "gallery": [
+            {
+              "url": "https://cdn.modrinth.com/data/gkVIACVj/images/3907c75d7f0f9ffb16b342f3a5a8901eeb7837c0.png",
+              "featured": true,
+              "title": "Wildlife Banner Image",
+              "created": "2023-08-08T01:27:28.876755Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/gkVIACVj/images/c8cc850875cb4d1ed23212380811ab4d8e1e6083.png",
+              "featured": false,
+              "title": "Hold Small Animals",
+              "description": "Small animals can be picked up (and put on player's heads)",
+              "created": "2023-08-08T01:33:42.984168Z",
+              "ordering": 1.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/gkVIACVj/images/48b792e14a10bb01460e6a8a8a7f8b748576a627.png",
+              "featured": false,
+              "title": "Birds & Bird Songs",
+              "description": "Each kind of bird has it's own bird song - adds a pleasing, natural ambiance to the world.",
+              "created": "2023-08-08T01:34:58.990520Z",
+              "ordering": 2.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/gkVIACVj/images/c8d37f31d4afdc4feafeb546f8f2bcec0c77cced.png",
+              "featured": false,
+              "title": "Item Frames",
+              "description": " ",
+              "created": "2023-08-08T01:30:59.181113Z",
+              "ordering": 3.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/gkVIACVj/images/6a78b540d12fa359ef7b205be0162b8d822895af.png",
+              "featured": false,
+              "title": "Capybaras",
+              "created": "2023-08-08T01:32:18.951254Z",
+              "ordering": 4.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/gkVIACVj/images/bc847b3024b43b036c89bb23d659eee1c01a102d.png",
+              "featured": false,
+              "title": "Patchouli Guidebook",
+              "created": "2023-08-08T01:34:40.251229Z",
+              "ordering": 4.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/gkVIACVj/images/5f82d9a0f6f0fefc1d3efc1fdfc564ce3446ac2e.png",
+              "featured": false,
+              "created": "2023-08-08T01:28:12.358285Z",
+              "ordering": 5.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/gkVIACVj/images/abc4f5146323937abda3577fcf2cbbd619590301.png",
+              "featured": false,
+              "created": "2023-08-08T01:28:52.810062Z",
+              "ordering": 5.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/gkVIACVj/images/ac07c546679fba5653e6b8a6b7ab0b2a3df7f836.png",
+              "featured": false,
+              "created": "2023-08-08T01:34:19.195196Z",
+              "ordering": 5.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/gkVIACVj/images/dbadc1a3fc4c727edf645e3adaca65a1ced1bf45.png",
+              "featured": false,
+              "created": "2023-08-08T01:28:26.689880Z",
+              "ordering": 5.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/gkVIACVj/images/fe5826170f2caa758fa355e14cc6cb3965943482.png",
+              "featured": false,
+              "created": "2023-08-08T01:28:39.052364Z",
+              "ordering": 5.0
+            }
+          ]
+        },
+        "modrinthVersion": {
+          "id": "QmXRyhus",
+          "project_id": "gkVIACVj",
+          "author_id": "9x129Qfn",
+          "name": "Wildlife [Fabric] 1.20.1-2.2",
+          "version_number": "1.20.1-2.2",
+          "changelog": "",
+          "date_published": "2023-08-08T04:35:12.235971Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha1": "a58147b4e2e902611a18a9c57739498a44e08d0f",
+                "sha512": "db230ea21422a72fccf7e6cf260b01fed170004f6aeab36db7d0cf4cd00ad2f86bb7b484fcb1813758a45a9ea77febcd2a6802d59682f029d53293f07efce62c"
+              },
+              "url": "https://cdn.modrinth.com/data/gkVIACVj/versions/QmXRyhus/wildlife-1.20.1-2.2.jar",
+              "filename": "wildlife-1.20.1-2.2.jar",
+              "primary": true,
+              "size": 7376064
+            }
+          ],
+          "dependencies": [
+            {
+              "project_id": "8BmcQJ2H",
+              "dependency_type": "required"
+            },
+            {
+              "project_id": "nU0bVIaL",
+              "dependency_type": "required"
+            }
+          ],
+          "game_versions": [
+            "1.20.1"
+          ],
+          "loaders": [
+            "fabric"
+          ]
+        }
+      },
+      {
+        "name": "Mythic Mounts",
+        "version": "Mythic Mounts [Fabric] 1.20.1-7.2",
+        "optional": true,
+        "file": "mythic-mounts-1.20.1-7.2.jar",
+        "type": "mods",
+        "description": "Befriend legendary creatures to accompany you across the world!",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 517650,
+        "curseForgeFileId": 4660884,
+        "curseForgeProject": {
+          "id": 517650,
+          "name": "Mythic Mounts",
+          "authors": [
+            {
+              "id": 102277811,
+              "name": "chirpycricket__",
+              "url": "https://www.curseforge.com/members/chirpycricket__"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Befriend legendary creatures to accompany you across the world!",
+          "categories": [
+            {
+              "name": "Mobs",
+              "slug": "world-mobs",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen/world-mobs",
+              "dateModified": "2014-05-08T17:46:59.507Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 411,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/53/635351500195070414.png",
+              "parentCategoryId": 406,
+              "classId": 6
+            },
+            {
+              "name": "Player Transport",
+              "slug": "technology-player-transport",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/technology/technology-player-transport",
+              "dateModified": "2014-05-08T17:38:58.357Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 414,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/29/635351495383551178.png",
+              "parentCategoryId": 412,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 411,
+          "classId": 6,
+          "slug": "mythic-mounts",
+          "isFeatured": false,
+          "dateModified": "2023-09-19T01:50:45.947Z",
+          "dateCreated": "2021-08-19T03:27:50.527Z",
+          "dateReleased": "2023-09-19T01:46:05.883Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/mythic-mounts"
+          },
+          "logo": {
+            "id": 421576,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/421/576/256/256/637649404705592515.png",
+            "title": "637649404705592515.png",
+            "url": "https://media.forgecdn.net/avatars/421/576/637649404705592515.png",
+            "modId": 517650
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 4758535
+        },
+        "curseForgeFile": {
+          "id": 4660884,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "mythic-mounts-1.20.1-7.2.jar",
+          "fileName": "mythic-mounts-1.20.1-7.2.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2023-07-23T21:49:21.387Z",
+          "fileLength": 4359435,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 306612,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 393236,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 388172,
+              "relationType": 3
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 2924253420,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 1270223985,
+              "name": "mythic-mounts.mixins.json"
+            },
+            {
+              "fingerprint": 2786235620,
+              "name": "fabric.mod.json"
+            },
+            {
+              "fingerprint": 974041773,
+              "name": "data"
+            },
+            {
+              "fingerprint": 2650624373,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 3044341650,
+              "name": "com"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "95e811ab49cb4fc579258270a84648c325a2b80a",
+              "algo": 1
+            },
+            {
+              "value": "e397aa987b545d5a915e54716cc82f58",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-09-01T00:00:00Z",
+              "gameVersionName": "Fabric"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Client"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Server"
+            }
+          ],
+          "gameVersions": [
+            "Fabric",
+            "Client",
+            "1.20.1",
+            "Server"
+          ],
+          "fileFingerprint": 2153916437,
+          "modId": 517650
+        },
+        "modrinthProject": {
+          "id": "xP7vOoRA",
+          "slug": "mythic-mounts",
+          "project_type": "mod",
+          "team": "4osgjoFY",
+          "title": "Mythic Mounts",
+          "description": "Befriend legendary creatures to accompany you across the world!",
+          "body": "<p><strong><img alt=\"Banner image\" src=\"https://i.imgur.com/tN9mu6M.png\" width=\"1100\" /></strong></p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<h4><span style=\"font-size: 10px;\"><span style=\"color: #ff9900;\"><strong><span style=\"text-decoration: underline; font-size: 18px; color: #ff9900;\">News and Announcements!<br /></span></strong></span></span><span style=\"text-decoration: underline; font-size: 14px;\">May Updates!</span></h4>\n<ul>\n<li><span style=\"font-size: 14px;\">New Mob added, the legendary <strong>Żar-ptak</strong>! (Thanks <strong>@Le fl&eacute;mmard!</strong>)</span></li>\n<li><span style=\"font-size: 14px;\">Added mini-mounts for inchlings! </span><br /><span style=\"font-size: 14px;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - A baby mount that is given a warped fungus before it matures will grow into a miniature mount</span><br /><span style=\"font-size: 14px;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - Mini-mounts can only carry very small players (like inchlings)</span><br /><span style=\"font-size: 14px;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - The mini effect can be cancelled by feeding a baby mount a crimson fungus before it grows up<br /></span></li>\n<li><span style=\"font-size: 14px;\"> The config updater now automatically carries over players' custom settings when updating to a new version.<span style=\"font-size: 14px;\"><br /><br /></span></span>\n<h4><span style=\"text-decoration: underline; font-size: 14px;\">April Updates:</span></h4>\n<ul>\n<li><span style=\"font-size: 14px;\">New Mob added, the from the fabled mooshroom islands, <strong>Colelytras! </strong>(Thanks <strong>@Atlan!</strong>)</span></li>\n<li><span style=\"font-size: 14px;\">Added a Summoning Staff item that can warp mounts to a player/flying mounts to the ground.</span></li>\n<li><span style=\"font-size: 14px;\">Added the ability to give wander/follow/sit commands to mounts in-game using either the command item or a summoning staff.</span></li>\n<li><span style=\"font-size: 14px;\">Added a Patchouli guidebook with lore, instructions, and info on each of the mounts! Get it by:</span><br /><span style=\"font-size: 14px;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - using a regular book on any mount, or by</span><br /><span style=\"font-size: 14px;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - using a summoning staff on a book (held in offhand)</span></li>\n</ul>\n<span style=\"font-size: 14px;\"><br />Happy Modding ^_^</span></li>\n</ul>\n<p>&nbsp;<br /><span style=\"font-size: 14px;\"><strong>Mod Highlights:</strong></span></p>\n<ul>\n<li><span style=\"font-size: 14px;\">Adds 14 new tameable animals which can be found in various biomes across the world.</span></li>\n<li><span style=\"font-size: 14px;\">Includes flying, aquatic, and terrestrial mounts.</span></li>\n<li><span style=\"font-size: 14px;\">Each mount can be equipped with armor and additional inventory slots.</span></li>\n<li><span style=\"font-size: 14px;\">Cute baby variants!</span></li>\n<li><span style=\"font-size: 14px;\">Customizable config file to adjust spawn settings, mount stats, entity AI/behavior, and more.</span><span style=\"font-size: 14px;\"><br /></span></li>\n</ul>\n<p>&nbsp;</p>\n<p style=\"text-align: left;\"><span style=\"font-size: 14px;\"><strong>Important:</strong> This mod requires Geckolib and Patchouli for Fabric or Forge</span></p>\n<p style=\"text-align: left;\"><span style=\"font-size: 14px;\"><strong>Supported Mod Loaders:</strong> Fabric/Forge</span></p>\n<p>&nbsp;</p>\n<p><span style=\"font-size: 14px;\"><strong><u>Mod Features:</u></strong></span><span style=\"font-size: 14px;\"><strong><br /></strong></span></p>\n<p><span style=\"font-size: 14px;\"><strong><u>Interactions:</u></strong></span></p>\n<p style=\"padding-left: 30px;\"><span style=\"font-size: 14px;\"><strong>T</strong></span><span style=\"font-size: 14px;\"><strong>aming: </strong>Mounts may be tamed by left-clicking them with an empty hand to repeatedly ride them until the mount stops bucking the player off. Like horses, this may take a few attempts before the mount is successfully tamed. Careful! Some mounts are hostile and will fight back during the taming process!</span></p>\n<p style=\"padding-left: 30px;\"><span style=\"font-size: 14px;\"><strong>Riding Mounts: </strong>Tamed mounts can be ridden by left-clicking them with an empty hand and controlled with saddles. Flying mounts can be flown by repeatedly pressing the jump key to gain altitude, or by aiming via camera controls while flying. Aquatic mounts can similarly gain a &ldquo;swim boost&rdquo; by using the jump key underwater.</span></p>\n<p style=\"padding-left: 30px;\"><span style=\"font-size: 14px;\"><strong>Instruct a Mount to Stay/Sit:</strong> Tamed mounts will naturally wander near (and remain close to) the last place their owner dismounted. To have a mount&nbsp;remain in an exact location without wandering off, right-click them with a stick to have them sit down.</span></p>\n<p style=\"padding-left: 30px;\"><span style=\"font-size: 14px;\"><strong>Breeding Mounts: </strong>Two mounts of the same species can be bred if the following conditions are met: the mounts must both be <u>tamed</u>; the mounts must both have <u>full health</u>; and, the mounts must be each given the appropriate <u>breeding item</u>.</span></p>\n<p style=\"padding-left: 30px;\"><span style=\"font-size: 14px;\"><strong>Mini Mounts:</strong> If a baby mount is given a warped fungus before it matures, it will grow into a miniature mount. These mounts <span style=\"text-decoration: underline;\">cannot</span> be ridden by normal-size people, but otherwise are the same a their larger counterparts. The mini effect can be cancelled by feeding a baby mount a crimson fungus before it matures.<br /></span></p>\n<p style=\"padding-left: 30px;\"><span style=\"font-size: 14px;\"><strong>Pet Mount: </strong>Right-click a tamed mount with an empty hand while sneaking to pet it.</span><span style=\"font-size: 14px;\"><br /></span></p>\n<p style=\"padding-left: 30px;\">&nbsp;</p>\n<p><span style=\"font-size: 14px;\"><strong><u>Equipment:</u></strong></span></p>\n<p style=\"padding-left: 30px;\"><span style=\"font-size: 14px;\"><strong>Add/Remove Inventory:</strong> Mounts may be equipped with chests to add additional inventory slots to their equipment screen, and can unequip chests with shears. Total inventory capacity varies between different types of mounts, and can be adjusted in the configuration file if needed.</span></p>\n<p style=\"padding-left: 30px;\"><span style=\"font-size: 14px;\"><strong>Open Mount Inventory: </strong>Double right-click a tamed mount with an empty hand while sneaking to open the mount inventory.</span></p>\n<p style=\"padding-left: 30px;\"><span style=\"font-size: 14px;\"><strong>Mount Armor:</strong> Tamed mounts can be equipped/unequipped with horse armor from the inventory screen.</span></p>\n<p style=\"padding-left: 30px;\"><span style=\"font-size: 14px;\"><strong>Summoning Staff:</strong> Can be used to teleport mounts a short distance. Link a mount by using the staff on them, and summon them by using it again. (Mounts must be in loaded chunks and there must be enough room for them to teleport in)</span></p>\n<p style=\"padding-left: 30px;\"><span style=\"font-size: 14px;\"><img src=\"https://i.imgur.com/PyTC1gR.png\" alt=\"Summoning Staff Recipe\" width=\"317\" height=\"150\" /></span></p>\n<p>&nbsp;</p>\n<p><span style=\"font-size: 14px;\"><strong><u>Other Behaviors:</u></strong></span></p>\n<p style=\"padding-left: 30px;\"><span style=\"font-size: 14px;\"><strong>Battle Mounts:</strong> Battle mounts will come to their owner&rsquo;s aid in combat. This behavior is can be enabled/disabled in the configuration file .</span></p>\n<p style=\"padding-left: 30px;\"><span style=\"font-size: 14px;\"><strong>Mount Aggression:</strong> Some mounts are naturally hostile to players and/or other mobs. Once tamed, these mounts will no longer attack other entities unless instructed to by their owner. Mount aggression/AI can be adjusted in the configuration file.</span></p>\n<p style=\"padding-left: 30px;\">&nbsp;</p>\n<hr />\n<p>&nbsp;</p>\n<p><img alt=\"Żar-ptak Image\" src=\"https://i.imgur.com/eDvbp4B.png\" width=\"1100\" /></p>\n<table>\n<tbody>\n<tr>\n<td><span style=\"text-decoration: underline; font-size: 14px;\"><strong>Żar-ptak:</strong></span></td>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td>\n<p><span style=\"font-size: 14px;\"><strong>Rarity:</strong> Rare </span><br /><br /><span style=\"font-size: 14px;\"><strong>Habitat:</strong> </span><br /><span style=\"font-size: 14px;\">can appear near inhabited villages;<br /><span style=\"font-size: 14px;\"><strong><br />Diet:</strong> herbivore</span><span style=\"font-size: 14px; color: #ffffff;\"><br /></span></span></p>\n</td>\n<td>\n<p><span style=\"font-size: 14px;\"><strong>Behavior:</strong></span><br /><span style=\"font-size: 14px;\">- Non-hostile</span><br /><br /><span style=\"font-size: 14px;\"><strong>Breeding Items:</strong></span><br /><span style=\"font-size: 14px;\">golden_apple; <br /></span><span style=\"font-size: 14px; color: #ffffff;\">_</span></p>\n</td>\n<td>\n<p><span style=\"font-size: 14px;\"><strong>Default Stats:</strong></span><br /><span style=\"font-size: 14px;\">&nbsp;&nbsp;Health: 20</span><br /><span style=\"font-size: 14px;\">&nbsp;&nbsp;Attack: 3</span><br /><span style=\"font-size: 14px;\">&nbsp;&nbsp;Inventory: 9</span><br /><span style=\"font-size: 14px;\">&nbsp;&nbsp;Will defend owner: yes</span><br /><br /><span style=\"font-size: 14px;\"><strong>Thanks @Le fl&eacute;mmard!</strong></span></p>\n</td>\n</tr>\n</tbody>\n</table>\n<hr />\n<p>&nbsp;</p>\n<p><img alt=\"Acencia Image\" src=\"https://i.imgur.com/XxWcV9u.png\" alt=\"\" width=\"1100\" height=\"582\" /></p>\n<table>\n<tbody>\n<tr>\n<td><span style=\"text-decoration: underline; font-size: 14px;\"><strong>Acencia:</strong></span></td>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td>\n<p><span style=\"font-size: 14px;\"><strong>Rarity:</strong> Unommon </span><br /><br /><span style=\"font-size: 14px;\"><strong>Habitat:</strong> </span><br /><span style=\"font-size: 14px;\">Grove; Snowy Taiga; <br /></span><span style=\"font-size: 14px;\">Snowy Taiga Hills; <br /></span><span style=\"font-size: 14px;\">Snowy Taiga Mountains;</span><br /><br /><span style=\"font-size: 14px;\"><strong>Diet:</strong> carnivore</span><span style=\"font-size: 14px; color: #ffffff;\"><br /></span></p>\n</td>\n<td>\n<p><span style=\"font-size: 14px;\"><strong>Behavior:</strong></span><br /><span style=\"font-size: 14px;\">- Non-hostile</span><br /><span style=\"font-size: 14px;\">- Can climb sheer surfaces</span><br /><span style=\"font-size: 14px;\">- Will hunt sheep, goats, <br />rabbits, and chicken</span><br /><br /><span style=\"font-size: 14px;\"><strong>Breeding Items:</strong></span><br /><span style=\"font-size: 14px;\">mutton; salmon;</span><span style=\"font-size: 14px; color: #ffffff;\">_</span></p>\n</td>\n<td>\n<p><span style=\"font-size: 14px;\"><strong>Default Stats:</strong></span><br /><span style=\"font-size: 14px;\">&nbsp;&nbsp;Health: 28</span><br /><span style=\"font-size: 14px;\">&nbsp;&nbsp;Attack: 10</span><br /><span style=\"font-size: 14px;\">&nbsp;&nbsp;Inventory: 12</span><br /><span style=\"font-size: 14px;\">&nbsp;&nbsp;Will defend owner: yes</span></p>\n</td>\n</tr>\n</tbody>\n</table>\n<hr />\n<p>&nbsp;</p>\n<p><img alt=\"Archelon Image\" src=\"https://i.imgur.com/NRD4HpV.png\" width=\"1100\" height=\"582\" /></p>\n<table>\n<tbody>\n<tr>\n<td><span style=\"text-decoration: underline; font-size: 14px;\"><strong>Archelon:</strong></span></td>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td>\n<p><span style=\"font-size: 14px;\"><strong>Rarity:</strong> Uncommon </span><br /><br /><span style=\"font-size: 14px;\"><strong>Habitat:</strong> </span><br /><span style=\"font-size: 14px;\">Deep Lukewarm Ocean;</span><br /><br /><span style=\"font-size: 14px;\"><strong>Diet:</strong> omnivore</span><span style=\"font-size: 14px; color: #ffffff;\"><br /></span></p>\n</td>\n<td>\n<p><span style=\"font-size: 14px;\"><strong>Behavior:</strong></span><br /><span style=\"font-size: 14px;\">- Non-hostile</span><br /><br /><span style=\"font-size: 14px;\"><strong>Breeding Items:</strong></span><br /><span style=\"font-size: 14px;\">tropical_fish; pufferfish;</span><span style=\"font-size: 14px; color: #ffffff;\">_</span></p>\n</td>\n<td>\n<p><span style=\"font-size: 14px;\"><strong>Default Stats:</strong></span><br /><span style=\"font-size: 14px;\">&nbsp;&nbsp;Health: 60</span><br /><span style=\"font-size: 14px;\">&nbsp;&nbsp;Attack: 6</span><br /><span style=\"font-size: 14px;\">&nbsp;&nbsp;Inventory: 54</span><br /><span style=\"font-size: 14px;\">&nbsp;&nbsp;Will defend owner: no</span></p>\n</td>\n</tr>\n</tbody>\n</table>\n<hr />\n<p>&nbsp;</p>\n<p><img alt=\"Colelytra Image\" src=\"https://i.imgur.com/8vpp0nZ.png\" width=\"1100\" /></p>\n<table>\n<tbody>\n<tr>\n<td><span style=\"text-decoration: underline; font-size: 14px;\"><strong>Colelytra:</strong></span></td>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td>\n<p><span style=\"font-size: 14px;\"><strong>Rarity:</strong> Uncommon </span><br /><br /><span style=\"font-size: 14px;\"><strong>Habitat:</strong> </span><br /><span style=\"font-size: 14px;\">mushroom_fields;<br /><span style=\"font-size: 14px;\"><strong><br />Diet:</strong> herbivore</span><span style=\"font-size: 14px; color: #ffffff;\"><br /></span></span></p>\n</td>\n<td>\n<p><span style=\"font-size: 14px;\"><strong>Behavior:</strong></span><br /><span style=\"font-size: 14px;\">- Non-hostile</span><br /><br /><span style=\"font-size: 14px;\"><strong>Breeding Items:</strong></span><br /><span style=\"font-size: 14px;\">red_mushroom; <br /></span><span style=\"font-size: 14px;\">brown_mushroom; <br /></span><span style=\"font-size: 14px;\">flower items; sugar;</span><span style=\"font-size: 14px; color: #ffffff;\">_</span></p>\n</td>\n<td>\n<p><span style=\"font-size: 14px;\"><strong>Default Stats:</strong></span><br /><span style=\"font-size: 14px;\">&nbsp;&nbsp;Health: 14</span><br /><span style=\"font-size: 14px;\">&nbsp;&nbsp;Attack: 2</span><br /><span style=\"font-size: 14px;\">&nbsp;&nbsp;Inventory: 15</span><br /><span style=\"font-size: 14px;\">&nbsp;&nbsp;Will defend owner: no</span><br /><br /><span style=\"font-size: 14px;\"><strong>Thanks @Atlan!</strong></span></p>\n</td>\n</tr>\n</tbody>\n</table>\n<hr />\n<p>&nbsp;</p>\n<p><img alt=\"Courier Bird Image\" src=\"https://i.imgur.com/LNlbyOh.png\" alt=\"\" width=\"1100\" height=\"582\" /></p>\n<table>\n<tbody>\n<tr>\n<td><span style=\"text-decoration: underline; font-size: 14px;\"><strong>Courier Birds:</strong></span></td>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td>\n<p><span style=\"font-size: 14px;\"><strong>Rarity:</strong> Common </span><br /><br /><span style=\"font-size: 14px;\"><strong>Habitat:</strong> </span><br /><span style=\"font-size: 14px;\">jungle; jungle hills; jungle edge;</span><br /><br /><span style=\"font-size: 14px;\"><strong>Diet:</strong> herbivore</span><span style=\"font-size: 14px; color: #ffffff;\"><br /></span></p>\n</td>\n<td>\n<p><span style=\"font-size: 14px;\"><strong>Behavior:</strong></span><br /><span style=\"font-size: 14px;\">- Non-hostile</span><br /><span style=\"font-size: 14px;\">- Will flee from player</span><br /><br /><span style=\"font-size: 14px;\"><strong>Breeding Items:</strong></span><br /><span style=\"font-size: 14px;\">sweet_berries; melon_slice;</span><span style=\"font-size: 14px; color: #ffffff;\">_</span></p>\n</td>\n<td>\n<p><span style=\"font-size: 14px;\"><strong>Default Stats:</strong></span><br /><span style=\"font-size: 14px;\">&nbsp;&nbsp;Health: 20</span><br /><span style=\"font-size: 14px;\">&nbsp;&nbsp;Attack: 4</span><br /><span style=\"font-size: 14px;\">&nbsp;&nbsp;Inventory: 9</span><br /><span style=\"font-size: 14px;\">&nbsp;&nbsp;Will defend owner: yes</span></p>\n</td>\n</tr>\n</tbody>\n</table>\n<hr />\n<p><img alt=\"Dire Wolf Image\" src=\"https://i.imgur.com/UP9GElm.png\" alt=\"\" width=\"1100\" height=\"582\" /></p>\n<table>\n<tbody>\n<tr>\n<td><span style=\"text-decoration: underline; font-size: 14px;\"><strong>Dire Wolves:</strong></span></td>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td>\n<p><span style=\"font-size: 14px;\"><strong>Rarity:</strong> Uncommon </span><br /><br /><span style=\"font-size: 14px;\"><strong>Habitat:<br /></strong></span><span style=\"font-size: 14px;\">Snowy Taiga Mountains; </span><span style=\"font-size: 14px;\">Giant Spruce Taiga;<br /></span><span style=\"font-size: 14px;\">Giant Spruce Taiga Hills; </span><span style=\"font-size: 14px;\">Giant Tree Taiga;<br /></span><span style=\"font-size: 14px;\">Giant Tree Taiga Hills;</span><br /><br /><span style=\"font-size: 14px;\"><strong>Diet:</strong> carnivore</span></p>\n</td>\n<td><span style=\"font-size: 14px;\"><strong>Behavior:</strong></span><br /><span style=\"font-size: 14px;\">- Non-hostile</span><br /><span style=\"font-size: 14px;\">- Will hunt sheep and skeleton</span><br /><br /><span style=\"font-size: 14px;\"><strong>Breeding Items:</strong></span><br /><span style=\"font-size: 14px;\">rabbit; chicken; mutton; beef; porkchop;</span></td>\n<td>\n<p><span style=\"font-size: 14px;\"><strong>Default Stats:</strong></span><br /><span style=\"font-size: 14px;\">&nbsp;&nbsp;Health: 30</span><br /><span style=\"font-size: 14px;\">&nbsp;&nbsp;Attack: 7</span><br /><span style=\"font-size: 14px;\">&nbsp;&nbsp;Inventory: 12</span><br /><span style=\"font-size: 14px;\">&nbsp;&nbsp;Will defend owner: yes</span></p>\n<p>&nbsp;</p>\n</td>\n</tr>\n</tbody>\n</table>\n<p>&nbsp;</p>\n<hr />\n<p><img alt=\"Dragon Image\" src=\"https://i.imgur.com/xXWlRrM.png\" alt=\"\" width=\"1100\" height=\"582\" /></p>\n<table>\n<tbody>\n<tr>\n<td><span style=\"text-decoration: underline; font-size: 14px;\"><strong>Dragons:</strong></span></td>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td>\n<p><span style=\"font-size: 14px;\"><strong>Rarity:</strong> Rare</span><br /><br /><span style=\"font-size: 14px;\"><strong>Habitat:</strong><br /></span><span style=\"font-size: 14px;\">Deep underground in large </span><span style=\"font-size: 14px;\">caves (y &lt; 40)</span><br /><br /><span style=\"font-size: 14px;\"><strong>Diet:</strong> carnivore</span></p>\n</td>\n<td>\n<p><span style=\"font-size: 14px;\"><strong>Behavior:</strong></span><br /><span style=\"font-size: 14px;\">- Hostile</span><br /><br /><span style=\"font-size: 14px;\"><strong>Breeding Items:</strong></span><br /><span style=\"font-size: 14px;\">golden_carrot; golden_apple; <br /></span><span style=\"font-size: 14px;\">glistering_melon_slice;</span></p>\n</td>\n<td><span style=\"font-size: 14px;\"><strong>Default Stats:</strong></span><br /><span style=\"font-size: 14px;\">&nbsp;&nbsp;Health: 40</span><br /><span style=\"font-size: 14px;\">&nbsp;&nbsp;Attack: 10</span><br /><span style=\"font-size: 14px;\">&nbsp;&nbsp;Inventory: 27</span><br /><span style=\"font-size: 14px;\">&nbsp;&nbsp;Will defend owner: yes</span></td>\n</tr>\n</tbody>\n</table>\n<p>&nbsp;</p>\n<hr />\n<p><img alt=\"Griffon Image\" src=\"https://i.imgur.com/MpuSPf6.png\" alt=\"\" width=\"1100\" height=\"582\" /></p>\n<table>\n<tbody>\n<tr>\n<td><span style=\"text-decoration: underline; font-size: 14px;\"><strong>Griffons:</strong></span></td>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td>\n<p><span style=\"font-size: 14px;\"><strong>Rarity:</strong> Uncommon </span><br /><br /><span style=\"font-size: 14px;\"><strong>Habitat:<br /></strong></span><span style=\"font-size: 14px;\">Gravelly Mountains+; Snowy Taiga Mountains;<br /></span><span style=\"font-size: 14px;\">Taiga Mountains; Gravelly Mountains; <br /></span><span style=\"font-size: 14px;\">Wooded Mountains; Snowy Mountains; <br /></span><span style=\"font-size: 14px;\">Mountains;</span><br /><br /><span style=\"font-size: 14px;\"><strong>Diet:</strong> carnivore</span></p>\n</td>\n<td><span style=\"font-size: 14px;\"><strong>Behavior:</strong></span><br /><span style=\"font-size: 14px;\">- Non-hostile</span><br /><span style=\"font-size: 14px;\">- Will hunt sheep and rabbits</span><br /><br /><span style=\"font-size: 14px;\"><strong>Breeding Items:</strong></span><br /><span style=\"font-size: 14px;\">rabbit; mutton;</span></td>\n<td>\n<p><span style=\"font-size: 14px;\"><strong>Default Stats:</strong></span><br /><span style=\"font-size: 14px;\">&nbsp;&nbsp;Health: 35</span><br /><span style=\"font-size: 14px;\">&nbsp;&nbsp;Attack: 7</span><br /><span style=\"font-size: 14px;\">&nbsp;&nbsp;Inventory: 12</span><br /><span style=\"font-size: 14px;\">&nbsp;&nbsp;Will defend owner: yes</span></p>\n<p>&nbsp;</p>\n</td>\n</tr>\n</tbody>\n</table>\n<p>&nbsp;</p>\n<hr />\n<p><img alt=\"Geckotoa Image\" src=\"https://i.imgur.com/M9dJzE0.png\" alt=\"\" width=\"1100\" height=\"582\" /></p>\n<table>\n<tbody>\n<tr>\n<td><span style=\"text-decoration: underline; font-size: 14px;\"><strong>Geckotoa Lizards:</strong></span></td>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td>\n<p><span style=\"font-size: 14px;\"><strong>Rarity:</strong> Uncommon </span><br /><br /><span style=\"font-size: 14px;\"><strong>Habitat:<br /></strong></span><span style=\"font-size: 14px;\">Large caves near the surface and <br /></span><span style=\"font-size: 14px;\">in mountain caves (y &gt; 60)</span></p>\n<p><br /><span style=\"font-size: 14px;\"><strong>Diet:</strong> omnivore</span></p>\n</td>\n<td><span style=\"font-size: 14px;\"><strong>Behavior:</strong></span><br /><span style=\"font-size: 14px;\">- Non-hostile</span><br /><br /><span style=\"font-size: 14px;\"><strong>Breeding Items:</strong></span><br /><span style=\"font-size: 14px;\">melon; pumpkin; hay_block;</span></td>\n<td>\n<p><span style=\"font-size: 14px;\"><strong>Default Stats:</strong></span><br /><span style=\"font-size: 14px;\">&nbsp;&nbsp;Health: 35</span><br /><span style=\"font-size: 14px;\">&nbsp;&nbsp;Attack: 4</span><br /><span style=\"font-size: 14px;\">&nbsp;&nbsp;Inventory: 27</span><br /><span style=\"font-size: 14px;\">&nbsp;&nbsp;Will defend owner: no</span></p>\n<p>&nbsp;</p>\n</td>\n</tr>\n</tbody>\n</table>\n<p>&nbsp;</p>\n<hr />\n<p><img alt=\"Giant Moth Image\" src=\"https://i.imgur.com/YJlIBP4.png\" alt=\"\" width=\"1100\" height=\"582\" /></p>\n<table>\n<tbody>\n<tr>\n<td><span style=\"text-decoration: underline; font-size: 14px;\"><strong>Giant Moths:</strong></span></td>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td>\n<p><span style=\"font-size: 14px;\"><strong>Rarity:</strong> Common </span><br /><br /><span style=\"font-size: 14px;\"><strong>Habitat:<br /></strong></span><span style=\"font-size: 14px;\">Dark Forest Hills; Dark Forest;</span><br /><br /><span style=\"font-size: 14px;\"><strong>Diet:</strong> herbivore</span></p>\n</td>\n<td><span style=\"font-size: 14px;\"><strong>Behavior:</strong></span><br /><span style=\"font-size: 14px;\">- Non-hostile</span><br /><br /><span style=\"font-size: 14px;\"><strong>Breeding Items:</strong></span><br /><span style=\"font-size: 14px;\">sugar; melon_slice; glistering_melon_slice;</span></td>\n<td>\n<p><span style=\"font-size: 14px;\"><strong>Default Stats:</strong></span><br /><span style=\"font-size: 14px;\">&nbsp;&nbsp;Health: 10</span><br /><span style=\"font-size: 14px;\">&nbsp;&nbsp;Attack: 2</span><br /><span style=\"font-size: 14px;\">&nbsp;&nbsp;Inventory: 6</span><br /><span style=\"font-size: 14px;\">&nbsp;&nbsp;Will defend owner: no</span></p>\n<p>&nbsp;</p>\n</td>\n</tr>\n</tbody>\n</table>\n<p>&nbsp;</p>\n<hr />\n<p><img alt=\"Nether Bat Image\"  src=\"https://i.imgur.com/3bgxcAQ.png\" alt=\"\" width=\"1100\" height=\"582\" /></p>\n<table>\n<tbody>\n<tr>\n<td><span style=\"text-decoration: underline; font-size: 14px;\"><strong>Nether Bats:</strong></span></td>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td>\n<p><span style=\"font-size: 14px;\"><strong>Rarity:</strong> Uncommon </span><br /><br /><span style=\"font-size: 14px;\"><strong>Habitat:<br /></strong></span><span style=\"font-size: 14px;\">Crimson Forest; Warped Forest;</span><br /><br /><span style=\"font-size: 14px;\"><strong>Diet:</strong> omnivore</span></p>\n</td>\n<td><span style=\"font-size: 14px;\"><strong>Behavior:</strong></span><br /><span style=\"font-size: 14px;\">- Hostile</span><br /><br /><span style=\"font-size: 14px;\"><strong>Breeding Items:</strong></span><br /><span style=\"font-size: 14px;\">porkchop; apple; rotten_flesh;</span></td>\n<td>\n<p><span style=\"font-size: 14px;\"><strong>Default Stats:</strong></span><br /><span style=\"font-size: 14px;\">&nbsp;&nbsp;Health: 25</span><br /><span style=\"font-size: 14px;\">&nbsp;&nbsp;Attack: 4</span><br /><span style=\"font-size: 14px;\">&nbsp;&nbsp;Inventory: 9</span><br /><span style=\"font-size: 14px;\">&nbsp;&nbsp;Will defend owner: yes</span></p>\n<p>&nbsp;</p>\n</td>\n</tr>\n</tbody>\n</table>\n<p>&nbsp;</p>\n<hr />\n<p><img alt=\"Nightmare Image\" src=\"https://i.imgur.com/dExdNFc.png\" alt=\"\" width=\"1100\" height=\"582\" /></p>\n<table>\n<tbody>\n<tr>\n<td><span style=\"text-decoration: underline; font-size: 14px;\"><strong>Nightmare:</strong></span></td>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td>\n<p><span style=\"font-size: 14px;\"><strong>Rarity:</strong> Common </span><br /><br /><span style=\"font-size: 14px;\"><strong>Habitat:<br /></strong>Soul Sand Valley; Basalt Deltas</span></p>\n<p><br /><span style=\"font-size: 14px;\"><strong>Diet:</strong> omnivore</span></p>\n</td>\n<td><span style=\"font-size: 14px;\"><strong>Behavior:</strong></span><br /><span style=\"font-size: 14px;\">- Non-hostile</span><br /><span style=\"font-size: 14px;\">- Will hunt skeletons</span><br /><span style=\"font-size: 14px;\">- Can walk on lava</span><br /><span style=\"font-size: 14px;\"><strong>Breeding Items:</strong></span><br /><span style=\"font-size: 14px;\">blaze_rod; fire_charge;</span></td>\n<td>\n<p><span style=\"font-size: 14px;\"><strong>Default Stats:</strong></span><br /><span style=\"font-size: 14px;\">&nbsp;&nbsp;Health: 35</span><br /><span style=\"font-size: 14px;\">&nbsp;&nbsp;Attack: 5</span><br /><span style=\"font-size: 14px;\">&nbsp;&nbsp;Inventory: 12</span><br /><span style=\"font-size: 14px;\">&nbsp;&nbsp;Will defend owner: yes</span></p>\n<p>&nbsp;</p>\n</td>\n</tr>\n</tbody>\n</table>\n<p>&nbsp;</p>\n<hr />\n<p><img alt=\"Giant Nudibranch Image\" src=\"https://i.imgur.com/JstRgYH.png\" alt=\"\" width=\"1100\" height=\"582\" /></p>\n<table>\n<tbody>\n<tr>\n<td><span style=\"text-decoration: underline; font-size: 14px;\"><strong>Giant Nudibranch:</strong></span></td>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td>\n<p><span style=\"font-size: 14px;\"><strong>Rarity:</strong> Common </span><br /><br /><span style=\"font-size: 14px;\"><strong>Habitat:<br /></strong>Near Coral Reefs in Warm Ocean;</span></p>\n<p><br /><span style=\"font-size: 14px;\"><strong>Diet:</strong> herbivore</span></p>\n</td>\n<td><span style=\"font-size: 14px;\"><strong>Behavior:</strong></span><br /><span style=\"font-size: 14px;\">- Non-hostile</span><br /><br /><span style=\"font-size: 14px;\"><strong>Breeding Items:</strong></span><br /><span style=\"font-size: 14px;\">kelp;</span></td>\n<td>\n<p><span style=\"font-size: 14px;\"><strong>Default Stats:</strong></span><br /><span style=\"font-size: 14px;\">&nbsp;&nbsp;Health: 25</span><br /><span style=\"font-size: 14px;\">&nbsp;&nbsp;Attack: 3</span><br /><span style=\"font-size: 14px;\">&nbsp;&nbsp;Inventory: 9</span><br /><span style=\"font-size: 14px;\">&nbsp;&nbsp;Will defend owner: no</span></p>\n<p>&nbsp;</p>\n</td>\n</tr>\n</tbody>\n</table>\n<p>&nbsp;</p>\n<hr />\n<p><img alt=\"Riding Lizard Image\" src=\"https://i.imgur.com/GKBf1si.png\" alt=\"\" width=\"1100\" height=\"582\" /></p>\n<table>\n<tbody>\n<tr>\n<td><span style=\"text-decoration: underline; font-size: 14px;\"><strong>Riding Lizard:</strong></span></td>\n<td>&nbsp;</td>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td>\n<p><span style=\"font-size: 14px;\"><strong>Rarity:</strong> Common </span><br /><br /><span style=\"font-size: 14px;\"><strong>Habitat:<br /></strong></span><span style=\"font-size: 14px;\">Desert; Desert Lakes; Desert Hills; <br /></span><span style=\"font-size: 14px;\">Eroded Badlands; <br /></span><span style=\"font-size: 14px;\">Modified Wooded Badlands Plateau; <br /></span><span style=\"font-size: 14px;\">Modified Badlands Plateau;</span><br /><br /><span style=\"font-size: 14px;\"><strong>Diet:</strong> carnivore</span></p>\n</td>\n<td><span style=\"font-size: 14px;\"><strong>Behavior:</strong></span><br /><span style=\"font-size: 14px;\">- Hostile</span><br /><span style=\"font-size: 14px;\">- Will hunt rabbits and chicken</span><br /><br /><span style=\"font-size: 14px;\"><strong>Breeding Items:</strong></span><br /><span style=\"font-size: 14px;\">rabbit; chicken; pumpkin; rotten_flesh;</span></td>\n<td>\n<p><span style=\"font-size: 14px;\"><strong>Default Stats:</strong></span><br /><span style=\"font-size: 14px;\">&nbsp;&nbsp;Health: 20</span><br /><span style=\"font-size: 14px;\">&nbsp;&nbsp;Attack: 4</span><br /><span style=\"font-size: 14px;\">&nbsp;&nbsp;Inventory: 6</span><br /><span style=\"font-size: 14px;\">&nbsp;&nbsp;Will defend owner: yes</span></p>\n<p>&nbsp;</p>\n</td>\n</tr>\n</tbody>\n</table>\n<p>&nbsp;</p>\n<p><span style=\"text-decoration: underline; font-size: 18px;\"><strong><img src=\"https://cdn.discordapp.com/attachments/866521661880795147/880298426808565770/andspecialthanks21.png\" alt=\"Acknowledgements and special thanks\" width=\"320\" height=\"64\" /></strong></span></p>\n<p><span style=\"font-size: 18px;\">Many thanks to the project's patrons: <strong>Zura, Lavie, Kree, Atlan, Le fl&eacute;mmard, Eugene Nubberslaw, Azilea_Royalty, and Nil!<br /></strong></span></p>\n<p><span style=\"font-size: 14px;\">Please consider supporting the developers on <a href=\"https://www.patreon.com/chirpycricket\" target=\"_blank\" rel=\"noopener noreferrer\">Patreon</a> if you like the mods!</span></p>",
+          "published": "2023-08-08T00:30:08.366854Z",
+          "updated": "2023-09-21T16:55:30.159907Z",
+          "status": "approved",
+          "license": {
+            "id": "LicenseRef-All-Rights-Reserved",
+            "name": ""
+          },
+          "client_side": "required",
+          "server_side": "required",
+          "categories": [
+            "adventure",
+            "mobs",
+            "transportation"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/xP7vOoRA/ddd765cbbbdc7bd88ee361fd3f8fed5dd0236165.png",
+          "discord_url": "https://discord.gg/ZNMECpNpE9",
+          "donation_urls": [
+            {
+              "id": "patreon",
+              "platform": "Patreon",
+              "url": "https://www.patreon.com/chirpycricket"
+            }
+          ],
+          "gallery": [
+            {
+              "url": "https://cdn.modrinth.com/data/xP7vOoRA/images/063494f97f154733cb3033203e56d5ab9d3fa627.png",
+              "featured": false,
+              "created": "2023-08-08T01:00:45.382241Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/xP7vOoRA/images/074458f410c20c285963e4278d411624ef66bb3d.png",
+              "featured": false,
+              "created": "2023-08-08T01:02:16.084855Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/xP7vOoRA/images/389d9e3b9253deb52373c44c898b7897acf3ad88.png",
+              "featured": false,
+              "created": "2023-08-08T01:05:09.553676Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/xP7vOoRA/images/3a08ded2a2a8f9bc1a1d7ec8916f9034d07b9479.png",
+              "featured": false,
+              "created": "2023-09-19T16:23:11.741131Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/xP7vOoRA/images/456c60b6f22767d27cd27e8f5f67819b86b9ac8a.png",
+              "featured": false,
+              "created": "2023-08-08T00:56:12.524306Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/xP7vOoRA/images/5150e8d7b20678e35c4a2d5a4c8ca4880128c8ff.png",
+              "featured": false,
+              "created": "2023-08-08T00:39:51.148265Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/xP7vOoRA/images/620a7077eb436ac960031a204c428e6bcda9e393.png",
+              "featured": false,
+              "created": "2023-08-08T00:53:42.858713Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/xP7vOoRA/images/882ee7957250cc7c803e70123560886072512398.png",
+              "featured": false,
+              "created": "2023-08-08T00:52:23.472565Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/xP7vOoRA/images/92b11228b9917729454ba4ae0ddda78f689fe44f.png",
+              "featured": false,
+              "created": "2023-08-08T00:55:05.249322Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/xP7vOoRA/images/ad6c981377caa414915baa0aaec62a48c8156943.png",
+              "featured": false,
+              "created": "2023-08-08T00:47:10.730250Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/xP7vOoRA/images/b21d598cb83392d4c7579d132f0502fa170679fb.png",
+              "featured": false,
+              "created": "2023-08-08T00:56:55.975205Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/xP7vOoRA/images/b3eedcc0548f6ecdcbc1bc6a643f74018189a22f.png",
+              "featured": false,
+              "created": "2023-08-08T00:42:47.954515Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/xP7vOoRA/images/b42229045c872884940ef750e3a92bc7a6516c06.png",
+              "featured": false,
+              "created": "2023-08-08T00:59:22.457754Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/xP7vOoRA/images/bf1b4c829b07646ee36bb3fc64c5cb5fed4b748a.png",
+              "featured": false,
+              "created": "2023-08-08T01:03:29.408391Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/xP7vOoRA/images/c4f6c173807f6b4505021d6b182e24e7ff064bd4.png",
+              "featured": false,
+              "created": "2023-08-08T00:57:41.744263Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/xP7vOoRA/images/c5fc06f71a2d9346b9acc0e7db094d2da8b85de9.png",
+              "featured": false,
+              "created": "2023-08-08T00:46:05.510722Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/xP7vOoRA/images/db02fa1fb6b3c4d3a56b40c48f47602491ae3e18.png",
+              "featured": false,
+              "created": "2023-08-08T01:04:34.988016Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/xP7vOoRA/images/ef678208f1a4175e98837e11f915a0b11a1677b2.png",
+              "featured": false,
+              "created": "2023-08-08T00:41:56.231586Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/xP7vOoRA/images/5b261d90890a1ef73c9467d909f27045377f2f55.png",
+              "featured": false,
+              "created": "2023-08-08T00:43:53.139922Z",
+              "ordering": 1.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/xP7vOoRA/images/86f49f5780b459a6d438f6961120df318ee2c673.png",
+              "featured": true,
+              "title": "Mythic Mounts Banner Image",
+              "created": "2023-08-08T00:37:28.616249Z",
+              "ordering": 2.0
+            }
+          ]
+        },
+        "modrinthVersion": {
+          "id": "a9GfsY3e",
+          "project_id": "xP7vOoRA",
+          "author_id": "9x129Qfn",
+          "name": "Mythic Mounts [Fabric] 1.20.1-7.2",
+          "version_number": "1.20.1-7.2",
+          "changelog": "",
+          "date_published": "2023-08-08T04:54:56.447675Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha512": "48622ee002a8c75073e315e890fd88422e3b68af5ba434317db2ea80bd748fd154b58916e423984a3f0f5bbe2fdf3dc02f7303e7fc3faae86ad073759d0f39bc",
+                "sha1": "95e811ab49cb4fc579258270a84648c325a2b80a"
+              },
+              "url": "https://cdn.modrinth.com/data/xP7vOoRA/versions/a9GfsY3e/mythic-mounts-1.20.1-7.2.jar",
+              "filename": "mythic-mounts-1.20.1-7.2.jar",
+              "primary": true,
+              "size": 4359435
+            }
+          ],
+          "dependencies": [
+            {
+              "project_id": "nU0bVIaL",
+              "dependency_type": "required"
+            },
+            {
+              "project_id": "8BmcQJ2H",
+              "dependency_type": "required"
+            }
+          ],
+          "game_versions": [
+            "1.20.1"
+          ],
+          "loaders": [
+            "fabric"
+          ]
+        }
+      },
+      {
+        "name": "NiftyCarts",
+        "version": "NiftyCarts 3.0.2+1.20.1",
+        "optional": true,
+        "file": "niftycarts-3.0.2+1.20.1.jar",
+        "type": "mods",
+        "description": "A Fabric Port of the AstikorCarts mod. It adds carts for travel, shipping and farming.",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 900093,
+        "curseForgeFileId": 5313609,
+        "curseForgeProject": {
+          "id": 900093,
+          "name": "NiftyCarts",
+          "authors": [
+            {
+              "id": 100244998,
+              "name": "jmb19905",
+              "url": "https://www.curseforge.com/members/jmb19905"
+            }
+          ],
+          "gameId": 432,
+          "summary": "A Fabric Port of the AstikorCarts mod. It adds carts for travel, shipping and farming.",
+          "categories": [
+            {
+              "name": "Miscellaneous",
+              "slug": "mc-miscellaneous",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-miscellaneous",
+              "dateModified": "2014-06-15T04:27:14.543Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 425,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/40/635351497693711265.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Player Transport",
+              "slug": "technology-player-transport",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/technology/technology-player-transport",
+              "dateModified": "2014-05-08T17:38:58.357Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 414,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/29/635351495383551178.png",
+              "parentCategoryId": 412,
+              "classId": 6
+            },
+            {
+              "name": "Farming",
+              "slug": "technology-farming",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/technology/technology-farming",
+              "dateModified": "2014-05-08T17:39:21.57Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 416,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/31/635351495615556933.png",
+              "parentCategoryId": 412,
+              "classId": 6
+            },
+            {
+              "name": "Storage",
+              "slug": "storage",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/storage",
+              "dateModified": "2014-05-08T17:41:17.203Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 420,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/35/635351496772023801.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Energy, Fluid, and Item Transport",
+              "slug": "technology-item-fluid-energy-transport",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/technology/technology-item-fluid-energy-transport",
+              "dateModified": "2014-05-08T17:39:07.873Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 415,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/30/635351495478719291.png",
+              "parentCategoryId": 412,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 425,
+          "classId": 6,
+          "slug": "niftycarts",
+          "isFeatured": false,
+          "dateModified": "2024-05-11T06:09:17.143Z",
+          "dateCreated": "2023-08-07T22:27:17.443Z",
+          "dateReleased": "2024-05-11T06:03:41.127Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/niftycarts",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/jmb05/nifty-carts/issues",
+            "sourceUrl": "https://github.com/jmb05/nifty-carts"
+          },
+          "logo": {
+            "id": 862215,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/862/215/256/256/638270440374651656.png",
+            "title": "638270440374651656.png",
+            "url": "https://media.forgecdn.net/avatars/862/215/638270440374651656.png",
+            "modId": 900093
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 5334415
+        },
+        "curseForgeFile": {
+          "id": 5313609,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "niftycarts-3.0.2+1.20.1.jar",
+          "fileName": "niftycarts-3.0.2+1.20.1.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2024-05-03T20:35:26.583Z",
+          "fileLength": 202440,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 306612,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 544048,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 547434,
+              "relationType": 3
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 3147695671,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 3212334842,
+              "name": "LICENSE_niftycarts"
+            },
+            {
+              "fingerprint": 672514222,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 1598813052,
+              "name": "client-niftycarts-refmap.json"
+            },
+            {
+              "fingerprint": 735927837,
+              "name": "data"
+            },
+            {
+              "fingerprint": 585928743,
+              "name": "fabric.mod.json"
+            },
+            {
+              "fingerprint": 3949625745,
+              "name": "net"
+            },
+            {
+              "fingerprint": 2075395624,
+              "name": "niftycarts-refmap.json"
+            },
+            {
+              "fingerprint": 3565604494,
+              "name": "niftycarts.accesswidener"
+            },
+            {
+              "fingerprint": 1838763821,
+              "name": "niftycarts.client.mixins.json"
+            },
+            {
+              "fingerprint": 941715875,
+              "name": "niftycarts.mixins.json"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "bb40bb7b67753ef217ec156c7dad93a8317071ad",
+              "algo": 1
+            },
+            {
+              "value": "d17c30ef18843f0c98a22a39be2e0d6f",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-09-01T00:00:00Z",
+              "gameVersionName": "Fabric"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Client"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Server"
+            }
+          ],
+          "gameVersions": [
+            "Fabric",
+            "Client",
+            "1.20.1",
+            "Server"
+          ],
+          "fileFingerprint": 1143423139,
+          "modId": 900093
+        },
+        "modrinthProject": {
+          "id": "CXd6g9xp",
+          "slug": "niftycarts",
+          "project_type": "mod",
+          "team": "tIQBizTY",
+          "title": "NiftyCarts",
+          "description": "A Fabric Port of the AstikorCarts mod. It adds carts for travel, shipping and farming.",
+          "body": "# NiftyCarts\nis a Fabric Port of the AstikorCarts Mod.\n\n## Links\n- This Project: [On CurseForge](https://www.curseforge.com/minecraft/mc-mods/niftycarts) and [On Github](https://github.com/jmb05/nifty-carts)\n- AstikorCarts (Forge 1.12.2, 1.16.4/5, 1.18.2, 1.19.2): [On CurseForge](https://www.curseforge.com/minecraft/mc-mods/astikorcarts)\n- AstikorCarts Redux (Forge 1.19.4-1.20.1): [On Modrinth](https://modrinth.com/mod/astikorcarts-redux) and [On CurseForge](https://www.curseforge.com/minecraft/mc-mods/astikor-carts-redux)\n\n## Carts\n\nThis mods adds three different carts:\n\n### Supply Cart\n\n<img src=\"https://cdn.modrinth.com/data/CXd6g9xp/images/6893627cf0b30eaa37e3f5e1752e40f8bd7b6a46.gif\" alt=\"Supply Cart Gif\">\n\n- Double Chest worth of inventory space\n- one seat in the back\n\n### Plow\n\n<img src=\"https://cdn.modrinth.com/data/CXd6g9xp/images/e56a6022ae274cb7bb713ad157032e9031c16fc5.gif\" alt=\"Plow Gif\">\n\n- Has space for 3 tools (hoes, shovels, axes)\n- Uses these tools on the block beneath (tills, makes path, strips logs)\n\n### Animal Cart\n\n<img src=\"https://cdn.modrinth.com/data/CXd6g9xp/images/5bd43402b8842303d1c65493b2af3f290c8c7009.gif\" alt=\"Animal Cart Gif\">\n\n- two seats for both players on mobs\n\n## Usage\n\nNearby Carts can be attached and detached from the entity you're riding by pressing the 'Action Key' hotkey (default 'R'). \nPressing the Sprint button once toggles the 'Slow Mode'. Your mount and cart will be slower. \n\n## Recipes\n\n### Wheel\n\n<img src=\"https://cdn.modrinth.com/data/CXd6g9xp/images/e93733ad927acfe08e23fa02432930ad4bc89a1f.png\" alt=\"Wheel Recipe\">\n\n### Supply Cart\n\n<img src=\"https://cdn.modrinth.com/data/CXd6g9xp/images/23560032e7e8db0017c2e7f590d96f623ed009ce.png\" alt=\"Supply Cart Recipe\">\n\n### Plow\n\n<img src=\"https://cdn.modrinth.com/data/CXd6g9xp/images/a3586b5eb22a4a8819bf8ed50f20a91eb9448d04.png\" alt=\"Plow Recipe\">\n\n### Animal Cart\n\n<img src=\"https://cdn.modrinth.com/data/CXd6g9xp/images/de8ca4369830fe55dba0cfc28d11227fbec5781c.png\" alt=\"Animal Cart Recipe\">",
+          "published": "2023-08-04T10:34:34.202265Z",
+          "updated": "2024-05-11T06:01:47.247999Z",
+          "status": "approved",
+          "license": {
+            "id": "MIT",
+            "name": "MIT License",
+            "url": "https://github.com/jmb05/nifty-carts/blob/1.20/LICENSE"
+          },
+          "client_side": "required",
+          "server_side": "required",
+          "categories": [
+            "transportation"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/CXd6g9xp/b1e963152af2174d420b7b60946205fcdaefd8d7.png",
+          "issues_url": "https://github.com/jmb05/nifty-carts/issues",
+          "source_url": "https://github.com/jmb05/nifty-carts",
+          "donation_urls": [
+            {
+              "id": "bmac",
+              "platform": "Bmac",
+              "url": "https://www.buymeacoffee.com/jmb05"
+            }
+          ],
+          "gallery": [
+            {
+              "url": "https://cdn.modrinth.com/data/CXd6g9xp/images/6893627cf0b30eaa37e3f5e1752e40f8bd7b6a46.gif",
+              "featured": true,
+              "title": "Supply Cart",
+              "created": "2023-08-04T10:44:40.193522Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/CXd6g9xp/images/e56a6022ae274cb7bb713ad157032e9031c16fc5.gif",
+              "featured": false,
+              "title": "Plow",
+              "created": "2023-08-04T10:45:00.159585Z",
+              "ordering": 1.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/CXd6g9xp/images/5bd43402b8842303d1c65493b2af3f290c8c7009.gif",
+              "featured": false,
+              "title": "Animal Cart",
+              "created": "2023-08-04T10:45:37.518674Z",
+              "ordering": 2.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/CXd6g9xp/images/e93733ad927acfe08e23fa02432930ad4bc89a1f.png",
+              "featured": false,
+              "title": "Wheel Recipe",
+              "created": "2023-08-04T10:46:26.912251Z",
+              "ordering": 3.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/CXd6g9xp/images/23560032e7e8db0017c2e7f590d96f623ed009ce.png",
+              "featured": false,
+              "title": "Supply Cart Recipe",
+              "created": "2023-08-04T10:46:02.825326Z",
+              "ordering": 4.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/CXd6g9xp/images/a3586b5eb22a4a8819bf8ed50f20a91eb9448d04.png",
+              "featured": false,
+              "title": "Plow Recipe",
+              "created": "2023-08-04T10:46:51.172600Z",
+              "ordering": 5.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/CXd6g9xp/images/de8ca4369830fe55dba0cfc28d11227fbec5781c.png",
+              "featured": false,
+              "title": "Animal Cart Recipe",
+              "created": "2023-08-04T10:47:19.057320Z",
+              "ordering": 6.0
+            }
+          ]
+        },
+        "modrinthVersion": {
+          "id": "5NDrRgY4",
+          "project_id": "CXd6g9xp",
+          "author_id": "xu7ctCyF",
+          "name": "NiftyCarts 3.0.2+1.20.1",
+          "version_number": "3.0.2+1.20.1",
+          "changelog": "- Plows can now break ground covering blocks (e.g.: snow, grass, flowers; configurable via tags)\n- Added client-side configuration to enable/disable supplies from rendering\n- Added German translation\n- Added Russian translation\n- Added Italian translation",
+          "date_published": "2024-05-03T15:19:57.860251Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha512": "522ae6bdc394a2e4f816105a8e67f5b12aa617e4518b4c56abe948a0fcfa41c7f7f31ded3b199e76d0fee329f04f7dbbb0a8c9a2a51c2e3dcfa662f0daa35ee9",
+                "sha1": "bb40bb7b67753ef217ec156c7dad93a8317071ad"
+              },
+              "url": "https://cdn.modrinth.com/data/CXd6g9xp/versions/5NDrRgY4/niftycarts-3.0.2%2B1.20.1.jar",
+              "filename": "niftycarts-3.0.2+1.20.1.jar",
+              "primary": true,
+              "size": 202440
+            }
+          ],
+          "dependencies": [
+            {
+              "project_id": "5WeWGLoJ",
+              "dependency_type": "optional"
+            },
+            {
+              "project_id": "P7dR8mSH",
+              "dependency_type": "required"
+            },
+            {
+              "project_id": "ohNO6lps",
+              "dependency_type": "required"
+            }
+          ],
+          "game_versions": [
+            "1.20.1"
+          ],
+          "loaders": [
+            "fabric"
+          ]
+        }
+      },
+      {
+        "name": "Craftable Horse Armour & Saddle [CHA&S]",
+        "version": "CHA&S v2.0 for 1.20 fabric",
+        "optional": true,
+        "file": "CHA-S-1.20-fabric.jar",
+        "type": "mods",
+        "description": "Adds crafting recipes for horse armour and saddles.",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 224841,
+        "curseForgeFileId": 5185571,
+        "curseForgeProject": {
+          "id": 224841,
+          "name": "Craftable Horse Armour & Saddle [CHA&S]",
+          "authors": [
+            {
+              "id": 9450798,
+              "name": "EwyBoy",
+              "url": "https://www.curseforge.com/members/ewyboy"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Adds configurable recipes to horse armour and saddles from vanilla MC.",
+          "categories": [
+            {
+              "name": "Player Transport",
+              "slug": "technology-player-transport",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/technology/technology-player-transport",
+              "dateModified": "2014-05-08T17:38:58.357Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 414,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/29/635351495383551178.png",
+              "parentCategoryId": 412,
+              "classId": 6
+            },
+            {
+              "name": "Armor, Tools, and Weapons",
+              "slug": "armor-weapons-tools",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/armor-weapons-tools",
+              "dateModified": "2014-05-08T17:44:39.057Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 434,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/47/635351498790409758.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Cosmetic",
+              "slug": "cosmetic",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/cosmetic",
+              "dateModified": "2014-05-08T17:42:35.597Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 424,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/39/635351497555976928.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 434,
+          "classId": 6,
+          "slug": "cha-s",
+          "isFeatured": false,
+          "dateModified": "2024-08-21T21:28:31.363Z",
+          "dateCreated": "2014-10-12T00:08:14.897Z",
+          "dateReleased": "2024-08-04T13:53:21.823Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/cha-s",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/EwyBoy/CHA-S/issues",
+            "sourceUrl": "https://github.com/EwyBoy/CHA-S"
+          },
+          "logo": {
+            "id": 14958,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/14/958/256/256/635609771355465818.png",
+            "title": "635609771355465818.png",
+            "url": "https://media.forgecdn.net/avatars/14/958/635609771355465818.png",
+            "modId": 224841
+          },
+          "allowModDistribution": true,
+          "screenshots": [
+            {
+              "id": 16166,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/16/166/310/172/capture1.JPG",
+              "title": "Iron Horse Armour Recipe",
+              "url": "https://media.forgecdn.net/attachments/16/166/capture1.JPG",
+              "modId": 224841
+            },
+            {
+              "id": 16165,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/16/165/310/172/2014-10-12_01.jpg",
+              "title": "CHA&S",
+              "url": "https://media.forgecdn.net/attachments/16/165/2014-10-12_01.jpg",
+              "modId": 224841
+            }
+          ],
+          "mainFileId": 5595602
+        },
+        "curseForgeFile": {
+          "id": 5185571,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "CHA&S v2.0 for 1.20 fabric",
+          "fileName": "CHA-S-1.20-fabric.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2024-03-15T22:11:51.033Z",
+          "fileLength": 39196,
+          "dependencies": [],
+          "alternateFileId": 5185573,
+          "modules": [
+            {
+              "fingerprint": 3333850265,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 4104990276,
+              "name": "architectury_inject_CHAS_common_e79fe414a171434985902740b8d021b5_aa9bfd4df917890036e93926ec2b9afc2cb28fbe410d2bb80a5a900aab47edcbCHAS120devjar"
+            },
+            {
+              "fingerprint": 3726617672,
+              "name": "chas-common.mixins.json"
+            },
+            {
+              "fingerprint": 1443628170,
+              "name": "chas.mixins.json"
+            },
+            {
+              "fingerprint": 4251016554,
+              "name": "com"
+            },
+            {
+              "fingerprint": 1840237925,
+              "name": "data"
+            },
+            {
+              "fingerprint": 2200026390,
+              "name": "fabric.mod.json"
+            },
+            {
+              "fingerprint": 3062918644,
+              "name": "icon.png"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "1c16fc0f924ab5dc7faf6dde58a93d9a3db84156",
+              "algo": 1
+            },
+            {
+              "value": "3c7004db96f98a9368a83fa865969641",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000002",
+              "gameVersion": "1.20.2",
+              "gameVersionReleaseDate": "2023-09-21T15:25:15.053Z",
+              "gameVersionName": "1.20.2"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000005",
+              "gameVersion": "1.20.5",
+              "gameVersionReleaseDate": "2024-04-23T15:00:48.803Z",
+              "gameVersionName": "1.20.5"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-09-01T00:00:00Z",
+              "gameVersionName": "Fabric"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000003",
+              "gameVersion": "1.20.3",
+              "gameVersionReleaseDate": "2023-12-05T17:24:10.113Z",
+              "gameVersionName": "1.20.3"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020",
+              "gameVersion": "1.20",
+              "gameVersionReleaseDate": "2023-06-07T00:00:00Z",
+              "gameVersionName": "1.20"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000006",
+              "gameVersion": "1.20.6",
+              "gameVersionReleaseDate": "2024-04-29T15:15:44.67Z",
+              "gameVersionName": "1.20.6"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000004",
+              "gameVersion": "1.20.4",
+              "gameVersionReleaseDate": "2023-12-07T15:17:47.907Z",
+              "gameVersionName": "1.20.4"
+            }
+          ],
+          "gameVersions": [
+            "1.20.2",
+            "1.20.5",
+            "Fabric",
+            "1.20.3",
+            "1.20.1",
+            "1.20",
+            "1.20.6",
+            "1.20.4"
+          ],
+          "fileFingerprint": 190690972,
+          "modId": 224841
+        },
+        "modrinthProject": {
+          "id": "fExf3hZa",
+          "slug": "cha-s",
+          "project_type": "mod",
+          "team": "4azbVVgz",
+          "title": "Craftable Horse Armour & Saddle [CHA&S]",
+          "description": "Adds crafting recipes for horse armour and saddles.",
+          "body": "## Info\nThis mod makes the horse armour and saddles craftable!\n\n## Supported versions:\n| Version | Status             | Launcher              |\n| ------- | ------------------ | ----------------- |\n| 1.21    | [Up to date]       | Forge, Neoforge & Fabric    |\n| 1.20    | [Up to date]       | Forge, Neoforge & Fabric    |\n| 1.19    | [Up to date]       | Forge & Fabric    |\n| 1.18    | [Up to date]       | Forge & Fabric    |\n| 1.17    | [Up to date]       | Forge & Fabric    |\n| 1.16    | [Up to date]       | Forge & Fabric    |\n| 1.15    | [Up to date]       | Forge & Fabric    |\n| 1.14    | [Up to date]       | Forge & Fabric    |\n| 1.13    | [Unsupported]      |                   |\n| 1.12    | [Up to date]       | Forge             |\n| 1.11    | [Up to date]       | Forge             |\n| 1.10    | [Up to date]       | Forge             |\n| 1.9     | [Up to date]       | Forge             |\n| 1.8     | [Up to date]       | Forge             |\n| 1.7     | [Up to date]       | Forge             |\n\n## Protection\n![](http://i.imgur.com/iCwQZy1.jpg)\n\n## Recipes\n![](http://i.imgur.com/25T36Ji.gif)\n![](http://i.imgur.com/RHXA0EQ.png)",
+          "published": "2023-06-10T23:14:37.822712Z",
+          "updated": "2024-08-04T13:53:22.672342Z",
+          "status": "approved",
+          "license": {
+            "id": "MIT",
+            "name": "MIT License"
+          },
+          "client_side": "optional",
+          "server_side": "optional",
+          "categories": [
+            "equipment"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/fExf3hZa/2103b8444019a91249ff54ec2580b3bde3211ecf.png",
+          "issues_url": "https://github.com/EwyBoy/CHA-S/issues",
+          "source_url": "https://github.com/EwyBoy/CHA-S",
+          "wiki_url": "https://github.com/EwyBoy/CHA-S/wiki",
+          "discord_url": "https://discord.gg/Y3FFUCn76p",
+          "donation_urls": [],
+          "gallery": [
+            {
+              "url": "https://cdn.modrinth.com/data/fExf3hZa/images/83c46a2ba252bf443a78bc75fe7eb2bc3ba3332a.jpeg",
+              "featured": false,
+              "created": "2023-06-10T23:26:32.554586Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/fExf3hZa/images/92590611009050076031df4921dd72563ecd0d8f.jpeg",
+              "featured": true,
+              "created": "2023-06-10T23:26:19.510934Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/fExf3hZa/images/ac24c96892cdc1ca3090eb787183e0b170731ff7.jpeg",
+              "featured": false,
+              "created": "2023-06-10T23:26:25.589741Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/fExf3hZa/images/bea265549162b60b0f5869962ebacd22e1640dcd.jpeg",
+              "featured": false,
+              "created": "2023-06-10T23:27:15.410583Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/fExf3hZa/images/ea75c5686b82a096d176fabe7a659733b45031eb.jpeg",
+              "featured": false,
+              "created": "2023-06-10T23:26:37.759297Z",
+              "ordering": 0.0
+            }
+          ]
+        },
+        "modrinthVersion": {
+          "id": "FGcpE2Zb",
+          "project_id": "fExf3hZa",
+          "author_id": "koKmQ8de",
+          "name": "CHA&S v2.0 for 1.20 fabric",
+          "version_number": "1.20",
+          "changelog": "",
+          "date_published": "2024-03-15T22:11:54.979157Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha1": "1c16fc0f924ab5dc7faf6dde58a93d9a3db84156",
+                "sha512": "ebc50ff6d97340a687a213b415eb5d09699aeb3bae6008866a431685af09f49a57d0a0b85c5491f0600a8b15e5ed0c73adca8ac2cb50f6cc9d95d1d8517b4e33"
+              },
+              "url": "https://cdn.modrinth.com/data/fExf3hZa/versions/FGcpE2Zb/CHA-S-1.20-fabric.jar",
+              "filename": "CHA-S-1.20-fabric.jar",
+              "primary": true,
+              "size": 39196
+            },
+            {
+              "hashes": {
+                "sha1": "9fc569385700e8e75f4f6d099139b8c27af47039",
+                "sha512": "eb67bfad6a21ff8480f8ace01a8b3c7d2c4ccb494896978a00de3d4a2a2c5ee6cb6fb7dc9d686208f6f16cc1c0f0e53e69ed52d55099c851be04aa28ffe15e48"
+              },
+              "url": "https://cdn.modrinth.com/data/fExf3hZa/versions/FGcpE2Zb/CHA-S-1.20-dev-shadow.jar",
+              "filename": "CHA-S-1.20-dev-shadow.jar",
+              "primary": false,
+              "size": 38616
+            },
+            {
+              "hashes": {
+                "sha1": "e7945de743542eb73a8823af5b8ddb28e5ea6390",
+                "sha512": "aa3b99291ad06f4aa924319ea010247a94e215e60f3e12c3412e8a37bf331ac837a04b455203c30d68dab473cc8ebb1cf67468dba08b5d36840b508ca3ad56fb"
+              },
+              "url": "https://cdn.modrinth.com/data/fExf3hZa/versions/FGcpE2Zb/CHA-S-1.20-sources.jar",
+              "filename": "CHA-S-1.20-sources.jar",
+              "primary": false,
+              "size": 38235
+            }
+          ],
+          "dependencies": [],
+          "game_versions": [
+            "1.20",
+            "1.20.1",
+            "1.20.2",
+            "1.20.3",
+            "1.20.4",
+            "1.20.5",
+            "1.20.6"
+          ],
+          "loaders": [
+            "fabric"
+          ]
+        }
+      },
+      {
+        "name": "Handcrafted",
+        "version": "[Fabric] Handcrafted 3.0.6",
+        "optional": true,
+        "file": "handcrafted-fabric-1.20.1-3.0.6.jar",
+        "type": "mods",
+        "description": "Make your house a home!",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 538214,
+        "curseForgeFileId": 5118730,
+        "curseForgeProject": {
+          "id": 538214,
+          "name": "Handcrafted",
+          "authors": [
+            {
+              "id": 103112623,
+              "name": "terrariumearth",
+              "url": "https://www.curseforge.com/members/terrariumearth"
+            },
+            {
+              "id": 101827342,
+              "name": "kekie6",
+              "url": "https://www.curseforge.com/members/kekie6"
+            },
+            {
+              "id": 101856088,
+              "name": "AlexNijjar",
+              "url": "https://www.curseforge.com/members/alexnijjar"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Make your house a home!",
+          "categories": [
+            {
+              "name": "Cosmetic",
+              "slug": "cosmetic",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/cosmetic",
+              "dateModified": "2014-05-08T17:42:35.597Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 424,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/39/635351497555976928.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 424,
+          "classId": 6,
+          "slug": "handcrafted",
+          "isFeatured": false,
+          "dateModified": "2024-08-11T05:47:23.543Z",
+          "dateCreated": "2021-10-18T21:16:36.183Z",
+          "dateReleased": "2024-08-11T05:41:07.937Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/handcrafted",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/terrarium-earth/Handcrafted/issues",
+            "sourceUrl": "https://github.com/terrarium-earth/Handcrafted"
+          },
+          "logo": {
+            "id": 676448,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/676/448/256/256/638067467429210259_animated.gif",
+            "title": "638067467429210259.gif",
+            "url": "https://media.forgecdn.net/avatars/676/448/638067467429210259.gif",
+            "modId": 538214
+          },
+          "allowModDistribution": true,
+          "screenshots": [
+            {
+              "id": 675750,
+              "description": "creds: sircolor",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/675/750/310/172/image1.png",
+              "title": "Bamboo",
+              "url": "https://media.forgecdn.net/attachments/675/750/image1.png",
+              "modId": 538214
+            },
+            {
+              "id": 675758,
+              "description": "creds: sircolor",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/675/758/310/172/image.png",
+              "title": "Cherry Bedroom",
+              "url": "https://media.forgecdn.net/attachments/675/758/image.png",
+              "modId": 538214
+            },
+            {
+              "id": 675767,
+              "description": "creds: moony",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/675/767/310/172/2023-06-11_15.png",
+              "title": "Cherry House",
+              "url": "https://media.forgecdn.net/attachments/675/767/2023-06-11_15.png",
+              "modId": 538214
+            },
+            {
+              "id": 553663,
+              "description": "creds: aPurpleShrimp",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/553/663/310/172/image.png",
+              "title": "Living Room",
+              "url": "https://media.forgecdn.net/attachments/553/663/image.png",
+              "modId": 538214
+            },
+            {
+              "id": 552310,
+              "description": "creds: championhestu",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/552/310/310/172/image-21.png",
+              "title": "Bedroom",
+              "url": "https://media.forgecdn.net/attachments/552/310/image-21.png",
+              "modId": 538214
+            },
+            {
+              "id": 552309,
+              "description": "creds: squishy",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/552/309/310/172/2022-12-16_21.png",
+              "title": "Cozy Home!",
+              "url": "https://media.forgecdn.net/attachments/552/309/2022-12-16_21.png",
+              "modId": 538214
+            },
+            {
+              "id": 566058,
+              "description": "creds: kekie6",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/566/58/310/172/image.png",
+              "title": "Doggo",
+              "url": "https://media.forgecdn.net/attachments/566/58/image.png",
+              "modId": 538214
+            },
+            {
+              "id": 567058,
+              "description": "creds: kekie6",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/567/58/310/172/image2.png",
+              "title": "Castle",
+              "url": "https://media.forgecdn.net/attachments/567/58/image2.png",
+              "modId": 538214
+            },
+            {
+              "id": 552311,
+              "description": "creds: championhestu",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/552/311/310/172/image-24.png",
+              "title": "Kitchen",
+              "url": "https://media.forgecdn.net/attachments/552/311/image-24.png",
+              "modId": 538214
+            },
+            {
+              "id": 675766,
+              "description": "creds: moony",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/675/766/310/172/2023-06-11_15.png",
+              "title": "Cherry Room",
+              "url": "https://media.forgecdn.net/attachments/675/766/2023-06-11_15.png",
+              "modId": 538214
+            },
+            {
+              "id": 825355,
+              "description": "Creds: vectorwing",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/825/355/310/172/image.png",
+              "title": "Bedrooom",
+              "url": "https://media.forgecdn.net/attachments/825/355/image.png",
+              "modId": 538214
+            }
+          ],
+          "mainFileId": 5617253
+        },
+        "curseForgeFile": {
+          "id": 5118730,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "[Fabric] Handcrafted 3.0.6",
+          "fileName": "handcrafted-fabric-1.20.1-3.0.6.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2024-02-18T20:34:19.54Z",
+          "fileLength": 7106384,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 306612,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 570073,
+              "relationType": 3
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 3392864394,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 2933674402,
+              "name": "architectury_inject_handcrafted_common_3934c92a305c413a863a23a48e14018a_f85704c6a604061c2c487bf98bef9fe694b52b8318f82c2e211332364da64e56handcraftedcommon1201306devjar"
+            },
+            {
+              "fingerprint": 2942520940,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 2062953072,
+              "name": "data"
+            },
+            {
+              "fingerprint": 3713856928,
+              "name": "earth"
+            },
+            {
+              "fingerprint": 531769960,
+              "name": "fabric.mod.json"
+            },
+            {
+              "fingerprint": 2372519795,
+              "name": "handcrafted-common-1.20.1-common-refmap.json"
+            },
+            {
+              "fingerprint": 2015318819,
+              "name": "handcrafted-common.mixins.json"
+            },
+            {
+              "fingerprint": 3173385513,
+              "name": "handcrafted-fabric-1.20.1-fabric-refmap.json"
+            },
+            {
+              "fingerprint": 127475130,
+              "name": "handcrafted.mixins.json"
+            },
+            {
+              "fingerprint": 1373793128,
+              "name": "icon.png"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "459ccaa507c4c28738c6d821e12b66de31861c66",
+              "algo": 1
+            },
+            {
+              "value": "0cb41833dc35949cb23625d2e2b3579d",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-09-01T00:00:00Z",
+              "gameVersionName": "Fabric"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            }
+          ],
+          "gameVersions": [
+            "Fabric",
+            "1.20.1"
+          ],
+          "fileFingerprint": 1521066989,
+          "modId": 538214
+        },
+        "modrinthProject": {
+          "id": "pJmCFF0p",
+          "slug": "handcrafted",
+          "project_type": "mod",
+          "team": "Xoedlg0p",
+          "title": "Handcrafted",
+          "description": "Make your house a home!",
+          "body": "<center>\n\n![Handcrafted](https://cdn.modrinth.com/data/pJmCFF0p/e89faefc522d601db2a5fd70136f37ef7ce18569.png)\n\n---\n\n[![Made by Terrarium](https://images.teamresourceful.com/u/I80VLV.svg)](https://discord.terrarium.earth)\n[![Requires Resourceful Lib](https://images.teamresourceful.com/u/jUWHY2.svg)](https://modrinth.com/mod/resourceful-lib)\n---\n### 📖About 📖\n\n<hr>\n</center>\n\nFrom the creators of Chipped, we now present Handcrafted! A mod to make your house into your\nhome! :D\n\nAre you looking for a fantasy, steampunk or medieval feel? Or do you want to stick to a more vanilla decor? Look no\nfurther! We've created over 250 furniture pieces for you to choose from. Be it chairs, tables, benches or desks;\nwe got it all packaged neatly into a single mod. This mod will provide all the furniture you could ever need to make\nyour blocky house a home!\n\n---\n<center>\n  \n### Developers:\nAlex Nijjar, CodexAdrian, MsRandom, ThatGravyBoat\n### Artists:\nKekie6, Facu, Marc-IceBlade\n\n\n---\n\n### Socials\n\n[![youtube-plural](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/social/youtube-plural_vector.svg)](https://youtube.terrarium.earth)\n[![twitch-plural](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/social/twitch-plural_vector.svg)](https://www.twitch.tv/terrariumearth)\n[![twitter-plural](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/social/twitter-plural_vector.svg)](https://twitter.terrarium.earth)\n[![kofi-plural](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/donate/kofi-plural_vector.svg)](https://kofi.terrarium.earth)\n[![discord-plural](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/social/discord-plural_vector.svg)](https://discord.terrarium.earth)\n[![modrinth](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/available/modrinth_vector.svg)](https://modrinth.com/organization/terrarium)\n[![curseforge](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/available/curseforge_vector.svg)](https://www.curseforge.com/members/terrariumearth/projects)\n---\n\n### Check out our other projects\n\n<a href=\"https://www.modrinth.com/mod/handcrafted\"><img src=\"https://images.teamresourceful.com/u/9DjUsr.svg\" alt=\"Handcrafted\" width=\"96\"></a>\n<a href=\"https://www.modrinth.com/mod/chipped\"><img src=\"https://images.teamresourceful.com/u/lRunun.svg\" alt=\"Chipped\" width=\"96\"></a>\n<a href=\"https://www.modrinth.com/mod/ad-astra\"><img src=\"https://images.teamresourceful.com/u/snZW6z.svg\" alt=\"Ad Astra\" width=\"96\"></a>\n<a href=\"https://www.modrinth.com/mod/tempad\"><img src=\"https://images.teamresourceful.com/u/HPp8Fo.svg\" alt=\"Tempad\" width=\"96\"></a>\n<a href=\"https://www.modrinth.com/mod/spirit\"><img src=\"https://images.teamresourceful.com/u/SQ4Me7.svg\" alt=\"Colorful Azalaeas\" width=\"96\"></a>\n\n<a href=\"https://www.modrinth.com/mod/argonauts\"><img src=\"https://images.teamresourceful.com/u/05PfzF.svg\" alt=\"Lil Wings\" width=\"96\"></a>\n<a href=\"https://www.modrinth.com/mod/cadmus\"><img src=\"https://images.teamresourceful.com/u/YqZ7Hf.svg\" alt=\"Vitalize\" width=\"96\"></a>\n<a href=\"https://www.modrinth.com/mod/heracles\"><img src=\"https://images.teamresourceful.com/u/RzlEoy.svg\" alt=\"Spirit\" width=\"96\"></a>\n<a href=\"https://www.modrinth.com/mod/prometheus\"><img src=\"https://images.teamresourceful.com/u/DP8PUz.svg\" alt=\"Reaper\" width=\"96\"></a>\n<a href=\"https://www.modrinth.com/mod/common-storage-lib\"><img src=\"http://images.teamresourceful.com/u/wP2ReQ.svg\" alt=\"Experience Obelisk\" width=\"96\"></a>\n</center>\n",
+          "published": "2022-12-17T04:16:15.143741Z",
+          "updated": "2024-08-11T05:41:10.394507Z",
+          "status": "approved",
+          "license": {
+            "id": "LicenseRef-Terrarium-Licence",
+            "name": "",
+            "url": "https://github.com/terrarium-earth/Handcrafted/blob/1.19.2/LICENSE"
+          },
+          "client_side": "required",
+          "server_side": "required",
+          "categories": [
+            "decoration",
+            "utility"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/pJmCFF0p/e89faefc522d601db2a5fd70136f37ef7ce18569.png",
+          "issues_url": "https://github.com/terrarium-earth/Handcrafted/issues",
+          "source_url": "https://github.com/terrarium-earth/Handcrafted",
+          "discord_url": "https://discord.terrarium.earth",
+          "donation_urls": [],
+          "gallery": [
+            {
+              "url": "https://cdn.modrinth.com/data/pJmCFF0p/images/5c27ab93854934bf4b1925ec5463d12a18d4ff1f.png",
+              "featured": false,
+              "title": "Castle",
+              "description": "creds: kekie6",
+              "created": "2022-12-21T00:00:14.337864Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/pJmCFF0p/images/64929678ab4399804429a66a6d1007b654416e5e.png",
+              "featured": false,
+              "title": "Bedroom",
+              "description": "creds: championhestu",
+              "created": "2022-12-17T20:24:27.236888Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/pJmCFF0p/images/68f1437fc9e5203c1768b6473b337269fec767c4.png",
+              "featured": false,
+              "title": "Cozy Home!",
+              "description": "creds: squishy",
+              "created": "2022-12-17T20:24:26.014436Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/pJmCFF0p/images/9833fbfd94ff08f757ad046dac1cdd9757dec3a0.png",
+              "featured": false,
+              "title": "Doggo",
+              "description": "creds: kekie6",
+              "created": "2022-12-21T00:00:11.291052Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/pJmCFF0p/images/bc7121e442b03492985bf68886873beb6d1901a8.png",
+              "featured": false,
+              "title": "Living Room",
+              "description": "creds: aPurpleShrimp",
+              "created": "2022-12-17T20:24:29.475240Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/pJmCFF0p/images/df88483c90907f378fc3164ce4aed0c35e8ec812.png",
+              "featured": false,
+              "title": "Kitchen",
+              "description": "creds: championhestu",
+              "created": "2022-12-17T20:24:28.306458Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/pJmCFF0p/images/70b0e5ec2935778ad5bd4daf4f0ed498ffcdfeff.png",
+              "featured": false,
+              "title": "Bamboo",
+              "description": "creds: sircolor",
+              "created": "2023-06-11T19:19:19.656402Z",
+              "ordering": 7.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/pJmCFF0p/images/9ecc28cef3b792236c383517d4fe0c4f02bcd768.png",
+              "featured": false,
+              "title": "Cherry Bedroom",
+              "description": "creds: sircolor",
+              "created": "2023-06-11T19:19:42.593984Z",
+              "ordering": 8.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/pJmCFF0p/images/e0e54f71028553fbbec0d50543766d7b91c36c75.png",
+              "featured": true,
+              "title": "Cherry Bedroom",
+              "description": "creds: moony",
+              "created": "2023-06-11T19:21:11.156710Z",
+              "ordering": 9.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/pJmCFF0p/images/8c018d5c19a36986eff834abc024de00646005b9.png",
+              "featured": false,
+              "title": "Cherry House",
+              "description": "creds: moony",
+              "created": "2023-06-11T19:22:47.081622Z",
+              "ordering": 10.0
+            }
+          ]
+        },
+        "modrinthVersion": {
+          "id": "NRw0CDAc",
+          "project_id": "pJmCFF0p",
+          "author_id": "6ZoP9xY8",
+          "name": "[Fabric] Handcrafted 3.0.6",
+          "version_number": "3.0.6",
+          "changelog": "- Fixed dining bench tooltip.\n- Tooltips will now dynamically adjust their size to fit the screen.\n- Tooltips now require shift to be held to display.\n- Added chest tag (#81).",
+          "date_published": "2024-02-18T20:34:23.893621Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha512": "92c3b47c635196d0991831ce64e2c47bd9d666ee6213bbba87b8f0214cccbba626a564ad130ec0336e94936568dce462d1ff6ca726a81134518795709632602e",
+                "sha1": "459ccaa507c4c28738c6d821e12b66de31861c66"
+              },
+              "url": "https://cdn.modrinth.com/data/pJmCFF0p/versions/NRw0CDAc/handcrafted-fabric-1.20.1-3.0.6.jar",
+              "filename": "handcrafted-fabric-1.20.1-3.0.6.jar",
+              "primary": true,
+              "size": 7106384
+            }
+          ],
+          "dependencies": [
+            {
+              "project_id": "G1hIVOrD",
+              "dependency_type": "required"
+            },
+            {
+              "project_id": "P7dR8mSH",
+              "dependency_type": "required"
+            }
+          ],
+          "game_versions": [
+            "1.20.1"
+          ],
+          "loaders": [
+            "fabric"
+          ]
+        }
+      },
+      {
+        "name": "Gliders",
+        "version": "🍂 [Fabric] - Gliders - 1.20.1-v1.1.5",
+        "optional": true,
+        "file": "vc_gliders-fabric-1.1.5.jar",
+        "type": "mods",
+        "description": "Gliders: essential for traversing terrain and preventing falls",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 828331,
+        "curseForgeFileId": 5087365,
+        "curseForgeProject": {
+          "id": 828331,
+          "name": "Gliders",
+          "authors": [
+            {
+              "id": 16126866,
+              "name": "Jeryn",
+              "url": "https://www.curseforge.com/members/jeryn"
+            },
+            {
+              "id": 103636408,
+              "name": "TommyCBricks",
+              "url": "https://www.curseforge.com/members/tommycbricks"
+            },
+            {
+              "id": 103819385,
+              "name": "tamlighter",
+              "url": "https://www.curseforge.com/members/tamlighter"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Gliders: essential for traversing terrain and preventing falls",
+          "categories": [
+            {
+              "name": "Armor, Tools, and Weapons",
+              "slug": "armor-weapons-tools",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/armor-weapons-tools",
+              "dateModified": "2014-05-08T17:44:39.057Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 434,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/47/635351498790409758.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Player Transport",
+              "slug": "technology-player-transport",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/technology/technology-player-transport",
+              "dateModified": "2014-05-08T17:38:58.357Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 414,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/29/635351495383551178.png",
+              "parentCategoryId": 412,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 414,
+          "classId": 6,
+          "slug": "gliders",
+          "isFeatured": false,
+          "dateModified": "2024-02-07T14:29:55.587Z",
+          "dateCreated": "2023-02-18T16:40:23.74Z",
+          "dateReleased": "2024-02-07T14:25:15.857Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/gliders",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/VentureCraftMods/MC-Gliders/issues",
+            "sourceUrl": "https://github.com/VentureCraftMods/MC-Gliders"
+          },
+          "logo": {
+            "id": 843900,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/843/900/256/256/638240619391807565.png",
+            "title": "638240619391807565.png",
+            "url": "https://media.forgecdn.net/avatars/843/900/638240619391807565.png",
+            "modId": 828331
+          },
+          "allowModDistribution": false,
+          "screenshots": [],
+          "mainFileId": 5087366
+        },
+        "curseForgeFile": {
+          "id": 5087365,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "🍂 [Fabric] - Gliders - 1.20.1-v1.1.5",
+          "fileName": "vc_gliders-fabric-1.1.5.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2024-02-07T14:25:12.82Z",
+          "fileLength": 862734,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 306612,
+              "relationType": 3
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 1094634205,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 3941206721,
+              "name": "vc_gliders.accesswidener"
+            },
+            {
+              "fingerprint": 4200820019,
+              "name": "vc_gliders-common.mixins.json"
+            },
+            {
+              "fingerprint": 3488008761,
+              "name": "vc_gliders-common-refmap.json"
+            },
+            {
+              "fingerprint": 922046252,
+              "name": "vc_gliders.mixins.json"
+            },
+            {
+              "fingerprint": 1085152596,
+              "name": "fabric.mod.json"
+            },
+            {
+              "fingerprint": 4058533236,
+              "name": "data"
+            },
+            {
+              "fingerprint": 3205936231,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 3939555872,
+              "name": ".cache"
+            },
+            {
+              "fingerprint": 149755468,
+              "name": "vc_gliders-fabric-refmap.json"
+            },
+            {
+              "fingerprint": 1863122337,
+              "name": "net"
+            },
+            {
+              "fingerprint": 2060384967,
+              "name": "architectury_inject_palladiumcorevc_gliders_common_2d859005597943d49b16d59bf500c477_9534b9037977e96e982e2415d69b72a0f01025ed2aa859714f3dcce963ee4ff1vc_glidersdevjar"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "32aca155866bfcd0c937603d2efaf1bd4bf18cc8",
+              "algo": 1
+            },
+            {
+              "value": "624e5ccdc13d7e25b4b4a192a5b03a1f",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-09-01T00:00:00Z",
+              "gameVersionName": "Fabric"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            }
+          ],
+          "gameVersions": [
+            "Fabric",
+            "1.20.1"
+          ],
+          "fileFingerprint": 474704156,
+          "modId": 828331
+        },
+        "modrinthProject": {
+          "id": "XiC6HzoU",
+          "slug": "gliders",
+          "project_type": "mod",
+          "team": "rWEz8MvD",
+          "title": "Gliders",
+          "description": "Gliders: essential for traversing terrain and preventing falls",
+          "body": "# Gliders\n\nWelcome to the world of Gliders!\n\nGliders are the first mod in a vanilla-friendly mod pack designed to enhance the adventure and exploration aspect of Minecraft. These gliders can be crafted from basic materials like wood, iron, and gold, as well as more advanced materials like diamond and netherite. They were introduced to prevent players from rushing to The End to get Elytra.\n\nA good player/server experience was the main focus while designing these Gliders. They were created to be a balanced item, not feeling as overpowered as elytra but with several upgrades to stop the need to rush to go get wings. These gliders will help you navigate the world, explore caves, and prevent falling off cliffs. \n\nWith countless hours of development, this excellent early to mid-game alternative to the Elytra offers an immersive single and multiplayer experience, including first and third-person animations designed to enhance the player's Minecraft experience. Try it out and glide through the skies of Minecraft!\n\n## Features\n\n### Tiers\n\nWhen it comes to Gliders, you have a variety of options to choose from. You can opt for a wooden glider, which is perfect if you're just starting out and want to get a feel for gliding. If you're looking for something that's more durable, you might want to consider an Iron or Gold Glider. If you're willing to splurge, then Diamond Gliders are a great choice as they are very durable and offer a significant increase in flight time. And for those who want the ultimate gliding experience, Netherite Gliders are the way to go. These gliders are incredibly durable and offer the longest flight time of all the Glider tiers.\n\nTo craft a Glider, you'll need to start by creating reinforced paper, a new type of paper that is used in the construction of these amazing flying machines. Reinforced paper is a unique material that is made by combining conventional paper with other materials such as leather, iron, gold, diamond, or netherite scrap depending on the desired strength of the glider. The crafting process is relatively straightforward and involves combining standard paper with the appropriate materials in a crafting table. Once you have the reinforced paper, you can then use it to craft the glider of your choice.\n\n### Updrafts\n\nWhen utilizing gliders in Minecraft, it's important to note that fire and magma are not typically friendly elements. However, there is a way to utilize these elements to your advantage. By using a Glider, you'll notice wind particles emanating from heat sources. These updrafts of heat can provide you with a substantial boost in height, allowing you to glide over treacherous terrain with ease. However, it's essential to exercise caution when using gliders in other HOT dimensions, as the conditions may be too intense for the glider to handle without the proper upgrades.\n\n### The Right Kind Of Charge\n\nWhen using Glider, it is important to keep a few things in mind. Gliders are made using metal components, and unfortunately, when flying in an open space in the rain, it means you are a prime target for lightning. Therefore, it is not advised to fly in the rain or during a storm. If you want to risk it, you may hear the glider start tingling with a static charge until you are inevitably struck by lighting, dropping you out of the sky and probably breaking your glider. Thankfully, you may be able to replace the metal on your Glider and pared with curtain crystals there may be a modification that can turn the lightning into a useful upgrade instead of a pesky nuisance.\n\n### Glider Repair\n\nWhen using a glider, it's important to be cautious and aware of its delicate structure and using the Glider incorrectly may break it. But don't worry, there is still hope for your beloved Glider. To repair it, you can use a new piece of reinforced paper that matches the material of the original Glider. \n\nTo start the repair process, use a smithing table and use the damaged Glider along with the newly crafted reinforced paper to repair it. But be careful and use the Glider in moderation, as even with upgrades, if its durability eventually reaches zero, it will be lost forever.\n\n### Upgrades\n\nGlider technology has come a long way, with many upgrades available to extend the life of this amazing invention before moving on to the Elytra. These upgrades are designed to allow glider users to explore new environments and terrains that were once impossible to navigate. With these upgrades, the glider becomes a more versatile tool for everyday adventuring. In addition, you can enchant your glider with Mending and Unbreaking enchantments to ensure it lasts as long as possible. With all these upgrades and enchantments, your glider will become an indispensable companion on all your adventures.\n\n### Perspective Changes\n\nIf you're using gliders in Minecraft, you may find that certain situations are easier to navigate in F5 mode. With this in mind, we've added a new feature that allows you to toggle your camera to switch to F5 mode when using a glider.\n\nThis feature is especially useful when you're trying to explore new environments. Gliding with a glider can be a lot of fun and very cinematic, but it can also be challenging to get the right perspective when you're trying to dodge obstacles or maneuver through tight spaces. By switching to F5 mode, you'll be able to see everything around you more clearly, which will make it easier to avoid obstacles and stay on course.\n\nTo activate this feature, simply go to the Controls panel within the Minecraft pause menu and look for the Glider Perspective option. Once you've found it, you can toggle it on or off depending on your preferences. This feature is currently turned off by default, but it worth trying to see what you prefer, If you're new to gliding, you may want to leave this feature turned off until you get more comfortable with the basics of gliding. However, if you're an experienced glider pilot, you may find that this feature is a must-have for your adventures.\n\nPause &gt; Options &gt; Controls &gt; Glider Perspective \n\n### Compatibility\n\nOne of the best things about these gliders is their compatibility with other mods like Create and Curios. Gliders are stylized to work well with the Create Mod . Create is a mod that allows players to build complex contraptions and machinery using gears, belts, and other components. The Glider mod is designed to work seamlessly with Create, allowing players to incorporate gliders into their machinery and contraptions. This means that players can use their gliders in a variety of ways, such as creating glider launchers or incorporating them into their transportation systems.\n\nIn addition, Gliders are designed to work with Curios. Curios is a mod that allows players to equip items in their inventory as accessories. This means that players can equip their Glider as an accessory, allowing them to glide through the skies without having to worry about taking up valuable inventory space like a chest pieces slot.\n\nOverall, gliders are an excellent addition to Minecraft, providing players with a unique and exciting means of transportation. With their impressive durability and a variety of tier options available, players can customize their glider to suit their specific needs. So why not give gliders a try and soar through the skies of Minecraft today?\n",
+          "published": "2023-01-19T19:21:49.300441Z",
+          "updated": "2024-02-07T14:25:17.505032Z",
+          "status": "approved",
+          "license": {
+            "id": "GPL-3.0-or-later",
+            "name": "GNU General Public License v3.0 only"
+          },
+          "client_side": "required",
+          "server_side": "required",
+          "categories": [
+            "equipment",
+            "transportation"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/XiC6HzoU/cfb76ca2b6b3963084c78bd4ef12cc707eef9964.png",
+          "issues_url": "https://github.com/Suff99/MC-Gliders/issues",
+          "source_url": "https://github.com/Suff99/MC-Gliders",
+          "discord_url": "https://mc.craig.software/api/skin/discord",
+          "donation_urls": [],
+          "gallery": [
+            {
+              "url": "https://cdn.modrinth.com/data/XiC6HzoU/images/2f81155aa2820df6bf2b8429ed4c60065f126c23.png",
+              "featured": false,
+              "title": "Glider with Friends!",
+              "created": "2023-02-22T23:19:38.187786Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/XiC6HzoU/images/bf2a7540b8624ab7a3fcf0fe84df835a03f7e8bc.gif",
+              "featured": true,
+              "created": "2023-01-19T19:43:24.037471Z",
+              "ordering": 0.0
+            }
+          ]
+        },
+        "modrinthVersion": {
+          "id": "9Qu0MGnH",
+          "project_id": "XiC6HzoU",
+          "author_id": "YSsyfeZB",
+          "name": "🍂 [Fabric] - Gliders - 1.20.1-v1.1.5",
+          "version_number": "1.1.5+fabric",
+          "changelog": "<h1>Gliders - 1.1.5 - 1.20.1</h1>\n<h3>Changes</h3>\n<ul>\n    <li>Fixes crashes when using upgrades</li>\n</ul>\n",
+          "date_published": "2024-02-07T14:25:09.423364Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha1": "32aca155866bfcd0c937603d2efaf1bd4bf18cc8",
+                "sha512": "ab402975228d7b9bf631e41055685f86e8ffdd8b0a3012b1e9ee004cdf5a2f9dbf9bd13b3ddc6b0d614a815185bc354d21c6a5f8029e15aac4fc8e9b6b99161d"
+              },
+              "url": "https://cdn.modrinth.com/data/XiC6HzoU/versions/9Qu0MGnH/vc_gliders-fabric-1.1.5.jar",
+              "filename": "vc_gliders-fabric-1.1.5.jar",
+              "primary": true,
+              "size": 862734
+            }
+          ],
+          "dependencies": [
+            {
+              "project_id": "P7dR8mSH",
+              "dependency_type": "required"
+            }
+          ],
+          "game_versions": [
+            "1.20.1"
+          ],
+          "loaders": [
+            "fabric"
+          ]
+        }
+      },
+      {
+        "name": "Packet Fixer",
+        "version": "Packet Fixer 1.4.2",
+        "optional": true,
+        "file": "packetfixer-fabric-1.4.2-1.19-to-1.20.1.jar",
+        "type": "mods",
+        "description": "A simple mod to solve various problems with packets.",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 689467,
+        "curseForgeFileId": 5416165,
+        "curseForgeProject": {
+          "id": 689467,
+          "name": "Packet Fixer",
+          "authors": [
+            {
+              "id": 101247842,
+              "name": "TonimatasDEV",
+              "url": "https://www.curseforge.com/members/tonimatasdev"
+            }
+          ],
+          "gameId": 432,
+          "summary": "A simple mod to solve various problems with packets and NBTs.",
+          "categories": [
+            {
+              "name": "Server Utility",
+              "slug": "server-utility",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/server-utility",
+              "dateModified": "2014-05-08T17:44:55.057Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 435,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/48/635351498950580836.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Miscellaneous",
+              "slug": "mc-miscellaneous",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-miscellaneous",
+              "dateModified": "2014-06-15T04:27:14.543Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 425,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/40/635351497693711265.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 425,
+          "classId": 6,
+          "slug": "packet-fixer",
+          "isFeatured": false,
+          "dateModified": "2024-08-15T14:33:46.58Z",
+          "dateCreated": "2022-10-17T17:18:55.16Z",
+          "dateReleased": "2024-08-15T14:31:52.38Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/packet-fixer",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/TonimatasDEV/PacketFixer/issues",
+            "sourceUrl": "https://github.com/TonimatasDEV/PacketFixer"
+          },
+          "logo": {
+            "id": 846951,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/846/951/256/256/638246065460259726.png",
+            "title": "638246065460259726.png",
+            "url": "https://media.forgecdn.net/avatars/846/951/638246065460259726.png",
+            "modId": 689467
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 5631951
+        },
+        "curseForgeFile": {
+          "id": 5416165,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "Packet Fixer 1.4.2",
+          "fileName": "packetfixer-fabric-1.4.2-1.19-to-1.20.1.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2024-06-10T19:20:34.167Z",
+          "fileLength": 20923,
+          "dependencies": [],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 3432296348,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 3288156213,
+              "name": "architectury_inject_PacketFixer_common_335d8c292d68416187c34ed95e4629b6_d17ef7275fa6c502a7c0b82c7a4145d884041bd0d5d488f57a067cd9f2c92010packetfixercommon142119to1201devjar"
+            },
+            {
+              "fingerprint": 2709227701,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 200030903,
+              "name": "dev"
+            },
+            {
+              "fingerprint": 3036124923,
+              "name": "fabric.mod.json"
+            },
+            {
+              "fingerprint": 3467733793,
+              "name": "packetfixer-common-common-refmap.json"
+            },
+            {
+              "fingerprint": 2984735536,
+              "name": "packetfixer-common.mixins.json"
+            },
+            {
+              "fingerprint": 1075966181,
+              "name": "packetfixer-fabric.mixins.json"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "cde4b68187525dabfbd478fe8ac5cc2add4679cc",
+              "algo": 1
+            },
+            {
+              "value": "cefe48b1cc7c1659909f799df0ede126",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0000000001.0000000019.0000000003",
+              "gameVersion": "1.19.3",
+              "gameVersionReleaseDate": "2022-10-19T00:00:00Z",
+              "gameVersionName": "1.19.3"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000019.0000000004",
+              "gameVersion": "1.19.4",
+              "gameVersionReleaseDate": "2023-03-09T00:00:00Z",
+              "gameVersionName": "1.19.4"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-09-01T00:00:00Z",
+              "gameVersionName": "Fabric"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Client"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000019.0000000002",
+              "gameVersion": "1.19.2",
+              "gameVersionReleaseDate": "2022-08-05T14:12:22.413Z",
+              "gameVersionName": "1.19.2"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020",
+              "gameVersion": "1.20",
+              "gameVersionReleaseDate": "2023-06-07T00:00:00Z",
+              "gameVersionName": "1.20"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000019.0000000001",
+              "gameVersion": "1.19.1",
+              "gameVersionReleaseDate": "2022-06-28T00:00:00Z",
+              "gameVersionName": "1.19.1"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Server"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-05-26T00:00:00Z",
+              "gameVersionName": "Quilt"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000019",
+              "gameVersion": "1.19",
+              "gameVersionReleaseDate": "2022-06-07T15:38:07.377Z",
+              "gameVersionName": "1.19"
+            }
+          ],
+          "gameVersions": [
+            "1.19.3",
+            "1.19.4",
+            "Fabric",
+            "Client",
+            "1.19.2",
+            "1.20.1",
+            "1.20",
+            "1.19.1",
+            "Server",
+            "Quilt",
+            "1.19"
+          ],
+          "fileFingerprint": 1173135908,
+          "modId": 689467
+        },
+        "modrinthProject": {
+          "id": "c7m1mi73",
+          "slug": "packet-fixer",
+          "project_type": "mod",
+          "team": "3h9GHUuw",
+          "title": "Packet Fixer",
+          "description": "A simple mod to solve various problems with packets.",
+          "body": "# Packet Fixer\n#### Visit my discord server: [Link](https://discord.com/invite/vWBP4P4Yd8)\n\n## Description\nThis mod fixes various package erros. This mod could be used in mod packs for increasing the number of mods.\n\n### The mod is required in Client and Server sides.\n\n### Fix these problems:\n - Tried to read NBT tag that was too big; tried to allocate: X bytes where max allowed: 2097152\n - Badly compressed packet - size of X is larger than protocol maximum of 2097152\n - Attempted to send packet over maximum protocol size: 8388608\n - Packet too big (is X, should be less than 8388608)\n - Payload may not be larger than 1048576 bytes\n - Payload may not be larger than 32767 bytes\n- Unable to fit X into 3 [Delete Krypton and Pluto]\n\n### Other problems:\n - VarInt too long [Try deleting Krypton and Pluto in both sides]\n\n###  Feel free to use this mod on your modpack",
+          "published": "2022-11-02T15:48:56.445113Z",
+          "updated": "2024-08-15T14:32:10.222196Z",
+          "status": "approved",
+          "license": {
+            "id": "MIT",
+            "name": "MIT License"
+          },
+          "client_side": "required",
+          "server_side": "required",
+          "categories": [
+            "optimization",
+            "utility"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/c7m1mi73/388af00d61fa57e7e10612bcc099bf6ee0794e5e.png",
+          "issues_url": "https://github.com/TonimatasDEV/PacketSizeDoublerForge/issues",
+          "source_url": "https://github.com/TonimatasDEV/PacketSizeDoublerForge",
+          "discord_url": "https://discord.gg/vWBP4P4Yd8",
+          "donation_urls": [
+            {
+              "id": "ko-fi",
+              "platform": "Ko-fi",
+              "url": "https://ko-fi.com/tonimatasdev"
+            }
+          ],
+          "gallery": []
+        },
+        "modrinthVersion": {
+          "id": "djNw6g8u",
+          "project_id": "c7m1mi73",
+          "author_id": "1wRstasz",
+          "name": "Packet Fixer 1.4.2",
+          "version_number": "1.4.2",
+          "changelog": "- **Fixed:** Fixed compat with Immersive Portals",
+          "date_published": "2024-06-10T19:18:21.903150Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha512": "44b4b4e1743e9e96d9173a898234e07637a2fe03b3c4a449e0f1e0f08146c743c65f4f76dcd85515006a4c3a790e0cb6eeaf3ac45cf111eccfc8b9d56c5c69a4",
+                "sha1": "cde4b68187525dabfbd478fe8ac5cc2add4679cc"
+              },
+              "url": "https://cdn.modrinth.com/data/c7m1mi73/versions/djNw6g8u/packetfixer-fabric-1.4.2-1.19-to-1.20.1.jar",
+              "filename": "packetfixer-fabric-1.4.2-1.19-to-1.20.1.jar",
+              "primary": true,
+              "size": 20923
+            }
+          ],
+          "dependencies": [],
+          "game_versions": [
+            "1.19",
+            "1.19.1",
+            "1.19.2",
+            "1.19.3",
+            "1.19.4",
+            "1.20",
+            "1.20.1"
+          ],
+          "loaders": [
+            "fabric",
+            "quilt"
+          ]
+        }
       }
     ],
     "ignoredUpdates": [],
     "ignoreAllUpdates": false,
     "vanillaInstance": true,
-    "lastPlayed": 1725203884852,
-    "numPlays": 87,
+    "lastPlayed": 1725380217883,
+    "numPlays": 96,
     "lastExportName": "Sunnie's RPG Tech",
     "lastExportVersion": "1.20.1",
     "lastExportAuthor": "Hitomiiv",

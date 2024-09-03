@@ -83,3 +83,42 @@ mode = "fancy"
 				man_o_war = true
 				oddion = true
 
+			[light_sources.settings.entities.wildlife]
+				lark = true
+				king_snake = true
+				snail = true
+				hedgehog = true
+				sanddollar = true
+				horseshoecrab = true
+				hermitcrab = true
+				seaurchin = true
+				june_beetle = true
+				tiger_butterfly = true
+				sunflowerbeetle = true
+				grass_snake = true
+				monarch_butterfly = true
+				ladybug = true
+				spider = true
+				stickbug = true
+				dragonfly = true
+				glow_jellyfish = true
+				anglerfish = true
+				clam = true
+				starfish = true
+				staghorn_beetle = true
+				crab = true
+				possum = true
+				spicebush_butterfly = true
+				robin = true
+				sparrow = true
+				porcupine = true
+				phoebe = true
+				cricket = true
+				ferret = true
+				koi = true
+				bluegill = true
+				goldfish = true
+
+			[light_sources.settings.entities.smallships]
+				brigg = true
+
