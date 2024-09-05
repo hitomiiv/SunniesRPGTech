@@ -1,9 +1,6 @@
 name: Publish to Modrinth
 
-on:
-  - release:
-    types: [ published ]
-  - workflow_dispatch
+on: workflow_dispatch
 
 jobs:
   publish:
@@ -21,9 +18,9 @@ jobs:
       with:
         token: ${{ secrets.GITHUB_TOKEN }}
         file_path: ./Sunnie.s.RPG.Tech.1.20.1.mrpack
-        name: Sunnies-RPG-Tech-1.20.1-${{ github.event.release.tag_name }}
-        version: ${{ github.event.release.tag_name }}
-        changelog: ${{ github.event.release.body }}
+        name: Sunnies-RPG-Tech-1.20.1-test_version.mrpack
+        version: test_version
+        changelog: test_changelog
         game_versions: 1.20.1
         loaders: fabric
         featured: true
