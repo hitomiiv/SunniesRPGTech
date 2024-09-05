@@ -16,7 +16,7 @@ jobs:
     - name: Upload to Modrinth
       uses: RubixDev/modrinth-upload@v1
       with:
-        token: ${{ secrets.GITHUB_TOKEN }}
+        token: ${{ secrets.MODRINTH_TOKEN }}
         file_path: ./Sunnie.s.RPG.Tech.1.20.1.mrpack
         name: Sunnies-RPG-Tech-1.20.1-test_version.mrpack
         version: test_version
