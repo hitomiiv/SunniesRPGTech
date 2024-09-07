@@ -29,7 +29,7 @@
     "denied": [],
     "preserve": false,
     "ignoreTools": false,
-    "damageMultiplicand": 1.0,
+    "damageMultiplicand": 0.1,
     "damageRounding": "ROUND_DOWN",
     "speedMultiplicand": 0.0,
     "forceToolUsage": false
