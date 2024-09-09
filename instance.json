@@ -71580,13 +71580,932 @@
             "quilt"
           ]
         }
+      },
+      {
+        "name": "Pufferfish's Skills",
+        "version": "Pufferfish's Skills 0.13.2",
+        "optional": true,
+        "file": "puffish_skills-0.13.2-1.20-fabric.jar",
+        "type": "mods",
+        "description": "Adds a fully configurable skill system to the game.",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 835091,
+        "curseForgeFileId": 5551785,
+        "curseForgeProject": {
+          "id": 835091,
+          "name": "Pufferfish's Skills [Forge & Fabric]",
+          "authors": [
+            {
+              "id": 34868271,
+              "name": "Pufferfish",
+              "url": "https://www.curseforge.com/members/pufferfish"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Adds a fully configurable skill system to the game.",
+          "categories": [
+            {
+              "name": "API and Library",
+              "slug": "library-api",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/library-api",
+              "dateModified": "2014-05-23T03:21:44.06Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 421,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/36/635351496947765531.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Utility & QoL",
+              "slug": "utility-qol",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/utility-qol",
+              "dateModified": "2021-11-17T11:45:09.143Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 5191,
+              "iconUrl": "https://media.forgecdn.net/avatars/456/558/637727379086405233.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Adventure and RPG",
+              "slug": "adventure-rpg",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/adventure-rpg",
+              "dateModified": "2014-05-08T17:42:09.54Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 422,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/37/635351497295252123.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 422,
+          "classId": 6,
+          "slug": "puffish-skills",
+          "isFeatured": false,
+          "dateModified": "2024-07-22T12:42:49.11Z",
+          "dateCreated": "2023-03-07T18:17:10.283Z",
+          "dateReleased": "2024-07-21T16:09:26.177Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/puffish-skills",
+            "wikiUrl": "https://puffish.net/skillsmod/docs",
+            "issuesUrl": "https://github.com/pufmat/skillsmod/issues",
+            "sourceUrl": "https://github.com/pufmat/skillsmod"
+          },
+          "logo": {
+            "id": 786631,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/786/631/256/256/638138098303113835.png",
+            "title": "638138098303113835.png",
+            "url": "https://media.forgecdn.net/avatars/786/631/638138098303113835.png",
+            "modId": 835091
+          },
+          "allowModDistribution": true,
+          "screenshots": [
+            {
+              "id": 850693,
+              "description": "Skills screen in game",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/850/693/310/172/skills.png",
+              "title": "Skills screen in game",
+              "url": "https://media.forgecdn.net/attachments/850/693/skills.png",
+              "modId": 835091
+            },
+            {
+              "id": 653783,
+              "description": "Web application to easily edit skills",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/653/783/310/172/editor.png",
+              "title": "Editor",
+              "url": "https://media.forgecdn.net/attachments/653/783/editor.png",
+              "modId": 835091
+            },
+            {
+              "id": 653784,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/653/784/310/172/2023-04-28_19.png",
+              "title": "Combat Skill Tree",
+              "url": "https://media.forgecdn.net/attachments/653/784/2023-04-28_19.png",
+              "modId": 835091
+            },
+            {
+              "id": 653782,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/653/782/310/172/2023-04-28_19.png",
+              "title": "Mining Skill Tree",
+              "url": "https://media.forgecdn.net/attachments/653/782/2023-04-28_19.png",
+              "modId": 835091
+            }
+          ],
+          "mainFileId": 5551797
+        },
+        "curseForgeFile": {
+          "id": 5551785,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "puffish_skills-0.13.2-1.20-fabric.jar",
+          "fileName": "puffish_skills-0.13.2-1.20-fabric.jar",
+          "releaseType": 2,
+          "fileStatus": 4,
+          "fileDate": "2024-07-21T16:09:00.47Z",
+          "fileLength": 485103,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 306612,
+              "relationType": 3
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 4096778970,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 2574877177,
+              "name": "LICENSE-RESOURCES.txt"
+            },
+            {
+              "fingerprint": 2169792994,
+              "name": "LICENSE.txt"
+            },
+            {
+              "fingerprint": 2153254566,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 2786262509,
+              "name": "config"
+            },
+            {
+              "fingerprint": 3758125015,
+              "name": "fabric.mod.json"
+            },
+            {
+              "fingerprint": 418050930,
+              "name": "net"
+            },
+            {
+              "fingerprint": 3798064369,
+              "name": "puffish_skills-refmap.json"
+            },
+            {
+              "fingerprint": 3816757537,
+              "name": "puffish_skills.mixins.json"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "46351ca9a41ee46b4c62490fe0ff1ba685bb31e1",
+              "algo": 1
+            },
+            {
+              "value": "8b7a424ac1160cac83293ae998abb31a",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-09-01T00:00:00Z",
+              "gameVersionName": "Fabric"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Client"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020",
+              "gameVersion": "1.20",
+              "gameVersionReleaseDate": "2023-06-07T00:00:00Z",
+              "gameVersionName": "1.20"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Server"
+            }
+          ],
+          "gameVersions": [
+            "Fabric",
+            "Client",
+            "1.20.1",
+            "1.20",
+            "Server"
+          ],
+          "fileFingerprint": 2222263562,
+          "modId": 835091
+        },
+        "modrinthProject": {
+          "id": "hqQqvaa4",
+          "slug": "skills",
+          "project_type": "mod",
+          "team": "hhdIvQJ6",
+          "title": "Pufferfish's Skills",
+          "description": "Adds a fully configurable skill system to the game.",
+          "body": "# Pufferfish's Skills\n\n![Banner](https://cdn-raw.modrinth.com/data/hqQqvaa4/images/0c83e356742665cdbdbee07cab069868fffa0797.png)\n\n[![Discord](https://puffish.net/badges/discord.png)](https://discord.gg/F4EKxzW4hf)\n\n## About\n\nPufferfish's Skills is a mod that adds a framework to create fully configurable skill systems. It has a dedicated [online editor](https://puffish.net/skillsmod/editor/) to help building skills layout. There is also an API which allows extending the functionality and managing skills.\n\n## Latest changes (Important)\n\nIn the recent update the mod was split, the core part is [Pufferfish's Skills](https://www.curseforge.com/minecraft/mc-mods/puffish-skills). Attributes are a separate mod [Pufferfish's Attributes](https://www.curseforge.com/minecraft/mc-mods/puffish-attributes). The default skill trees were also removed, but can still be downloaded as a data pack [Default Skill Trees](https://www.curseforge.com/minecraft/data-packs/default-skill-trees).\n\n## Getting started\n\nThe easiest way is to download [Default Skill Trees](https://www.curseforge.com/minecraft/data-packs/default-skill-trees) data pack. You can modify it according to your needs. Most skills in that trees increase player attributes. In the game there isn't many of them and that's why there is a [Pufferfish's Attributes](https://www.curseforge.com/minecraft/mc-mods/puffish-skills) mod which used to be a part of the mod.\n\n## Commands\n\n`/puffish_skills points add <player> <category> <count>` - Adds points.\n\n`/puffish_skills points set <player> <category> <count>` - Sets points.\n\n`/puffish_skills experience add <player> <category> <amount>` - Adds experience.\n\n`/puffish_skills experience set <player> <category> <amount>` - Sets experience.\n\n`/puffish_skills skills unlock <player> <category> <skill>` - Unlocks skill.\n\n`/puffish_skills skills reset <player> <category>` - Locks all skills, points are refunded.\n\n`/puffish_skills category lock <player> <category>` - Locks category.\n\n`/puffish_skills category unlock <player> <category>` - Unlocks category.\n\n`/puffish_skills category erase <player> <category>` - Resets points, experience, skills.\n\n## Default keybindings\n\n`k` - Opens skills screen.\n\n## Configuration\n\nConfiguration is JSON driven. It is possible to reload in without restarting game using `/reload` command.\n\nTo easily edit skills you can use [online editor](https://puffish.net/skillsmod/editor/).\n\nYou can read more about configuration in the [documentation](https://puffish.net/skillsmod/docs/).\n\n## Compatibility\n\nThis mod supports both Forge and Fabric. What's more it is cross-compatible, so the client can use different loader than the server.\n\nThis mod should not conflict with other mods. Please report an issue if you find an incompatibility.\n\n## Versions\n\nVersions that are maintained and will receive future updates: 1.18.2, 1.19.2, 1.19.4, 1.20, 1.20.2 1.20.4.\n\n## Modpacks\n\nYou can use this mod in your modpack as long as you do not redistribute this mod.\n\n## Community-made tutorials\n\n<details>\n\t<summary>Videos</summary>\n\t<iframe src=\"https://www.youtube.com/embed/_Yzd0ZoKjng\"></iframe>\n\t<iframe src=\"https://www.youtube.com/embed/tf-ACXH8wrU\"></iframe>\n</details>",
+          "published": "2023-03-02T17:29:10.825438Z",
+          "updated": "2024-07-21T16:09:27.347763Z",
+          "status": "approved",
+          "license": {
+            "id": "LicenseRef-Custom",
+            "name": "",
+            "url": "https://github.com/pufmat/skillsmod/wiki/License"
+          },
+          "client_side": "required",
+          "server_side": "required",
+          "categories": [
+            "adventure",
+            "game-mechanics",
+            "utility"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/hqQqvaa4/03ee8cc78c05ab021cfc96664741dd66fc69e515.png",
+          "issues_url": "https://github.com/pufmat/skillsmod/issues",
+          "source_url": "https://github.com/pufmat/skillsmod",
+          "wiki_url": "https://puffish.net/skillsmod/docs",
+          "discord_url": "https://discord.gg/F4EKxzW4hf",
+          "donation_urls": [],
+          "gallery": [
+            {
+              "url": "https://cdn.modrinth.com/data/hqQqvaa4/images/fd7674a84d1f7f832b601a5b2640eb6a3f22917a_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/hqQqvaa4/images/0c83e356742665cdbdbee07cab069868fffa0797.png",
+              "featured": true,
+              "created": "2023-03-02T18:12:58.873664Z",
+              "ordering": 0.0
+            }
+          ]
+        },
+        "modrinthVersion": {
+          "id": "XffZOSrD",
+          "project_id": "hqQqvaa4",
+          "author_id": "3fJOgX88",
+          "name": "Pufferfish's Skills 0.13.2",
+          "version_number": "0.13.2",
+          "changelog": "- Fixed Take Damage Experience Source.\n",
+          "date_published": "2024-07-21T16:09:01.991592Z",
+          "version_type": "beta",
+          "files": [
+            {
+              "hashes": {
+                "sha1": "46351ca9a41ee46b4c62490fe0ff1ba685bb31e1",
+                "sha512": "ee3d848e5de159210274665508f518f3d5d7710f33278960d7f7f75330bab88505b73907782f9813f8a9b93964e4a0c69116f2a6754cd68653629e26906518f5"
+              },
+              "url": "https://cdn.modrinth.com/data/hqQqvaa4/versions/XffZOSrD/puffish_skills-0.13.2-1.20-fabric.jar",
+              "filename": "puffish_skills-0.13.2-1.20-fabric.jar",
+              "primary": true,
+              "size": 485103
+            }
+          ],
+          "dependencies": [
+            {
+              "project_id": "P7dR8mSH",
+              "dependency_type": "required"
+            }
+          ],
+          "game_versions": [
+            "1.20",
+            "1.20.1"
+          ],
+          "loaders": [
+            "fabric"
+          ]
+        }
+      },
+      {
+        "name": "Pufferfish's Attributes",
+        "version": "Pufferfish's Attributes 0.5.0",
+        "optional": true,
+        "file": "puffish_attributes-0.5.0-1.20-fabric.jar",
+        "type": "mods",
+        "description": "A Minecraft mod that adds more attributes to the game.",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 991341,
+        "curseForgeFileId": 5535411,
+        "curseForgeProject": {
+          "id": 991341,
+          "name": "Pufferfish's Attributes [Forge & Fabric]",
+          "authors": [
+            {
+              "id": 34868271,
+              "name": "Pufferfish",
+              "url": "https://www.curseforge.com/members/pufferfish"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Adds more attributes to the game.",
+          "categories": [
+            {
+              "name": "Adventure and RPG",
+              "slug": "adventure-rpg",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/adventure-rpg",
+              "dateModified": "2014-05-08T17:42:09.54Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 422,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/37/635351497295252123.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Utility & QoL",
+              "slug": "utility-qol",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/utility-qol",
+              "dateModified": "2021-11-17T11:45:09.143Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 5191,
+              "iconUrl": "https://media.forgecdn.net/avatars/456/558/637727379086405233.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "API and Library",
+              "slug": "library-api",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/library-api",
+              "dateModified": "2014-05-23T03:21:44.06Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 421,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/36/635351496947765531.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 422,
+          "classId": 6,
+          "slug": "puffish-attributes",
+          "isFeatured": false,
+          "dateModified": "2024-07-15T18:36:44.937Z",
+          "dateCreated": "2024-03-23T15:14:06.417Z",
+          "dateReleased": "2024-07-15T18:23:25.613Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/puffish-attributes",
+            "wikiUrl": "https://puffish.net/skillsmod/docs/creators/added-content/attributes",
+            "issuesUrl": "https://github.com/pufmat/attributesmod/issues",
+            "sourceUrl": "https://github.com/pufmat/attributesmod"
+          },
+          "logo": {
+            "id": 967863,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/967/863/256/256/638468036464421080.png",
+            "title": "638468036464421080.png",
+            "url": "https://media.forgecdn.net/avatars/967/863/638468036464421080.png",
+            "modId": 991341
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 5535421
+        },
+        "curseForgeFile": {
+          "id": 5535411,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "puffish_attributes-0.5.0-1.20-fabric.jar",
+          "fileName": "puffish_attributes-0.5.0-1.20-fabric.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2024-07-15T18:23:07.06Z",
+          "fileLength": 26220,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 306612,
+              "relationType": 3
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 967693476,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 320461072,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 2957139127,
+              "name": "data"
+            },
+            {
+              "fingerprint": 2184133396,
+              "name": "fabric.mod.json"
+            },
+            {
+              "fingerprint": 2820156949,
+              "name": "net"
+            },
+            {
+              "fingerprint": 2827565236,
+              "name": "puffish_attributes-refmap.json"
+            },
+            {
+              "fingerprint": 2215456055,
+              "name": "puffish_attributes.mixins.json"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "f2374a10e77da320e404f1c5620c507048fff686",
+              "algo": 1
+            },
+            {
+              "value": "38dbc39841577883e9b48ada81b96f87",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-09-01T00:00:00Z",
+              "gameVersionName": "Fabric"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Client"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020",
+              "gameVersion": "1.20",
+              "gameVersionReleaseDate": "2023-06-07T00:00:00Z",
+              "gameVersionName": "1.20"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Server"
+            }
+          ],
+          "gameVersions": [
+            "Fabric",
+            "Client",
+            "1.20.1",
+            "1.20",
+            "Server"
+          ],
+          "fileFingerprint": 1068547435,
+          "modId": 991341
+        },
+        "modrinthProject": {
+          "id": "FCFcFw09",
+          "slug": "attributes",
+          "project_type": "mod",
+          "team": "L04V2Tpb",
+          "title": "Pufferfish's Attributes",
+          "description": "A Minecraft mod that adds more attributes to the game.",
+          "body": "# Pufferfish's Attributes\n\n## About\n\nThis mod adds new attributes to the game. Originally it was a part of [Pufferfish's Skills](https://modrinth.com/mod/skills) mod, but was split and now can be used independently.\n\n## Attributes\n\nSome attributes work different from vanilla ones. Instead of providing a value they modify dynamic values using addition or multiplication. For example damage dealt by attacking using various weapons. They work like normal attributes, but their base value is internally set to the dynamic value. Changing base value of these attributes is not possible, because it is permanently set to [NaN](https://en.wikipedia.org/wiki/NaN). These attributes are marked as dynamic in their description below.\n\n- Stamina\n- Melee Damage\n- Ranged damage\n- Fortune\n- Healing\n- Jump\n- Resistance\n- Mining Speed\n- Sprinting Speed\n- Knockback\n\n### Stamina\n\nAttribute `puffish_attributes:player.stamina` allows to change hard coded stamina value, which is 4 by default. Stamina determines how much exhaustion player must collect to decrease food/saturation points.\n\n### Melee Damage\n\nDynamic attribute `puffish_attributes:player.melee_damage` modifies damage dealt using melee weapons.\n\n### Ranged damage\n\nDynamic attribute `puffish_attributes:player.ranged_damage` modifies damage dealt using ranged weapons.\n\n### Fortune\n\nDynamic attribute  `puffish_attributes:player.fortune` modifies fortune when mining a block, also applies without having fortune enchant on the item.\n\n### Healing\n\nDynamic attribute `puffish_attributes:player.healing` modifies how much health is restored by natural regeneration.\n\n### Jump\n\nDynamic attribute `puffish_attributes:player.jump` modifies how high player can jump.\n\n### Resistance\n\nDynamic attribute `puffish_attributes:player.resistance` modifies resistance of the player\n\n### Mining Speed\n\nDynamic attribute `puffish_attributes:player.mining_speed` modifies mining speed of the player.\n\n### Sprinting Speed\n\nDynamic attribute `puffish_attributes:player.sprinting_speed` modifies sprinting speed of the player.\n\n### Knockback\n\nDynamic attribute `puffish_attributes:player.knockback` modifies knockback power of the player.\n\n## Compatibility\n\nThis mod supports both Forge and Fabric. It may conflict with other mods that add similar attributes. Please report an issue if you find an incompatibility.\n\n**It is incompatibility with every version below 0.12.0 of Pufferfish's Skills, because that versions includes everything that Pufferfish's Attributes adds. However, version 0.12.0 of Pufferfish's Skills, when released, will no longer contain Pufferfish's Attributes, therefore these mods will be compatible.**\n\n## Versions\n\nVersions that are maintained and will receive future updates are: 1.18.2, 1.19.2, 1.19.4, 1.20, 1.20.2, 1.20.4.\n\n## Modpacks\n\nYou can use this mod in your modpack as long as you do not redistribute this mod.",
+          "published": "2024-03-28T19:41:07.521172Z",
+          "updated": "2024-07-15T18:23:26.023630Z",
+          "status": "approved",
+          "license": {
+            "id": "LGPL-3.0-only",
+            "name": "GNU Lesser General Public License v3.0 only"
+          },
+          "client_side": "required",
+          "server_side": "required",
+          "categories": [
+            "game-mechanics",
+            "library",
+            "utility"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/FCFcFw09/f25e0000aca9f043997af84f44d33099f7c6b8ef.png",
+          "issues_url": "https://github.com/pufmat/attributesmod/issues",
+          "source_url": "https://github.com/pufmat/attributesmod",
+          "wiki_url": "https://puffish.net/skillsmod/docs/creators/added-content/attributes",
+          "discord_url": "https://discord.gg/F4EKxzW4hf",
+          "donation_urls": [],
+          "gallery": [
+            {
+              "url": "https://cdn.modrinth.com/data/FCFcFw09/images/9d0c7eb14896aaee5c21245f0bf810863225db74.png",
+              "raw_url": "https://cdn.modrinth.com/data/FCFcFw09/images/9d0c7eb14896aaee5c21245f0bf810863225db74.png",
+              "featured": true,
+              "title": "Item with new attributes.",
+              "created": "2024-03-28T20:55:34.599680Z",
+              "ordering": 0.0
+            }
+          ]
+        },
+        "modrinthVersion": {
+          "id": "l9MXTh4H",
+          "project_id": "FCFcFw09",
+          "author_id": "3fJOgX88",
+          "name": "Pufferfish's Attributes 0.5.0",
+          "version_number": "0.5.0",
+          "changelog": "- Added compatibility with Apothic Attributes (AttributesLib)\n- Added Korean translation\n",
+          "date_published": "2024-07-15T18:23:08.355541Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha1": "f2374a10e77da320e404f1c5620c507048fff686",
+                "sha512": "c9e58e3d283c8e56acbcdc59443c54b4adeaf0c6ca4feffbc859e8b8f643a0c65a83b1602a967cba32d9180a5c3b593e1ce5dd208530f3a1ffe2afb4dbcbeebf"
+              },
+              "url": "https://cdn.modrinth.com/data/FCFcFw09/versions/l9MXTh4H/puffish_attributes-0.5.0-1.20-fabric.jar",
+              "filename": "puffish_attributes-0.5.0-1.20-fabric.jar",
+              "primary": true,
+              "size": 26220
+            }
+          ],
+          "dependencies": [
+            {
+              "project_id": "P7dR8mSH",
+              "dependency_type": "required"
+            }
+          ],
+          "game_versions": [
+            "1.20",
+            "1.20.1"
+          ],
+          "loaders": [
+            "fabric"
+          ]
+        }
+      },
+      {
+        "name": "Simply Skills",
+        "version": "Simply Skills 1.6.2+1.20.1",
+        "optional": true,
+        "file": "simplyskills-1.6.2+1.20.1.jar",
+        "type": "mods",
+        "description": "A comprehensive skill tree mod with a focus on combat specialisations (classes)",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 890301,
+        "curseForgeFileId": 5705225,
+        "curseForgeProject": {
+          "id": 890301,
+          "name": "Simply Skills [FABRIC]",
+          "authors": [
+            {
+              "id": 31238923,
+              "name": "sweenuss",
+              "url": "https://www.curseforge.com/members/sweenuss"
+            }
+          ],
+          "gameId": 432,
+          "summary": "A comprehensive skill tree mod with a focus on combat specialisations (classes)",
+          "categories": [
+            {
+              "name": "Magic",
+              "slug": "magic",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/magic",
+              "dateModified": "2014-05-08T17:40:24.787Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 419,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/34/635351496247862494.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Adventure and RPG",
+              "slug": "adventure-rpg",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/adventure-rpg",
+              "dateModified": "2014-05-08T17:42:09.54Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 422,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/37/635351497295252123.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 422,
+          "classId": 6,
+          "slug": "simply-skills",
+          "isFeatured": false,
+          "dateModified": "2024-09-09T00:26:00.283Z",
+          "dateCreated": "2023-07-18T06:59:08.047Z",
+          "dateReleased": "2024-09-09T00:16:52.2Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/simply-skills",
+            "wikiUrl": "https://github.com/Sweenus/SimplySkills/wiki",
+            "issuesUrl": "https://github.com/Sweenus/SimplySkills/issues",
+            "sourceUrl": "https://github.com/Sweenus/SimplySkills"
+          },
+          "logo": {
+            "id": 850847,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/850/847/256/256/638252603480685249.png",
+            "title": "638252603480685249.png",
+            "url": "https://media.forgecdn.net/avatars/850/847/638252603480685249.png",
+            "modId": 890301
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 5705225
+        },
+        "curseForgeFile": {
+          "id": 5705225,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "Simply Skills v1.6.2+1.20.1",
+          "fileName": "simplyskills-1.6.2+1.20.1.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2024-09-09T00:16:52.2Z",
+          "fileLength": 15573939,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 348521,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 991341,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 835091,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 856548,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 659887,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 608261,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 807653,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 771265,
+              "relationType": 3
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 307103454,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 1766955253,
+              "name": "LICENSE_simplyskills"
+            },
+            {
+              "fingerprint": 1774510365,
+              "name": "simplyskills.mixins.json"
+            },
+            {
+              "fingerprint": 1442358978,
+              "name": "fabric.mod.json"
+            },
+            {
+              "fingerprint": 144094231,
+              "name": "data"
+            },
+            {
+              "fingerprint": 2216902063,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 4173772220,
+              "name": "simplyskills-refmap.json"
+            },
+            {
+              "fingerprint": 1647178752,
+              "name": "net"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "a813eb658af58efa3c87e8b3fec3de38825f9368",
+              "algo": 1
+            },
+            {
+              "value": "5663c2de50b61c437541afd4031adbbf",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-09-01T00:00:00Z",
+              "gameVersionName": "Fabric"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Client"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Server"
+            }
+          ],
+          "gameVersions": [
+            "Fabric",
+            "Client",
+            "1.20.1",
+            "Server"
+          ],
+          "fileFingerprint": 519394654,
+          "modId": 890301
+        },
+        "modrinthProject": {
+          "id": "lyvwxqAy",
+          "slug": "simply-skills",
+          "project_type": "mod",
+          "team": "IbeQpuaJ",
+          "title": "Simply Skills",
+          "description": "A comprehensive skill tree mod with a focus on combat specialisations (classes)",
+          "body": "\n![Simply Skills - A comprehensive skill tree mod](https://imgur.com/GT9W3MZ.png)\n[![Watch the video](https://img.youtube.com/vi/Pro04cpU9a4/maxresdefault.jpg)](https://youtu.be/Pro04cpU9a4)\n\n**REQUIRED:**  -  [Pufferfish's Skills](https://www.curseforge.com/minecraft/mc-mods/puffish-skills)  -  [Cloth Config](https://www.curseforge.com/minecraft/mc-mods/cloth-config)  -  [Spell Engine](https://www.curseforge.com/minecraft/mc-mods/spell-engine)  -  [Spell Power Attributes](https://www.curseforge.com/minecraft/mc-mods/spell-power)  -\n\n  \nAdditional specialisation requirements:  \nCrusader -  [Paladins and Priests](https://www.curseforge.com/minecraft/mc-mods/paladins-and-priests)\n\nTranslation Datapacks\n\n[Chinese](https://modrinth.com/datapack/simply-skills-chinese-localizaion) (By WhiteBiggy)\n\n**When installing for Minecraft 1.19.2, backup and delete the 'puffish_skills' config folder. This is required for Simply Skills to generate files. (Not needed for 1.20+ versions)**\n\n### **Features**\n\nSimply Skills provides a combat oriented skill tree for Fabric, complete with unique passive skills, specialisations, and signature abilities.\n\nDriven by a vision to enrich combat encounters within Minecraft, Simply Skills harnesses the power of the  [Spell Engine](https://www.curseforge.com/minecraft/mc-mods/spell-engine)  &  [Spell Power Attributes](https://www.curseforge.com/minecraft/mc-mods/spell-power)  framework (created by Daedelus). By adopting this framework, players are empowered with distinctive skill sets that enable them to stand out among their peers and fully immerse themselves in the class fantasy they desire.\n\n#### **- Passive Skills -**\n\nUnlike the typical stat increase nodes on the tree, Passive Skills provide you with unique passive abilities that alter game mechanics in unique and meaningful ways.\n\n#### **- Specialisations -**\n\nSpecialisations can be unlocked by working your way through the base skill tree, until you reach a specialisation path. Once a specialisation path has been chosen, you will unlock an additional seperate skill tree that contains abilities and skills unique to your chosen specialisation. You may only have one specialisation unlocked at a time.\n\n#### **- Signature Abilities -**\n\nSignature Abilities, unlocked by advancing to a specialisation path, provide you with unique active abilities that can help to turn the tide of battle. These abilities can often be further enhanced and customised via passive nodes in the relevant specialisation skill tree. Due to their power, these abilities have an internal cooldown. (default keybind 'V')\n\n#### **- Respecialisation -**\n\nYour base skill tree can be reset by using a Malevolent Manuscript. This will refund all points spent in the tree.  \nIf you have a specialisation unlocked at the time of use, this will also erase all points spent within the specialisation tree. The points lost will be gone forever, so choose carefully.\n\n### **Roadmap**\nSubject to change\n\nQ4 2023: Ascendancy Tree\n- Additional late-game player progression\n\nQ1 2024: Additional Specialisations\n- Necromancer & Shaman\n \n\n \n\n \n\n \n\nWant to play with Simply Skills on a server with friends? How about considering a server from BisectHosting? They're already set up and ready to go!\n\n[![Sponsor Banner with link](https://www.bisecthosting.com/partners/custom-banners/9deaa8f0-11c2-41f1-8f4f-32d2493b0912.png)](https://www.curseforge.com/linkout?remoteUrl=https://www.bisecthosting.com/Timefall)\n\n## Other Timefall Projects\n\n[![MC Dungeons: Weapons Icon and Link](https://media.forgecdn.net/avatars/thumbnails/308/444/64/64/637391793275773439.png)](https://www.curseforge.com/minecraft/mc-mods/mcdw)   [![MC Dungeons: Armor Icon and Link](https://media.forgecdn.net/avatars/thumbnails/338/757/64/64/637478036163612181.png)](https://www.curseforge.com/minecraft/mc-mods/mcda)   [![MC Dungeons: Artifacts Icon and Link](https://media.forgecdn.net/avatars/thumbnails/376/214/64/64/637552306860876392.png)](https://www.curseforge.com/minecraft/mc-mods/mcdar)   [![MC Story Mode Armors [Forge/Fabric] Icon and Link](https://media.forgecdn.net/avatars/thumbnails/338/758/64/64/637478036255285039.png)](https://www.curseforge.com/minecraft/mc-mods/mcsa)   [![Golden Steak [Forge/Fabric] Icon and Link](https://media.forgecdn.net/avatars/thumbnails/327/835/64/64/637450546891244840.png)](https://www.curseforge.com/minecraft/mc-mods/golden-steak)   [![Headshot [Forge] Icon and Link](https://media.forgecdn.net/avatars/thumbnails/445/725/64/64/637701988173482863.png)](https://www.curseforge.com/minecraft/mc-mods/headshot-forge)   [![Save Gear on Death Icon and Link](https://media.forgecdn.net/avatars/thumbnails/314/883/64/64/637413896008638214.png)](https://www.curseforge.com/minecraft/mc-mods/save-gear-on-death)   [![Mob Summoning Icon and Link](https://media.forgecdn.net/avatars/thumbnails/403/477/64/64/637612669859111051.png)](https://www.curseforge.com/minecraft/mc-mods/mob-summoning)   [![Diamond Shards (Fabric) Icon and Link](https://media.forgecdn.net/avatars/thumbnails/285/765/64/64/637302148280645235.png)](https://www.curseforge.com/minecraft/mc-mods/diamond-shards-fabric)  \n  \n[![Interchangeable Icon and Link](https://media.forgecdn.net/avatars/thumbnails/610/959/64/64/637994077463228576.png)](https://www.curseforge.com/minecraft/mc-mods/interchangeable) [![Loot Config Icon and Link](https://media.forgecdn.net/avatars/thumbnails/608/296/64/64/637987375628720297.png)](https://www.curseforge.com/minecraft/mc-mods/loot-config)\n\nMod Icon drawn by Dream Studio AI art with prompt: Pixel art Treasure chest.  \nThe icons for MCDW, MCDA, MCDAR, and MCSA were all made by  [SeaOfPixels](https://www.curseforge.com/linkout?remoteUrl=https%253a%252f%252fpowerups4u.wixsite.com%252fseaofpixels), maker of the  [New Default+ Resource Pack](https://www.curseforge.com/minecraft/texture-packs/newdefaultplus).\n",
+          "published": "2023-10-21T11:14:07.438380Z",
+          "updated": "2024-09-09T00:21:33.021043Z",
+          "status": "approved",
+          "license": {
+            "id": "LicenseRef-Timefall-Development-License-1.2",
+            "name": "",
+            "url": "https://legacy.curseforge.com/project/890301/license"
+          },
+          "client_side": "required",
+          "server_side": "required",
+          "categories": [
+            "magic"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/lyvwxqAy/8f0a6381f8d3a3b3f0ccd8e3f6a5c6852c37e77e_96.webp",
+          "issues_url": "https://github.com/Sweenus/SimplySkills/issues",
+          "source_url": "https://github.com/Sweenus/SimplySkills",
+          "discord_url": "https://discord.gg/tRUdaHx7gG",
+          "donation_urls": [
+            {
+              "id": "ko-fi",
+              "platform": "Ko-fi",
+              "url": "https://legacy.curseforge.com/linkout?remoteUrl=https%253a%252f%252fko-fi.com%252fsweenus"
+            }
+          ],
+          "gallery": [
+            {
+              "url": "https://cdn.modrinth.com/data/lyvwxqAy/images/1d7768d968b92e01afd1b140eea38c82cb29f234_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/lyvwxqAy/images/0f0ce8c87dd9257a6156f02d4ef95acb39660749.png",
+              "featured": true,
+              "title": "Skill Tree Preview",
+              "created": "2023-10-21T11:31:10.259457Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/lyvwxqAy/images/73fe6371bd330dfff0d1882ce3d31373daafa7ae_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/lyvwxqAy/images/e7512ee9a7b7de3f54112c586029b6eb2efa1451.png",
+              "featured": false,
+              "title": "Skill Tree Preview #3",
+              "created": "2023-10-21T11:31:39.299823Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/lyvwxqAy/images/b903178775bbfb5e5ed8e887d309dfd8a2f0f853.png",
+              "raw_url": "https://cdn.modrinth.com/data/lyvwxqAy/images/b903178775bbfb5e5ed8e887d309dfd8a2f0f853.png",
+              "featured": false,
+              "title": "Skill Tree Preview #2",
+              "created": "2023-10-21T11:31:26.106729Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/lyvwxqAy/images/f9227ca4f634564875f4461f864976ceb4db2a66.png",
+              "raw_url": "https://cdn.modrinth.com/data/lyvwxqAy/images/f9227ca4f634564875f4461f864976ceb4db2a66.png",
+              "featured": false,
+              "title": "Skill Tree Preview #4",
+              "created": "2023-10-21T11:31:55.435751Z",
+              "ordering": 0.0
+            }
+          ]
+        },
+        "modrinthVersion": {
+          "id": "G8LZL71c",
+          "project_id": "lyvwxqAy",
+          "author_id": "898EzW8v",
+          "name": "Simply Skills 1.6.2+1.20.1",
+          "version_number": "1.6.2+1.20.1",
+          "changelog": "Changes:\n- Fixed a bug that caused some melee activated abilities to target the caster",
+          "date_published": "2024-09-09T00:21:34.740190Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha512": "53d329977ce26fe3aa763afc54b47de9724251e4bd260cd8a3fc3ea3a8d47fec4f128c9492f70aea97ba01b10f80bf25bac58d9b35ddec9882d33c4878efcaf1",
+                "sha1": "a813eb658af58efa3c87e8b3fec3de38825f9368"
+              },
+              "url": "https://cdn.modrinth.com/data/lyvwxqAy/versions/G8LZL71c/simplyskills-1.6.2%2B1.20.1.jar",
+              "filename": "simplyskills-1.6.2+1.20.1.jar",
+              "primary": true,
+              "size": 15573939
+            }
+          ],
+          "dependencies": [
+            {
+              "project_id": "hqQqvaa4",
+              "dependency_type": "required"
+            },
+            {
+              "project_id": "3MKqoGuP",
+              "dependency_type": "optional"
+            },
+            {
+              "project_id": "bK3Ubu9p",
+              "dependency_type": "optional"
+            },
+            {
+              "project_id": "8ooWzSQP",
+              "dependency_type": "required"
+            },
+            {
+              "project_id": "FCFcFw09",
+              "dependency_type": "required"
+            },
+            {
+              "project_id": "FxXkHaLe",
+              "dependency_type": "optional"
+            },
+            {
+              "project_id": "NkGaQMDA",
+              "dependency_type": "optional"
+            },
+            {
+              "project_id": "XvoWJaA2",
+              "dependency_type": "required"
+            },
+            {
+              "project_id": "fThucCjR",
+              "dependency_type": "optional"
+            },
+            {
+              "project_id": "QgooUXAJ",
+              "dependency_type": "optional"
+            }
+          ],
+          "game_versions": [
+            "1.20.1"
+          ],
+          "loaders": [
+            "fabric"
+          ]
+        }
       }
     ],
     "ignoredUpdates": [],
     "ignoreAllUpdates": false,
     "vanillaInstance": true,
-    "lastPlayed": 1725382142917,
-    "numPlays": 99,
+    "lastPlayed": 1725899326570,
+    "numPlays": 100,
     "lastExportName": "Sunnie's RPG Tech",
     "lastExportVersion": "1.20.1",
     "lastExportAuthor": "Hitomiiv",
@@ -71749,10 +72668,10 @@
   "minimumLauncherVersion": "21",
   "assetIndex": {
     "id": "5",
-    "sha1": "102454a05c5e871fe2370467fcca6f85b29c1b66",
+    "sha1": "32c7a27ebcbce1cd5649fc237ccbc65dcf1d79fa",
     "size": 411881,
-    "url": "https://piston-meta.mojang.com/v1/packages/102454a05c5e871fe2370467fcca6f85b29c1b66/5.json",
-    "totalSize": 626087095
+    "url": "https://piston-meta.mojang.com/v1/packages/32c7a27ebcbce1cd5649fc237ccbc65dcf1d79fa/5.json",
+    "totalSize": 626128948
   },
   "assets": "5",
   "downloads": {

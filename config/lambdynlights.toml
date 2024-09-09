@@ -72,6 +72,9 @@ mode = "fancy"
 				potion = true
 				wandering_trader = true
 				wither_skeleton = true
+				painting = true
+				arrow = true
+				husk = true
 
 			[light_sources.settings.entities.artifacts]
 				mimic = true
@@ -120,10 +123,28 @@ mode = "fancy"
 				goldfish = true
 				meadowlark = true
 				catfish = true
+				ant = true
+				glasswing_butterfly = true
+				oriole = true
+				armadillo = true
+				flycatcher = true
+				chameleon = true
+				anteater = true
+				gecko = true
+				python = true
+				alligator = true
+				milk_snake = true
+				bluebird = true
+				hamster = true
 
 			[light_sources.settings.entities.smallships]
 				brigg = true
 
 			[light_sources.settings.entities.mythicmounts]
 				geckotoalizard = true
+				dragon = true
+
+			[light_sources.settings.entities.spell_engine]
+				spell_area_effect = true
+				spell_projectile = true
 
