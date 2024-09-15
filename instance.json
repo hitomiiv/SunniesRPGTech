@@ -75250,232 +75250,160 @@
         }
       },
       {
-        "name": "Origins: Vampire",
-        "version": "Origins: Vampire 2.2.0",
+        "name": "Passable Foliage 🌳",
+        "version": "8.2.1",
         "optional": true,
-        "file": "origins-vampire-v2.2.0.jar",
+        "file": "PassableFoliage-1.20.1-fabric-8.2.1.jar",
         "type": "mods",
-        "description": "Origins: Vampire brings 2 new origins : Vampire and Vampire Lord",
-        "disabled": true,
+        "description": "Remove collision from leaves",
+        "disabled": false,
         "userAdded": true,
         "wasSelected": true,
         "skipped": false,
-        "curseForgeProjectId": 841824,
-        "curseForgeFileId": 5288930,
+        "curseForgeProjectId": 552617,
+        "curseForgeFileId": 4868209,
         "curseForgeProject": {
-          "id": 841824,
-          "name": "Origins: Vampire",
+          "id": 552617,
+          "name": "Passable Foliage 🌳 (Fabric)",
           "authors": [
             {
-              "id": 102471291,
-              "name": "Venekiel",
-              "url": "https://www.curseforge.com/members/venekiel"
+              "id": 21286654,
+              "name": "Snownee",
+              "url": "https://www.curseforge.com/members/snownee"
             }
           ],
           "gameId": 432,
-          "summary": "Origins: Vampire brings 2 new origins : Vampire and Vampire Lord",
+          "summary": "Remove collision from leaves",
           "categories": [
             {
-              "name": "Addons",
-              "slug": "mc-addons",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-addons",
-              "dateModified": "2014-05-08T17:09:48.63Z",
+              "name": "Utility & QoL",
+              "slug": "utility-qol",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/utility-qol",
+              "dateModified": "2021-11-17T11:45:09.143Z",
               "gameId": 432,
               "isClass": false,
-              "id": 426,
-              "iconUrl": "https://media.forgecdn.net/avatars/5/998/635351477886290676.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
-              "name": "Adventure and RPG",
-              "slug": "adventure-rpg",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/adventure-rpg",
-              "dateModified": "2014-05-08T17:42:09.54Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 422,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/37/635351497295252123.png",
+              "id": 5191,
+              "iconUrl": "https://media.forgecdn.net/avatars/456/558/637727379086405233.png",
               "parentCategoryId": 6,
               "classId": 6
             }
           ],
           "status": 4,
-          "primaryCategoryId": 426,
+          "primaryCategoryId": 5191,
           "classId": 6,
-          "slug": "origins-vampire",
+          "slug": "passable-foliage-fabric",
           "isFeatured": false,
-          "dateModified": "2024-04-25T08:21:28.827Z",
-          "dateCreated": "2023-03-24T23:05:13.123Z",
-          "dateReleased": "2024-04-24T21:55:50.133Z",
+          "dateModified": "2024-06-22T00:06:05.337Z",
+          "dateCreated": "2021-12-05T09:35:07.58Z",
+          "dateReleased": "2024-06-21T23:58:58.407Z",
           "links": {
-            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/origins-vampire",
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/passable-foliage-fabric",
             "wikiUrl": "",
-            "issuesUrl": "https://github.com/Venekiel/Origins-Vampire/issues",
-            "sourceUrl": "https://github.com/Venekiel/Origins-Vampire"
+            "issuesUrl": "https://github.com/Snownee/PassableFoliage/issues",
+            "sourceUrl": "https://github.com/Snownee/PassableFoliage"
           },
           "logo": {
-            "id": 803049,
+            "id": 463074,
             "description": "",
-            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/803/49/256/256/638168216263070065.png",
-            "title": "638168216263070065.png",
-            "url": "https://media.forgecdn.net/avatars/803/49/638168216263070065.png",
-            "modId": 841824
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/463/74/256/256/637742937076279896.png",
+            "title": "637742937076279896.png",
+            "url": "https://media.forgecdn.net/avatars/463/74/637742937076279896.png",
+            "modId": 552617
           },
           "allowModDistribution": true,
-          "screenshots": [
-            {
-              "id": 646084,
-              "description": "Each creature has a blood type that defines the hunger it will bring you as well as bonus effects.",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/646/84/310/172/blood_types.png",
-              "title": "Blood types",
-              "url": "https://media.forgecdn.net/attachments/646/84/blood_types.png",
-              "modId": 841824
-            },
-            {
-              "id": 646092,
-              "description": "Vampire Lords have wings to fly faster than in bat form, but they will not protect them from sunlight.",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/646/92/310/172/vampire_vampire_lord.png",
-              "title": "Vampire Vs Vampire Lord",
-              "url": "https://media.forgecdn.net/attachments/646/92/vampire_vampire_lord.png",
-              "modId": 841824
-            },
-            {
-              "id": 646231,
-              "description": "In-game Vampire power descriptions.",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/646/231/310/172/gif_origin_432x448.gif",
-              "title": "Vampire powers",
-              "url": "https://media.forgecdn.net/attachments/646/231/gif_origin_432x448.gif",
-              "modId": 841824
-            },
-            {
-              "id": 646103,
-              "description": "Vampires are faster, stronger and more resilient than humans when their thirst is fulfilled. But the more their thirst grows, the weaker they become.",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/646/103/310/172/vampiric_powers.png",
-              "title": "Vampiric powers",
-              "url": "https://media.forgecdn.net/attachments/646/103/vampiric_powers.png",
-              "modId": 841824
-            },
-            {
-              "id": 646078,
-              "description": "As a vampire, you burn when exposed to sunlight. It also prevents you from regenerating your health.",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/646/78/310/172/sun_burn.png",
-              "title": "Weak to sunlight",
-              "url": "https://media.forgecdn.net/attachments/646/78/sun_burn.png",
-              "modId": 841824
-            },
-            {
-              "id": 646080,
-              "description": "You suck the blood of the living to survive. You can also bottle it for later sipping.",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/646/80/310/172/suck_drink_blood.png",
-              "title": "Blood sucker",
-              "url": "https://media.forgecdn.net/attachments/646/80/suck_drink_blood.png",
-              "modId": 841824
-            },
-            {
-              "id": 646086,
-              "description": "Vampires can transform into bats to move discreetly and freely in the sun.",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/646/86/310/172/bat_form_cropped_x2.jpg",
-              "title": "Bat form",
-              "url": "https://media.forgecdn.net/attachments/646/86/bat_form_cropped_x2.jpg",
-              "modId": 841824
-            },
-            {
-              "id": 646093,
-              "description": "Vampire Lords can see creatures through walls within a 30 block radius.",
-              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/646/93/310/172/detect_living.jpg",
-              "title": "Hunter's instinct",
-              "url": "https://media.forgecdn.net/attachments/646/93/detect_living.jpg",
-              "modId": 841824
-            }
-          ],
-          "mainFileId": 5288930
+          "screenshots": [],
+          "mainFileId": 5456629
         },
         "curseForgeFile": {
-          "id": 5288930,
+          "id": 4868209,
           "gameId": 432,
           "isAvailable": true,
-          "displayName": "Origins-Vampire-fabric-quilt-v2.2.0.jar",
-          "fileName": "origins-vampire-v2.2.0.jar",
+          "displayName": "1.20.1-fabric-8.2.1",
+          "fileName": "PassableFoliage-1.20.1-fabric-8.2.1.jar",
           "releaseType": 1,
           "fileStatus": 4,
-          "fileDate": "2024-04-24T21:55:50.133Z",
-          "fileLength": 161464,
+          "fileDate": "2023-11-15T02:45:01.213Z",
+          "fileLength": 33824,
           "dependencies": [
             {
               "fileId": 0,
-              "modId": 391943,
+              "modId": 549404,
               "relationType": 3
             },
             {
               "fileId": 0,
-              "modId": 868922,
-              "relationType": 3
+              "modId": 574650,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 348521,
+              "relationType": 2
             }
           ],
           "alternateFileId": 0,
           "modules": [
             {
-              "fingerprint": 3854821766,
-              "name": "data"
-            },
-            {
-              "fingerprint": 3329615085,
-              "name": "license.txt"
-            },
-            {
-              "fingerprint": 2306975738,
-              "name": "pack.mcmeta"
-            },
-            {
-              "fingerprint": 2938086567,
-              "name": "pack.png"
-            },
-            {
-              "fingerprint": 3975091102,
-              "name": "README.md"
-            },
-            {
-              "fingerprint": 1766405491,
-              "name": "fabric.mod.json"
-            },
-            {
-              "fingerprint": 3686557330,
-              "name": "quilt.mod.json"
-            },
-            {
-              "fingerprint": 770646028,
+              "fingerprint": 743754749,
               "name": "META-INF"
             },
             {
-              "fingerprint": 2938086567,
-              "name": "origins-vampire_pack.png"
+              "fingerprint": 1563945568,
+              "name": "LICENSE_PassableFoliage"
+            },
+            {
+              "fingerprint": 661646076,
+              "name": "passablefoliage.mixins.json"
+            },
+            {
+              "fingerprint": 3110453225,
+              "name": "passablefoliage.kiwi.json"
+            },
+            {
+              "fingerprint": 2375840913,
+              "name": "passablefoliage.accesswidener"
+            },
+            {
+              "fingerprint": 1517557629,
+              "name": "pack.mcmeta"
+            },
+            {
+              "fingerprint": 1819157145,
+              "name": "fabric.mod.json"
+            },
+            {
+              "fingerprint": 1606917010,
+              "name": "data"
+            },
+            {
+              "fingerprint": 1124679468,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 3755233677,
+              "name": ".cache"
+            },
+            {
+              "fingerprint": 2700381473,
+              "name": "passablefoliage.refmap.json"
+            },
+            {
+              "fingerprint": 1069299745,
+              "name": "snownee"
             }
           ],
           "isServerPack": false,
           "hashes": [
             {
-              "value": "07ed4246856aff81d0ef6fa82aefa91e4a8fafd0",
+              "value": "9ec63b88c2e7f3672236b48a777ca735086f0d36",
               "algo": 1
             },
             {
-              "value": "b31da02f399343cb10cf0807f1e5aa52",
+              "value": "bdf895ec1261bbecb6c6e30df926a626",
               "algo": 2
             }
           ],
           "sortableGameVersions": [
-            {
-              "gameVersionPadded": "0000000001.0000000020.0000000002",
-              "gameVersion": "1.20.2",
-              "gameVersionReleaseDate": "2023-09-21T15:25:15.053Z",
-              "gameVersionName": "1.20.2"
-            },
-            {
-              "gameVersionPadded": "0000000001.0000000019.0000000004",
-              "gameVersion": "1.19.4",
-              "gameVersionReleaseDate": "2023-03-09T00:00:00Z",
-              "gameVersionName": "1.19.4"
-            },
             {
               "gameVersionPadded": "0",
               "gameVersion": "",
@@ -75489,16 +75417,10 @@
               "gameVersionName": "1.20.1"
             },
             {
-              "gameVersionPadded": "0",
-              "gameVersion": "",
-              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
-              "gameVersionName": "Forge"
-            },
-            {
-              "gameVersionPadded": "0",
-              "gameVersion": "",
-              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
-              "gameVersionName": "Server"
+              "gameVersionPadded": "0000000001.0000000020",
+              "gameVersion": "1.20",
+              "gameVersionReleaseDate": "2023-06-07T00:00:00Z",
+              "gameVersionName": "1.20"
             },
             {
               "gameVersionPadded": "0",
@@ -75508,164 +75430,94 @@
             }
           ],
           "gameVersions": [
-            "1.20.2",
-            "1.19.4",
             "Fabric",
             "1.20.1",
-            "Forge",
-            "Server",
+            "1.20",
             "Quilt"
           ],
-          "fileFingerprint": 2009463224,
-          "modId": 841824
+          "fileFingerprint": 3135014008,
+          "modId": 552617
         },
         "modrinthProject": {
-          "id": "wXwvlA97",
-          "slug": "origins-vampire",
+          "id": "uaLW6JVR",
+          "slug": "passable-foliage",
           "project_type": "mod",
-          "team": "eFracQLj",
-          "title": "Origins: Vampire",
-          "description": "Origins: Vampire brings 2 new origins : Vampire and Vampire Lord",
-          "body": "# Origins: Vampire\n\n**Required dependency: [Identity mod](https://www.curseforge.com/minecraft/mc-mods/identity/files/4399470)** (for versions 2.0.0 and 2.1.0)\n\nOrigins: Vampire brings 2 origins to the game :\n- Vampire\n- Vampire Lord\n\nOnly the Vampire origin is selectable when choosing your origin. You'll need to drink the blood of the Ender Dragon to become a Vampire Lord, but it will not let you sip it without a fight.\n\n(Until v2.0.0) You'll need to obtain the advancement \"[Free the End](https://minecraft.fandom.com/wiki/The_End#Achievements)\" to evolve from a Vampire to a Vampire Lord\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/i35rWw4szM8\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n## Vampire\n\n### Undead : \nVampires are undead creatures that suck the blood of the living to fulfill their thirst.\nTheir undead condition makes them immune to poison and freezing damage, but weak to fire, and sunlight. They also don't have to breath to survive.\n\n### Unholy :\nThey are weak to wooden tools, as such being hit by one will incapacitate him for a brief amount of time.\n\n### Diet :\nAs vampires, their diet is limited to blood. They can suck it straight from the living or bottle it to drink later.\nWhen their thirst is satisfied, vampires are stronger and faster than humans, and can see clearly in the dark.\n\n### Healing :\nVampires heal faster but it makes them thirsty quickly.\nTheir weakness to fire and sunlight prevents them from healing while affected by this.\n\n### Bat form :\nVampires can transform into bats to move discretly and prevent the sunlight from affecting them.\nOn the other hand this form is more fragile, and does not have hands, preventing them to use their tools.\n\n## Vampire Lord\nThey inherit their characteristics from their previous form, with extras.\n\n### Winged :\nVampire Lords have wings strong enough to propel them forward while flying.\n\n### Hunter's instinct :\nThey gained the ability to detect the living around them and know whether they are hostile to them or not.\n\n## Links\n[![curseforge](https://img.shields.io/badge/curseforge-143?style=for-the-badge&logo=curseforge&logoColor=black&color=black&labelColor=orange&link=hhttps://www.curseforge.com/minecraft/mc-mods/origins-vampire)](https://www.curseforge.com/minecraft/mc-mods/origins-vampire)\n[![discord](https://img.shields.io/badge/discord-143?style=for-the-badge&logo=discord&logoColor=white&color=black&labelColor=5865F2&link=https://discord.com/invite/C6uYzAqXpA)](https://discord.com/invite/C6uYzAqXpA)\n[![ko-fi](https://img.shields.io/badge/buy_me_a_coffee-143?style=for-the-badge&logo=kofi&logoColor=white&color=salmon&labelColor=salmon&link=https://ko-fi.com/venekiel)](https://ko-fi.com/venekiel)",
-          "published": "2023-03-24T21:03:25.649097Z",
-          "updated": "2024-04-24T21:51:28.225898Z",
+          "team": "Vpj1TaoZ",
+          "title": "Passable Foliage 🌳",
+          "description": "Remove collision from leaves",
+          "body": "# Passable Foliage 🌳\n\nThis mod removes collision from leaves and reduces the damage when falling into leaves. This can be applied to all entities or only to players.\n\nVery helpful when you are riding through a forest.\n\nThere is also a new enchantment that makes you able to climb and stand on the leaves.\n\n### Technical information\n\nThere is a block tag that controls whether a block is passable. So you can customize everything yourself.\n\n[![Interested in supporting me and the development of mods? BisectHosting is the perfect solution. New customers can use the promotion code \"snownee\" to get a 25% discount on their first month of a gaming server. With 24/7 support and fast response times, you can expect top-notch service for all your gaming needs.](https://www.bisecthosting.com/partners/custom-banners/e826c64b-9e14-433d-a083-26f659f8a41c.webp)](https://rb.gy/sscocj)",
+          "published": "2022-12-10T21:56:54.712271Z",
+          "updated": "2024-06-21T23:59:06.139483Z",
           "status": "approved",
           "license": {
-            "id": "GPL-3.0-only",
-            "name": "GNU General Public License v3.0 only",
-            "url": "https://github.com/Travelers-Tales/Origins-Vampire/blob/latest/license.txt"
+            "id": "MIT",
+            "name": "MIT License"
           },
-          "client_side": "optional",
+          "client_side": "required",
           "server_side": "required",
           "categories": [
-            "adventure",
-            "game-mechanics"
+            "game-mechanics",
+            "utility"
           ],
-          "icon_url": "https://cdn.modrinth.com/data/wXwvlA97/2fd50310ad5fd08fdd8f19f5cec0ea0b1307de78_96.webp",
-          "issues_url": "https://github.com/Venekiel/Origins-Vampire/issues",
-          "source_url": "https://github.com/Venekiel/Origins-Vampire",
-          "discord_url": "https://discord.com/invite/C6uYzAqXpA",
+          "icon_url": "https://cdn.modrinth.com/data/uaLW6JVR/87d86ab27cf9ab08a5a77f17b1d89c4514209043_96.webp",
+          "issues_url": "https://github.com/Snownee/PassableFoliage/issues",
+          "source_url": "https://github.com/Snownee/PassableFoliage",
+          "discord_url": "https://discord.gg/KzGQW7a",
           "donation_urls": [
             {
               "id": "ko-fi",
               "platform": "Ko-fi",
-              "url": "https://ko-fi.com/venekiel"
+              "url": "https://ko-fi.com/snownee"
+            },
+            {
+              "id": "patreon",
+              "platform": "Patreon",
+              "url": "https://www.patreon.com/snownee"
             }
           ],
-          "gallery": [
-            {
-              "url": "https://cdn.modrinth.com/data/wXwvlA97/images/dd0c16ded14b8d5b9d70dcef2a66da298f88b4ea_350.webp",
-              "raw_url": "https://cdn.modrinth.com/data/wXwvlA97/images/dd0c16ded14b8d5b9d70dcef2a66da298f88b4ea.png",
-              "featured": false,
-              "title": "Vampiric powers",
-              "description": "Vampires are faster, stronger and more resilient than humans when their thirst is fulfilled. But the more their thirst grows, the weaker they become.",
-              "created": "2023-04-11T13:16:06.380438Z",
-              "ordering": 1.0
-            },
-            {
-              "url": "https://cdn.modrinth.com/data/wXwvlA97/images/f36448f2c4c221e33995d1cc2ed068ae0a96d2d6_350.webp",
-              "raw_url": "https://cdn.modrinth.com/data/wXwvlA97/images/2a8c1477d47bada32daf41145408750133671ee0.png",
-              "featured": true,
-              "title": "Weak to sunlight",
-              "description": "As a vampire, you burn when exposed to sunlight. It also prevents you from regenerating your health.",
-              "created": "2023-04-11T13:00:02.764123Z",
-              "ordering": 2.0
-            },
-            {
-              "url": "https://cdn.modrinth.com/data/wXwvlA97/images/7d99f3ecedfbe5e1d56f449697d53085f42aa3f6_350.webp",
-              "raw_url": "https://cdn.modrinth.com/data/wXwvlA97/images/7d99f3ecedfbe5e1d56f449697d53085f42aa3f6.png",
-              "featured": false,
-              "title": "Blood sucker",
-              "description": "You suck the blood of the living to survive. You can also bottle it for later sipping.",
-              "created": "2023-04-11T13:00:46.119102Z",
-              "ordering": 3.0
-            },
-            {
-              "url": "https://cdn.modrinth.com/data/wXwvlA97/images/9a9d7a2d1129ec1480cee4a16f753b27317ec0b8_350.webp",
-              "raw_url": "https://cdn.modrinth.com/data/wXwvlA97/images/9a9d7a2d1129ec1480cee4a16f753b27317ec0b8.png",
-              "featured": false,
-              "title": "Blood types",
-              "description": "Each creature has a blood type that defines the hunger it will bring you as well as bonus effects.",
-              "created": "2023-04-11T13:01:24.093554Z",
-              "ordering": 4.0
-            },
-            {
-              "url": "https://cdn.modrinth.com/data/wXwvlA97/images/81e73886def1282e9642cb8e2f7911adbd376f67_350.webp",
-              "raw_url": "https://cdn.modrinth.com/data/wXwvlA97/images/81e73886def1282e9642cb8e2f7911adbd376f67.jpeg",
-              "featured": false,
-              "title": "Bat form",
-              "description": "Vampires can transform into bats to move discreetly and freely in the sun.",
-              "created": "2023-04-11T13:02:05.621760Z",
-              "ordering": 5.0
-            },
-            {
-              "url": "https://cdn.modrinth.com/data/wXwvlA97/images/067a277719edda33f940f1e138e48a86abbac087.gif",
-              "raw_url": "https://cdn.modrinth.com/data/wXwvlA97/images/067a277719edda33f940f1e138e48a86abbac087.gif",
-              "featured": false,
-              "title": "Vampire powers",
-              "description": "In-game Vampire power descriptions.",
-              "created": "2023-04-11T20:55:23.105115Z",
-              "ordering": 6.0
-            },
-            {
-              "url": "https://cdn.modrinth.com/data/wXwvlA97/images/1b08d3ffa4d7be55f58d1498db05e59d2b05b226_350.webp",
-              "raw_url": "https://cdn.modrinth.com/data/wXwvlA97/images/1b08d3ffa4d7be55f58d1498db05e59d2b05b226.png",
-              "featured": false,
-              "title": "Vampire Vs Vampire Lord",
-              "description": "Vampire Lords have wings to fly faster than in bat form, but they will not protect them from sunlight.",
-              "created": "2023-04-11T13:03:04.189674Z",
-              "ordering": 7.0
-            },
-            {
-              "url": "https://cdn.modrinth.com/data/wXwvlA97/images/6a22cfd6bdb5b1cb89417f29f0935f93ba570c44_350.webp",
-              "raw_url": "https://cdn.modrinth.com/data/wXwvlA97/images/6a22cfd6bdb5b1cb89417f29f0935f93ba570c44.jpeg",
-              "featured": false,
-              "title": "Hunter's instinct",
-              "description": "Vampire Lords can see creatures through walls within a 30 block radius.",
-              "created": "2023-04-11T13:03:34.506915Z",
-              "ordering": 8.0
-            }
-          ]
+          "gallery": []
         },
         "modrinthVersion": {
-          "id": "9MQUKSrq",
-          "project_id": "wXwvlA97",
-          "author_id": "2J7ckXgU",
-          "name": "Origins: Vampire 2.2.0",
-          "version_number": "v2.2.0+mod",
-          "changelog": "* Replaced the mod used for bat form from Identity to Woodwalkers.\n* Added titles during transformation into vampire lord to explain a bit what is going on.\n* Added a command to give yourself the Enderdragon's blood.\n* Minecraft 1.20.2 now supported.\n\n**Full Changelog**: https://github.com/Venekiel/Origins-Vampire/compare/v2.1.0...v2.2.0",
-          "date_published": "2024-04-24T21:51:28.684438Z",
+          "id": "1xNaGFdB",
+          "project_id": "uaLW6JVR",
+          "author_id": "UxbEV316",
+          "name": "8.2.1",
+          "version_number": "8.2.1",
+          "changelog": "## 8.2.1\n\n- feat: mixin missing prop `canOcclude` in block state\n- Merge pull request #47 from SettingDust/1.20-fabric\n- Merge tag 'forge-8.2.0' into 1.20-fabric\n\n## 8.2.0\n\n- Merge pull request #46 from SettingDust/1.20-fabric\n- feat: support pathfinding on fabric\n- chore: able to import project without tokens\n\n## 8.2.0\n\n- fix: incorrect block shade brightness\n- fix: accurate the slowness collision\n- parity\n\n## 8.1.0\n\n- unified publishing\n- improve: comment out unavailable option\n- feat: language datagen\n- fix: cherry leaves spawn more particles than vanilla\n- fix: water can spill from leaves. also hopefully improve performance\n\n## 8.1.0\n\n- unified publishing\n- improve: comment out unavailable option\n- feat: language datagen\n- fix: cherry leaves spawn more particles than vanilla\n- fix: water can spill from leaves. also hopefully improve performance\n- 1.20 port\n- 7.0.1\n- fix: higher priority\n- 1.19.4 port\n- feat: alwaysLeafWalking\n- fix: #36\n- feat: hide entity name tag if they are fully inside foliage\n- fix: #38\n- .\n- feat: 30\n- port 1.19.3\n- .\n- fix: enchantment\n- 1.19",
+          "date_published": "2023-11-15T02:45:18.073088Z",
           "version_type": "release",
           "files": [
             {
               "hashes": {
-                "sha512": "74927aa74a7ac33f9b7503a0592f48da8a57da86a0b744b82932a834969521b7b8003a37775ebda49841ef6b71cfc07cbba6c5be94f86c488fb90086a1a04d4a",
-                "sha1": "07ed4246856aff81d0ef6fa82aefa91e4a8fafd0"
+                "sha1": "9ec63b88c2e7f3672236b48a777ca735086f0d36",
+                "sha512": "f6891f171bba5ebb63621671b7801dfaf8df9c1dc3387633f91a6f59950100ae86679bcaea298589140c01f9ef1f391ccb50f2db65c7a81ede6e5e61c6f4861e"
               },
-              "url": "https://cdn.modrinth.com/data/wXwvlA97/versions/9MQUKSrq/origins-vampire-v2.2.0.jar",
-              "filename": "origins-vampire-v2.2.0.jar",
+              "url": "https://cdn.modrinth.com/data/uaLW6JVR/versions/1xNaGFdB/PassableFoliage-1.20.1-fabric-8.2.1.jar",
+              "filename": "PassableFoliage-1.20.1-fabric-8.2.1.jar",
               "primary": true,
-              "size": 161464
+              "size": 33824
             }
           ],
           "dependencies": [
             {
-              "project_id": "Sr1HeD8z",
-              "dependency_type": "required"
+              "project_id": "9s6osm5g",
+              "dependency_type": "optional"
             },
             {
-              "project_id": "3BeIrqZR",
+              "project_id": "TdN6LxjM",
+              "dependency_type": "optional"
+            },
+            {
+              "project_id": "ufdDoWPd",
               "dependency_type": "required"
             }
           ],
           "game_versions": [
-            "1.19.4",
-            "1.20.1",
-            "1.20.2"
+            "1.20",
+            "1.20.1"
           ],
           "loaders": [
             "fabric",
-            "forge",
             "quilt"
           ]
         }
@@ -75674,8 +75526,8 @@
     "ignoredUpdates": [],
     "ignoreAllUpdates": false,
     "vanillaInstance": true,
-    "lastPlayed": 1726359211313,
-    "numPlays": 104,
+    "lastPlayed": 1726360141326,
+    "numPlays": 105,
     "lastExportName": "Sunnie's RPG Tech",
     "lastExportVersion": "1.20.1",
     "lastExportAuthor": "Hitomiiv",
