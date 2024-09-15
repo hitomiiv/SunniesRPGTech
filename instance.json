@@ -72499,13 +72499,3183 @@
             "fabric"
           ]
         }
+      },
+      {
+        "name": "Origins",
+        "version": "1.20.0/1: Origins 1.10.0",
+        "optional": true,
+        "file": "Origins-1.20.1-1.10.0.jar",
+        "type": "mods",
+        "description": "Players choose an Origin at the beginning of the game to gain benefits and drawbacks",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 391943,
+        "curseForgeFileId": 4609386,
+        "curseForgeProject": {
+          "id": 391943,
+          "name": "Origins (Fabric)",
+          "authors": [
+            {
+              "id": 100612718,
+              "name": "Apace",
+              "url": "https://www.curseforge.com/members/apace"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Players choose an Origin at the beginning of the game to gain benefits and drawbacks",
+          "categories": [
+            {
+              "name": "Adventure and RPG",
+              "slug": "adventure-rpg",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/adventure-rpg",
+              "dateModified": "2014-05-08T17:42:09.54Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 422,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/37/635351497295252123.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 422,
+          "classId": 6,
+          "slug": "origins",
+          "isFeatured": false,
+          "dateModified": "2024-08-30T10:05:28.827Z",
+          "dateCreated": "2020-06-25T17:59:05.81Z",
+          "dateReleased": "2024-08-30T10:00:37.423Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/origins",
+            "wikiUrl": "https://origins.readthedocs.io/",
+            "issuesUrl": "https://github.com/apace100/origins-fabric/issues",
+            "sourceUrl": "https://github.com/apace100/origins-fabric"
+          },
+          "logo": {
+            "id": 281890,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/281/890/256/256/637287047458350246.png",
+            "title": "637287047458350246.png",
+            "url": "https://media.forgecdn.net/avatars/281/890/637287047458350246.png",
+            "modId": 391943
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 5302140
+        },
+        "curseForgeFile": {
+          "id": 4609386,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "1.20.x: Origins 1.10.0",
+          "fileName": "Origins-1.20.1-1.10.0.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2023-06-25T19:38:05.327Z",
+          "fileLength": 2543753,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 318449,
+              "relationType": 1
+            },
+            {
+              "fileId": 0,
+              "modId": 306612,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 359522,
+              "relationType": 1
+            },
+            {
+              "fileId": 0,
+              "modId": 348521,
+              "relationType": 1
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 2783115089,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 1013620461,
+              "name": "LICENSE"
+            },
+            {
+              "fingerprint": 1223747239,
+              "name": "origins.mixins.json"
+            },
+            {
+              "fingerprint": 1444893888,
+              "name": "fabric.mod.json"
+            },
+            {
+              "fingerprint": 1061866408,
+              "name": "data"
+            },
+            {
+              "fingerprint": 889695985,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 3949796062,
+              "name": "Origins-1.20.1-refmap.json"
+            },
+            {
+              "fingerprint": 16987434,
+              "name": "io"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "e85bbe9554283840ca1d05b09181be29f3a623c0",
+              "algo": 1
+            },
+            {
+              "value": "aa4c6d7d254ed6240d755cb7eae21b16",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-09-01T00:00:00Z",
+              "gameVersionName": "Fabric"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Client"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020",
+              "gameVersion": "1.20",
+              "gameVersionReleaseDate": "2023-06-07T00:00:00Z",
+              "gameVersionName": "1.20"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Server"
+            }
+          ],
+          "gameVersions": [
+            "Fabric",
+            "Client",
+            "1.20.1",
+            "1.20",
+            "Server"
+          ],
+          "fileFingerprint": 472424321,
+          "modId": 391943
+        },
+        "modrinthProject": {
+          "id": "3BeIrqZR",
+          "slug": "origins",
+          "project_type": "mod",
+          "team": "X4UpzJKe",
+          "title": "Origins",
+          "description": "Players choose an Origin at the beginning of the game to gain benefits and drawbacks",
+          "body": "## Description\nChoose an Origin and begin your game with special abilities, some of which help you out, while others hinder you in your gameplay. The different Origins all have a different impact on the vanilla gameplay. If you don't like these at all, you can also pick the \"Human\" origin while playing with friends on a server.\n\n## Currently featuring 9 Origins (+ Human):\n![OriginDescriptions](https://i.imgur.com/617o2yF.png)\n\n## Data-driven\nOrigins is very data-driven, allowing you to add, modify and remove origins as you like. There is an active community of data pack makers on the Discord, with ready-made data packs for you to download and enjoy, as well as for getting help if you want to try your hand at creating your own data pack.\n\nIf you want to get started, I suggest visiting the wiki of the mod on GitHub: https://github.com/apace100/origins-fabric/wiki\n\n## Community\nThere are a lot of enthusiasts of the mod and people who make data packs on the Discord! There are channels for discussion, posting origin ideas, sharing data packs, and more. You'll find me there from time to time as well. :)\nFeel free to join: https://discord.gg/4mTMHu3",
+          "published": "2021-03-01T21:00:14.804989Z",
+          "updated": "2024-08-30T10:00:03.769102Z",
+          "status": "approved",
+          "license": {
+            "id": "MIT",
+            "name": "MIT License"
+          },
+          "client_side": "required",
+          "server_side": "required",
+          "categories": [
+            "adventure"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/3BeIrqZR/icon.png",
+          "issues_url": "https://github.com/apace100/origins-fabric/issues",
+          "source_url": "https://github.com/apace100/origins-fabric",
+          "wiki_url": "https://github.com/apace100/origins-fabric/wiki",
+          "discord_url": "https://discord.gg/4mTMHu3",
+          "donation_urls": [
+            {
+              "id": "patreon",
+              "platform": "Patreon",
+              "url": "https://www.patreon.com/apace100"
+            }
+          ],
+          "gallery": []
+        },
+        "modrinthVersion": {
+          "id": "OdNHB7Bh",
+          "project_id": "3BeIrqZR",
+          "author_id": "g6LkRuia",
+          "name": "1.20.0/1: Origins 1.10.0",
+          "version_number": "1.10.0",
+          "changelog": "Updated to support 1.20 and 1.20.1.\n\nThanks @halbrg, @eggohito and @MerchantPug for updating Origins' dependencies and new Apoli features and fixes.\n\nRead more about Apoli changes in [the Apoli 2.9.0 changelog](https://github.com/apace100/apoli/releases/tag/v2.9.0).\n\nThe above changelog should be read by datapack developers due to deprecation of the `material` block condition.\n\nPlayers using a lot of mods and upgrading their world to 1.20 should also read the above notice and make use of the material tag generation tool.\n\n\n* Updated Turkish translation (thanks BoranYEET on Discord)\n* Added missing, new translation keys to all language files\n* Updated the mod dependency metadata, which fixes unexpected crashes when using outdated FAPI versions\n\nNote to add-on (not datapack) developers: this build currently includes a locally built version of ReachEntityAttributes which has updated mod metadata to allow it to run on 1.20. This means your gradle build script will not be able to resolve the dependency. You can build this JAR from [this fork](https://github.com/anchikai/reach-entity-attributes/tree/1.20) and publish it to your local maven for development. ",
+          "date_published": "2023-06-25T19:41:08.061453Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha1": "e85bbe9554283840ca1d05b09181be29f3a623c0",
+                "sha512": "4d1807f0b37699a80b7371c1304075fdaddabe4ff1717ea739e7ba6a9df4bfd6986920f8e33417d7d1e5155e0bc2ab2ec7706405d9c4c55092ebb3c63eb3b88c"
+              },
+              "url": "https://cdn.modrinth.com/data/3BeIrqZR/versions/OdNHB7Bh/Origins-1.20.1-1.10.0.jar",
+              "filename": "Origins-1.20.1-1.10.0.jar",
+              "primary": true,
+              "size": 2543753
+            }
+          ],
+          "dependencies": [
+            {
+              "version_id": "hFdJG9fY",
+              "project_id": "P7dR8mSH",
+              "dependency_type": "required"
+            },
+            {
+              "version_id": "s7VTKfLA",
+              "project_id": "9s6osm5g"
+            },
+            {
+              "version_id": "qW85eawp",
+              "project_id": "K01OU20C"
+            },
+            {
+              "version_id": "eTCL1uh8",
+              "project_id": "mOgUt4GM",
+              "dependency_type": "optional"
+            }
+          ],
+          "game_versions": [
+            "1.20",
+            "1.20.1"
+          ],
+          "loaders": [
+            "fabric"
+          ]
+        }
+      },
+      {
+        "name": "Origin Furs",
+        "version": "Origin Furs 1.0.10",
+        "optional": true,
+        "file": "originfur-1.0.10.jar",
+        "type": "mods",
+        "description": "A Origins extension mod which adds visuals for each origin, that modifies and adds onto the player model.",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "modrinthProject": {
+          "id": "T0alwZVT",
+          "slug": "origin-furs",
+          "project_type": "mod",
+          "team": "vit8mBkL",
+          "title": "Origin Furs",
+          "description": "A Origins extension mod which adds visuals for each origin, that modifies and adds onto the player model.",
+          "body": "## A Origins mod extension that adds models and visuals to the Player.\n\nAll models are custom-made using AzureLib (Or GeckoLib), and support overlaying skins, fullbright textures, and custom model parts & animations.\n\nIf using on a server, make sure this mod is on the server as well! \nOtherwise rendering may not work properly\n\n### Supported mods:\n\n- [(+) Origins](https://modrinth.com/mod/origins)\n- [(+) Extra Origins](https://modrinth.com/mod/extra-origins)\n- [(&) Mob Origins](https://modrinth.com/mod/moborigins)\n- [(?) Ventur Origin](https://modrinth.com/mod/venturorigin)\n- [(?) Origins++](https://modrinth.com/mod/origins-plus-plus)\n- [(?) TooManyOrigins](https://modrinth.com/mod/toomanyorigins)\n- [(?) Origins Minus](https://modrinth.com/mod/origins-minus)\n- [(?) Grounded Origins](https://modrinth.com/mod/grounded-origins)\n- [(?) Aspects](https://modrinth.com/mod/aspects)\n- [(?) Wolfkin Origin](https://modrinth.com/mod/wolfkin-origin)\n- [(?) Slime Origin Remastered](https://modrinth.com/mod/slimeorigin)\n- [(?) Entropy's Chosen](https://modrinth.com/datapack/entropys-chosen)\n- [(?) Horrorgins](https://modrinth.com/mod/horrorgins)\n- [(?) Lankaster's Origins](https://modrinth.com/mod/lankasters-origins)\n- [(?) Wiidude's Custom Origins](https://modrinth.com/mod/wiidudes-custom-origins)\n- [(?) Unethly Origin](https://modrinth.com/mod/unethly-origin)\n- [(?) Mythical Origins](https://www.curseforge.com/minecraft/mc-mods/mythical-origins)\n- *\\* : not fully implemented*\n\n- *\\- : not supported*\n\n- *\\+ : fully supported*\n- *\\& : partially implemented as of current version*\n- *\\% : in progress*\n- *\\? : planned*\n\n\n\n## CURRENT INCOMPATIBILITIES:\n\n\nThe rendering backend for this mod is entirely custom, and efficient. It's much more minimal than [Figura](https://modrinth.com/mod/figura?hl=en-US) as it only has things that effect the player's model.\n\nThis backend will be turned into a library soon, and become a dependency as well\n",
+          "published": "2023-07-25T10:48:27.188669Z",
+          "updated": "2024-08-13T18:58:12.251046Z",
+          "status": "approved",
+          "license": {
+            "id": "Unlicense",
+            "name": "The Unlicense"
+          },
+          "client_side": "required",
+          "server_side": "required",
+          "categories": [
+            "adventure",
+            "decoration",
+            "magic"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/T0alwZVT/717f78e7ecbc96af6a4be2e8842136e2ff8c9408.png",
+          "source_url": "https://github.com/avetharun/OriginalFur",
+          "wiki_url": "https://originalfur.readthedocs.io/en/latest/",
+          "discord_url": "https://discord.gg/UgAu3rEyrJ",
+          "donation_urls": [],
+          "gallery": [
+            {
+              "url": "https://cdn.modrinth.com/data/T0alwZVT/images/053ba0a73db73593ea0aaf52e5dcff4a5f116593_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/T0alwZVT/images/ce0b8e9c1668345ddf31771682a32796f4d083c7.png",
+              "featured": false,
+              "title": "Phantom - Elytra (Origins)",
+              "description": "Image source: VanillaTweaks Phantom Elytra",
+              "created": "2023-07-25T11:17:36.661535Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/T0alwZVT/images/076fe5f6b462abe40da6a3afdf72b4c68fab3175.png",
+              "raw_url": "https://cdn.modrinth.com/data/T0alwZVT/images/076fe5f6b462abe40da6a3afdf72b4c68fab3175.png",
+              "featured": false,
+              "title": "Phantom - New Model (back)",
+              "created": "2023-08-23T18:56:38.418740Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/T0alwZVT/images/0d56b5dfe6bceb82328241b4e3daeea7ab1bc4f7_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/T0alwZVT/images/e69fbf3a162f162649d65d8c96a982d1132ec36b.png",
+              "featured": false,
+              "title": "Arachnid - Day (Origins)",
+              "created": "2023-07-25T11:15:12.137455Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/T0alwZVT/images/0f7f8438450ee1699eaa188ea080b962a9a45572_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/T0alwZVT/images/b79b81d8f50c8592672223465e41c3526138308a.png",
+              "featured": false,
+              "title": "Feline (Origins)",
+              "created": "2023-07-25T11:19:32.269334Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/T0alwZVT/images/165f4767c72d77322dade7772a954865b862f7a9_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/T0alwZVT/images/85def2a36b423ee6c050b5a87daeaffb7c15e589.png",
+              "featured": false,
+              "title": "Elytrian (Origins)",
+              "description": "Adds a custom Elytra texture to the Elytra.",
+              "created": "2023-07-25T11:15:45.016648Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/T0alwZVT/images/277be30aaed4b37560c859108adef3dc8a422012_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/T0alwZVT/images/96ac5ff88e43bcf47c3483bd2f81c8eafcefce03.png",
+              "featured": false,
+              "title": "Avian - Back (Origins)",
+              "created": "2023-07-25T11:14:50.339249Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/T0alwZVT/images/37fdf96b17c3aff2008b2c9a950a667bfef99e3d_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/T0alwZVT/images/e6f13137137048b735ee4947245870d37ac31550.png",
+              "featured": true,
+              "title": "All origins as of the first release!",
+              "created": "2023-07-25T23:01:07.342792Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/T0alwZVT/images/651de2f4ae8d4383dcf9daf863e81d01b6b27d94_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/T0alwZVT/images/7037dd14d184743502908ab9ffedd7144a1ee328.png",
+              "featured": false,
+              "title": "Phantom (Origins)",
+              "created": "2023-07-25T11:17:51.112723Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/T0alwZVT/images/72a62cd81db68465bbe07c8caaa3450698254165_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/T0alwZVT/images/648818b50777219d4288de8f45245f44f4974031.png",
+              "featured": false,
+              "title": "Merling - Back (Origins)",
+              "created": "2023-07-25T11:18:43.089202Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/T0alwZVT/images/86be2e03a857d26b398e6ea887ec1d212e466718_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/T0alwZVT/images/042e94570bd1998db8f9ea641f7bfc7e24e01d51.png",
+              "featured": false,
+              "title": "Merling - Front (Origins)",
+              "created": "2023-07-25T11:18:28.646578Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/T0alwZVT/images/8d8623e2d693248e5bf31c049af175f2e6daa876_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/T0alwZVT/images/7b8a06ea6a1b79f781bc6149823d650dcd6d3663.png",
+              "featured": false,
+              "title": "Blazeborn (Origins)",
+              "created": "2023-07-25T11:18:09.532076Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/T0alwZVT/images/a237810c4bc1edc959aa8328ed5fcd472d123ba5_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/T0alwZVT/images/91c8a5e7f3f3d838bee288a2b1dae16da078fc55.png",
+              "featured": false,
+              "title": "Human (Origins)",
+              "created": "2023-07-25T11:14:15.653452Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/T0alwZVT/images/ad1ca5bf20d709a682d7e2bb32e338737e71eff1_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/T0alwZVT/images/2669418533c1f66d8d20643e69136a7d045227dd.png",
+              "featured": false,
+              "title": "Avian - Elytra (Origins)",
+              "description": "Avians long for the skies- So they built their own wings!",
+              "created": "2023-07-25T11:19:59.099235Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/T0alwZVT/images/b2387e665937752451b934ea9c1dc3bfd2b4b073_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/T0alwZVT/images/d74a6f2990951a8a5f47a3b2d44842407f9dc004.png",
+              "featured": false,
+              "title": "Shulk (Origins)",
+              "created": "2023-07-25T11:19:43.476635Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/T0alwZVT/images/b3a4a102b76ec0e9800f8cdb018ef0015658d366_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/T0alwZVT/images/e230db7ef075337b12c482c4ad1b9a3652606976.png",
+              "featured": false,
+              "title": "Elytrian - Elytra (Origins)",
+              "created": "2023-07-25T11:20:29.351611Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/T0alwZVT/images/beaf80fc6fb5d76d5607d727ad38102c61c9f79d.png",
+              "raw_url": "https://cdn.modrinth.com/data/T0alwZVT/images/beaf80fc6fb5d76d5607d727ad38102c61c9f79d.png",
+              "featured": false,
+              "title": "Phantom - New model (front)",
+              "created": "2023-08-23T18:56:23.149415Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/T0alwZVT/images/c99805becd2bf195c335669fd5a658dec6a6eaf0_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/T0alwZVT/images/9606cc5b922491dc160c9bf91b543d9bc433e53d.png",
+              "featured": false,
+              "title": "Avian - Front (Origins)",
+              "created": "2023-07-25T11:14:38.157491Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/T0alwZVT/images/d115fe4d682d1b76cf7a897c9509bd2b502c0ab1_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/T0alwZVT/images/2d595ef929e91f8e513718659c790b9255a3ae73.png",
+              "featured": false,
+              "title": "Shulk - Elytra (Origins)",
+              "created": "2023-07-25T11:20:42.245085Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/T0alwZVT/images/f411aea0cfaa8f21814d8a499414dca212c740a2_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/T0alwZVT/images/a6322fc119e5a6f89d93d6a8dbc9003c9298c341.png",
+              "featured": false,
+              "title": "Arachnid - Night (Origins)",
+              "created": "2023-07-25T11:15:21.458043Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/T0alwZVT/images/ff032050051c067c60ccfd5c2ac23b7c7d17e34b_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/T0alwZVT/images/582f2ddd78295928d6774effcae34ee3976d5ec0.png",
+              "featured": false,
+              "title": "Enderian (Origins)",
+              "description": "This one is unique- It modifies where the player holds the item in their hand to be further down.",
+              "created": "2023-07-25T11:19:15.432584Z",
+              "ordering": 0.0
+            }
+          ]
+        },
+        "modrinthVersion": {
+          "id": "YsNh3WnN",
+          "project_id": "T0alwZVT",
+          "author_id": "2MFliaK3",
+          "name": "Origin Furs 1.0.10",
+          "version_number": "1.0.10",
+          "changelog": "Fixed a crash related to the OriginsRegistry class not loading (?) \n\nIf this continues to occur, or you find the following message in your logs, then please create an issue and provide your entire log file! \n```\n[ORIF] Failed to load origins registry! Ensure the Origins mod is loaded! Some models may not work, and crashes may occur!\n```\n",
+          "date_published": "2024-03-03T02:34:35.407976Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha1": "8f52c75f516f45b462a34e1e2555dce8a9eae200",
+                "sha512": "a4885b3789a47d38eab7a7026c853557f325f07f4b49910af930491f1c8c2a9da6946d86bf6da4a31560745e529f4329167be5ab8348fd794eaaf38bc2e797c9"
+              },
+              "url": "https://cdn.modrinth.com/data/T0alwZVT/versions/YsNh3WnN/originfur-1.0.10.jar",
+              "filename": "originfur-1.0.10.jar",
+              "primary": true,
+              "size": 627739
+            }
+          ],
+          "dependencies": [
+            {
+              "project_id": "3BeIrqZR",
+              "dependency_type": "required"
+            },
+            {
+              "project_id": "7zlUOZvb",
+              "dependency_type": "required"
+            }
+          ],
+          "game_versions": [
+            "1.20.1",
+            "1.20.2",
+            "1.20.3",
+            "1.20.4"
+          ],
+          "loaders": [
+            "fabric"
+          ]
+        }
+      },
+      {
+        "name": "Pehkui",
+        "version": "Pehkui 3.8.3",
+        "optional": true,
+        "file": "Pehkui-3.8.3+1.14.4-1.21.jar",
+        "type": "mods",
+        "description": "Lets you change the size of most entities, shrinking their scale smaller or growing them larger",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 319596,
+        "curseForgeFileId": 5419266,
+        "curseForgeProject": {
+          "id": 319596,
+          "name": "Pehkui",
+          "authors": [
+            {
+              "id": 8571623,
+              "name": "Virtuoel",
+              "url": "https://www.curseforge.com/members/virtuoel"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Allows resizing of most entities, shrinking their scale smaller or growing their size larger",
+          "categories": [
+            {
+              "name": "API and Library",
+              "slug": "library-api",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/library-api",
+              "dateModified": "2014-05-23T03:21:44.06Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 421,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/36/635351496947765531.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 421,
+          "classId": 6,
+          "slug": "pehkui",
+          "isFeatured": false,
+          "dateModified": "2024-06-19T18:20:50.867Z",
+          "dateCreated": "2019-04-16T21:50:43.663Z",
+          "dateReleased": "2024-06-19T18:12:12.983Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/pehkui",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/Virtuoel/Pehkui/issues",
+            "sourceUrl": "https://github.com/Virtuoel/Pehkui"
+          },
+          "logo": {
+            "id": 199987,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/199/987/256/256/636910482436953576.png",
+            "title": "636910482436953576.png",
+            "url": "https://media.forgecdn.net/avatars/199/987/636910482436953576.png",
+            "modId": 319596
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 5419266
+        },
+        "curseForgeFile": {
+          "id": 5419266,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "[1.14.4 - 1.21] Pehkui 3.8.3",
+          "fileName": "Pehkui-3.8.3+1.14.4-1.21.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2024-06-11T20:50:17.99Z",
+          "fileLength": 555041,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 306612,
+              "relationType": 3
+            }
+          ],
+          "alternateFileId": 5419267,
+          "modules": [
+            {
+              "fingerprint": 48895763,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 674619773,
+              "name": "LICENSE"
+            },
+            {
+              "fingerprint": 757420300,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 2951966545,
+              "name": "fabric.mod.json"
+            },
+            {
+              "fingerprint": 3597163132,
+              "name": "pehkui.mixins.json"
+            },
+            {
+              "fingerprint": 2771902879,
+              "name": "virtuoel"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "3ce548910f0aa2cef79dc333982493ccf8d73a3e",
+              "algo": 1
+            },
+            {
+              "value": "c28dbac324e13836c2c15e47bfcd9e45",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0000000001.0000000017.0000000001",
+              "gameVersion": "1.17.1",
+              "gameVersionReleaseDate": "2021-07-06T14:16:03.97Z",
+              "gameVersionName": "1.17.1"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000002",
+              "gameVersion": "1.20.2",
+              "gameVersionReleaseDate": "2023-09-21T15:25:15.053Z",
+              "gameVersionName": "1.20.2"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000021",
+              "gameVersion": "1.21",
+              "gameVersionReleaseDate": "2024-06-13T15:52:21.12Z",
+              "gameVersionName": "1.21"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000014.0000000004",
+              "gameVersion": "1.14.4",
+              "gameVersionReleaseDate": "2019-07-19T00:00:00Z",
+              "gameVersionName": "1.14.4"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000019.0000000004",
+              "gameVersion": "1.19.4",
+              "gameVersionReleaseDate": "2023-03-09T00:00:00Z",
+              "gameVersionName": "1.19.4"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-09-01T00:00:00Z",
+              "gameVersionName": "Fabric"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000016.0000000005",
+              "gameVersion": "1.16.5",
+              "gameVersionReleaseDate": "2021-01-15T14:14:48.91Z",
+              "gameVersionName": "1.16.5"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000018.0000000002",
+              "gameVersion": "1.18.2",
+              "gameVersionReleaseDate": "2022-02-28T14:23:37.723Z",
+              "gameVersionName": "1.18.2"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000019.0000000002",
+              "gameVersion": "1.19.2",
+              "gameVersionReleaseDate": "2022-08-05T14:12:22.413Z",
+              "gameVersionName": "1.19.2"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000015.0000000002",
+              "gameVersion": "1.15.2",
+              "gameVersionReleaseDate": "2020-01-22T00:00:00Z",
+              "gameVersionName": "1.15.2"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000006",
+              "gameVersion": "1.20.6",
+              "gameVersionReleaseDate": "2024-04-29T15:15:44.67Z",
+              "gameVersionName": "1.20.6"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000004",
+              "gameVersion": "1.20.4",
+              "gameVersionReleaseDate": "2023-12-07T15:17:47.907Z",
+              "gameVersionName": "1.20.4"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000021",
+              "gameVersion": "1.21",
+              "gameVersionReleaseDate": "2024-05-04T00:00:00Z",
+              "gameVersionName": "1.21-Snapshot"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-05-26T00:00:00Z",
+              "gameVersionName": "Quilt"
+            }
+          ],
+          "gameVersions": [
+            "1.17.1",
+            "1.20.2",
+            "1.21",
+            "1.14.4",
+            "1.19.4",
+            "Fabric",
+            "1.16.5",
+            "1.18.2",
+            "1.19.2",
+            "1.15.2",
+            "1.20.1",
+            "1.20.6",
+            "1.20.4",
+            "1.21-Snapshot",
+            "Quilt"
+          ],
+          "fileFingerprint": 2865028280,
+          "modId": 319596
+        },
+        "modrinthProject": {
+          "id": "t5W7Jfwy",
+          "slug": "pehkui",
+          "project_type": "mod",
+          "team": "qgpXhvkY",
+          "title": "Pehkui",
+          "description": "Lets you change the size of most entities, shrinking their scale smaller or growing them larger",
+          "body": "&nbsp;  \nThis mod allows for most entities to have their size changed, either enlarging or shrinking them.  \n&nbsp;  \nIt also provides an API that other mods can make use of to manipulate the size of entities and the time it takes for their size to change.  \n&nbsp;  \n&nbsp;  \nThe Quilt/Fabric version is the actively supported version and will receive features, updates, and fixes first. The NeoForge and Forge versions are not supported as actively.  \n&nbsp;  \n&nbsp;  \nFor the ***Quilt/Fabric*** version, the ***most recently released jar*** can be used on: ***1.21, 1.20.6, 1.20.4, 1.20.2, 1.20.1, 1.19.4, 1.19.2, 1.18.2, 1.17.1, 1.16.5, 1.15.2, and 1.14.4***.  \nFor the ***NeoForge*** version, there are ***separate jars*** for each supported Minecraft version. Those jars are for: ***1.21, 1.20.6, 1.20.4, and 1.20.2***.  \nFor the ***Forge*** version, there are ***separate jars*** for each supported Minecraft version. Those jars are for: ***1.20.1, 1.19.4, 1.19.2, 1.18.2, 1.17.1, and 1.16.5***.  \n&nbsp;  \n&nbsp;  \nRemoving this mod will revert entities back to their normal size. Adding it back in will ***not*** restore their size.  \n&nbsp;  \n&nbsp;  \nIf you have no mods that add ways to rescale entities, you can modify and view the scale and scaling delay of an entity in-game using the `/scale` command if you have operator permissions:  \n&nbsp;  \n`/scale set <value> [<entity>]`  \n`/scale set <scale_type> <value> [<entity>]`  \n`/scale (add|subtract|multiply|divide) <value> [<entity>]`  \n`/scale (add|subtract|multiply|divide) <scale_type> <value> [<entity>]`  \n`/scale get [<entity>]`  \n`/scale get <scale_type> [<entity>]`  \n`/scale compute <scale_type> [<entity>]`  \n`/scale delay set <ticks> [<entity>]`  \n`/scale delay set <scale_type> <ticks> [<entity>]`  \n`/scale delay get [<entity>]`  \n`/scale delay get <scale_type> [<entity>]`  \n`/scale reset [<entity>]`  \n`/scale reset <scale_type> [<entity>]`  \n`/scale nbt get [<entity>]`  \n&nbsp;  \n&nbsp;  \nIf you want your scale to persist after you respawn, there's a `/scale` subcommand for that as well:  \n&nbsp;  \n`/scale persist set (true|false) [<entity>]`  \n`/scale persist set <scale_type> (true|false) [<entity>]`  \n`/scale persist get <scale_type> [<entity>]`  \n`/scale persist reset [<entity>]`  \n`/scale persist reset <scale_type> [<entity>]`  \n&nbsp;  \n&nbsp;  \nThe following scale types are added by default:  \n&nbsp;  \n`pehkui:base`: Generic scale type for easily affecting other scales  \n`pehkui:width`: Modifies width/length/depth (affected by `pehkui:base`)  \n`pehkui:height`: Modifies height (affected by `pehkui:base`)  \n`pehkui:hitbox_width`: Modifies width/length/depth of an entity's hitbox (affected by `pehkui:width`)  \n`pehkui:hitbox_height`: Modifies height of an entity's hitbox (affected by `pehkui:height`)  \n`pehkui:eye_height`: Modifies height of an entity's eye position (affected by `pehkui:height`)  \n`pehkui:model_width`: Modifies width/length/depth of an entity's model (affected by `pehkui:width`)  \n`pehkui:model_height`: Modifies height of an entity's model (affected by `pehkui:height`)  \n`pehkui:third_person`: Modifies player third person camera distance (affected by `pehkui:height`)  \n`pehkui:motion`: Modifies movement speed (affected by `pehkui:base`)  \n`pehkui:step_height`: Modifies step height (e.g. walking up slabs, stairs, snow) (affected by `pehkui:motion`)  \n`pehkui:view_bobbing`: Modifies view bobbing (affected by `pehkui:motion`)  \n`pehkui:falling`: Modifies fall damage (affected by `pehkui:motion`)  \n`pehkui:flight`: Modifies creative mode flight speed  \n`pehkui:jump_height`: Modifies jump height  \n`pehkui:visibility`: Modifies distance at which this entity will be targeted by enemies (affected by `pehkui:base`)  \n`pehkui:reach`: Modifies player reach distance (affected by `pehkui:base`)  \n`pehkui:block_reach`: Modifies player block reach distance (affected by `pehkui:reach`)  \n`pehkui:entity_reach`: Modifies player attack reach distance (affected by `pehkui:reach`)  \n`pehkui:held_item`: Modifies the scale of held items  \n`pehkui:drops`: Modifies the scale of dropped items (affected by `pehkui:base`)  \n`pehkui:projectiles`: Modifies the scale of thrown/shot projectiles (affected by `pehkui:base`)  \n`pehkui:explosions`: Modifies the size of the entity's explosion (e.g. Creepers, End Crystals) (affected by `pehkui:base`)  \n`pehkui:attack`: Modifies damage dealt  \n`pehkui:defense`: Modifies damage taken  \n`pehkui:knockback`: Modifies knockback dealt  \n`pehkui:health`: Modifies an entity's health  \n`pehkui:mining_speed`: Modifies block breaking speed  \n`pehkui:attack_speed`: Modifies attack speed  ",
+          "published": "2020-12-08T14:49:03.334837Z",
+          "updated": "2024-06-19T18:12:20.318487Z",
+          "status": "approved",
+          "license": {
+            "id": "MIT",
+            "name": "MIT License"
+          },
+          "client_side": "required",
+          "server_side": "required",
+          "categories": [
+            "game-mechanics",
+            "library"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/t5W7Jfwy/icon.png",
+          "issues_url": "https://github.com/Virtuoel/Pehkui/issues",
+          "source_url": "https://github.com/Virtuoel/Pehkui",
+          "donation_urls": [],
+          "gallery": []
+        },
+        "modrinthVersion": {
+          "id": "6fzxx6SC",
+          "project_id": "t5W7Jfwy",
+          "author_id": "YhlTas1g",
+          "name": "Pehkui 3.8.3",
+          "version_number": "3.8.3+1.14.4-1.21",
+          "changelog": "Update to 1.21-rc1  \nStill compatible with 1.20.6, 1.20.4, 1.20.2, 1.20.1, 1.19.4, 1.19.2, 1.18.2, 1.17.1, 1.16.5, 1.15.2, and 1.14.4  \n&nbsp;  \nBugfixes:  \nFix incorrect nameplate height when scaled on 1.20.6 and above  \n&nbsp;  \nAdditions:  \nN/A  \n&nbsp;  \nChanges:  \nN/A  \n&nbsp;  \nRemovals:  \nN/A  \n&nbsp;  \nLast successfully tested on:  \nMinecraft version `1.21-rc1`  \nFabric Loader `0.15.11`  \nYarn mappings `1.21-rc1+build.1`  \n[Fabric API `0.100.1+1.21`](https://modrinth.com/mod/fabric-api/versions)  \n",
+          "date_published": "2024-06-11T20:50:26.751087Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha1": "3ce548910f0aa2cef79dc333982493ccf8d73a3e",
+                "sha512": "5eb721d7e0e6889857a81f340451c9a98f8dcddca67dd919f9e69691cadf44b5f001e3c71db69f6b98d5d8709db739ad7b91dc71bd35880a0e6241b723822f1f"
+              },
+              "url": "https://cdn.modrinth.com/data/t5W7Jfwy/versions/6fzxx6SC/Pehkui-3.8.3%2B1.14.4-1.21.jar",
+              "filename": "Pehkui-3.8.3+1.14.4-1.21.jar",
+              "primary": true,
+              "size": 555041
+            }
+          ],
+          "dependencies": [
+            {
+              "project_id": "P7dR8mSH",
+              "dependency_type": "required"
+            }
+          ],
+          "game_versions": [
+            "1.14.4",
+            "1.15.2",
+            "1.16.5",
+            "1.17.1",
+            "1.18.2",
+            "1.19.2",
+            "1.19.4",
+            "1.20.1",
+            "1.20.2",
+            "1.20.4",
+            "1.20.6",
+            "1.21-rc1",
+            "1.21"
+          ],
+          "loaders": [
+            "fabric",
+            "quilt"
+          ]
+        }
+      },
+      {
+        "name": "Medieval Origins Revival",
+        "version": "Fabric-6.4.6+1.20.1",
+        "optional": true,
+        "file": "MedievalOriginsRevival-6.4.6+1.20.1-fabric.jar",
+        "type": "mods",
+        "description": "Origins inspired by mythology, fantasy, and the medieval era.",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "modrinthProject": {
+          "id": "3FJ8AhW0",
+          "slug": "medieval-origins-revival",
+          "project_type": "mod",
+          "team": "vWBEa0pN",
+          "title": "Medieval Origins Revival",
+          "description": "Origins inspired by mythology, fantasy, and the medieval era.",
+          "body": "# Medieval Origins Revival\nThis is a port/rework of [Medieval Origins](https://www.curseforge.com/minecraft/mc-mods/medieval-origins) by ItsParkieLad, created to implement mod support and increase compatibility, improve gameplay clarity and accessibility, and make other QoL, balancing, and thematic changes.\n\n**REQUIRES:**\n- Origins\n- Pehkui\n\nFABRIC ONLY:\n- Spell Engine\n# \n[![Discord](https://img.shields.io/badge/Discord-gray?style=for-the-badge&logo=discord&labelColor=222222&color=888888)](https://lunapixel.studio/discord) \n[![GitHub](https://img.shields.io/badge/github-gray?style=for-the-badge&logo=github&labelColor=222222&color=888888)](https://github.com/muon-rw/)\n[![CurseForge](https://img.shields.io/badge/curseforge-gray?style=for-the-badge&logo=curseforge&labelColor=222222&color=888888)](https://www.curseforge.com/members/muonr/projects)\n[![Modrinth](https://img.shields.io/badge/modrinth-gray?style=for-the-badge&logo=modrinth&labelColor=222222&color=888888)](https://modrinth.com/user/muon-rw)\n\n#\n**Origins Added:** (Descriptions can be found in-game [on the GitHub Readme](https://github.com/muon-rw/Medieval-Origins-Revival?tab=readme-ov-file#origin-descriptions))\n- ![Character Sprite for Alfiq](https://cdn.modrinth.com/data/cached_images/d50936d23fffd2ab0c64fb1fead86f4231a43e4a.png)Alfiq\n- ![Character Sprite for Arachnae](https://cdn.modrinth.com/data/cached_images/61eaf0c5c0da7a19500228db78f97a617ba6be56.png)Arachnae\n- ![Character Sprite for Banshee](https://cdn.modrinth.com/data/cached_images/7707127404e77cc841b1c09b37ac1cdcad207005.png)Banshee\n- ![Character Sprite for Dwarf](https://cdn.modrinth.com/data/cached_images/736380d30455411bf79456606584c58ca1301ba8.png)Dwarf\n- ![Character Sprite for Fae](https://cdn.modrinth.com/data/cached_images/f669f187d00db6a9e8a676e2d9e9b6d53683f4c3.png)Fae\n- ![Character Sprite for Goblin](https://cdn.modrinth.com/data/cached_images/aa1630149eca4a1cc4e2ca9356d387e8f2e75af2.png)Goblin\n- ![Character Sprite for Gorgon](https://cdn.modrinth.com/data/cached_images/504df73a0bb494c8ec33d45bbdd1aba7e66dd35b.png)Gorgon\n- ![Character Sprite for High Elf](https://cdn.modrinth.com/data/cached_images/1a622e0d8a30e87b0cbfb610969dbf8845bd18fe.png)High Elf\n- ![Character Sprite for Incubus](https://cdn.modrinth.com/data/cached_images/0c2719397aa9652a99dfc80f7a6ba72347e5b2e5.png)Incubus\n- ![Character Sprite for Moon Elf](https://cdn.modrinth.com/data/cached_images/435821d3f7b5036c61bfff682217c31f7edca31a.png)Moon Elf\n- ![Character Sprite for Ogre](https://cdn.modrinth.com/data/cached_images/10ef3b93833d2d3a0675946af91bc94ad97995ee.png)Ogre\n- ![Character Sprite for Pixie](https://cdn.modrinth.com/data/cached_images/7706b2da94f170dbb61b29169515eaca3702e212.png)Pixie\n- ![Character Sprite for Plague Victim](https://cdn.modrinth.com/data/cached_images/21e9ff299bcd11f78670db38e04a83d5c11d02ab.png)Plague Victim\n- ![Character Sprite for Revenant](https://cdn.modrinth.com/data/cached_images/aa38ef8cbaffb662ff53fff89fca66c6c7d87538.png)Revenant\n- ![Character Sprite for Siren](https://cdn.modrinth.com/data/cached_images/498f75249b57547dc91126eea7068add21d3e124.png)Siren\n- ![Character Sprite for Valkyrie](https://cdn.modrinth.com/data/cached_images/af9767630b6ca93c17ae49cadf6db161144480e8.png)Valkyrie (requires Icarus)\n- ![Character Sprite for Wood Elf](https://cdn.modrinth.com/data/cached_images/cf181b76f4db5361e6552aa5489af4bf78ab0a9d.png)Wood Elf\n- ![Character Sprite for Yeti](https://cdn.modrinth.com/data/cached_images/b59722ef7d84875d125307be1d1e3687dc2d20d3.png)Yeti\n\n*(Looking for Icarae? Check out [Icarae Origin](https://modrinth.com/mod/icarae-origin) by the Icarus Devs!)*\n\n**Built-in integration for:**\n- Mermod\n- Icarus\n- Spell Power Attributes\n- Dehydration and EnvironmentZ, via Origins EnvironmentZ Dehydration Patch  \n\nMost gear mods, notably:\n- Mythic Metals \n- MC Dungeons Weapons\n- Simply Swords\n- RPG Series (Wizards, Spellblades, Paladins, etc.) - More to come in a separate mod\n- *Pretty much everything* on 1.20+. If you manage to find something that doesn't work how you'd expect, please report it to the GitHub. \n ",
+          "published": "2023-09-17T19:17:16.933456Z",
+          "updated": "2024-09-11T05:07:06.713184Z",
+          "status": "approved",
+          "license": {
+            "id": "MIT",
+            "name": "MIT License"
+          },
+          "client_side": "required",
+          "server_side": "required",
+          "categories": [
+            "adventure",
+            "magic"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/3FJ8AhW0/3de152ce3176f3dfabfccbb7210a3fca70fae013.png",
+          "issues_url": "https://github.com/muon-rw/Medieval-Origins-Revival/issues/",
+          "source_url": "https://github.com/muon-rw/Medieval-Origins-Revival",
+          "donation_urls": [],
+          "gallery": []
+        },
+        "modrinthVersion": {
+          "id": "aePGEh48",
+          "project_id": "3FJ8AhW0",
+          "author_id": "2ZpFXFC8",
+          "name": "Fabric-6.4.6+1.20.1",
+          "version_number": "6.4.6+1.20.1-fabric",
+          "changelog": "## 6.4.6\n- Fixed compatibility with Mermod 3.0.1+\n- Fixed mana inconsistencies with the `cast_spell` entity action with Iron's\n- Added a few new fields to the cast spell entity action, see the `test` power for an example\n- Fixed a potential crash when Valkyries land near a player with negative effects\n- Siren Song will no longer add particles to players\n\n## 6.4.5\n- Added compatibility for Mermod on Forge (should be compatible with any existing Fabric datapacks)\n- Fix startup crash with Serious Player Animations\n\n## 6.4.4\n- Added sounds and effects to Sirens' Song\n- Increased the radius and duration of Sirens' Song, but increased its cooldown\n- (Forge) Fixed Siren Song not pacifying already aggressive mobs\n- Cleaned up/shortened a few more power descriptions\n- Fixed siren song particles sometimes never despawning\n- Reduced the hunger cost of Valkyrie flight by 75%\n\n## 6.4.3\n- Fixed Pixie's hover being unusable when relogging or first selecting the origin\n- Made pixie's flight resource regenerate a bit slower (for balance)\n- Fixed an incorrect dependency on Curseforge (Forge versions were being directed to install Origins Fabric)\n\n## 6.4.2\n- Fixed Arachae, Alfiq, Moon Elves, and High Elves having 3 fewer hearts than before\n- Updated Korean translation thanks to Colddo118 (other translations are also out of date - if you'd like to contribute, please do so on Github!)\n- Fixed Valkyrie's divine smite being too quiet\n\n## 6.4.1\n- Added Tridents to Valkyrie's Heavenly Implements and automatically support many more modded items \n\n## 6.4.0 \n**Initial release of a large project restructure. There may be bugs!**\n- Merged projects to cross-platform (Fabric and Forge/Neoforge will now update simultaneously!)\n- Added a new Icarus-mod based origin, the Valkyrie\n- Fixed an issue where Pixies would sometimes retain their flight power after switching origins\n- Revenant summons will now move a bit more naturally and try harder to avoid water\n- Fixed Wood Elf's Focus power being mistranslated\n- Elves, Arachnae, and Alfiq are now slowed by heavy armor instead of being unable to equip it\n- Heavy armor is now determined by armor toughness\n- Added pixie wing animations\n- Remade pixie flight to be easier to use, but operate based on a limited resource\n- Made pixie's mischief power play sounds less often\n- Made Icarus compat more friendly with other mods (thanks Up!)\n- Made Revenant's siphon resource more visible\n- Changed the Gorgon icon\n- (Forge) Fixed some Goblin gear bonuses not working\n- (Fabric) Added support for RPGMana to High Elf's Highborne power\n- Internal only, note for Origins devs - added a `medievalorigins:cast_spell` entity action, which is integrated with Iron's Spells (Forge) and Spell Engine (Fabric). \nYou can find examples for these in `(fabric/forge)/src/main/resources/data/medievalorigins/powers/test.json`\n- The format may change slightly if features are added.\n\n## 6.3.10\n- Lowered Fae attraction range from 2048 blocks to 64 (woops)\n- Fixed Fae's Magical Suppression only checking for Iron and not Silver. \n\n## 6.3.9\n- Improved Simply Swords compatibility with Moon Elf's Moonlight Rogue power\n- Added 2 new powers to Banshee, Cursed Sigil and Cursed Ward\n- Added Origins' Like Water power to Siren\n- Alfiq can now jump more often and charge their jump more quickly\n- Lowered Alfiq's On Your Feet damage threshold from 10 health to 6\n- Added Russian Translation (thanks UFOS228)\n- Shortened some English descriptions\n- Rewrote most of Siren's underwater bonuses to no longer use status effects (thanks lukaskek!)\n- Improved Pixie flight compatibility with Creative flight (pixie flight itself unchanged for now)\n- Fixed Alfiq jump boost sometimes not working\n- Fixed High Elves sometimes receiving two sets of starter items\n\n## 6.3.8\n- Added more compatibility to Ogre's Ravager passive\n\n## 6.3.7\n- Fixed pixies not being able to use Quartz Elevators\n\n## 6.3.6\n- Fixed log spam from pixie flight power during rain\n\n## 6.3.5\n- Added optional compat with Frostiful/Scorchful (requires Thermoo Patches)\n\n## 6.3.4\n- Updated Goblin's Greedy power for the latest version of AEA\n\n## 6.3.3\n- Removed Icarae (Now has its own official addon: https://modrinth.com/mod/icarae-origin)\n\n## 6.3.2\n- Update for Icarus 2.6.0\n\n## 6.3.1\n- Updated Icarus compat\n- Updated Spell Power compat\n- Fix RPGDifficulty incompat (revenant zombies being unsummonable)\n- Bundled Projectile Damage (fixes revenant summons being unsummonable if you didn't have it installed)\n- Fixed a crash related to Alfiq's pickpocket\n- Fixed Fae attraction range remaining after switching origins\n- Fixed Yetis not being immune to vanilla freezing damage\n\n## 6.3.0\n- Added (with permission) the **Icarae**, birdlike carnivorous hunters, an Icarus mod exclusive origin\n- High Elf, Incubus, and Revenant abilities now scale with Spell Power\n- Fixed Revenant's custom aggro breaking vanilla teams\n- Fixed Siren Song causing non-hostile entities to become aggressive\n- Fixed Siren Song creating server lag\n- Fixed magic-based damage changes and damage types not working as intended\n- Switched from custom item conditions to registering with AutoTag API (should improve server performance)\n- Added some barebones internals for other datapack developers to create functional Icarus origins or spell-power scaling abilities of their own\n- The Featherweight enchantment will now also prevent enchanted armor from slowing down Icarus wing flight, and armor calculations will be based on equipped armor pieces, not innate player stats.\n\n## 6.2.4 (Alpha)\n#### New Origins:\n- Added **High Elf**, a magic based origin that currently doesn't have any integration with the RPG Series/Spell Engine, but will soon!\n- Added **Alfiq** - a catlike species who excel at hunting. They can charge up to pounce, climb walls, and deal extra damage with their claws.\n- 75% of a secret third heavily requested origin, currently disabled\n#### Major reworks:\n\n\n- **Banshee**, including a protective shriek, a replacement for diet, and unique ghostly flight.\n- Necromancer, renamed to **Revenant**, an undead who can raise summoned undead which they can equip with weapons, and siphon the life force from enemies.\n- **Pixie** \"flight\" changed, with tiny little wings, can sit on other players' heads, and chestplate restriction changed to allow leather\n#### Other changes:\n- Dwarves can now break anything that requires a wood pickaxe\n- Improved aggro logic for when a Revenant hits an Illager - all nearby illagers will become aggressive until dying or relogging\n- Changed Dwarf to Impact 2 (just for accuracy)\n- Reworked Revenant's Illager allying - should work with all modded pillagers, and they will now attack back if you hit them\n- Added built-in water protection when wearing a full set of some modded armors (such as the Diving Suit from Alex's Caves)\n- All modded daggers and similar items should receive bonuses for Moon Elves automatically\n- All modded golden and gilded items should receive bonuses for Goblins automatically\n- Reworked and slightly buffed how Goblin's Greedy passive works\n- Made Incubi stronger while in the Nether\n- Gave Arachnae and Siren a few powers from base Origins, as buffs\n- Made Goblins less green\n- Fixed several tooltip issues\n- Fixed many damage modifiers not working\n- Made Featherweight and Mirroring slightly easier to get\n- Major changes to pixie flight, make sure to read the new description!\n- Banshee Shriek now pushes back enemies a meaningful distance\n- Increased the cooldown of Banshee Spectral from 30 seconds to 45\n- Added a few more mod daggers to Moon Elf's bonus\n- Fixed minor glitches in Moon Elf dagger tooltip\n- Effects should never be cleared unnecessarily\n- Gorgon gaze can now affect players, preventable with a new enchant Mirroring\n- Dwarves can apply Mirroring to tolerate sunlight with any helmet\n- Dwarf night vision is now toggleable\n- Dwarves fit in 1-block tunnels again\n- Goblins now have increased durability with gold gear\n- Wood Elf's improved vision now instead activates while crouching and covered by foliage, while also making them harder to detect by mobs.\n- Temporary killed Wood Elf's piercing shot (Focus) ability, pending a bugfix. Buffed arrow damage to compensate\n- Moon Elves are now slightly better with daggers, and no longer get attacked by phantoms\n- Ogre is now larger (intentional nerf, the origin was a bit too strong)\n- Elves are now a little bit taller\n- Various damage boosts/resistances/vulnerabilities which previously did not work should be functioning properly again.\n- Pixies should be able to see in first person while riding things.\n- Other minor fixes that got lost in commit-note hell.",
+          "date_published": "2024-09-11T05:06:53.524771Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha512": "73131475252cfb20161d2b1ec8e611e276fc574abf9085d092e40a292bd9d87bdf29b3eff96e3d1b60144d57532e5f6dd83bfe0d1e37eab25c827960044f0596",
+                "sha1": "1b54691c407abbeacc8f208b19ea6efea75f2f2f"
+              },
+              "url": "https://cdn.modrinth.com/data/3FJ8AhW0/versions/aePGEh48/MedievalOriginsRevival-6.4.6%2B1.20.1-fabric.jar",
+              "filename": "MedievalOriginsRevival-6.4.6+1.20.1-fabric.jar",
+              "primary": true,
+              "size": 3468913
+            }
+          ],
+          "dependencies": [
+            {
+              "project_id": "t5W7Jfwy",
+              "dependency_type": "required"
+            },
+            {
+              "project_id": "XvoWJaA2",
+              "dependency_type": "required"
+            },
+            {
+              "project_id": "3BeIrqZR",
+              "dependency_type": "required"
+            }
+          ],
+          "game_versions": [
+            "1.20.1"
+          ],
+          "loaders": [
+            "fabric"
+          ]
+        }
+      },
+      {
+        "name": "Common Network",
+        "version": "common-networking-fabric-1.0.5-1.20.1",
+        "optional": true,
+        "file": "common-networking-fabric-1.0.5-1.20.1.jar",
+        "type": "mods",
+        "description": "Forge and Fabric Unified Networking Solution",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "modrinthProject": {
+          "id": "HIuqnQpi",
+          "slug": "common-network",
+          "project_type": "mod",
+          "team": "zVnG1cwg",
+          "title": "Common Network",
+          "description": "Forge and Fabric Unified Networking Solution",
+          "body": "## Common Networking\n\nThis library mod aims to unify networking and packet registration between mod loaders so that Developers using [Jared's MultiLoader Template](https://github.com/jaredlll08/MultiLoader-Template) only need to deal with networking in the common module. But, it is not limited to only usage with MultiLoader. This can be used in other projects as well.\n\nThis also allows your mod to be loader agnostic. The way packets are built and constructed, Forge version of the mod on the client, can talk to the Fabric version on the server. Though you will need to create your own handshake packet.",
+          "published": "2023-01-10T20:05:18.080628Z",
+          "updated": "2024-08-28T20:27:57.716622Z",
+          "status": "approved",
+          "license": {
+            "id": "MIT",
+            "name": "MIT License"
+          },
+          "client_side": "optional",
+          "server_side": "optional",
+          "categories": [
+            "library",
+            "utility"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/HIuqnQpi/a869c47caa01fa0e63c88ee156c86f51ab49be74_96.webp",
+          "issues_url": "https://github.com/mysticdrew/common-networking/issues",
+          "source_url": "https://github.com/mysticdrew/common-networking",
+          "wiki_url": "https://github.com/mysticdrew/common-networking",
+          "discord_url": "https://discord.com/invite/eP8gE69",
+          "donation_urls": [],
+          "gallery": []
+        },
+        "modrinthVersion": {
+          "id": "hQsMT8cT",
+          "project_id": "HIuqnQpi",
+          "author_id": "kYOHYSUU",
+          "name": "common-networking-fabric-1.0.5-1.20.1",
+          "version_number": "1.0.5-1.20.1",
+          "changelog": "<h1>Common Networking 1.0.5-1.20.1 for Minecraft 1.20.1</h1>\n<p><strong>Requirements:</strong></p>\n<ul>\n    <li>Java 17</li>\n    <li>Minecraft 1.20.1</li>\n    <li>Fabric 0.83.0+1.20</li>\n</ul>\n\n<p><strong>CHANGELOG (2024-06-29-17:59:22):</strong></p>\n\n<p>New in 1.0.5-1.20.1</p>\n<ul>\n    <li>Fixed: issue with forge double packet registration due to weird mods.</li>\n</ul>\n",
+          "date_published": "2024-06-29T18:02:55.111631Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha1": "f6d4850d8dcc84a0664d274dc4b4601a9552ae5c",
+                "sha512": "529b02c3464617a70eb473c6422a0e4020776713c00c30d059cde857936217c37d0cb6f39bbc922ac84957308520d67adfc65389a4df687e552030121e44fb7b"
+              },
+              "url": "https://cdn.modrinth.com/data/HIuqnQpi/versions/hQsMT8cT/common-networking-fabric-1.0.5-1.20.1.jar",
+              "filename": "common-networking-fabric-1.0.5-1.20.1.jar",
+              "primary": true,
+              "size": 21748
+            }
+          ],
+          "dependencies": [],
+          "game_versions": [
+            "1.20.1"
+          ],
+          "loaders": [
+            "fabric",
+            "quilt"
+          ]
+        }
+      },
+      {
+        "name": "Resourceful Config",
+        "version": "[Fabric] Resourceful Config 2.1.2",
+        "optional": true,
+        "file": "resourcefulconfig-fabric-1.20.1-2.1.2.jar",
+        "type": "mods",
+        "description": "Resourceful Config is a mod that allows for developers to make cross-platform configs",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 714059,
+        "curseForgeFileId": 5020442,
+        "curseForgeProject": {
+          "id": 714059,
+          "name": "Resourceful Config",
+          "authors": [
+            {
+              "id": 25275754,
+              "name": "ThatGravyBoat",
+              "url": "https://www.curseforge.com/members/thatgravyboat"
+            },
+            {
+              "id": 24882069,
+              "name": "epic_oreo",
+              "url": "https://www.curseforge.com/members/epic_oreo"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Resourceful Config is a mod that allows for developers to make crossplatform configs",
+          "categories": [
+            {
+              "name": "API and Library",
+              "slug": "library-api",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/library-api",
+              "dateModified": "2014-05-23T03:21:44.06Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 421,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/36/635351496947765531.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 421,
+          "classId": 6,
+          "slug": "resourceful-config",
+          "isFeatured": false,
+          "dateModified": "2024-07-20T15:08:29.893Z",
+          "dateCreated": "2022-11-26T21:20:42.03Z",
+          "dateReleased": "2024-07-20T15:05:41.703Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/resourceful-config",
+            "wikiUrl": "https://config.wiki.teamresourceful.com",
+            "issuesUrl": "https://github.com/Team-Resourceful/Resourceful-Config/issues",
+            "sourceUrl": "https://github.com/Team-Resourceful/Resourceful-Config"
+          },
+          "logo": {
+            "id": 653207,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/653/207/256/256/638055943654285366.png",
+            "title": "638055943654285366.png",
+            "url": "https://media.forgecdn.net/avatars/653/207/638055943654285366.png",
+            "modId": 714059
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 5548749
+        },
+        "curseForgeFile": {
+          "id": 5020442,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "[Fabric] Resourceful Config 2.1.2",
+          "fileName": "resourcefulconfig-fabric-1.20.1-2.1.2.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2024-01-09T18:55:05.53Z",
+          "fileLength": 134793,
+          "dependencies": [],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 1342622,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 1602579604,
+              "name": "fabric.mod.json"
+            },
+            {
+              "fingerprint": 2622292110,
+              "name": "com"
+            },
+            {
+              "fingerprint": 2374316658,
+              "name": "architectury_inject_ResourcefulConfig_common_fc9a253e510b41d9935ffacfda82b499_69b0936f6713f262c94081f552830d57764eaf73745386167c4863e0bc4e03faresourcefulconfig212devjar"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "d9633701cfd1cb29c1e94655e20a61e29a4021a1",
+              "algo": 1
+            },
+            {
+              "value": "84b1427c5d4cfd30e54c20ba4120e8d3",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-09-01T00:00:00Z",
+              "gameVersionName": "Fabric"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-05-26T00:00:00Z",
+              "gameVersionName": "Quilt"
+            }
+          ],
+          "gameVersions": [
+            "Fabric",
+            "1.20.1",
+            "Quilt"
+          ],
+          "fileFingerprint": 2744088118,
+          "modId": 714059
+        },
+        "modrinthProject": {
+          "id": "M1953qlQ",
+          "slug": "resourceful-config",
+          "project_type": "mod",
+          "team": "HZyf49is",
+          "title": "Resourceful Config",
+          "description": "Resourceful Config is a mod that allows for developers to make cross-platform configs",
+          "body": "<img src=\"https://www.bisecthosting.com/images/CF/RESOURCECONFIG/BH_RC_HEADER.png\" />\n<img src=\"https://www.bisecthosting.com/images/CF/RESOURCECONFIG/BH_RC_OVERVIEW.png\"/>\n<center><h5>We make cross-platform configuration easy peezy!</h5></center>\n<center><h5>On forge, we use the official forge config system to make hot reloading possible.</h5></center>\n<center><h5>and on Fabric we use JSONC because they don't have a system.</h5></center>\n<center><h5>As of 1.20 we no longer use Forge's official system as it breaks quite easily.</h5></center>\n<center><h5>We also have a cool lit UI for the youngsters to enjoy because they lazy and stuff.</h5><h5>We also have a web interface for servers or clients if they want to use, <a href=\"https://config.teamresourceful.com/about\">more info here</a></h5></center>\n<img src=\"https://images.teamresourceful.com/u/gwudTd.png\" alt=\"This config is litty as it possibly gets!\"/>\n<a href=\"https://discord.gg/resourcefulbees\"><img src=\"https://www.bisecthosting.com/images/CF/RESOURCECONFIG/BH_RC_DISCORD.png\"/></a>\n<a href=\"https://bisecthosting.com/teamresourceful\"><strong><img src=\"https://www.bisecthosting.com/images/CF/RESOURCECONFIG/BH_RC_PROMO.png\"/></strong></a>",
+          "published": "2022-11-28T01:11:50.632330Z",
+          "updated": "2024-07-20T15:05:43.019962Z",
+          "status": "approved",
+          "license": {
+            "id": "MIT",
+            "name": "MIT License"
+          },
+          "client_side": "required",
+          "server_side": "required",
+          "categories": [
+            "library"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/M1953qlQ/cadcab644905f7e9ee92220d29f5c27113eb167b_96.webp",
+          "issues_url": "https://github.com/Team-Resourceful/Resourceful-Config/issues",
+          "source_url": "https://github.com/Team-Resourceful/Resourceful-Config",
+          "discord_url": "https://discord.gg/resourcefulbees",
+          "donation_urls": [],
+          "gallery": []
+        },
+        "modrinthVersion": {
+          "id": "PlEObkl9",
+          "project_id": "M1953qlQ",
+          "author_id": "VTfgLJ1p",
+          "name": "[Fabric] Resourceful Config 2.1.2",
+          "version_number": "2.1.2",
+          "changelog": "Add sort order for category annotations.\nMake config screen a pause screen. ",
+          "date_published": "2024-01-09T18:55:08.718234Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha512": "53a6ca7dd4c83963d56b7dc5fbeb9b71090461049931a45b912fda5e09b8aa716d9504f2e97c023995062482df27946d81bbf771252baaca0d6f46333c3947bf",
+                "sha1": "d9633701cfd1cb29c1e94655e20a61e29a4021a1"
+              },
+              "url": "https://cdn.modrinth.com/data/M1953qlQ/versions/PlEObkl9/resourcefulconfig-fabric-1.20.1-2.1.2.jar",
+              "filename": "resourcefulconfig-fabric-1.20.1-2.1.2.jar",
+              "primary": true,
+              "size": 134793
+            }
+          ],
+          "dependencies": [],
+          "game_versions": [
+            "1.20.1"
+          ],
+          "loaders": [
+            "fabric",
+            "quilt"
+          ]
+        }
+      },
+      {
+        "name": "Icarus",
+        "version": "2.9.2+Fabric",
+        "optional": true,
+        "file": "Icarus-Fabric-2.9.2.jar",
+        "type": "mods",
+        "description": "Adds a bunch of colourful and unique wings that can be worn in the Trinkets Cape slot.",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 428151,
+        "curseForgeFileId": 5530923,
+        "curseForgeProject": {
+          "id": 428151,
+          "name": "Icarus",
+          "authors": [
+            {
+              "id": 17199247,
+              "name": "Cammie",
+              "url": "https://www.curseforge.com/members/cammie"
+            },
+            {
+              "id": 19704318,
+              "name": "UpcraftLP",
+              "url": "https://www.curseforge.com/members/upcraftlp"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Adds a bunch of colourful and unique wings that can be worn in the Trinkets/Curios Cape slot.",
+          "categories": [
+            {
+              "name": "Magic",
+              "slug": "magic",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/magic",
+              "dateModified": "2014-05-08T17:40:24.787Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 419,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/34/635351496247862494.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Adventure and RPG",
+              "slug": "adventure-rpg",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/adventure-rpg",
+              "dateModified": "2014-05-08T17:42:09.54Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 422,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/37/635351497295252123.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Player Transport",
+              "slug": "technology-player-transport",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/technology/technology-player-transport",
+              "dateModified": "2014-05-08T17:38:58.357Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 414,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/29/635351495383551178.png",
+              "parentCategoryId": 412,
+              "classId": 6
+            },
+            {
+              "name": "Armor, Tools, and Weapons",
+              "slug": "armor-weapons-tools",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/armor-weapons-tools",
+              "dateModified": "2014-05-08T17:44:39.057Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 434,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/47/635351498790409758.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Cosmetic",
+              "slug": "cosmetic",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/cosmetic",
+              "dateModified": "2014-05-08T17:42:35.597Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 424,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/39/635351497555976928.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 414,
+          "classId": 6,
+          "slug": "icarus",
+          "isFeatured": false,
+          "dateModified": "2024-08-18T23:44:48.503Z",
+          "dateCreated": "2020-12-13T22:08:59.92Z",
+          "dateReleased": "2024-08-18T22:06:21.793Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/icarus",
+            "wikiUrl": "https://mods.upcraft.dev/wiki/books/icarus",
+            "issuesUrl": "https://github.com/Up-Mods/Icarus/issues",
+            "sourceUrl": "https://github.com/Up-Mods/Icarus"
+          },
+          "logo": {
+            "id": 322727,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/322/727/256/256/637434941399492369.png",
+            "title": "637434941399492369.png",
+            "url": "https://media.forgecdn.net/avatars/322/727/637434941399492369.png",
+            "modId": 428151
+          },
+          "allowModDistribution": true,
+          "screenshots": [
+            {
+              "id": 362075,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/362/75/310/172/wings-dragon.png",
+              "title": "Dragon Wings",
+              "url": "https://media.forgecdn.net/attachments/362/75/wings-dragon.png",
+              "modId": 428151
+            },
+            {
+              "id": 362077,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/362/77/310/172/wings-mechanical-feathered.png",
+              "title": "Mechanical Feathered Wings",
+              "url": "https://media.forgecdn.net/attachments/362/77/wings-mechanical-feathered.png",
+              "modId": 428151
+            },
+            {
+              "id": 362076,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/362/76/310/172/wings-feathered.png",
+              "title": "Feathered Wings",
+              "url": "https://media.forgecdn.net/attachments/362/76/wings-feathered.png",
+              "modId": 428151
+            },
+            {
+              "id": 362078,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/362/78/310/172/wings-mechanical-leather.png",
+              "title": "Mechanical Leather Wings",
+              "url": "https://media.forgecdn.net/attachments/362/78/wings-mechanical-leather.png",
+              "modId": 428151
+            }
+          ],
+          "mainFileId": 5642035
+        },
+        "curseForgeFile": {
+          "id": 5530923,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "2.9.2+Fabric",
+          "fileName": "Icarus-Fabric-2.9.2.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2024-07-14T06:20:44.813Z",
+          "fileLength": 187027,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 714059,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 341284,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 423602,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 806044,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 306612,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 901503,
+              "relationType": 2
+            }
+          ],
+          "alternateFileId": 5530924,
+          "modules": [
+            {
+              "fingerprint": 3637679525,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 3053203966,
+              "name": "LICENSE_icarus.md"
+            },
+            {
+              "fingerprint": 1603703686,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 2172737878,
+              "name": "data"
+            },
+            {
+              "fingerprint": 892943443,
+              "name": "dev"
+            },
+            {
+              "fingerprint": 330230305,
+              "name": "fabric.mod.json"
+            },
+            {
+              "fingerprint": 2235738394,
+              "name": "icarus.fabric.mixins.json"
+            },
+            {
+              "fingerprint": 2905019699,
+              "name": "icarus.mixins.json"
+            },
+            {
+              "fingerprint": 160403929,
+              "name": "icarus.refmap.json"
+            },
+            {
+              "fingerprint": 3551851519,
+              "name": "icon.png"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "ff6b3f1ee74abcb553040d1fe50b4ad75b5bc956",
+              "algo": 1
+            },
+            {
+              "value": "a6710b58c9983b4ae26bd7cd1c0e5d9d",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-09-01T00:00:00Z",
+              "gameVersionName": "Fabric"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            }
+          ],
+          "gameVersions": [
+            "Fabric",
+            "1.20.1"
+          ],
+          "fileFingerprint": 1469117852,
+          "modId": 428151
+        },
+        "modrinthProject": {
+          "id": "Dw7M6XKW",
+          "slug": "icarus",
+          "project_type": "mod",
+          "team": "aDrd8mPR",
+          "title": "Icarus",
+          "description": "Adds a bunch of colourful and unique wings that can be worn in the Trinkets Cape slot.",
+          "body": "Icarus is a small mod that adds a variety of colourful and unique wings that can be worn in the Back (Curios) or Cape (Trinkets) slot.\n\nThe wings only have two drawbacks: they cost hunger while flying, and their max speed gets slowed down when wearing armour. The more armour you're wearing, the more you get slowed down, up to 2/3 of your normal max speed (configurable). There is also a tag that can have wings added to it via a datapack so that they don't use up hunger while flying.\n\n# Check out this awesome showcase by [Zeddy](https://www.youtube.com/@zeddyminecraft):\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/9euC_p5biAA\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n---\n\n### Recipes:\n![Crafting Recipes](https://cdn.modrinth.com/data/cached_images/723db6c848c7302197286a87aa3f3b12f178ac52.png)\n\n---\n\n<table align=\"center\">\n    <tr>\n        <th><b>Join my Discord</b></th>\n        <th><b>Join my Ko-Fi!</b></th>\n    </tr>\n    <tr>\n        <th><a href=\"https://cammiescorner.dev/discord\"><img src=\"https://cammiescorner.dev/images/extras/discord.png\" width=\"150\" height=\"150\" title=\"Cammie's Corner Discord\" alt=\"Cammie's Corner Discord\"></a></th>\n        <th><a href=\"https://ko-fi.com/camellias/tiers\"><img src=\"https://cammiescorner.dev/images/extras/kofi.png\" width=\"150\" height=\"150\" title=\"Cammie's Corner Patreon\" alt=\"Cammie's Corner Patreon\"></a></th>\n    </tr>\n</table>",
+          "published": "2021-01-06T18:00:03.275406Z",
+          "updated": "2024-08-18T22:06:22.886780Z",
+          "status": "approved",
+          "license": {
+            "id": "LicenseRef-Custom",
+            "name": "",
+            "url": "https://github.com/Up-Mods/Icarus/blob/HEAD/LICENSE.md"
+          },
+          "client_side": "required",
+          "server_side": "required",
+          "categories": [
+            "adventure",
+            "equipment",
+            "transportation"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/Dw7M6XKW/icon.png",
+          "issues_url": "https://github.com/Up-Mods/Icarus/issues",
+          "source_url": "https://github.com/Up-Mods/Icarus",
+          "wiki_url": "https://mods.upcraft.dev/wiki/books/icarus",
+          "discord_url": "https://cammiescorner.dev/discord",
+          "donation_urls": [
+            {
+              "id": "ko-fi",
+              "platform": "Ko-fi",
+              "url": "https://ko-fi.com/camellias"
+            }
+          ],
+          "gallery": []
+        },
+        "modrinthVersion": {
+          "id": "OdZ2fpej",
+          "project_id": "Dw7M6XKW",
+          "author_id": "Ef5Yk50C",
+          "name": "2.9.2+Fabric",
+          "version_number": "2.9.2+Fabric",
+          "changelog": "",
+          "date_published": "2024-07-14T06:20:46.939367Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha1": "ff6b3f1ee74abcb553040d1fe50b4ad75b5bc956",
+                "sha512": "582dce7c5153a6bf130ac81b766a3c78c5eccfb46436739bcd531a9a23f34e1c1bff34a5a839cb0e2bca19e17a903c55417188a96e621df21e3ff6806cbb35db"
+              },
+              "url": "https://cdn.modrinth.com/data/Dw7M6XKW/versions/OdZ2fpej/Icarus-Fabric-2.9.2.jar",
+              "filename": "Icarus-Fabric-2.9.2.jar",
+              "primary": true,
+              "size": 187027
+            },
+            {
+              "hashes": {
+                "sha512": "e3591d95d147284af12389fd590797b5cc23d3d322e2fcca20f5484c0a7980858abd6c8a61dd9c9d6419de293b4cd9dc308843ddea9edce9a757513f73696ab7",
+                "sha1": "877dda33ebd3091d6b03f658f0770ab28ce2c000"
+              },
+              "url": "https://cdn.modrinth.com/data/Dw7M6XKW/versions/OdZ2fpej/Icarus-Fabric-2.9.2-sources.jar",
+              "filename": "Icarus-Fabric-2.9.2-sources.jar",
+              "primary": false,
+              "size": 149437
+            }
+          ],
+          "dependencies": [
+            {
+              "project_id": "5aaWibi9",
+              "dependency_type": "required"
+            },
+            {
+              "project_id": "m0oRwcZx",
+              "dependency_type": "optional"
+            },
+            {
+              "project_id": "s9gIPDom",
+              "dependency_type": "optional"
+            },
+            {
+              "project_id": "HIuqnQpi",
+              "dependency_type": "required"
+            },
+            {
+              "project_id": "M1953qlQ",
+              "dependency_type": "required"
+            },
+            {
+              "project_id": "P7dR8mSH",
+              "dependency_type": "required"
+            }
+          ],
+          "game_versions": [
+            "1.20.1"
+          ],
+          "loaders": [
+            "fabric"
+          ]
+        }
+      },
+      {
+        "name": "Icarae Origin",
+        "version": "1.1.0-alpha.2+Fabric",
+        "optional": true,
+        "file": "Icarae-Origin-Fabric-1.1.0-alpha.2.jar",
+        "type": "mods",
+        "description": "Adds Origins Support for the Icarus Mod",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 1001139,
+        "curseForgeFileId": 5322286,
+        "curseForgeProject": {
+          "id": 1001139,
+          "name": "Icarae Origin",
+          "authors": [
+            {
+              "id": 19704318,
+              "name": "UpcraftLP",
+              "url": "https://www.curseforge.com/members/upcraftlp"
+            },
+            {
+              "id": 17199247,
+              "name": "Cammie",
+              "url": "https://www.curseforge.com/members/cammie"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Adds Origins Support for the Icarus Mod",
+          "categories": [
+            {
+              "name": "Addons",
+              "slug": "mc-addons",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-addons",
+              "dateModified": "2014-05-08T17:09:48.63Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 426,
+              "iconUrl": "https://media.forgecdn.net/avatars/5/998/635351477886290676.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Magic",
+              "slug": "magic",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/magic",
+              "dateModified": "2014-05-08T17:40:24.787Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 419,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/34/635351496247862494.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Player Transport",
+              "slug": "technology-player-transport",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/technology/technology-player-transport",
+              "dateModified": "2014-05-08T17:38:58.357Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 414,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/29/635351495383551178.png",
+              "parentCategoryId": 412,
+              "classId": 6
+            },
+            {
+              "name": "Adventure and RPG",
+              "slug": "adventure-rpg",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/adventure-rpg",
+              "dateModified": "2014-05-08T17:42:09.54Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 422,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/37/635351497295252123.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Utility & QoL",
+              "slug": "utility-qol",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/utility-qol",
+              "dateModified": "2021-11-17T11:45:09.143Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 5191,
+              "iconUrl": "https://media.forgecdn.net/avatars/456/558/637727379086405233.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 422,
+          "classId": 6,
+          "slug": "icarae-origin",
+          "isFeatured": false,
+          "dateModified": "2024-05-07T01:33:23.873Z",
+          "dateCreated": "2024-04-10T09:35:36.007Z",
+          "dateReleased": "2024-05-07T01:24:29.66Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/icarae-origin",
+            "wikiUrl": "https://mods.upcraft.dev/wiki/books/icarae-origin",
+            "issuesUrl": "https://github.com/Up-Mods/Icarae-Origin/issues",
+            "sourceUrl": "https://github.com/Up-Mods/Icarae-Origin"
+          },
+          "logo": {
+            "id": 978414,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/978/414/256/256/638483385362071540.png",
+            "title": "638483385362071540.png",
+            "url": "https://media.forgecdn.net/avatars/978/414/638483385362071540.png",
+            "modId": 1001139
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 5284806
+        },
+        "curseForgeFile": {
+          "id": 5322286,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "1.1.0-alpha.2+Fabric",
+          "fileName": "Icarae-Origin-Fabric-1.1.0-alpha.2.jar",
+          "releaseType": 3,
+          "fileStatus": 4,
+          "fileDate": "2024-05-07T01:24:29.177Z",
+          "fileLength": 23525,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 306612,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 428151,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 391943,
+              "relationType": 3
+            }
+          ],
+          "alternateFileId": 5322287,
+          "modules": [
+            {
+              "fingerprint": 1309657484,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 3351325973,
+              "name": "LICENSE_icarae_origin.md"
+            },
+            {
+              "fingerprint": 2613316859,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 3243833042,
+              "name": "data"
+            },
+            {
+              "fingerprint": 962218456,
+              "name": "dev"
+            },
+            {
+              "fingerprint": 3638327086,
+              "name": "fabric.mod.json"
+            },
+            {
+              "fingerprint": 3821738873,
+              "name": "icarae_origin.fabric.mixins.json"
+            },
+            {
+              "fingerprint": 1401191121,
+              "name": "icarae_origin.mixins.json"
+            },
+            {
+              "fingerprint": 1493072104,
+              "name": "icarae_origin.refmap.json"
+            },
+            {
+              "fingerprint": 3551851519,
+              "name": "icon.png"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "49f1c078c7cee77caf7fa2e8b300151395238de4",
+              "algo": 1
+            },
+            {
+              "value": "02d821b2207160d71b559771c160bc8a",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-09-01T00:00:00Z",
+              "gameVersionName": "Fabric"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            }
+          ],
+          "gameVersions": [
+            "Fabric",
+            "1.20.1"
+          ],
+          "fileFingerprint": 2096532033,
+          "modId": 1001139
+        },
+        "modrinthProject": {
+          "id": "XMwNnLZG",
+          "slug": "icarae-origin",
+          "project_type": "mod",
+          "team": "T0LhBl4K",
+          "title": "Icarae Origin",
+          "description": "Adds Origins Support for the Icarus Mod",
+          "body": "This mod bridges the gap between Origins and Icarus, and adds an Icarae Origin when installed.\n\n\n\n## This Origin will give you the following abilities:\n\n- You start with wings (equipping Icarus wings is still possible to change their appearance, but they will not use durability)\n- You deal more damage while airborne\n- You start with less health\n- You cannot use shields\n- You can only eat meat",
+          "published": "2024-04-10T09:36:08.282486Z",
+          "updated": "2024-05-07T01:24:30.243331Z",
+          "status": "approved",
+          "license": {
+            "id": "LicenseRef-All-Rights-Reserved",
+            "name": ""
+          },
+          "client_side": "required",
+          "server_side": "required",
+          "categories": [
+            "adventure",
+            "game-mechanics",
+            "transportation"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/XMwNnLZG/bcf4b173d7012f1f1fa236442645b2aaa67c7ced.png",
+          "issues_url": "https://github.com/Up-Mods/Icarae-Origin/issues",
+          "source_url": "https://github.com/Up-Mods/Icarae-Origin",
+          "wiki_url": "https://mods.upcraft.dev/wiki/books/icarae-origin",
+          "discord_url": "https://mods.upcraft.dev/discord",
+          "donation_urls": [
+            {
+              "id": "ko-fi",
+              "platform": "Ko-fi",
+              "url": "https://ko-fi.com/upcraftlp"
+            }
+          ],
+          "gallery": []
+        },
+        "modrinthVersion": {
+          "id": "Rm6JnCxH",
+          "project_id": "XMwNnLZG",
+          "author_id": "Ef5Yk50C",
+          "name": "1.1.0-alpha.2+Fabric",
+          "version_number": "1.1.0-alpha.2+Fabric",
+          "changelog": "",
+          "date_published": "2024-05-07T01:24:31.177233Z",
+          "version_type": "alpha",
+          "files": [
+            {
+              "hashes": {
+                "sha512": "0b08c4ba5d7714d823ded7ea70fbb75d24cf63379ad7fc172ae4666f5eabef218b47042f4682deb567c745509b6559423bd4cdf6e603c657b93eaa97a883c2a9",
+                "sha1": "49f1c078c7cee77caf7fa2e8b300151395238de4"
+              },
+              "url": "https://cdn.modrinth.com/data/XMwNnLZG/versions/Rm6JnCxH/Icarae-Origin-Fabric-1.1.0-alpha.2.jar",
+              "filename": "Icarae-Origin-Fabric-1.1.0-alpha.2.jar",
+              "primary": true,
+              "size": 23525
+            },
+            {
+              "hashes": {
+                "sha1": "2a46ffa9e3fbe4e249d13c1f4665eeed629c505a",
+                "sha512": "c888aea0706be94363850e1e61d97fc6b1d7d0918a8a3f8dca44abe86d1b9d6dd490067279d2469a28b9c2ad57f1fc198b0b3eb4667f551f4dfffbec16caf700"
+              },
+              "url": "https://cdn.modrinth.com/data/XMwNnLZG/versions/Rm6JnCxH/Icarae-Origin-Fabric-1.1.0-alpha.2-sources.jar",
+              "filename": "Icarae-Origin-Fabric-1.1.0-alpha.2-sources.jar",
+              "primary": false,
+              "size": 16032
+            }
+          ],
+          "dependencies": [
+            {
+              "project_id": "3BeIrqZR",
+              "dependency_type": "required"
+            },
+            {
+              "project_id": "Dw7M6XKW",
+              "dependency_type": "required"
+            },
+            {
+              "project_id": "P7dR8mSH",
+              "dependency_type": "required"
+            }
+          ],
+          "game_versions": [
+            "1.20.1"
+          ],
+          "loaders": [
+            "fabric"
+          ]
+        }
+      },
+      {
+        "name": "Origins: Kitsune",
+        "version": "Kitsune 1.0",
+        "optional": true,
+        "file": "origins-kitsune-1.0.jar",
+        "type": "mods",
+        "description": "You are one of the ancient fox spirits, both respected and feared by many. What will you do with your heritage, and the power it brings?",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "modrinthProject": {
+          "id": "U7G4EHLF",
+          "slug": "origins-kitsune",
+          "project_type": "mod",
+          "team": "RcgSk6rE",
+          "title": "Origins: Kitsune",
+          "description": "You are one of the ancient fox spirits, both respected and feared by many. What will you do with your heritage, and the power it brings?",
+          "body": "For this to work, you need the Origins Mod.\nYou can choose a different character to become your origin to experience Minecraft.\n\nThis Origin is Coded in newest version of origin, so for lower versions or forge version, there may having bugs that not expected.\n\n# Kitsune\n\n**You are one of the ancient fox spirits, both respected and feared by many. What will you do with your heritage, and the power it brings?**\n\n> There have Normal version and white version of **Kitsune**\n## Passives\n\n- 💨Swifty mobility\n  - You run 40% faster, and jump 3 block higher when sneaking. You take no fall damage.\n- 🤫Sneaky\n  - Sculk Sensor won't detect you from landing, walking and running.\n- 🍒Favorite Food\n  - Berries are more saturation on you.\n- 📜Ancient Spirits\n  - You have Particles around you when moving.\n- 📜Ancient Lives\n  - You have 30% less health.\n##\n- This origin can be also found in [Omnix Origin](https://modrinth.com/datapack/origins-omnixomnitrix)\n- Any question can ask in the discord server ::: )\n- [Michael Ten Discord Server](https://discord.com/invite/KuWNd8av4q )",
+          "published": "2024-07-18T03:03:16.031794Z",
+          "updated": "2024-08-25T12:00:35.770859Z",
+          "status": "approved",
+          "license": {
+            "id": "MIT",
+            "name": "MIT License"
+          },
+          "client_side": "optional",
+          "server_side": "required",
+          "categories": [
+            "adventure",
+            "food",
+            "game-mechanics"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/U7G4EHLF/42bb5095b61d7c31c26bc98f35fe624b1ae17c66.png",
+          "discord_url": "https://discord.com/invite/KuWNd8av4q",
+          "donation_urls": [
+            {
+              "id": "paypal",
+              "platform": "Paypal",
+              "url": "https://paypal.me/michaelten10"
+            }
+          ],
+          "gallery": [
+            {
+              "url": "https://cdn.modrinth.com/data/U7G4EHLF/images/a899e1621a7ed85326643135375ac2bf59bfd917_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/U7G4EHLF/images/1010c18f324bedf97bd7fab93bf894552b6f4b2c.jpeg",
+              "featured": true,
+              "created": "2024-07-18T03:59:27.995066Z",
+              "ordering": 0.0
+            }
+          ]
+        },
+        "modrinthVersion": {
+          "id": "HZlCmBpz",
+          "project_id": "U7G4EHLF",
+          "author_id": "IK5pXxQ3",
+          "name": "Kitsune 1.0",
+          "version_number": "1.0+mod",
+          "changelog": "For this to work, you need the Origins Mod.\nYou can choose a different character to become your origin to experience Minecraft.\n\nThis Origin is Coded in newest version of origin, so for lower versions or forge version, there may having bugs that not expected.\n\n# Kitsune\n\n**You are one of the ancient fox spirits, both respected and feared by many. What will you do with your heritage, and the power it brings?**\n\n## Passives\n\n- 💨Swifty mobility\n  - You run 40% faster, and jump 3 block higher when sneaking. You take no fall damage.\n- 🤫Sneaky\n  - Sculk Sensor won't detect you from landing, walking and running.\n- 🍒Favorite Food\n  - Berries are more saturation on you.\n- 📜Ancient Spirits\n  - You have Particles around you when moving.\n- 📜Ancient Lives\n  - You have 30% less health.\n# \n- Any question can ask in the discord server ::: )\n- [Michael Ten Discord Server](https://discord.com/invite/KuWNd8av4q )",
+          "date_published": "2024-07-18T03:11:37.259553Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha1": "a52f9cfc6281e70e0ef02454b4f76168c89b582c",
+                "sha512": "945e7bbeacd19195a49634d2b2f05d057eb5d4d6d2a044d853c41b9c90eb67a1dede34dc1abd448198297e71ac665ca8f895159045c14e4aae3ff100b037f60d"
+              },
+              "url": "https://cdn.modrinth.com/data/U7G4EHLF/versions/HZlCmBpz/origins-kitsune-1.0.jar",
+              "filename": "origins-kitsune-1.0.jar",
+              "primary": true,
+              "size": 57272
+            }
+          ],
+          "dependencies": [
+            {
+              "project_id": "3BeIrqZR",
+              "dependency_type": "required"
+            }
+          ],
+          "game_versions": [
+            "1.18",
+            "1.18.1",
+            "1.18.2",
+            "1.19",
+            "1.19.1",
+            "1.19.2",
+            "1.19.3",
+            "1.19.4",
+            "1.20",
+            "1.20.1",
+            "1.20.2",
+            "1.20.3",
+            "1.20.4"
+          ],
+          "loaders": [
+            "fabric",
+            "forge",
+            "quilt"
+          ]
+        }
+      },
+      {
+        "name": "Alternate Origin GUI",
+        "version": "Alt Origin GUI v1.1.1+1.20.1 Fabric",
+        "optional": true,
+        "file": "AltOriginGui-fabric-1.20.1-1.1.1.jar",
+        "type": "mods",
+        "description": "Overhauls the origin selection screen to show multiple in a grid for selection.",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 873788,
+        "curseForgeFileId": 5633582,
+        "curseForgeProject": {
+          "id": 873788,
+          "name": "Alternate Origin GUI",
+          "authors": [
+            {
+              "id": 101317216,
+              "name": "UltrusBot",
+              "url": "https://www.curseforge.com/members/ultrusbot"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Overhauls the origin selection screen to show multiple in a grid for selection.",
+          "categories": [
+            {
+              "name": "Map and Information",
+              "slug": "map-information",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/map-information",
+              "dateModified": "2014-05-08T17:42:23.74Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 423,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/38/635351497437388438.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Addons",
+              "slug": "mc-addons",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-addons",
+              "dateModified": "2014-05-08T17:09:48.63Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 426,
+              "iconUrl": "https://media.forgecdn.net/avatars/5/998/635351477886290676.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 423,
+          "classId": 6,
+          "slug": "altorigingui",
+          "isFeatured": false,
+          "dateModified": "2024-08-16T00:55:38.687Z",
+          "dateCreated": "2023-06-13T03:14:16.75Z",
+          "dateReleased": "2024-08-16T00:52:21.86Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/altorigingui",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/UltrusBot/AltOriginGui/issues",
+            "sourceUrl": "https://github.com/UltrusBot/AltOriginGui"
+          },
+          "logo": {
+            "id": 831846,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/831/846/256/256/638222228568130762.png",
+            "title": "638222228568130762.png",
+            "url": "https://media.forgecdn.net/avatars/831/846/638222228568130762.png",
+            "modId": 873788
+          },
+          "allowModDistribution": true,
+          "screenshots": [
+            {
+              "id": 676526,
+              "description": "New Origins GUI, showing a array of origins, with two pages",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/676/526/310/172/origins.png",
+              "title": "Origins Screen",
+              "url": "https://media.forgecdn.net/attachments/676/526/origins.png",
+              "modId": 873788
+            },
+            {
+              "id": 676527,
+              "description": "New Origins GUI, showing the classes from Origins Classes",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/676/527/310/172/classes.png",
+              "title": "Classes",
+              "url": "https://media.forgecdn.net/attachments/676/527/classes.png",
+              "modId": 873788
+            }
+          ],
+          "mainFileId": 5633649
+        },
+        "curseForgeFile": {
+          "id": 5633582,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "Alt Origin GUI v1.1.1+1.20.1 Fabric",
+          "fileName": "AltOriginGui-fabric-1.20.1-1.1.1.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2024-08-16T00:25:55.06Z",
+          "fileLength": 21228,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 391943,
+              "relationType": 3
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 2468148902,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 198093778,
+              "name": "LICENSE_AltOriginGui"
+            },
+            {
+              "fingerprint": 1632140718,
+              "name": "altorigingui.fabric.mixins.json"
+            },
+            {
+              "fingerprint": 1181747305,
+              "name": "altorigingui.mixins.json"
+            },
+            {
+              "fingerprint": 3110675187,
+              "name": "altorigingui.png"
+            },
+            {
+              "fingerprint": 3252239298,
+              "name": "altorigingui.refmap.json"
+            },
+            {
+              "fingerprint": 4080139787,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 3468138963,
+              "name": "fabric.mod.json"
+            },
+            {
+              "fingerprint": 4134120770,
+              "name": "me"
+            },
+            {
+              "fingerprint": 3445752010,
+              "name": "pack.mcmeta"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "ebc8f0215bcc999c8af2afe15cdc5e1ef31e30b6",
+              "algo": 1
+            },
+            {
+              "value": "9694ceea55c76c6fa3b90baf15993af9",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-09-01T00:00:00Z",
+              "gameVersionName": "Fabric"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-05-26T00:00:00Z",
+              "gameVersionName": "Quilt"
+            }
+          ],
+          "gameVersions": [
+            "Fabric",
+            "1.20.1",
+            "Quilt"
+          ],
+          "fileFingerprint": 1702757171,
+          "modId": 873788
+        },
+        "modrinthProject": {
+          "id": "ldWHqZwQ",
+          "slug": "altorigingui",
+          "project_type": "mod",
+          "team": "u9QWB8dP",
+          "title": "Alternate Origin GUI",
+          "description": "Overhauls the origin selection screen to show multiple in a grid for selection.",
+          "body": "# Alternate Origin GUI\nThis overhauls the Origin Selection GUI to instead show multiple origins.\n\n![New Origins GUI, showing a array of origins, with two pages](https://cdn.modrinth.com/data/ldWHqZwQ/images/47132cadc0f51ef62ecd7f3cb425cf36bd8d9fd5.png)\nThis shows the new Origin Selection GUI, with two pages, with various origin addons installed.\n\nJust clicking on the icon will let you view the typical origin display on the right.\n\n![New Origins GUI, showing the classes from Origins Classes](https://cdn.modrinth.com/data/ldWHqZwQ/images/d89c3abe5a61bd2eeacbc58fb55534f98420cb5b.png)\nThis shows the class selection screen.\n\n\n<p style=\"text-align: center\"><a href=\"https://bisecthosting.com/Ultrus\"><img src=\"https://github.com/UltrusBot/Images/blob/main/bisect_banner.png?raw=true\" alt=\"BisectHostingCode: Ultrus\"/></a></p>",
+          "published": "2023-06-13T03:11:51.385936Z",
+          "updated": "2024-08-16T00:48:57.422253Z",
+          "status": "approved",
+          "license": {
+            "id": "MIT",
+            "name": "MIT License"
+          },
+          "client_side": "required",
+          "server_side": "unsupported",
+          "categories": [
+            "utility"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/ldWHqZwQ/bcddc17af2356352787fa1d427d02938e6c8572b_96.webp",
+          "issues_url": "https://github.com/UltrusBot/AltOriginGui/issues",
+          "source_url": "https://github.com/UltrusBot/AltOriginGui",
+          "discord_url": "https://discord.com/invite/zUFbbVVjbB",
+          "donation_urls": [
+            {
+              "id": "ko-fi",
+              "platform": "Ko-fi",
+              "url": "https://ko-fi.com/ultrusmods"
+            }
+          ],
+          "gallery": [
+            {
+              "url": "https://cdn.modrinth.com/data/ldWHqZwQ/images/47132cadc0f51ef62ecd7f3cb425cf36bd8d9fd5.png",
+              "raw_url": "https://cdn.modrinth.com/data/ldWHqZwQ/images/47132cadc0f51ef62ecd7f3cb425cf36bd8d9fd5.png",
+              "featured": true,
+              "title": "Origins Screen",
+              "description": "New Origins GUI, showing a array of origins, with two pages",
+              "created": "2023-06-13T05:27:46.488889Z",
+              "ordering": 1.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/ldWHqZwQ/images/d89c3abe5a61bd2eeacbc58fb55534f98420cb5b.png",
+              "raw_url": "https://cdn.modrinth.com/data/ldWHqZwQ/images/d89c3abe5a61bd2eeacbc58fb55534f98420cb5b.png",
+              "featured": false,
+              "title": "Classes",
+              "description": "New Origins GUI, showing the classes from Origins Classes",
+              "created": "2023-06-13T05:28:14.046158Z",
+              "ordering": 2.0
+            }
+          ]
+        },
+        "modrinthVersion": {
+          "id": "oSJyDQ48",
+          "project_id": "ldWHqZwQ",
+          "author_id": "RlpLaNSn",
+          "name": "Alt Origin GUI v1.1.1+1.20.1 Fabric",
+          "version_number": "1.1.1+1.20.1-fabric",
+          "changelog": "- Fix small issues from multiloader porting",
+          "date_published": "2024-08-16T00:25:55.359393Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha512": "807d199aedb4ea7d76dad1ba252e03f93a2d6d47a31ca072c4236e2fe37105e08017a6a6d0abc3cf6a265d876d97900e853d1fe2fa9519f3845caf1d5c9e2e21",
+                "sha1": "ebc8f0215bcc999c8af2afe15cdc5e1ef31e30b6"
+              },
+              "url": "https://cdn.modrinth.com/data/ldWHqZwQ/versions/oSJyDQ48/AltOriginGui-fabric-1.20.1-1.1.1.jar",
+              "filename": "AltOriginGui-fabric-1.20.1-1.1.1.jar",
+              "primary": true,
+              "size": 21228
+            }
+          ],
+          "dependencies": [
+            {
+              "project_id": "3BeIrqZR",
+              "dependency_type": "required"
+            }
+          ],
+          "game_versions": [
+            "1.20.1"
+          ],
+          "loaders": [
+            "fabric",
+            "quilt"
+          ]
+        }
+      },
+      {
+        "name": "CraftedCore",
+        "version": "1.20.1-fabric-5.5",
+        "optional": true,
+        "file": "craftedcore-5.5.jar",
+        "type": "mods",
+        "description": "Another API mod",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 923377,
+        "curseForgeFileId": 5679669,
+        "curseForgeProject": {
+          "id": 923377,
+          "name": "CraftedCore",
+          "authors": [
+            {
+              "id": 102462816,
+              "name": "ToCraft",
+              "url": "https://www.curseforge.com/members/tocraft"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Another API mod",
+          "categories": [
+            {
+              "name": "API and Library",
+              "slug": "library-api",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/library-api",
+              "dateModified": "2014-05-23T03:21:44.06Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 421,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/36/635351496947765531.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 421,
+          "classId": 6,
+          "slug": "crafted-core",
+          "isFeatured": false,
+          "dateModified": "2024-08-31T08:24:28.63Z",
+          "dateCreated": "2023-10-15T10:19:48.113Z",
+          "dateReleased": "2024-08-31T08:17:21.747Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/crafted-core",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/ToCraft/craftedcore/issues",
+            "sourceUrl": "https://github.com/ToCraft/craftedcore"
+          },
+          "logo": {
+            "id": 897642,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/897/642/256/256/638342913277680468.png",
+            "title": "638342913277680468.png",
+            "url": "https://media.forgecdn.net/avatars/897/642/638342913277680468.png",
+            "modId": 923377
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 5679685
+        },
+        "curseForgeFile": {
+          "id": 5679669,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "1.20.1-fabric-5.5",
+          "fileName": "craftedcore-5.5.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2024-08-31T08:15:36.893Z",
+          "fileLength": 321042,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 306612,
+              "relationType": 3
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 630895402,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 2806285347,
+              "name": "architectury_inject_craftedcore_common_558431aa693e4b178bea45ea225a78a1_241456d61a4d46d9a865b05e29bfa50156b544a5f7b354cc6e7cf397d07dda7dcraftedcore55devjar"
+            },
+            {
+              "fingerprint": 2954625887,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 2736884853,
+              "name": "craftedcore-1.20.1_common-refmap.json"
+            },
+            {
+              "fingerprint": 1138558244,
+              "name": "craftedcore-1.20.1_fabric-refmap.json"
+            },
+            {
+              "fingerprint": 3991566328,
+              "name": "craftedcore-fabric.mixins.json"
+            },
+            {
+              "fingerprint": 3941206721,
+              "name": "craftedcore.accessWidener"
+            },
+            {
+              "fingerprint": 2781845785,
+              "name": "craftedcore.mixins.json"
+            },
+            {
+              "fingerprint": 2383582843,
+              "name": "fabric.mod.json"
+            },
+            {
+              "fingerprint": 3329519318,
+              "name": "icon.png"
+            },
+            {
+              "fingerprint": 422832717,
+              "name": "patreons.txt"
+            },
+            {
+              "fingerprint": 1196118937,
+              "name": "tocraft"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "1787e2ef792f7f781fe68ab41c3f6c574662053d",
+              "algo": 1
+            },
+            {
+              "value": "a5c960539f0afd454535f5677020036d",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-09-01T00:00:00Z",
+              "gameVersionName": "Fabric"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-05-26T00:00:00Z",
+              "gameVersionName": "Quilt"
+            }
+          ],
+          "gameVersions": [
+            "Fabric",
+            "1.20.1",
+            "Quilt"
+          ],
+          "fileFingerprint": 3954276778,
+          "modId": 923377
+        },
+        "modrinthProject": {
+          "id": "Dg7PHdkJ",
+          "slug": "crafted-core",
+          "project_type": "mod",
+          "team": "pBOFY8ga",
+          "title": "CraftedCore",
+          "description": "Another API mod",
+          "body": "[![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/ToCraft)\n[![Discord](https://img.shields.io/discord/1183373613508857906?style=for-the-badge&label=Discord)](https://discord.gg/Y3KqxWDUYy)\n\n# CraftedCore\n\nThis mod contains shared code for some Forge and Fabric mods.\n\nTherefore, it doesn't add new features and won't change the user experience, but some mods depend on it.\n\n## Legal note\n\nThis mod is based on[Architectury API](https://github.com/architectury/architectury-api/tree/1.19.2) and therefore uses some scripts from it.\n",
+          "published": "2023-10-17T16:38:08.199537Z",
+          "updated": "2024-08-31T08:17:24.381407Z",
+          "status": "approved",
+          "license": {
+            "id": "LGPL-3.0-only",
+            "name": "GNU Lesser General Public License v3.0 only",
+            "url": "https://github.com/ToCraft/craftedcore/blob/1.20.1/LICENSE.md"
+          },
+          "client_side": "required",
+          "server_side": "required",
+          "categories": [
+            "library"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/Dg7PHdkJ/1e039cc4c6ec2a14f1f5b5131e4c231d37355662_96.webp",
+          "issues_url": "https://github.com/ToCraft/craftedcore/issues",
+          "source_url": "https://github.com/ToCraft/craftedcore",
+          "wiki_url": "https://tocraft.dev/docs/craftedcore/",
+          "discord_url": "https://discord.gg/Y3KqxWDUYy",
+          "donation_urls": [
+            {
+              "id": "patreon",
+              "platform": "Patreon",
+              "url": "https://www.patreon.com/ToCraft"
+            }
+          ],
+          "gallery": []
+        },
+        "modrinthVersion": {
+          "id": "pFzO1FzY",
+          "project_id": "Dg7PHdkJ",
+          "author_id": "xZjemyIa",
+          "name": "1.20.1-fabric-5.5",
+          "version_number": "1.20.1-fabric-5.5",
+          "changelog": "\ncraftedcore 5.5\n================\n- merge configs to JSON5 format\n- add comments to configs\n- update to MixinExtras 0.4.1\n\n\n\n",
+          "date_published": "2024-08-31T08:15:40.027619Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha512": "488095e7dd13cfd5200d6566f775076ca09cb900ed4ad567d0b0d41f0969188aea72f29d8702a47977cc2c3f6b682df1da0f4d956471986a050fec8363d46241",
+                "sha1": "1787e2ef792f7f781fe68ab41c3f6c574662053d"
+              },
+              "url": "https://cdn.modrinth.com/data/Dg7PHdkJ/versions/pFzO1FzY/craftedcore-5.5.jar",
+              "filename": "craftedcore-5.5.jar",
+              "primary": true,
+              "size": 321042
+            }
+          ],
+          "dependencies": [
+            {
+              "project_id": "P7dR8mSH",
+              "dependency_type": "required"
+            }
+          ],
+          "game_versions": [
+            "1.20.1"
+          ],
+          "loaders": [
+            "fabric",
+            "quilt"
+          ]
+        }
+      },
+      {
+        "name": "woodwalkers",
+        "version": "1.20.1-fabric-5.2",
+        "optional": true,
+        "file": "walkers-5.2.jar",
+        "type": "mods",
+        "description": "Transform into a mob!",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 868922,
+        "curseForgeFileId": 5679739,
+        "curseForgeProject": {
+          "id": 868922,
+          "name": "Woodwalkers",
+          "authors": [
+            {
+              "id": 102462816,
+              "name": "ToCraft",
+              "url": "https://www.curseforge.com/members/tocraft"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Transform into a mob!",
+          "categories": [
+            {
+              "name": "Magic",
+              "slug": "magic",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/magic",
+              "dateModified": "2014-05-08T17:40:24.787Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 419,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/34/635351496247862494.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Adventure and RPG",
+              "slug": "adventure-rpg",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/adventure-rpg",
+              "dateModified": "2014-05-08T17:42:09.54Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 422,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/37/635351497295252123.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Cosmetic",
+              "slug": "cosmetic",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/cosmetic",
+              "dateModified": "2014-05-08T17:42:35.597Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 424,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/39/635351497555976928.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 422,
+          "classId": 6,
+          "slug": "woodwalkers",
+          "isFeatured": false,
+          "dateModified": "2024-08-31T09:01:33.733Z",
+          "dateCreated": "2023-06-01T11:51:07.683Z",
+          "dateReleased": "2024-08-31T08:55:05.07Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/woodwalkers",
+            "wikiUrl": "https://github.com/ToCraft/woodwalkers-mod/wiki",
+            "issuesUrl": "https://github.com/ToCraft/woodwalkers-mod/issues",
+            "sourceUrl": "https://github.com/ToCraft/woodwalkers-mod"
+          },
+          "logo": {
+            "id": 826236,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/826/236/256/256/638212170677247357.png",
+            "title": "638212170677247357.png",
+            "url": "https://media.forgecdn.net/avatars/826/236/638212170677247357.png",
+            "modId": 868922
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 5679753
+        },
+        "curseForgeFile": {
+          "id": 5679739,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "1.20.1-fabric-5.2",
+          "fileName": "walkers-5.2.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2024-08-31T08:53:30.917Z",
+          "fileLength": 484900,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 923377,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 306612,
+              "relationType": 3
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 61222355,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 1888150154,
+              "name": "architectury_inject_walkers_common_1a0d9ec755e244f4882ad5497ebbb45f_486317d8869614497d4bc966a6b63fcb06d55abe981ac51668610a9a831a4610walkers52devjar"
+            },
+            {
+              "fingerprint": 107904143,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 3392797307,
+              "name": "data"
+            },
+            {
+              "fingerprint": 901137056,
+              "name": "fabric.mod.json"
+            },
+            {
+              "fingerprint": 2825574658,
+              "name": "icon.png"
+            },
+            {
+              "fingerprint": 2196214895,
+              "name": "tocraft"
+            },
+            {
+              "fingerprint": 3242249145,
+              "name": "walkers-1.20.1_common-refmap.json"
+            },
+            {
+              "fingerprint": 273741229,
+              "name": "walkers-1.20.1_fabric-refmap.json"
+            },
+            {
+              "fingerprint": 3084150504,
+              "name": "walkers-fabric.mixins.json"
+            },
+            {
+              "fingerprint": 45955509,
+              "name": "walkers.mixins.json"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "50a67cbd9f56787565e84d239ec26a02ea8cb82a",
+              "algo": 1
+            },
+            {
+              "value": "bab04ef9675121012faf052f08b76cf0",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-09-01T00:00:00Z",
+              "gameVersionName": "Fabric"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-05-26T00:00:00Z",
+              "gameVersionName": "Quilt"
+            }
+          ],
+          "gameVersions": [
+            "Fabric",
+            "1.20.1",
+            "Quilt"
+          ],
+          "fileFingerprint": 2705013749,
+          "modId": 868922
+        },
+        "modrinthProject": {
+          "id": "Sr1HeD8z",
+          "slug": "woodwalkers",
+          "project_type": "mod",
+          "team": "YLy3IfGg",
+          "title": "woodwalkers",
+          "description": "Transform into a mob!",
+          "body": "[![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/ToCraft)\n[![Discord](https://img.shields.io/discord/1183373613508857906?style=for-the-badge&label=Discord)](https://discord.gg/Y3KqxWDUYy)\n\n# Woodwalkers\n\n*Woodwalkers* is a mod lore-wise based on the book [Woodwalkers](https://www.katja-brandis.de/2016/05/11/woodwalkers/), and technically-based on [Identity](https://www.curseforge.com/minecraft/mc-mods/identity).\n\n## Download\n\n[CurseForge](https://curseforge.com/minecraft/mc-mods/woodwalkers)\n\n[Modrinth](https://modrinth.com/mod/woodwalkers)\n\n---\n\n**Woodwalkers Requires CraftedCore**\n\n[CraftedCore (CurseForge)](https://www.curseforge.com/minecraft/mc-mods/crafted-core)\n\n[CraftedCore (Modrinth)](https://modrinth.com/mod/crafted-core)\n\n---\n\n**Become your favourite mob!**\n\nThis mod allows you to choose a second shape, you can transform into at any time you want by just pressing a key!\n\nWalk over lava as a strider, discovery the caves as a bat or let your foes base explode as a ghast!\n**Nearly every mob has some nice abilities!**\n\nEven your hearts and your size will be changed to the one of the mob and your nametag will stop rendering, so no one could tell which one is the mob and which one is the player! Trick your friends!\n\n![](https://raw.githubusercontent.com/ToCraft/woodwalkers-mod/arch-1.20.1/assets/every_mob_is_possible.png)\n\n![](https://raw.githubusercontent.com/ToCraft/woodwalkers-mod/arch-1.20.1/assets/use_abilities.png)\n\n![](https://raw.githubusercontent.com/ToCraft/woodwalkers-mod/arch-1.20.1/assets/hide_everywhere_dont_die_with_less_lives.png)\n\n\n## Getting Started\n\nSearch for your favourite mob in your world/on your server. Once you found it, press the UNLOCK_KEY (by default 'U'), while looking directly at it. While doing, you should notice the message \"You feel it tingle\" or something. In case you don't see it, reinstall the modpack your check your config. After pressing the key for 100 ticks (5 seconds), you will transform into a mob of the same type. Your Unlock progress is complete! ;D\nIn case you want to change it again, change the config \"unlockOveridesCurrentShape\" to true, so you'll be able to override it at any time.\n\nYou can switch your shape by pressing the TRANSFORM_KEY (by default 'G'). Choose carefully! This choice is forever! Once chosen, you can't change it again! (But still, there's an OP-command and a config-option to reset your second shape after death...) \n\n### German Tutorial\n\n[![](https://markdown-videos-api.jorgenkh.no/youtube/qdZllBaXIWM)](https://youtu.be/qdZllBaXIWM)\n\n### License\n\nWoodwalkers is licensed under MIT. \n",
+          "published": "2023-06-25T09:39:01.037437Z",
+          "updated": "2024-08-31T08:55:07.770646Z",
+          "status": "approved",
+          "license": {
+            "id": "MIT",
+            "name": "MIT License",
+            "url": "https://github.com/ToCraft/woodwalkers-mod/blob/arch-1.20.1/LICENSE"
+          },
+          "client_side": "required",
+          "server_side": "required",
+          "categories": [
+            "adventure",
+            "magic"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/Sr1HeD8z/1c164d4382fac5a08b8f00198e7647a500bbe12a_96.webp",
+          "issues_url": "https://github.com/ToCraft/woodwalkers-mod/issues",
+          "source_url": "https://github.com/ToCraft/woodwalkers-mod",
+          "wiki_url": "https://github.com/ToCraft/woodwalkers-mod/wiki",
+          "discord_url": "https://discord.gg/Y3KqxWDUYy",
+          "donation_urls": [
+            {
+              "id": "patreon",
+              "platform": "Patreon",
+              "url": "https://www.patreon.com/ToCraft"
+            }
+          ],
+          "gallery": []
+        },
+        "modrinthVersion": {
+          "id": "3jLiQ9CD",
+          "project_id": "Sr1HeD8z",
+          "author_id": "xZjemyIa",
+          "name": "1.20.1-fabric-5.2",
+          "version_number": "1.20.1-fabric-5.2",
+          "changelog": "\nwalkers 5.2\n================\n\n- Add Traditional Chinese (by dirtTW)\n- fix special shape access\n- add charged creeper variant\n- add comments to config\n\n\n\n",
+          "date_published": "2024-08-31T08:53:34.129346Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha512": "a1a29c31d3df822dc16f7fed1a2d758034a5d6964604dab99068035cbb63fc592d106fb3b8d7e20ba136ef13cbf9f2365f66fa8fc5c888b17031e66267198747",
+                "sha1": "50a67cbd9f56787565e84d239ec26a02ea8cb82a"
+              },
+              "url": "https://cdn.modrinth.com/data/Sr1HeD8z/versions/3jLiQ9CD/walkers-5.2.jar",
+              "filename": "walkers-5.2.jar",
+              "primary": true,
+              "size": 484900
+            }
+          ],
+          "dependencies": [
+            {
+              "project_id": "Dg7PHdkJ",
+              "dependency_type": "required"
+            },
+            {
+              "project_id": "P7dR8mSH",
+              "dependency_type": "required"
+            }
+          ],
+          "game_versions": [
+            "1.20.1"
+          ],
+          "loaders": [
+            "fabric",
+            "quilt"
+          ]
+        }
+      },
+      {
+        "name": "Origins: Vampire",
+        "version": "Origins: Vampire 2.2.0",
+        "optional": true,
+        "file": "origins-vampire-v2.2.0.jar",
+        "type": "mods",
+        "description": "Origins: Vampire brings 2 new origins : Vampire and Vampire Lord",
+        "disabled": true,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 841824,
+        "curseForgeFileId": 5288930,
+        "curseForgeProject": {
+          "id": 841824,
+          "name": "Origins: Vampire",
+          "authors": [
+            {
+              "id": 102471291,
+              "name": "Venekiel",
+              "url": "https://www.curseforge.com/members/venekiel"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Origins: Vampire brings 2 new origins : Vampire and Vampire Lord",
+          "categories": [
+            {
+              "name": "Addons",
+              "slug": "mc-addons",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-addons",
+              "dateModified": "2014-05-08T17:09:48.63Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 426,
+              "iconUrl": "https://media.forgecdn.net/avatars/5/998/635351477886290676.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Adventure and RPG",
+              "slug": "adventure-rpg",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/adventure-rpg",
+              "dateModified": "2014-05-08T17:42:09.54Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 422,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/37/635351497295252123.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 426,
+          "classId": 6,
+          "slug": "origins-vampire",
+          "isFeatured": false,
+          "dateModified": "2024-04-25T08:21:28.827Z",
+          "dateCreated": "2023-03-24T23:05:13.123Z",
+          "dateReleased": "2024-04-24T21:55:50.133Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/origins-vampire",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/Venekiel/Origins-Vampire/issues",
+            "sourceUrl": "https://github.com/Venekiel/Origins-Vampire"
+          },
+          "logo": {
+            "id": 803049,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/803/49/256/256/638168216263070065.png",
+            "title": "638168216263070065.png",
+            "url": "https://media.forgecdn.net/avatars/803/49/638168216263070065.png",
+            "modId": 841824
+          },
+          "allowModDistribution": true,
+          "screenshots": [
+            {
+              "id": 646084,
+              "description": "Each creature has a blood type that defines the hunger it will bring you as well as bonus effects.",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/646/84/310/172/blood_types.png",
+              "title": "Blood types",
+              "url": "https://media.forgecdn.net/attachments/646/84/blood_types.png",
+              "modId": 841824
+            },
+            {
+              "id": 646092,
+              "description": "Vampire Lords have wings to fly faster than in bat form, but they will not protect them from sunlight.",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/646/92/310/172/vampire_vampire_lord.png",
+              "title": "Vampire Vs Vampire Lord",
+              "url": "https://media.forgecdn.net/attachments/646/92/vampire_vampire_lord.png",
+              "modId": 841824
+            },
+            {
+              "id": 646231,
+              "description": "In-game Vampire power descriptions.",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/646/231/310/172/gif_origin_432x448.gif",
+              "title": "Vampire powers",
+              "url": "https://media.forgecdn.net/attachments/646/231/gif_origin_432x448.gif",
+              "modId": 841824
+            },
+            {
+              "id": 646103,
+              "description": "Vampires are faster, stronger and more resilient than humans when their thirst is fulfilled. But the more their thirst grows, the weaker they become.",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/646/103/310/172/vampiric_powers.png",
+              "title": "Vampiric powers",
+              "url": "https://media.forgecdn.net/attachments/646/103/vampiric_powers.png",
+              "modId": 841824
+            },
+            {
+              "id": 646078,
+              "description": "As a vampire, you burn when exposed to sunlight. It also prevents you from regenerating your health.",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/646/78/310/172/sun_burn.png",
+              "title": "Weak to sunlight",
+              "url": "https://media.forgecdn.net/attachments/646/78/sun_burn.png",
+              "modId": 841824
+            },
+            {
+              "id": 646080,
+              "description": "You suck the blood of the living to survive. You can also bottle it for later sipping.",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/646/80/310/172/suck_drink_blood.png",
+              "title": "Blood sucker",
+              "url": "https://media.forgecdn.net/attachments/646/80/suck_drink_blood.png",
+              "modId": 841824
+            },
+            {
+              "id": 646086,
+              "description": "Vampires can transform into bats to move discreetly and freely in the sun.",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/646/86/310/172/bat_form_cropped_x2.jpg",
+              "title": "Bat form",
+              "url": "https://media.forgecdn.net/attachments/646/86/bat_form_cropped_x2.jpg",
+              "modId": 841824
+            },
+            {
+              "id": 646093,
+              "description": "Vampire Lords can see creatures through walls within a 30 block radius.",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/646/93/310/172/detect_living.jpg",
+              "title": "Hunter's instinct",
+              "url": "https://media.forgecdn.net/attachments/646/93/detect_living.jpg",
+              "modId": 841824
+            }
+          ],
+          "mainFileId": 5288930
+        },
+        "curseForgeFile": {
+          "id": 5288930,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "Origins-Vampire-fabric-quilt-v2.2.0.jar",
+          "fileName": "origins-vampire-v2.2.0.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2024-04-24T21:55:50.133Z",
+          "fileLength": 161464,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 391943,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 868922,
+              "relationType": 3
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 3854821766,
+              "name": "data"
+            },
+            {
+              "fingerprint": 3329615085,
+              "name": "license.txt"
+            },
+            {
+              "fingerprint": 2306975738,
+              "name": "pack.mcmeta"
+            },
+            {
+              "fingerprint": 2938086567,
+              "name": "pack.png"
+            },
+            {
+              "fingerprint": 3975091102,
+              "name": "README.md"
+            },
+            {
+              "fingerprint": 1766405491,
+              "name": "fabric.mod.json"
+            },
+            {
+              "fingerprint": 3686557330,
+              "name": "quilt.mod.json"
+            },
+            {
+              "fingerprint": 770646028,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 2938086567,
+              "name": "origins-vampire_pack.png"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "07ed4246856aff81d0ef6fa82aefa91e4a8fafd0",
+              "algo": 1
+            },
+            {
+              "value": "b31da02f399343cb10cf0807f1e5aa52",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000002",
+              "gameVersion": "1.20.2",
+              "gameVersionReleaseDate": "2023-09-21T15:25:15.053Z",
+              "gameVersionName": "1.20.2"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000019.0000000004",
+              "gameVersion": "1.19.4",
+              "gameVersionReleaseDate": "2023-03-09T00:00:00Z",
+              "gameVersionName": "1.19.4"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-09-01T00:00:00Z",
+              "gameVersionName": "Fabric"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-10-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Server"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-05-26T00:00:00Z",
+              "gameVersionName": "Quilt"
+            }
+          ],
+          "gameVersions": [
+            "1.20.2",
+            "1.19.4",
+            "Fabric",
+            "1.20.1",
+            "Forge",
+            "Server",
+            "Quilt"
+          ],
+          "fileFingerprint": 2009463224,
+          "modId": 841824
+        },
+        "modrinthProject": {
+          "id": "wXwvlA97",
+          "slug": "origins-vampire",
+          "project_type": "mod",
+          "team": "eFracQLj",
+          "title": "Origins: Vampire",
+          "description": "Origins: Vampire brings 2 new origins : Vampire and Vampire Lord",
+          "body": "# Origins: Vampire\n\n**Required dependency: [Identity mod](https://www.curseforge.com/minecraft/mc-mods/identity/files/4399470)** (for versions 2.0.0 and 2.1.0)\n\nOrigins: Vampire brings 2 origins to the game :\n- Vampire\n- Vampire Lord\n\nOnly the Vampire origin is selectable when choosing your origin. You'll need to drink the blood of the Ender Dragon to become a Vampire Lord, but it will not let you sip it without a fight.\n\n(Until v2.0.0) You'll need to obtain the advancement \"[Free the End](https://minecraft.fandom.com/wiki/The_End#Achievements)\" to evolve from a Vampire to a Vampire Lord\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/i35rWw4szM8\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n\n## Vampire\n\n### Undead : \nVampires are undead creatures that suck the blood of the living to fulfill their thirst.\nTheir undead condition makes them immune to poison and freezing damage, but weak to fire, and sunlight. They also don't have to breath to survive.\n\n### Unholy :\nThey are weak to wooden tools, as such being hit by one will incapacitate him for a brief amount of time.\n\n### Diet :\nAs vampires, their diet is limited to blood. They can suck it straight from the living or bottle it to drink later.\nWhen their thirst is satisfied, vampires are stronger and faster than humans, and can see clearly in the dark.\n\n### Healing :\nVampires heal faster but it makes them thirsty quickly.\nTheir weakness to fire and sunlight prevents them from healing while affected by this.\n\n### Bat form :\nVampires can transform into bats to move discretly and prevent the sunlight from affecting them.\nOn the other hand this form is more fragile, and does not have hands, preventing them to use their tools.\n\n## Vampire Lord\nThey inherit their characteristics from their previous form, with extras.\n\n### Winged :\nVampire Lords have wings strong enough to propel them forward while flying.\n\n### Hunter's instinct :\nThey gained the ability to detect the living around them and know whether they are hostile to them or not.\n\n## Links\n[![curseforge](https://img.shields.io/badge/curseforge-143?style=for-the-badge&logo=curseforge&logoColor=black&color=black&labelColor=orange&link=hhttps://www.curseforge.com/minecraft/mc-mods/origins-vampire)](https://www.curseforge.com/minecraft/mc-mods/origins-vampire)\n[![discord](https://img.shields.io/badge/discord-143?style=for-the-badge&logo=discord&logoColor=white&color=black&labelColor=5865F2&link=https://discord.com/invite/C6uYzAqXpA)](https://discord.com/invite/C6uYzAqXpA)\n[![ko-fi](https://img.shields.io/badge/buy_me_a_coffee-143?style=for-the-badge&logo=kofi&logoColor=white&color=salmon&labelColor=salmon&link=https://ko-fi.com/venekiel)](https://ko-fi.com/venekiel)",
+          "published": "2023-03-24T21:03:25.649097Z",
+          "updated": "2024-04-24T21:51:28.225898Z",
+          "status": "approved",
+          "license": {
+            "id": "GPL-3.0-only",
+            "name": "GNU General Public License v3.0 only",
+            "url": "https://github.com/Travelers-Tales/Origins-Vampire/blob/latest/license.txt"
+          },
+          "client_side": "optional",
+          "server_side": "required",
+          "categories": [
+            "adventure",
+            "game-mechanics"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/wXwvlA97/2fd50310ad5fd08fdd8f19f5cec0ea0b1307de78_96.webp",
+          "issues_url": "https://github.com/Venekiel/Origins-Vampire/issues",
+          "source_url": "https://github.com/Venekiel/Origins-Vampire",
+          "discord_url": "https://discord.com/invite/C6uYzAqXpA",
+          "donation_urls": [
+            {
+              "id": "ko-fi",
+              "platform": "Ko-fi",
+              "url": "https://ko-fi.com/venekiel"
+            }
+          ],
+          "gallery": [
+            {
+              "url": "https://cdn.modrinth.com/data/wXwvlA97/images/dd0c16ded14b8d5b9d70dcef2a66da298f88b4ea_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/wXwvlA97/images/dd0c16ded14b8d5b9d70dcef2a66da298f88b4ea.png",
+              "featured": false,
+              "title": "Vampiric powers",
+              "description": "Vampires are faster, stronger and more resilient than humans when their thirst is fulfilled. But the more their thirst grows, the weaker they become.",
+              "created": "2023-04-11T13:16:06.380438Z",
+              "ordering": 1.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/wXwvlA97/images/f36448f2c4c221e33995d1cc2ed068ae0a96d2d6_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/wXwvlA97/images/2a8c1477d47bada32daf41145408750133671ee0.png",
+              "featured": true,
+              "title": "Weak to sunlight",
+              "description": "As a vampire, you burn when exposed to sunlight. It also prevents you from regenerating your health.",
+              "created": "2023-04-11T13:00:02.764123Z",
+              "ordering": 2.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/wXwvlA97/images/7d99f3ecedfbe5e1d56f449697d53085f42aa3f6_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/wXwvlA97/images/7d99f3ecedfbe5e1d56f449697d53085f42aa3f6.png",
+              "featured": false,
+              "title": "Blood sucker",
+              "description": "You suck the blood of the living to survive. You can also bottle it for later sipping.",
+              "created": "2023-04-11T13:00:46.119102Z",
+              "ordering": 3.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/wXwvlA97/images/9a9d7a2d1129ec1480cee4a16f753b27317ec0b8_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/wXwvlA97/images/9a9d7a2d1129ec1480cee4a16f753b27317ec0b8.png",
+              "featured": false,
+              "title": "Blood types",
+              "description": "Each creature has a blood type that defines the hunger it will bring you as well as bonus effects.",
+              "created": "2023-04-11T13:01:24.093554Z",
+              "ordering": 4.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/wXwvlA97/images/81e73886def1282e9642cb8e2f7911adbd376f67_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/wXwvlA97/images/81e73886def1282e9642cb8e2f7911adbd376f67.jpeg",
+              "featured": false,
+              "title": "Bat form",
+              "description": "Vampires can transform into bats to move discreetly and freely in the sun.",
+              "created": "2023-04-11T13:02:05.621760Z",
+              "ordering": 5.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/wXwvlA97/images/067a277719edda33f940f1e138e48a86abbac087.gif",
+              "raw_url": "https://cdn.modrinth.com/data/wXwvlA97/images/067a277719edda33f940f1e138e48a86abbac087.gif",
+              "featured": false,
+              "title": "Vampire powers",
+              "description": "In-game Vampire power descriptions.",
+              "created": "2023-04-11T20:55:23.105115Z",
+              "ordering": 6.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/wXwvlA97/images/1b08d3ffa4d7be55f58d1498db05e59d2b05b226_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/wXwvlA97/images/1b08d3ffa4d7be55f58d1498db05e59d2b05b226.png",
+              "featured": false,
+              "title": "Vampire Vs Vampire Lord",
+              "description": "Vampire Lords have wings to fly faster than in bat form, but they will not protect them from sunlight.",
+              "created": "2023-04-11T13:03:04.189674Z",
+              "ordering": 7.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/wXwvlA97/images/6a22cfd6bdb5b1cb89417f29f0935f93ba570c44_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/wXwvlA97/images/6a22cfd6bdb5b1cb89417f29f0935f93ba570c44.jpeg",
+              "featured": false,
+              "title": "Hunter's instinct",
+              "description": "Vampire Lords can see creatures through walls within a 30 block radius.",
+              "created": "2023-04-11T13:03:34.506915Z",
+              "ordering": 8.0
+            }
+          ]
+        },
+        "modrinthVersion": {
+          "id": "9MQUKSrq",
+          "project_id": "wXwvlA97",
+          "author_id": "2J7ckXgU",
+          "name": "Origins: Vampire 2.2.0",
+          "version_number": "v2.2.0+mod",
+          "changelog": "* Replaced the mod used for bat form from Identity to Woodwalkers.\n* Added titles during transformation into vampire lord to explain a bit what is going on.\n* Added a command to give yourself the Enderdragon's blood.\n* Minecraft 1.20.2 now supported.\n\n**Full Changelog**: https://github.com/Venekiel/Origins-Vampire/compare/v2.1.0...v2.2.0",
+          "date_published": "2024-04-24T21:51:28.684438Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha512": "74927aa74a7ac33f9b7503a0592f48da8a57da86a0b744b82932a834969521b7b8003a37775ebda49841ef6b71cfc07cbba6c5be94f86c488fb90086a1a04d4a",
+                "sha1": "07ed4246856aff81d0ef6fa82aefa91e4a8fafd0"
+              },
+              "url": "https://cdn.modrinth.com/data/wXwvlA97/versions/9MQUKSrq/origins-vampire-v2.2.0.jar",
+              "filename": "origins-vampire-v2.2.0.jar",
+              "primary": true,
+              "size": 161464
+            }
+          ],
+          "dependencies": [
+            {
+              "project_id": "Sr1HeD8z",
+              "dependency_type": "required"
+            },
+            {
+              "project_id": "3BeIrqZR",
+              "dependency_type": "required"
+            }
+          ],
+          "game_versions": [
+            "1.19.4",
+            "1.20.1",
+            "1.20.2"
+          ],
+          "loaders": [
+            "fabric",
+            "forge",
+            "quilt"
+          ]
+        }
       }
     ],
     "ignoredUpdates": [],
     "ignoreAllUpdates": false,
     "vanillaInstance": true,
-    "lastPlayed": 1725899326570,
-    "numPlays": 100,
+    "lastPlayed": 1726359211313,
+    "numPlays": 104,
     "lastExportName": "Sunnie's RPG Tech",
     "lastExportVersion": "1.20.1",
     "lastExportAuthor": "Hitomiiv",
@@ -72668,10 +75838,10 @@
   "minimumLauncherVersion": "21",
   "assetIndex": {
     "id": "5",
-    "sha1": "32c7a27ebcbce1cd5649fc237ccbc65dcf1d79fa",
+    "sha1": "9ee5b32d87acded8f2d3d57ceec589ee5243ea61",
     "size": 411881,
-    "url": "https://piston-meta.mojang.com/v1/packages/32c7a27ebcbce1cd5649fc237ccbc65dcf1d79fa/5.json",
-    "totalSize": 626128948
+    "url": "https://piston-meta.mojang.com/v1/packages/9ee5b32d87acded8f2d3d57ceec589ee5243ea61/5.json",
+    "totalSize": 626130491
   },
   "assets": "5",
   "downloads": {

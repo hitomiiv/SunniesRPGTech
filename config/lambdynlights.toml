@@ -136,6 +136,9 @@ mode = "fancy"
 				milk_snake = true
 				bluebird = true
 				hamster = true
+				prawn = true
+				bettafish = true
+				rainbow_trout = true
 
 			[light_sources.settings.entities.smallships]
 				brigg = true
