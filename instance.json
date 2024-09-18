@@ -80620,13 +80620,288 @@
             "forge"
           ]
         }
+      },
+      {
+        "name": "Explorer's Compass",
+        "version": "1.20.1-2.2.3-fabric",
+        "optional": true,
+        "file": "ExplorersCompass-1.20.1-2.2.3-fabric.jar",
+        "type": "mods",
+        "description": "Allows you to locate structures anywhere in the world.",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 491794,
+        "curseForgeFileId": 4712192,
+        "curseForgeProject": {
+          "id": 491794,
+          "name": "Explorer's Compass",
+          "authors": [
+            {
+              "id": 21484530,
+              "name": "Chaosyr",
+              "url": "https://www.curseforge.com/members/chaosyr"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Explorer's Compass is an item that allows you to locate structures anywhere in the world.",
+          "categories": [
+            {
+              "name": "Structures",
+              "slug": "world-structures",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen/world-structures",
+              "dateModified": "2014-05-08T17:37:17.173Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 409,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/24/635351494371736208.png",
+              "parentCategoryId": 406,
+              "classId": 6
+            },
+            {
+              "name": "Armor, Tools, and Weapons",
+              "slug": "armor-weapons-tools",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/armor-weapons-tools",
+              "dateModified": "2014-05-08T17:44:39.057Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 434,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/47/635351498790409758.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Map and Information",
+              "slug": "map-information",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/map-information",
+              "dateModified": "2014-05-08T17:42:23.74Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 423,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/38/635351497437388438.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Adventure and RPG",
+              "slug": "adventure-rpg",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/adventure-rpg",
+              "dateModified": "2014-05-08T17:42:09.54Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 422,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/37/635351497295252123.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 423,
+          "classId": 6,
+          "slug": "explorers-compass",
+          "isFeatured": false,
+          "dateModified": "2024-09-05T23:48:36.67Z",
+          "dateCreated": "2021-06-07T16:40:01.453Z",
+          "dateReleased": "2024-09-05T23:41:51.767Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/explorers-compass",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/MattCzyr/ExplorersCompass/issues",
+            "sourceUrl": "https://github.com/MattCzyr/ExplorersCompass"
+          },
+          "logo": {
+            "id": 392538,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/392/538/256/256/637586809619523367.png",
+            "title": "637586809619523367.png",
+            "url": "https://media.forgecdn.net/avatars/392/538/637586809619523367.png",
+            "modId": 491794
+          },
+          "allowModDistribution": true,
+          "screenshots": [
+            {
+              "id": 370045,
+              "description": "The structure selection GUI",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/370/45/310/172/selection_gui.png",
+              "title": "Select Structure",
+              "url": "https://media.forgecdn.net/attachments/370/45/selection_gui.png",
+              "modId": 491794
+            },
+            {
+              "id": 370043,
+              "description": "Information about a located structure is displayed on the HUD",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/370/43/310/172/hud_info.png",
+              "title": "Structure Found",
+              "url": "https://media.forgecdn.net/attachments/370/43/hud_info.png",
+              "modId": 491794
+            }
+          ],
+          "mainFileId": 5696040
+        },
+        "curseForgeFile": {
+          "id": 4712192,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "ExplorersCompass-1.20.1-2.2.3-fabric.jar",
+          "fileName": "ExplorersCompass-1.20.1-2.2.3-fabric.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2023-08-19T14:01:34.503Z",
+          "fileLength": 168187,
+          "dependencies": [],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 2413427589,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 222468734,
+              "name": "fabric.mod.json"
+            },
+            {
+              "fingerprint": 1822663364,
+              "name": "explorerscompass.mixins.json"
+            },
+            {
+              "fingerprint": 1452190361,
+              "name": "data"
+            },
+            {
+              "fingerprint": 2980535486,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 1102684878,
+              "name": "explorerscompass-refmap.json"
+            },
+            {
+              "fingerprint": 3608290734,
+              "name": "com"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "65a0f6e2f7253d325696766342956a6c94b9cfc6",
+              "algo": 1
+            },
+            {
+              "value": "317f8a883e97b969d0c567cf9ad06722",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-09-01T00:00:00Z",
+              "gameVersionName": "Fabric"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            }
+          ],
+          "gameVersions": [
+            "Fabric",
+            "1.20.1"
+          ],
+          "fileFingerprint": 446476664,
+          "modId": 491794
+        },
+        "modrinthProject": {
+          "id": "RV1qfVQ8",
+          "slug": "explorers-compass",
+          "project_type": "mod",
+          "team": "SP6IRC9w",
+          "title": "Explorer's Compass",
+          "description": "Allows you to locate structures anywhere in the world.",
+          "body": "![Explorer's Compass](https://i.imgur.com/HWRqFas.png)\n\nExplorer's Compass is an item that allows you to locate structures anywhere in the world. If you're looking for a compass that can locate biomes, check out [Natures's Compass](https://modrinth.com/mod/natures-compass).\n\n## Features\n\n- Right-click with the Explorer's Compass to open a GUI through which you can select a structure or group of structures to search for\n- Shift-right-click to reset the compass state\n- Information about a structure search is displayed on the HUD\n- When the compass is not pointing at a structure, it will point at the world spawn\n- Supports all registered structures, both vanilla and modded\n- Adjust properties like maximum search radius and blacklisted structures in the config file\n\n## Images\n\n![Information about a located structure is displayed on the HUD](https://i.imgur.com/h6ZHGDM.png)\n\n*Information about a located structure is displayed on the HUD*\n\n![The compass GUI, through which you can select a structure to search for](https://i.imgur.com/Q49Pvjv.png)\n\n*The compass GUI, through which you can select a structure to search for*\n\n## Recipe\n\n![Recipe](https://i.imgur.com/xSE8VSc.png)\n\n*The crafting recipe for the Explorer's Compass*\n\n## Modpacks\n\nYes, you can use this mod in your modpack.\n\n## Support\n\nIf you enjoy the mod and would like to support the project, feel free to [leave a donation on PayPal](https://www.paypal.com/donate/?business=46ZL2PNVP4XKE). Support is greatly appreciated!\n\n## Sponsor\n\nThis project is sponsored by BisectHosting. If you're looking for a server, check out their hosting plans and [use promo code *Chaos* at checkout](https://www.bisecthosting.com/chaos) to get 25% off your first month!\n\n[![](https://www.bisecthosting.com/partners/custom-banners/0998de1c-6d3e-4370-a553-0da42e986c68.png)](https://bisecthosting.com/chaos)",
+          "published": "2023-09-10T20:55:20.397318Z",
+          "updated": "2024-06-25T23:30:24.945778Z",
+          "status": "approved",
+          "license": {
+            "id": "CC-BY-NC-SA-4.0",
+            "name": "Creative Commons Attribution Non Commercial Share Alike 4.0 International"
+          },
+          "client_side": "required",
+          "server_side": "required",
+          "categories": [
+            "adventure",
+            "equipment",
+            "utility"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/RV1qfVQ8/16aee9631790996daba4d0dc5fe75f4e894ccaee.png",
+          "issues_url": "https://github.com/MattCzyr/ExplorersCompass/issues",
+          "source_url": "https://github.com/MattCzyr/ExplorersCompass",
+          "donation_urls": [
+            {
+              "id": "paypal",
+              "platform": "Paypal",
+              "url": "https://www.paypal.com/donate/?business=46ZL2PNVP4XKE"
+            }
+          ],
+          "gallery": [
+            {
+              "url": "https://cdn.modrinth.com/data/RV1qfVQ8/images/4e701b15485b8739871047de1cf81f75920d3b7c_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/RV1qfVQ8/images/dfee69ce5ee069929c0fd4f082e94a3fc4c125a5.png",
+              "featured": false,
+              "title": "Found Structure",
+              "description": "Information about a located structure is displayed on the HUD",
+              "created": "2023-09-10T22:52:54.912687Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/RV1qfVQ8/images/b55e4284984fd0cfb4190a0d9d1e0e302bdb85e9_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/RV1qfVQ8/images/b55e4284984fd0cfb4190a0d9d1e0e302bdb85e9.png",
+              "featured": false,
+              "title": "Select Structure",
+              "description": "The compass GUI, where you can select a structure to search for",
+              "created": "2023-09-10T22:53:50.702580Z",
+              "ordering": 1.0
+            }
+          ]
+        },
+        "modrinthVersion": {
+          "id": "9ntdShFb",
+          "project_id": "RV1qfVQ8",
+          "author_id": "71h6EGVq",
+          "name": "1.20.1-2.2.3-fabric",
+          "version_number": "1.20.1-2.2.3-fabric",
+          "changelog": "- Updated to Fabric 1.20.1\n- Added the compass to the minecraft:compasses tag\n- Fixed compass spinning when player's yaw goes from positive to negative or vice versa\n- Fixed a server hang and eventual crash that occurred when using the compass to teleport to coordinates with no blocks to stand on",
+          "date_published": "2023-09-15T23:13:09.892166Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha1": "65a0f6e2f7253d325696766342956a6c94b9cfc6",
+                "sha512": "c8aa25fd1567a24ebfee6d187f306961e63b64b498613e43838f88d08bbe7522db0ed8cc1c75fd2a2baa0701fe5d550d5f609f388596a60f143fa0e1d10a8113"
+              },
+              "url": "https://cdn.modrinth.com/data/RV1qfVQ8/versions/9ntdShFb/ExplorersCompass-1.20.1-2.2.3-fabric.jar",
+              "filename": "ExplorersCompass-1.20.1-2.2.3-fabric.jar",
+              "primary": true,
+              "size": 168187
+            }
+          ],
+          "dependencies": [],
+          "game_versions": [
+            "1.20.1"
+          ],
+          "loaders": [
+            "fabric"
+          ]
+        }
       }
     ],
     "ignoredUpdates": [],
     "ignoreAllUpdates": false,
     "vanillaInstance": true,
-    "lastPlayed": 1726693828521,
-    "numPlays": 110,
+    "lastPlayed": 1726694282317,
+    "numPlays": 111,
     "lastExportName": "Sunnie's RPG Tech",
     "lastExportVersion": "1.20.1",
     "lastExportAuthor": "Hitomiiv",
