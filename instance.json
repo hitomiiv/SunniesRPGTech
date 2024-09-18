@@ -75521,13 +75521,2047 @@
             "quilt"
           ]
         }
+      },
+      {
+        "name": "Puzzles Lib",
+        "version": "[FABRIC] [1.20.1] PuzzlesLib-v8.1.23",
+        "optional": true,
+        "file": "PuzzlesLib-v8.1.23-1.20.1-Fabric.jar",
+        "type": "mods",
+        "description": "Why's it called Puzzles you ask? That's the puzzle!",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 495476,
+        "curseForgeFileId": 5707406,
+        "curseForgeProject": {
+          "id": 495476,
+          "name": "Puzzles Lib [Forge & Fabric]",
+          "authors": [
+            {
+              "id": 10384423,
+              "name": "Fuzs",
+              "url": "https://www.curseforge.com/members/fuzs"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Why's it called Puzzles you ask? That's the puzzle!",
+          "categories": [
+            {
+              "name": "API and Library",
+              "slug": "library-api",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/library-api",
+              "dateModified": "2014-05-23T03:21:44.06Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 421,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/36/635351496947765531.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 421,
+          "classId": 6,
+          "slug": "puzzles-lib",
+          "isFeatured": false,
+          "dateModified": "2024-09-18T10:16:21.557Z",
+          "dateCreated": "2021-06-18T21:32:37.78Z",
+          "dateReleased": "2024-09-18T10:11:58.4Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/puzzles-lib",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/Fuzss/puzzleslib/issues",
+            "sourceUrl": "https://github.com/Fuzss/puzzleslib"
+          },
+          "logo": {
+            "id": 776232,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/776/232/256/256/638118144989284933.png",
+            "title": "638118144989284933.png",
+            "url": "https://media.forgecdn.net/avatars/776/232/638118144989284933.png",
+            "modId": 495476
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 5733953
+        },
+        "curseForgeFile": {
+          "id": 5707406,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "[FABRIC] [1.20.1] PuzzlesLib-v8.1.23",
+          "fileName": "PuzzlesLib-v8.1.23-1.20.1-Fabric.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2024-09-09T17:32:04.627Z",
+          "fileLength": 980079,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 547434,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 306612,
+              "relationType": 3
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 2615815825,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 964529990,
+              "name": "CHANGELOG.md"
+            },
+            {
+              "fingerprint": 1447192261,
+              "name": "LICENSE-ASSETS.md"
+            },
+            {
+              "fingerprint": 2980605036,
+              "name": "LICENSE.md"
+            },
+            {
+              "fingerprint": 3432439521,
+              "name": "fabric.mod.json"
+            },
+            {
+              "fingerprint": 3720877373,
+              "name": "fuzs"
+            },
+            {
+              "fingerprint": 1906961265,
+              "name": "mod_banner.png"
+            },
+            {
+              "fingerprint": 921125005,
+              "name": "mod_logo.png"
+            },
+            {
+              "fingerprint": 1997921311,
+              "name": "pack.mcmeta"
+            },
+            {
+              "fingerprint": 2516393145,
+              "name": "puzzleslib.accesswidener"
+            },
+            {
+              "fingerprint": 1312012457,
+              "name": "puzzleslib.common.mixins.json"
+            },
+            {
+              "fingerprint": 1183464219,
+              "name": "puzzleslib.fabric.mixins.json"
+            },
+            {
+              "fingerprint": 4094365361,
+              "name": "puzzleslib.refmap.json"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "89dc5e19d037f5a5e6d8a6b92353130294c8ea7b",
+              "algo": 1
+            },
+            {
+              "value": "61bb812f8246a8f86fc1bd61239f5895",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-09-01T00:00:00Z",
+              "gameVersionName": "Fabric"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            }
+          ],
+          "gameVersions": [
+            "Fabric",
+            "1.20.1"
+          ],
+          "fileFingerprint": 914521851,
+          "modId": 495476
+        },
+        "modrinthProject": {
+          "id": "QAGBst4M",
+          "slug": "puzzles-lib",
+          "project_type": "mod",
+          "team": "ubZOU9rM",
+          "title": "Puzzles Lib",
+          "description": "Why's it called Puzzles you ask? That's the puzzle!",
+          "body": "<p><img src=\"https://i.imgur.com/4htIK3r.png\" width=\"854\" height=\"240\" /></p>\n<p><img src=\"https://i.imgur.com/E6BUT4h.png\" width=\"854\" height=\"14\" /></p>\n<p style=\"text-align: center; line-height: 36px;\"><img src=\"https://img.shields.io/badge/available%20for%20Minecraft-1.19%20%7C%201.18%20%7C%201.17%20%7C%201.16-ecebe6?labelColor=2F4858&amp;style=for-the-badge\" width=\"386\" height=\"28\" />&emsp;<img src=\"https://img.shields.io/badge/Install%20on-Client%20%26%20Server-ecebe6?labelColor=2F4858&amp;style=for-the-badge\" width=\"240\" height=\"28\" /></p>\n<p style=\"text-align: center; line-height: 36px;\"><a href=\"https://www.curseforge.com/minecraft/mc-mods/puzzles-lib/files/all?filter-status=1&amp;filter-game-version=2020709689%3A7498\"><img src=\"https://bit.ly/3yrSsw7\" width=\"320\" height=\"28\" /></a></p>\n<p style=\"text-align: center; line-height: 36px;\"><a href=\"https://www.curseforge.com/minecraft/mc-mods/puzzles-lib/files/all?filter-status=1&amp;filter-game-version=2020709689%3A7499\"><img src=\"https://bit.ly/3nRXr4m\" width=\"325\" height=\"28\" /></a>&emsp;<a href=\"https://www.curseforge.com/minecraft/mc-mods/fabric-api\"><img src=\"https://bit.ly/30lZmFY\" width=\"208\" height=\"28\" /></a>&emsp;<a href=\"https://www.curseforge.com/minecraft/mc-mods/forge-config-api-port-fabric\"><img src=\"https://bit.ly/3clkhvn\" width=\"299\" height=\"28\" /></a></p>\n<p><img src=\"https://i.imgur.com/E6BUT4h.png\" width=\"854\" height=\"14\" /></p>\n<p><span style=\"font-size: 20px;\"><strong>📖 About:</strong></span></p>\n<p><span style=\"font-size: 14px;\"><strong>Puzzles Lib</strong> is a rather light-weight library consisting of multiple frameworks and utility classes. But most of all, it offers an abstraction layer for developing mods on both the Forge and Fabric mod loader, making ports and maintaining mods rather simple without having to rewrite a bunch of logic.</span></p>\n<p><span style=\"font-size: 14px;\">This mod doesn't do anything on its own, so install it only when you also use another one of my mods.</span></p>\n<p><span style=\"font-size: 14px;\">The Fabric version of this project additionally depends on the <a href=\"https://www.curseforge.com/minecraft/mc-mods/forge-config-api-port-fabric\"><span style=\"font-size: 14px;\"><strong>Forge Config API Port</strong></span></a> library. This is required for mod configuration, as it allows for using the exact same system as on the Forge mod loader.</span></p>\n<p><img src=\"https://i.imgur.com/E6BUT4h.png\" width=\"854\" height=\"14\" /></p>\n<p style=\"text-align: center; line-height: 36px;\"><a href=\"https://www.curseforge.com/members/fuzs_/projects\"><img src=\"https://img.shields.io/static/v1?label=&amp;message=Fuzs_&amp;color=ecebe6&amp;labelColor=2F4858&amp;style=for-the-badge&amp;logo=curseforge&amp;logoColor=white\" width=\"97\" height=\"28\" /></a>&emsp;<a href=\"https://github.com/Fuzss\"><img src=\"https://img.shields.io/static/v1?label=&amp;message=Fuzss&amp;color=ecebe6&amp;labelColor=2F4858&amp;style=for-the-badge&amp;logo=github&amp;logoColor=white\" width=\"97\" height=\"28\" /></a>&emsp;<a href=\"https://www.youtube.com/channel/UC2l26SuCmCNSCPefpfbCX7Q\"><img src=\"https://img.shields.io/static/v1?label=&amp;message=Fuzs&amp;color=ecebe6&amp;labelColor=2F4858&amp;style=for-the-badge&amp;logo=youtube&amp;logoColor=white\" width=\"89\" height=\"28\" /></a>&emsp;<a href=\"https://twitter.com/Fusseel\"><img src=\"https://img.shields.io/static/v1?label=&amp;message=@Fusseel&amp;color=ecebe6&amp;labelColor=2F4858&amp;style=for-the-badge&amp;logo=twitter&amp;logoColor=white\" width=\"124\" height=\"28\" /></a>&emsp;<a href=\"https://www.reddit.com/user/Fusseel\"><img src=\"https://img.shields.io/static/v1?label=&amp;message=u/Fusseel&amp;color=ecebe6&amp;labelColor=2F4858&amp;style=for-the-badge&amp;logo=reddit&amp;logoColor=white\" alt=\"Reddit\" width=\"130\" height=\"28\" /></a>&emsp;<img src=\"https://img.shields.io/static/v1?label=&amp;message=Fuzs%200212&amp;color=ecebe6&amp;labelColor=2F4858&amp;style=for-the-badge&amp;logo=discord&amp;logoColor=white\" width=\"127\" height=\"28\" /></p>\n<p><img src=\"https://i.imgur.com/E6BUT4h.png\" width=\"854\" height=\"14\" /></p>",
+          "published": "2022-07-06T18:55:14.270853Z",
+          "updated": "2024-09-18T10:12:04.095647Z",
+          "status": "approved",
+          "license": {
+            "id": "MPL-2.0",
+            "name": "Mozilla Public License 2.0"
+          },
+          "client_side": "required",
+          "server_side": "required",
+          "categories": [
+            "library"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/QAGBst4M/97b8d6e51d8c36a031837736250cb059095e7b2b_96.webp",
+          "issues_url": "https://github.com/Fuzss/puzzleslib/issues",
+          "source_url": "https://github.com/Fuzss/puzzleslib",
+          "donation_urls": [],
+          "gallery": [
+            {
+              "url": "https://cdn.modrinth.com/data/QAGBst4M/images/5e7adfdd701328e7b0cc69e7ee23a6d6ef663139_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/QAGBst4M/images/f57930a615a4c67e94387efeb6016c3e2d3e8ff9.png",
+              "featured": true,
+              "created": "2023-01-09T11:26:08.420283Z",
+              "ordering": 0.0
+            }
+          ]
+        },
+        "modrinthVersion": {
+          "id": "wTaZZcm5",
+          "project_id": "QAGBst4M",
+          "author_id": "rHdGpxOA",
+          "name": "[FABRIC] [1.20.1] PuzzlesLib-v8.1.23",
+          "version_number": "v8.1.23-1.20.1-Fabric",
+          "changelog": "# Changelog\nAll notable changes to this project will be documented in this file.\n\nThe format is based on [Keep a Changelog].\n\n## [v8.1.23-1.20.1] - 2024-09-09\n### Fixed\n- Fix `DynamicPackResources` providing an invalid pack when dynamic data generation fails\n\n## [v8.1.22-1.20.1] - 2024-08-26\n### Fixed\n- Fix item model display overrides being able to compute before models have been reloaded on Fabric\n\n## [v8.1.21-1.20.1] - 2024-06-26\n### Fixed\n- Fix `PlayerInteractEvents$AttackBlock` not firing for creative players on Fabric\n\n## [v8.1.20-1.20.1] - 2024-05-26\n### Fixed\n- Attempt to improve handling for missing child reload listeners during resource reloading\n\n## [v8.1.19-1.20.1] - 2024-05-09\n### Changed\n- Update mod list printing to better reflect child mod relations (backport from 1.20.4)\n### Fixed\n- Fix crash involving `GatherPotentialSpawnsCallback` when the ModernFix mod is installed on Forge\n\n## [v8.1.18-1.20.1] - 2024-03-20\n### Fixed\n- Fix `LivingDeathCallback` not running for players on Fabric\n\n## [v8.1.17-1.20.1] - 2024-02-16\n### Fixed\n- Fix item model overrides not applying on Forge\n\n## [v8.1.16-1.20.1] - 2024-02-01\n### Fixed\n- Fix crash when breaking crops with Farmer's Delight's sickle\n\n## [v8.1.15-1.20.1] - 2024-01-28\n### Fixed\n- Fix `TagsUpdatedCallback` & `ServerLifecycleEvents.Starting` not running on dedicated servers\n\n## [v8.1.14-1.20.1] - 2024-01-24\n### Changed\n- Delay event initialization to avoid being blamed for class loading errors\n### Fixed\n- Fix killing entities with custom damage sources not yielding any experience\n- Fix compatibility with Hephaestus by moving problematic code to the relevant mod, so only that one mod is incompatible until the issues is properly resolved on Hephaestus' end\n\n## [v8.1.13-1.20.1] - 2024-01-11\n### Fixed\n- Fixed unloading of a server config placed in a world's `serverconfig` directory failing and causing some processes to hang\n\n## [v8.1.12-1.20.1] - 2024-01-05\n### Fixed\n- Fixed missing `ToolTypeHelper::isTrident` method\n\n## [v8.1.11-1.20.1] - 2023-12-03\n### Fixed\n- Fixed anonymous network handlers allowing for duplicate ids\n\n## [v8.1.10-1.20.1] - 2023-12-03\n### Changed\n- Use string contexts for network handler ids instead of numeric\n\n## [v8.1.9-1.20.1] - 2023-11-19\n### Changed\n- Minor capability related code cleanup\n- Error messages from `BlockConversionHelper` now include more context\n### Fixed\n- Fixed `RegistryEntryAddedCallback` not being synchronized correctly\n\n## [v8.1.8-1.20.1] - 2023-11-07\n### Fixed\n- Implement a temporary workaround for screens crashing the game when opened with [Controlify](https://www.curseforge.com/minecraft/mc-mods/controlify) installed\n\n## [v8.1.7-1.20.1] - 2023-11-07\n### Added\n- Added `ComponentHelper` for converting various text instances back to `Component`\n- Added `LivingEquipmentChangeCallback`\n### Changed\n- Improve parity for `BlockEvents.Break`, `LivingAttackCallback`, and `PlayerInteractEvents.AttackBlock` between different mod loaders\n### Fixed\n- Ensure backwards compatibility of `NetworkHandlerV3`\n\n## [v8.1.6-1.20.1] - 2023-10-29\n### Changed\n- Moved methods for registering block and fluid render types to `ClientAbstractions`\n### Fixed\n- Fixed a crash with Forgified Fabric Api due to a faulty Mixin in `ModelProvider`\n\n## [v8.1.5-1.20.1] - 2023-10-29\n### Changed\n- Adjusted `ModelEvents` to work with ModernFix's dynamic resources\n\n## [v8.1.4-1.20.1] - 2023-10-28\n### Fixed\n- Fixed chunk events chunk type\n\n## [v8.1.3-1.20.1] - 2023-10-28\n### Changed\n- Disabled `LivingEvents$Breathe` and `LivingEvents$Drown` to be able to lower the required Forge version to 47.1.3\n- Added a way in `DataProviderHelper` to support legacy data providers\n- Refactored some parts of `NetworkHandlerV3`\n- Be more careful when firing `RegistryEntryAddedCallback` by introducing a lock and catching possible exceptions to avoid the whole registration process from failing\n- Ensure exceptions thrown during model events are caught and no longer crash the game\n### Fixed\n- Fixed dynamic data generation failing on Windows\n\n## [v8.1.2-1.20.1] - 2023-10-27\n### Fixed\n- Set required Forge version so that NeoForge is still supported\n\n## [v8.1.1-1.20.1] - 2023-10-26\n### Fixed\n- Fixed event classes possibly being loaded too early under some circumstances, resolves crashes on start-up when installed together with e.g. Stylish Effects\n- Fixed required Forge version being incorrectly set (47.2.0 is required now, not 47.1.0)\n- Fixed Puzzles Lib crashing the game on Forge when there are any unmet mod version requirements, preventing the Forge screen informing the user from showing\n\n## [v8.1.0-1.20.1] - 2023-10-26\n- Public release of all versions that have come after v8.0.24\n### Changed\n- Expanded `AbstractModelProvider`\n\n## [v8.0.41-1.20.1] - 2023-10-24\n### Added\n- Added common helper methods for obtaining `RenderType`s\n- Added `BlockConversionHelper` from merging various block related utility methods\n\n## [v8.0.40-1.20.1] - 2023-10-23\n### Changed\n- Refined performance for new model events on Forge\n\n## [v8.0.39-1.20.1] - 2023-10-22\n### Added\n- Added `ModifyUnbakedModel`, `ModifyBakedModel` and `AdditionalBakedModel` for finer control over models based entirely on mod loader specific implementations\n- Added helper methods for setting `BlockItem` blocks\n### Changed\n- Providing the `Minecraft` instance is no longer required in `ClientAbstractions`\n- `RegistryEntryAddedCallback` now includes the current registry\n- Deprecated old model events\n### Fixed\n- Fixed `RegistryEntryAddedCallback` running too early on Forge, leading to problems with implementations relying on content registered during the event\n\n## [v8.0.38-1.20.1] - 2023-10-20\n### Added\n- Added `GatherDebugTextEvents$Left` and `GatherDebugTextEvents$Right`\n- Added `LivingEvents$Breathe` and `LivingEvents$Drown`\n- Added `RegistryEntryAddedCallback`\n- Added `ServerChunkEvents$Watch` and `ServerChunkEvents$Unwatch`\n### Changed\n- Allow for overriding global server configs when a local server config is present per world\n- Allow for creating common events that do not necessarily require a mod loader specific event to be implemented\n### Fixed\n- Fixed an error being logged on Quilt when unsuccessfully trying to access to Fabric internal field required for the biome modifications api\n- Fixed a crash when trying to deserialize invalid `ResourceLocation`s provided by config entries\n\n## [v8.0.37-1.20.1] - 2023-10-04\n### Changed\n- No longer set `ExistingFileHelper` on data providers during Forge data generation\n- A few new `null` checks in `AbstractLanguageProvider`\n\n## [v8.0.36-1.20.1] - 2023-10-01\n### Changed\n- Reverted experimental changes to `AbstractModelProvider`\n\n## [v8.0.35-1.20.1] - 2023-09-29\n### Added\n- Added `ForgeDataProviderContext$Factory` to better support data generation on Forge\n### Changed\n- Some experimental changes to `AbstractModelProvider` to hopefully fix runtime on Forge mods\n- `ConfigDataSet` can now exclude entries by marking them with `!`\n\n## [v8.0.34-1.20.1] - 2023-09-28\n### Added\n- Added `BlockEvents$Break` and `BlockEvents$DropExperience`\n- Added `TickingBlockEntity` and `TickingEntityBlock` helper interfaces for creating ticking block entities without the need to use static ticker methods\n- Added `AddToastCallback` for handling client-side toasts\n- Added `ScreenEvents$BeforeInitV2` and `ScreenEvents$AfterInitV2` using type parameters for the screen instance\n- Added `CommonAbstractions::createPackInfo`\n- Added `ModConstructor::onRegisterBlockInteractions` for registering block conversions such as strippable logs or tillable dirt blocks\n- Added `GrindstoneEvents$Update` and `GrindstoneEvents$Use`\n- Added `TypedTagFactory` and `BoundTagFactory` for creating new `TagKey`s, tag keys have therefore been removed from the new `RegistryManager`\n- Added `CombinedIngredients` for creating more complex instances of `Ingredient`\n- Added `ShapesHelper`, mainly useful for rotating a `VoxelShape` to a given `Direction`\n- Added `DynamicPackResources` for generating resources via data providers at runtime\n- Added `RegistryHelper` for various vanilla registry related helper methods \n### Changed\n- The Puzzles Access Api mod is now bundled with Puzzles Lib\n- Overhauled data generation classes, moving and reworking them for the common project to be usable in the new `DynamicPackResources`\n- Refined `AbstractModPackResources` to better handle mod ids as well as allow for hiding a pack, a Forge exclusive feature\n- A mod providing biome modifications on Forge no longer needs to include its own biome modifier, the file is now automatically generated using a built-in data pack\n- Overhauled internal implementation of `ItemAttributeModifiersCallback`\n### Fixed\n- Fixed a class loading issue related to `ItemModelDisplayOverrides` and `EventInvokerRegistry` implementations\n- Fixed `AbstractParticleDescriptionProvider` not verifying the existence of used textures\n- Fixed an issue where the current game server wouldn't be properly stored on Fabric\n\n## [v8.0.33-1.20.1] - 2023-09-09\n### Changed\n- Reworked reload listener handling introduced in the last version to fix issues with mod loading getting stuck due to reload listeners that have not been properly completed\n- Changed handling of internal ids for multiple network handlers using the same namespace\n\n## [v8.0.32-1.20.1] - 2023-09-08\n### Added\n- Added `ClientParticleTypes` for registering fully client-side particle providers\n### Changed\n- `ContentRegistrationFlags` are now enabled via implementing `BaseModConstructor::getContentRegistrationFlags`\n- Fabric is now more strict in enforcing `ContentRegistrationFlags` even when not strictly required to improve parity with Forge\n- Greatly expanded upon `ParticleProvidersContext` to allow for more kinds of particle types to be registered\n- Overhauled `ForwardingReloadListener` to support forwarding a collection of `PreparableReloadListener` instances instead of just a single one\n- Refactored `FabricReloadListener` into a more general `FabricReloadListenerHelper` class\n\n## [v8.0.31-1.20.1] - 2023-09-07\n### Added\n- Add access widener for `EntityRenderDispatcher#renderers` on Fabric\n\n## [v8.0.30-1.20.1] - 2023-09-05\n### Added\n- Puzzles Lib now prints a list of all installed mods to the log on start-up in an effort to help diagnose issues when no crash-report has been generated or provided\n- This feature is only enabled on Forge, as Fabric Loader already does just that by default\n### Changed\n- Refactored some mod loader specific code related to mod list entries\n### Fixed\n- Fixed `LivingDeathCallback` only running on the server-side on Fabric\n\n## [v8.0.29-1.20.1] - 2023-09-05\n### Added\n- Added `RenderLivingEvents`\n\n## [v8.0.28-1.20.1] - 2023-09-04\n### Changed\n- Deprecated `DistType`, this includes some refactors in `NetworkHandlerV2`\n### Fixed\n- Fixed client-side interaction events potentially running after common interaction events on Fabric\n\n## [v8.0.27-1.20.1] - 2023-09-02\n### Added\n- Added a helper system for checking if a mod is installed on the server-side\n\n## [v8.0.26-1.20.1] - 2023-08-19\n### Added\n- Added a new separate `RegistryManager` that returns instances of `Holder.Reference` instead of our own `RegistryReference` implementation to be more inline with the vanilla registration system\n\n## [v8.0.25-1.20.1] - 2023-08-17\n### Added\n- Added `InteractionInputEvents$AttackV2`, `InteractionInputEvents$Use` and `InteractionInputEvents$Pick`\n- Added `PlayerInteractEvents$AttackBlockV2` and `PlayerInteractEvents$UseItemV2`\n- Added a few new helper methods to `ScreenHelper`\n### Changed\n- Cleaned up small parts to the event system to reduce duplicate code\n- Revised implementation of all `PlayerInteractEvents` to match much more closely between Forge and Fabric\n- `ServerEntityLevelEvents$LoadV2` now fires for all loaded entities, not just when they are loaded from chunk storage, but also when they are freshly spawned in\n### Fixed\n- Fixed brewing recipes not showing in some recipe viewer mods on Forge\n\n## [v8.0.24-1.20.1] - 2023-08-16\n### Changed\n- Reworked implementation of `LivingDropsCallback` on Fabric to make it less likely for loot modifications from other mods to completely break all loot for a mob\n### Fixed\n- Fixed `ServiceProviderHelper` not loading as early as it should\n- Removed debug code related to testing out new key binding features\n\n## [v8.0.23-1.20.1] - 2023-08-14\n### Added\n- Added `CommonAbstractions::getMobSpawnType`\n- Some refactors to `ServerEntityLevelEvents`, including the addition of `ServerEntityLevelEvents$Spawn`\n### Fixed\n- Fixed `ConfigDataSet` failing to dissolve when duplicate values are present\n\n## [v8.0.22-1.20.1] - 2023-08-14\n### Added\n- Added `GatherPotentialSpawnsCallback`\n- Added `ServerEntityLevelEvents$LoadV2`, `ServerEntityLevelEvents$Load` is now deprecated\n- Added `CheckMobDespawnCallback`\n- Added `EntityRidingEvents$Start` and `EntityRidingEvents$Stop`\n- Added `CoreShadersContext` to `ClientModConstructor` for registering built-in shaders\n- Added `KeyActivationContext` to helper with registering keybinds that only work when a screen is open or while playing (no screen is open)\n### Changed\n- Overhauled `GameRulesFactory` to add many convenient overloads, as well as cleaning up the Forge implementation\n- A few new methods in `AbstractLanguageProvider` for creative tabs and game rules\n- Adjusted `ScreenTooltipFactory` to no longer require a `Font` instance\n- Refactored `KeyMappingsContext` to require a `KeyActivationContext` instance\n- Reworked methods for registering new `PoiType`s in `RegistryManager` to no longer require a custom `PoiTypeBuilder` instance\n- Migrate some internals on Fabric to Fabric Api's new model loading api\n### Fixed\n- Fixed `ScreenTooltipFactory` removing empty lines from tooltips\n\n## [v8.0.21-1.20.1] - 2023-08-12\n### Fixed\n- Fixed start-up crash when the [Emojiful](https://www.curseforge.com/minecraft/mc-mods/emojiful) mod is installed\n\n## [v8.0.20-1.20.1] - 2023-08-12\n### Fixed\n- Fixed implementation errors in `UseItemEvents.Tick` on Fabric which would prevent successfully using items like bows and tridents\n\n## [v8.0.19-1.20.1] - 2023-08-11\n### Added\n- Added `TagProviderExtension`\n\n## [v8.0.18-1.20.1] - 2023-08-10\n### Added\n- Added `GameRenderEvents.Before` and `GameRenderEvents.After`\n- Added helper methods to `ClientAbstractions` for getting `partialTick` and `SearchRegistry`\n### Changed\n- Deprecated `SearchRegistryContext`\n\n## [v8.0.17-1.20.1] - 2023-08-04\n### Changed\n- Custom smithing upgrade recipes without a smithing template are now automatically turned into crafting recipes with the same items and functionality to be visible in recipe viewers like JEI without having to provide dedicated support\n\n## [v8.0.16-1.20.1] - 2023-08-01\n### Fixed\n- Fixed `LivingHurtCallback` not firing for players on Fabric\n- Fixed `UseItemEvents$Tick` always having a wrong `useDuration` value\n- Fixed `PlayerInteractEvents$UseBlock` and `PlayerInteractEvents$UseItem` not sending packets to the server for successful interactions if a result other than `InteractionResult#SUCCESS` is returned from the callback\n\n## [v8.0.15-1.20.1] - 2023-07-30\n### Fixed\n- Reworked `ServerEntityLevelEvents$Load` and `ClientEntityLevelEvents$Load` on Fabric to prevent a potential memory leak when trying to prevent an entity from loading in\n\n## [v8.0.14-1.20.1] - 2023-07-30\n### Fixed\n- Fixed an issue with the `Sheets` class accidentally being accessed too early, preventing modded materials such as wood types from registering correctly, which would lead to crashes when e.g. rendering signs\n\n## [v8.0.13-1.20.1] - 2023-07-26\n### Added\n- Added `ScreenTooltipFactory`\n\n## [v8.0.12-1.20.1] - 2023-07-23\n### Fixed\n- Fixed a crash when calling `ModelEvents` on Forge\n\n## [v8.0.11-1.20.1] - 2023-07-23\n### Added\n- Added `RenderHighlightCallback`\n- Added `RenderLevelEvents`\n### Changed\n- Shifted injection points for `InventoryMobEffectsCallback` to be compatible with the [Just Enough Items](https://www.curseforge.com/minecraft/mc-mods/jei) mod on Fabric\n- Slightly changed some injection point shifts related to `AnimalTameCallback`\n\n## [v8.0.10-1.20.1] - 2023-07-15\n### Added\n- Added `ScreenTooltipEvents.Render`\n- Added two helper methods for getting `mouseX` and `mouseY` to `ScreenHelper`\n\n## [v8.0.9-1.20.1] - 2023-07-12\n### Added\n- Added `RenderBlockOverlayCallback`\n- Added `FogEvents$Render` and `FogEvents$ComputeColor`\n### Fixed\n- Fixed `ModelEvents` crashing on Fabric\n\n## [v8.0.8-1.20.1] - 2023-07-06\n### Changed\n- Migrate `ModelEvents` to common event system\n\n## [v8.0.7-1.20.1] - 2023-07-02\n### Fixed\n- Fixed a sound related crash on Fabric\n\n## [v8.0.6-1.20.1] - 2023-07-02\n### Fixed\n- Fixed new mod loading architecture not allowing for multiple config handlers per mod\n\n## [v8.0.5-1.20.1] - 2023-07-02\n### Fixed\n- Fixed a crash when rendering items on Fabric\n\n## [v8.0.4-1.20.1] - 2023-07-01\n### Changed\n- Once again invert `ItemDisplayContext`s when registering item model perspective overrides\n\n## [v8.0.3-1.20.1] - 2023-07-01\n### Added\n- Added `LoadCompleteCallback`\n### Changed\n- Internal changes to allow for more versatile mod loading\n- Separate item model perspective now use built-in features on Forge and longer require a core mod there\n\n## [v8.0.2-1.20.1] - 2023-06-29\n### Fixed\n- Re-upload to fix failed reobfuscation on Forge\n\n## [v8.0.1-1.20.1] - 2023-06-29\n### Added\n- Added `DispenseBehaviorsContext`\n### Changed\n- `ModConstructor::onCommonSetup` and `ClientModConstructor::onClientSetup` now always run deferred on Forge, eliminating the previous `ModLifecycleContext` argument\n### Fixed\n- A few possible `java.util.ConcurrentModificationException`s during start-up are now prevented by running setup tasks deferred on Forge\n\n## [v8.0.0-1.20.1] - 2023-06-25\n- Ported to Minecraft 1.20.1\n\n[Keep a Changelog]: https://keepachangelog.com/en/1.0.0/\n",
+          "date_published": "2024-09-09T17:32:09.254807Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha512": "ca83adbf111bdec729d05bf15817825bb1f287f6ee5661fac15dc135f8e3fe36c8c8764436c1d9472a9e1518b0c7d7a78812b3b32dfb5c142a0bdf7e97b69dc7",
+                "sha1": "89dc5e19d037f5a5e6d8a6b92353130294c8ea7b"
+              },
+              "url": "https://cdn.modrinth.com/data/QAGBst4M/versions/wTaZZcm5/PuzzlesLib-v8.1.23-1.20.1-Fabric.jar",
+              "filename": "PuzzlesLib-v8.1.23-1.20.1-Fabric.jar",
+              "primary": true,
+              "size": 980079
+            }
+          ],
+          "dependencies": [
+            {
+              "project_id": "P7dR8mSH",
+              "dependency_type": "required"
+            },
+            {
+              "project_id": "ohNO6lps",
+              "dependency_type": "required"
+            }
+          ],
+          "game_versions": [
+            "1.20.1"
+          ],
+          "loaders": [
+            "fabric"
+          ]
+        }
+      },
+      {
+        "name": "Easy Anvils",
+        "version": "[FABRIC] [1.20.1] EasyAnvils-v8.0.2",
+        "optional": true,
+        "file": "EasyAnvils-v8.0.2-1.20.1-Fabric.jar",
+        "type": "mods",
+        "description": "Be ready for overhauled anvils! Items stay, better name tags, many tweaks!",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 682567,
+        "curseForgeFileId": 5156623,
+        "curseForgeProject": {
+          "id": 682567,
+          "name": "Easy Anvils [Forge & Fabric]",
+          "authors": [
+            {
+              "id": 10384423,
+              "name": "Fuzs",
+              "url": "https://www.curseforge.com/members/fuzs"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Be ready for overhauled anvils! Items stay, better name tags, many tweaks!",
+          "categories": [
+            {
+              "name": "Cosmetic",
+              "slug": "cosmetic",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/cosmetic",
+              "dateModified": "2014-05-08T17:42:35.597Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 424,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/39/635351497555976928.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Utility & QoL",
+              "slug": "utility-qol",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/utility-qol",
+              "dateModified": "2021-11-17T11:45:09.143Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 5191,
+              "iconUrl": "https://media.forgecdn.net/avatars/456/558/637727379086405233.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 5191,
+          "classId": 6,
+          "slug": "easy-anvils",
+          "isFeatured": false,
+          "dateModified": "2024-09-18T10:16:20.95Z",
+          "dateCreated": "2022-09-29T08:29:55.413Z",
+          "dateReleased": "2024-09-18T10:12:35.533Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/easy-anvils",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/Fuzss/easyanvils/issues",
+            "sourceUrl": "https://github.com/Fuzss/easyanvils"
+          },
+          "logo": {
+            "id": 776208,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/776/208/256/256/638118115739130285.png",
+            "title": "638118115739130285.png",
+            "url": "https://media.forgecdn.net/avatars/776/208/638118115739130285.png",
+            "modId": 682567
+          },
+          "allowModDistribution": true,
+          "screenshots": [
+            {
+              "id": 503028,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/503/28/310/172/2022-09-29_08.png",
+              "title": "Free name tag renames",
+              "url": "https://media.forgecdn.net/attachments/503/28/2022-09-29_08.png",
+              "modId": 682567
+            },
+            {
+              "id": 504424,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/504/424/310/172/2022-10-04_21.png",
+              "title": "Use formatting codes when naming your equipment",
+              "url": "https://media.forgecdn.net/attachments/504/424/2022-10-04_21.png",
+              "modId": 682567
+            },
+            {
+              "id": 503030,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/503/30/310/172/2022-09-29_08.png",
+              "title": "No anvil required for renaming name tags anymore",
+              "url": "https://media.forgecdn.net/attachments/503/30/2022-09-29_08.png",
+              "modId": 682567
+            },
+            {
+              "id": 504422,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/504/422/310/172/2022-10-04_21.png",
+              "title": "Repair anvils by one stage using iron blocks",
+              "url": "https://media.forgecdn.net/attachments/504/422/2022-10-04_21.png",
+              "modId": 682567
+            },
+            {
+              "id": 503027,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/503/27/310/172/2022-09-29_08.png",
+              "title": "Anvils can be so fancy!",
+              "url": "https://media.forgecdn.net/attachments/503/27/2022-09-29_08.png",
+              "modId": 682567
+            },
+            {
+              "id": 503029,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/503/29/310/172/2022-09-29_09.png",
+              "title": "No max level limit anymore",
+              "url": "https://media.forgecdn.net/attachments/503/29/2022-09-29_09.png",
+              "modId": 682567
+            }
+          ],
+          "mainFileId": 5733955
+        },
+        "curseForgeFile": {
+          "id": 5156623,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "[FABRIC] [1.20.1] EasyAnvils-v8.0.2",
+          "fileName": "EasyAnvils-v8.0.2-1.20.1-Fabric.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2024-03-04T09:07:36.3Z",
+          "fileLength": 129625,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 495476,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 547434,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 306612,
+              "relationType": 3
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 1963733853,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 848098956,
+              "name": "CHANGELOG.md"
+            },
+            {
+              "fingerprint": 1447192261,
+              "name": "LICENSE-ASSETS.md"
+            },
+            {
+              "fingerprint": 2980605036,
+              "name": "LICENSE.md"
+            },
+            {
+              "fingerprint": 3674940374,
+              "name": "pack.mcmeta"
+            },
+            {
+              "fingerprint": 979739733,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 575296340,
+              "name": "easyanvils.common.mixins.json"
+            },
+            {
+              "fingerprint": 1614886054,
+              "name": "mod_banner.png"
+            },
+            {
+              "fingerprint": 487460161,
+              "name": "mod_logo.png"
+            },
+            {
+              "fingerprint": 1524938369,
+              "name": "fabric.mod.json"
+            },
+            {
+              "fingerprint": 3220101055,
+              "name": "easyanvils.refmap.json"
+            },
+            {
+              "fingerprint": 744619361,
+              "name": "fuzs"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "c889871e3cbd51d513139050069cfc30e0254dac",
+              "algo": 1
+            },
+            {
+              "value": "c9ba3b47dcd5f93002ee1a5237abdf03",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-09-01T00:00:00Z",
+              "gameVersionName": "Fabric"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            }
+          ],
+          "gameVersions": [
+            "Fabric",
+            "1.20.1"
+          ],
+          "fileFingerprint": 968927500,
+          "modId": 682567
+        },
+        "modrinthProject": {
+          "id": "OZBR5JT5",
+          "slug": "easy-anvils",
+          "project_type": "mod",
+          "team": "vvhQP5TS",
+          "title": "Easy Anvils",
+          "description": "Be ready for overhauled anvils! Items stay, better name tags, many tweaks!",
+          "body": "<p><img src=\"https://i.imgur.com/UNn2DzX.png\" width=\"854\" height=\"240\" /></p>\n<p><img src=\"https://i.imgur.com/kwTNBWP.png\" width=\"854\" height=\"14\" /></p>\n<p style=\"text-align: center; line-height: 36px;\"><img src=\"https://img.shields.io/badge/Available%20for%20Minecraft-1.19-ecebe6?labelColor=2F4858&amp;style=for-the-badge\" width=\"248\" height=\"28\" />&emsp;<img src=\"https://img.shields.io/badge/Install%20on-Client%20%26%20Server-ecebe6?labelColor=2F4858&amp;style=for-the-badge\" width=\"240\" height=\"28\" /></p>\n<p style=\"text-align: center; line-height: 36px;\"><a href=\"https://www.curseforge.com/minecraft/mc-mods/easy-anvils/files/all?filter-status=1&amp;filter-game-version=2020709689%3A7498\"><img src=\"https://bit.ly/3yrSsw7\" width=\"320\" height=\"28\" /></a>&emsp;<a href=\"https://www.curseforge.com/minecraft/mc-mods/puzzles-lib\"><img src=\"https://bit.ly/3jr9xQw\" width=\"215\" height=\"28\" /></a></p>\n<p style=\"text-align: center; line-height: 36px;\"><a href=\"https://www.curseforge.com/minecraft/mc-mods/easy-anvils/files/all?filter-status=1&amp;filter-game-version=2020709689%3A7499\"><img src=\"https://bit.ly/3nRXr4m\" width=\"325\" height=\"28\" /></a>&emsp;<a href=\"https://www.curseforge.com/minecraft/mc-mods/fabric-api\"><img src=\"https://bit.ly/30lZmFY\" width=\"208\" height=\"28\" /></a>&emsp;<a href=\"https://www.curseforge.com/minecraft/mc-mods/puzzles-lib\"><img src=\"https://bit.ly/3jr9xQw\" width=\"215\" height=\"28\" /></a>&emsp;<a href=\"https://www.curseforge.com/minecraft/mc-mods/forge-config-api-port-fabric\"><img src=\"https://bit.ly/3clkhvn\" width=\"299\" height=\"28\" /></a></p>\n<p><img src=\"https://i.imgur.com/kwTNBWP.png\" width=\"854\" height=\"14\" /></p>\n<p><span style=\"font-size: 20px;\"><strong>📖 About:</strong></span></p>\n<p><span style=\"font-size: 14px;\"><strong>Easy Anvils</strong> makes working with anvils much more enjoyable. Not only do items stay inside the interface after closing, also some annoying restrictions are removed. Also name tags can be renamed without even using an anvil.</span></p>\n<p><img src=\"https://i.imgur.com/kwTNBWP.png\" width=\"854\" height=\"14\" /></p>\n<p><span style=\"font-size: 20px;\"><strong>📚 Contents:</strong></span></p>\n<p><span style=\"font-size: 14px;\">First of all, anvils now have an <strong>Inventory</strong> for storing the items you put inside. This also means items will stay in the anvil after you close the interface. To put this functionality to good use, anvil contents will now <strong>Render</strong> as laying on top of the anvil.</span></p>\n<p><span style=\"font-size: 14px;\">Anvils no longer use the prior work penalty tag, so no matter how often you repair an item or add new enchantments to it, <strong>Costs Won't Needlessly Increase</strong>. You can also fully <strong>Configure The Max Level Limit</strong>, which controls when the <i>Too Expensive!</i> flag shows up.</span></p>\n<p><span style=\"font-size: 14px;\">Anvils can now be <strong>Repaired</strong> by one stage using iron blocks. You can also use a dispenser to automate repairing.</span></p>\n<p><span style=\"font-size: 14px;\">Name tags have quite a few nice changes: Not only is setting a name in an anvil <strong>Completely Free</strong> and doesn't risk damaging your precious anvil, you don't even need an anvil at all anymore to change a name tag's name. Simply shift + right-click a name tag to <strong>Open A Simple Interface</strong> for setting a new name.</span></p>\n<p><span style=\"font-size: 14px;\"><strong>Text Can Be Stylized</strong> using Minecraft's native formatting codes in both the anvil and name tag interface. This allows for setting custom colors and styles when choosing item and entity names. Check the <a href=\"https://minecraft.fandom.com/wiki/Formatting_codes#Usage\"><span style=\"font-size: 14px;\"><strong>Minecraft Wiki</strong></span></a> for more information on formatting codes.</span></p>\n<p><img src=\"https://i.imgur.com/kwTNBWP.png\" width=\"854\" height=\"14\" /></p>\n<p><span style=\"font-size: 20px;\"><strong>📷 Media:</strong></span></p>\n<table style=\"text-align: center;\">\n<tbody>\n<tr>\n<td><img src=\"https://media.forgecdn.net/attachments/503/27/2022-09-29_08.png\" width=\"410\" height=\"231\" /></td>\n<td>&emsp;&emsp;</td>\n<td><img src=\"https://media.forgecdn.net/attachments/503/28/2022-09-29_08.png\" width=\"410\" height=\"231\" /></td>\n</tr>\n<tr>\n<td><strong>Anvils can be so fancy!</strong></td>\n<td>&emsp;&emsp;</td>\n<td><strong>Free name tag renames</strong></td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td><img src=\"https://media.forgecdn.net/attachments/503/29/2022-09-29_09.png\" width=\"410\" height=\"231\" /></td>\n<td>&emsp;&emsp;</td>\n<td><img src=\"https://media.forgecdn.net/attachments/503/30/2022-09-29_08.png\" width=\"410\" height=\"231\" /></td>\n</tr>\n<tr>\n<td><strong>No max level limit anymore</strong></td>\n<td>&emsp;&emsp;</td>\n<td><strong>No anvil required for renaming name tags anymore</strong></td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td><img src=\"https://media.forgecdn.net/attachments/504/422/2022-10-04_21.png\" width=\"410\" height=\"231\" /></td>\n<td>&emsp;&emsp;</td>\n<td><img src=\"https://media.forgecdn.net/attachments/504/424/2022-10-04_21.png\" width=\"410\" height=\"231\" /></td>\n</tr>\n<tr>\n<td><strong>Repair anvils by one stage using iron blocks</strong></td>\n<td>&emsp;&emsp;</td>\n<td><strong>Use formatting codes when naming your equipment</strong></td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>\n<p><img src=\"https://i.imgur.com/kwTNBWP.png\" width=\"854\" height=\"14\" /></p>\n<p><span style=\"font-size: 20px;\"><strong>💡 FAQ:</strong></span></p>\n<p><span style=\"font-size: 14px;\"><strong>Q: I want enchanting tables to keep and render their contents as well!</strong><br /><strong>A:</strong> Sure thing, check out my <a href=\"https://www.curseforge.com/minecraft/mc-mods/easy-magic\"><span style=\"font-size: 14px;\">Easy Magic</span></a> mod which does just that and more.</span></p>\n<p><span style=\"font-size: 14px;\"><strong>Q: Where can I download this mod for Forge on versions of Minecraft before 1.17?</strong><br /><strong>A:</strong> Check out the mods which inspired this project: <a href=\"https://www.curseforge.com/minecraft/mc-mods/anvil-tweaks\"><span style=\"font-size: 14px;\">Anvil Tweaks</span></a>, <a href=\"https://www.curseforge.com/minecraft/mc-mods/anvil-repair\"><span style=\"font-size: 14px;\">Anvil Repair</span></a>, and <a href=\"https://www.curseforge.com/minecraft/mc-mods/nametags-without-anvils\"><span style=\"font-size: 14px;\">Nametags Without Anvils</span></a> by <a href=\"https://www.curseforge.com/members/tfarecnim\"><span style=\"font-size: 14px;\"><strong>tfarecnim</strong></span></a>.</span></p>\n<p><span style=\"font-size: 14px;\"><strong>Q: How do I configure this mod?</strong><br /><strong>A:</strong> Mods can have three different kinds of configs depending on the kind of settings they provide: <strong>Client</strong>, <strong>Common</strong>, and <strong>Server</strong>.</span></p>\n<p><span style=\"font-size: 14px;\"><strong>Client</strong> and <strong>Common</strong> configs are found in <code>/.minecraft/config/</code>, named as <code>&lt;modId&gt;-client.toml</code> and <code>&lt;modId&gt;-common.toml</code>, respectively.</span></p>\n<p><span style=\"font-size: 14px;\"><strong>Server</strong> configs though are applied per world, therefore you'll find those in <code>/.minecraft/saves/&lt;world&gt;/serverconfig/&lt;modId&gt;-server.toml</code> for local singeplayer worlds, and in <code>/&lt;world&gt;/serverconfig/&lt;modId&gt;-server.toml</code> for you Minecraft server. Changes made to a server config only apply to that one world. Setting default values in server configs for all <strong>newly</strong> created worlds is possible by copying the modified server config to <code>/.minecraft/defaultconfigs/</code>.</span></p>\n<p><span style=\"font-size: 14px;\">In a local singleplayer world you can quickly find config files by running the <code>/config showfile &lt;modid&gt;</code> command and by choosing <code>CLIENT</code>, <code>COMMON</code> or <code>SERVER</code>. Then click the file name (ending with .toml) that appears in chat to open the file in a text editor. After saving the file, the config will automatically reload in-game after a couple of seconds, so no game restart required.</span></p>\n<p><span style=\"font-size: 14px;\">On some mod loaders editing configs is also supported in-game via the <strong>Mods</strong> menu option. On some Minecraft versions you can also install my <a href=\"https://www.curseforge.com/minecraft/mc-mods/config-menus-forge\"><span style=\"font-size: 14px;\"><strong>Config Menus for Forge</strong></span></a> mod for editing configs directly in-game.</span></p>\n<p><img src=\"https://i.imgur.com/kwTNBWP.png\" width=\"854\" height=\"14\" /></p>\n<p><span style=\"font-size: 20px;\"><strong>🏆 Credits:</strong></span></p>\n<p><span style=\"font-size: 14px;\">Developing Easy Anvils was helped and inspired by:</span></p>\n<ul>\n<li><span style=\"font-size: 14px;\"><a href=\"https://www.curseforge.com/members/tfarecnim\"><span style=\"font-size: 14px;\"><strong>tfarecnim</strong></span></a> and their <a href=\"https://www.curseforge.com/minecraft/mc-mods/anvil-tweaks\"><span style=\"font-size: 14px;\">Anvil Tweaks</span></a>, <a href=\"https://www.curseforge.com/minecraft/mc-mods/anvil-repair\"><span style=\"font-size: 14px;\">Anvil Repair</span></a>, and <a href=\"https://www.curseforge.com/minecraft/mc-mods/nametags-without-anvils\"><span style=\"font-size: 14px;\">Nametags Without Anvils</span></a> mods, which this mod is largely based upon</span></li>\n<li><span style=\"font-size: 14px;\"><a href=\"https://www.curseforge.com/members/elhertz\"><span style=\"font-size: 14px;\"><strong>elhertz</strong></span></a> for suggesting the anvil max enchantment level fix</span></li>\n<li><span style=\"font-size: 14px;\"><a href=\"https://github.com/Illios42\"><span style=\"font-size: 14px;\"><strong>Illios42</strong></span></a> for suggesting the feature for allowing text to be stylized using Minecraft's formatting codes in the anvil and name tag interface</span></li>\n</ul>\n<p><img src=\"https://i.imgur.com/kwTNBWP.png\" width=\"854\" height=\"14\" /></p>\n<p style=\"text-align: center; line-height: 36px;\"><a href=\"https://www.curseforge.com/members/lunapixelstudios/projects\"><img src=\"https://img.shields.io/static/v1?label=CurseForge&amp;message=LunaPixelStudios&amp;color=ecebe6&amp;labelColor=2F4858&amp;style=for-the-badge&amp;logo=curseforge&amp;logoColor=white\" width=\"282\" height=\"28\" /></a>&emsp;<a href=\"https://twitter.com/LunaPixelStudio\"><img src=\"https://img.shields.io/twitter/follow/LunaPixelStudio?label=Twitter&amp;color=ecebe6&amp;labelColor=2F4858&amp;style=for-the-badge&amp;logo=twitter&amp;logoColor=white\" width=\"149\" height=\"28\" /></a>&emsp;<a href=\"https://discord.gg/8ZmhaPPbjE\"><img src=\"https://img.shields.io/discord/790272037578473512?label=Discord&amp;color=ecebe6&amp;labelColor=2F4858&amp;style=for-the-badge&amp;logo=discord&amp;logoColor=white\" width=\"220\" height=\"28\" /></a></p>\n<p><img src=\"https://i.imgur.com/1MOyd2u.png\" width=\"854\" height=\"300\" /></p>\n<p style=\"text-align: center; line-height: 36px;\"><a href=\"https://www.curseforge.com/members/fuzs_/projects\"><img src=\"https://img.shields.io/static/v1?label=&amp;message=Fuzs_&amp;color=ecebe6&amp;labelColor=2F4858&amp;style=for-the-badge&amp;logo=curseforge&amp;logoColor=white\" width=\"97\" height=\"28\" /></a>&emsp;<a href=\"https://github.com/Fuzss\"><img src=\"https://img.shields.io/static/v1?label=&amp;message=Fuzss&amp;color=ecebe6&amp;labelColor=2F4858&amp;style=for-the-badge&amp;logo=github&amp;logoColor=white\" width=\"97\" height=\"28\" /></a>&emsp;<a href=\"https://www.youtube.com/channel/UC2l26SuCmCNSCPefpfbCX7Q\"><img src=\"https://img.shields.io/static/v1?label=&amp;message=Fuzs&amp;color=ecebe6&amp;labelColor=2F4858&amp;style=for-the-badge&amp;logo=youtube&amp;logoColor=white\" width=\"89\" height=\"28\" /></a>&emsp;<a href=\"https://twitter.com/Fusseel\"><img src=\"https://img.shields.io/static/v1?label=&amp;message=@Fusseel&amp;color=ecebe6&amp;labelColor=2F4858&amp;style=for-the-badge&amp;logo=twitter&amp;logoColor=white\" width=\"124\" height=\"28\" /></a>&emsp;<a href=\"https://www.reddit.com/user/Fusseel\"><img src=\"https://img.shields.io/static/v1?label=&amp;message=u/Fusseel&amp;color=ecebe6&amp;labelColor=2F4858&amp;style=for-the-badge&amp;logo=reddit&amp;logoColor=white\" alt=\"Reddit\" width=\"130\" height=\"28\" /></a>&emsp;<img src=\"https://img.shields.io/static/v1?label=&amp;message=Fuzs%200212&amp;color=ecebe6&amp;labelColor=2F4858&amp;style=for-the-badge&amp;logo=discord&amp;logoColor=white\" width=\"127\" height=\"28\" /></p>\n<p><img src=\"https://i.imgur.com/kwTNBWP.png\" width=\"854\" height=\"14\" /></p>\n<table style=\"text-align: center;\">\n<tbody>\n<tr>\n<td><a href=\"https://www.curseforge.com/minecraft/mc-mods/portable-hole\"><img src=\"https://i.imgur.com/Lk8bHYP.png\" width=\"410\" height=\"115\" /></a></td>\n<td>&emsp;&emsp;</td>\n<td><a href=\"https://www.curseforge.com/minecraft/mc-mods/spiky-spikes\"><img src=\"https://i.imgur.com/Edo5jnW.png\" width=\"410\" height=\"115\" /></a></td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td><a href=\"https://www.curseforge.com/minecraft/mc-mods/easy-magic\"><img src=\"https://i.imgur.com/Mlxi8cy.png\" width=\"410\" height=\"115\" /></a></td>\n<td>&emsp;&emsp;</td>\n<td><a href=\"https://www.curseforge.com/minecraft/mc-mods/golden-age-combat\"><img src=\"https://i.imgur.com/sHiR309.png\" width=\"410\" height=\"115\" /></a></td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td><a href=\"https://www.curseforge.com/minecraft/mc-mods/death-finder\"><img src=\"https://i.imgur.com/cvFId49.png\" width=\"410\" height=\"115\" /></a></td>\n<td>&emsp;&emsp;</td>\n<td><a href=\"https://www.curseforge.com/minecraft/mc-mods/universal-bone-meal-forge\"><img src=\"https://i.imgur.com/q3CooZb.png\" width=\"410\" height=\"115\" /></a></td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td><a href=\"https://www.curseforge.com/minecraft/mc-mods/pick-up-notifier\"><img src=\"https://i.imgur.com/DCwxKZU.png\" width=\"410\" height=\"115\" /></a></td>\n<td>&emsp;&emsp;</td>\n<td><a href=\"https://www.curseforge.com/minecraft/mc-mods/bag-of-holding-forge\"><img src=\"https://i.imgur.com/8gTQlTt.png\" width=\"410\" height=\"115\" /></a></td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td><a href=\"https://www.curseforge.com/minecraft/mc-mods/config-menus-forge\"><img src=\"https://i.imgur.com/kiHP8s9.png\" width=\"410\" height=\"115\" /></a></td>\n<td>&emsp;&emsp;</td>\n<td><a href=\"https://www.curseforge.com/minecraft/mc-mods/bartering-station\"><img src=\"https://i.imgur.com/LTZQj4C.png\" width=\"410\" height=\"115\" /></a></td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>\n<p><img src=\"https://i.imgur.com/kwTNBWP.png\" width=\"854\" height=\"14\" /></p>",
+          "published": "2022-09-29T10:28:24.834603Z",
+          "updated": "2024-09-18T10:12:39.206835Z",
+          "status": "approved",
+          "license": {
+            "id": "MPL-2.0",
+            "name": "Mozilla Public License 2.0"
+          },
+          "client_side": "required",
+          "server_side": "required",
+          "categories": [
+            "equipment",
+            "game-mechanics"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/OZBR5JT5/8312814fbff95373a6888f424e44a3b3f927febd_96.webp",
+          "issues_url": "https://github.com/Fuzss/easyanvils/issues",
+          "source_url": "https://github.com/Fuzss/easyanvils",
+          "donation_urls": [],
+          "gallery": [
+            {
+              "url": "https://cdn.modrinth.com/data/OZBR5JT5/images/763bde8e70588a74771ab0207b3f5e9613e28366_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/OZBR5JT5/images/7f93d3bbf4af539cb9e8ba280a2e09d15bfc4f50.png",
+              "featured": true,
+              "created": "2023-01-09T11:28:16.814257Z",
+              "ordering": 0.0
+            }
+          ]
+        },
+        "modrinthVersion": {
+          "id": "pA1enJAS",
+          "project_id": "OZBR5JT5",
+          "author_id": "rHdGpxOA",
+          "name": "[FABRIC] [1.20.1] EasyAnvils-v8.0.2",
+          "version_number": "v8.0.2-1.20.1-Fabric",
+          "changelog": "# Changelog\nAll notable changes to this project will be documented in this file.\n\nThe format is based on [Keep a Changelog].\n\n## [v8.0.2-1.20.1] - 2024-03-04\n### Added\n- Add experimental support for double click dragging to select multiple words to anvil & name tag text boxes\n### Fixed\n- Fix switching rename and repair cost config option to `LIMITED` always setting the cost to 39 when the too expensive limit is left at -1\n\n## [v8.0.1-1.20.1] - 2023-07-23\n### Fixed\n- Fixed a crash when opening the anvil menu due to a conflict with an unknown mod\n\n## [v8.0.0-1.20.1] - 2023-06-27\n- Ported to Minecraft 1.20.1\n\n[Keep a Changelog]: https://keepachangelog.com/en/1.0.0/\n",
+          "date_published": "2024-03-04T09:07:40.506804Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha512": "aee4e67b1f7ba7f0593a953aa1ec958cce0c9bf69df1f336b77dbd27a8264a5f886cb54fed2b19cb4d26e22236ab92d6d8bba1cdcfc1730245c63a6e867854c4",
+                "sha1": "c889871e3cbd51d513139050069cfc30e0254dac"
+              },
+              "url": "https://cdn.modrinth.com/data/OZBR5JT5/versions/pA1enJAS/EasyAnvils-v8.0.2-1.20.1-Fabric.jar",
+              "filename": "EasyAnvils-v8.0.2-1.20.1-Fabric.jar",
+              "primary": true,
+              "size": 129625
+            }
+          ],
+          "dependencies": [
+            {
+              "project_id": "P7dR8mSH",
+              "dependency_type": "required"
+            },
+            {
+              "project_id": "QAGBst4M",
+              "dependency_type": "required"
+            },
+            {
+              "project_id": "ohNO6lps",
+              "dependency_type": "required"
+            }
+          ],
+          "game_versions": [
+            "1.20.1"
+          ],
+          "loaders": [
+            "fabric"
+          ]
+        }
+      },
+      {
+        "name": "Easy Magic",
+        "version": "[FABRIC] [1.20.1] EasyMagic-v8.0.1",
+        "optional": true,
+        "file": "EasyMagic-v8.0.1-1.20.1-Fabric.jar",
+        "type": "mods",
+        "description": "Enchanting tables as they always should have been! Items stay after closing, and easy re-rolls.",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 456239,
+        "curseForgeFileId": 4658749,
+        "curseForgeProject": {
+          "id": 456239,
+          "name": "Easy Magic [Forge & Fabric]",
+          "authors": [
+            {
+              "id": 10384423,
+              "name": "Fuzs",
+              "url": "https://www.curseforge.com/members/fuzs"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Enchanting tables as they always should have been! Items stay after closing, and easy re-rolls.",
+          "categories": [
+            {
+              "name": "Cosmetic",
+              "slug": "cosmetic",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/cosmetic",
+              "dateModified": "2014-05-08T17:42:35.597Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 424,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/39/635351497555976928.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Utility & QoL",
+              "slug": "utility-qol",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/utility-qol",
+              "dateModified": "2021-11-17T11:45:09.143Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 5191,
+              "iconUrl": "https://media.forgecdn.net/avatars/456/558/637727379086405233.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 5191,
+          "classId": 6,
+          "slug": "easy-magic",
+          "isFeatured": false,
+          "dateModified": "2024-09-18T09:42:26.327Z",
+          "dateCreated": "2021-03-12T22:32:20.69Z",
+          "dateReleased": "2024-09-18T09:36:39.96Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/easy-magic",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/Fuzss/easymagic/issues",
+            "sourceUrl": "https://github.com/Fuzss/easymagic"
+          },
+          "logo": {
+            "id": 776154,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/776/154/256/256/638118060302729911.png",
+            "title": "638118060302729911.png",
+            "url": "https://media.forgecdn.net/avatars/776/154/638118060302729911.png",
+            "modId": 456239
+          },
+          "allowModDistribution": true,
+          "screenshots": [
+            {
+              "id": 490368,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/490/368/310/172/2022-08-27_08.png",
+              "title": "All, one or no enchantments can be shown on the tooltip",
+              "url": "https://media.forgecdn.net/attachments/490/368/2022-08-27_08.png",
+              "modId": 456239
+            },
+            {
+              "id": 490369,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/490/369/310/172/2022-08-27_08.png",
+              "title": "Floating rendering for enchanting table contents",
+              "url": "https://media.forgecdn.net/attachments/490/369/2022-08-27_08.png",
+              "modId": 456239
+            },
+            {
+              "id": 490370,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/490/370/310/172/2022-08-27_08.png",
+              "title": "Flat rendering for enchanting table contents",
+              "url": "https://media.forgecdn.net/attachments/490/370/2022-08-27_08.png",
+              "modId": 456239
+            },
+            {
+              "id": 348779,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/348/779/310/172/2021-03-16_09.png",
+              "title": "Enchanting with bookshelves works underwater",
+              "url": "https://media.forgecdn.net/attachments/348/779/2021-03-16_09.png",
+              "modId": 456239
+            },
+            {
+              "id": 348780,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/348/780/310/172/2021-03-16_09.png",
+              "title": "A semi-automated setup for bulk enchanting using hoppers",
+              "url": "https://media.forgecdn.net/attachments/348/780/2021-03-16_09.png",
+              "modId": 456239
+            },
+            {
+              "id": 490367,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/490/367/310/172/2022-08-27_08.png",
+              "title": "Reroll enchantments with the click of a button",
+              "url": "https://media.forgecdn.net/attachments/490/367/2022-08-27_08.png",
+              "modId": 456239
+            }
+          ],
+          "mainFileId": 5733853
+        },
+        "curseForgeFile": {
+          "id": 4658749,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "[FABRIC] [1.20.1] EasyMagic-v8.0.1",
+          "fileName": "EasyMagic-v8.0.1-1.20.1-Fabric.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2023-07-22T19:00:52.86Z",
+          "fileLength": 104693,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 306612,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 495476,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 547434,
+              "relationType": 3
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 1751413630,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 1365704915,
+              "name": "CHANGELOG.md"
+            },
+            {
+              "fingerprint": 1447192261,
+              "name": "LICENSE-ASSETS.md"
+            },
+            {
+              "fingerprint": 2980605036,
+              "name": "LICENSE.md"
+            },
+            {
+              "fingerprint": 752501811,
+              "name": "pack.mcmeta"
+            },
+            {
+              "fingerprint": 1240197907,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 171757164,
+              "name": "data"
+            },
+            {
+              "fingerprint": 1838427270,
+              "name": "easymagic.common.mixins.json"
+            },
+            {
+              "fingerprint": 3806408138,
+              "name": "mod_banner.png"
+            },
+            {
+              "fingerprint": 213050131,
+              "name": "mod_logo.png"
+            },
+            {
+              "fingerprint": 1282267806,
+              "name": "fabric.mod.json"
+            },
+            {
+              "fingerprint": 3740596229,
+              "name": "easymagic.refmap.json"
+            },
+            {
+              "fingerprint": 33315713,
+              "name": "fuzs"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "08f95e61a1c9c1a51905962455c3f5a8e2809257",
+              "algo": 1
+            },
+            {
+              "value": "44d78d2ca99e6d5f4e9fdcfd2c5daec5",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-09-01T00:00:00Z",
+              "gameVersionName": "Fabric"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            }
+          ],
+          "gameVersions": [
+            "Fabric",
+            "1.20.1"
+          ],
+          "fileFingerprint": 277915422,
+          "modId": 456239
+        },
+        "modrinthProject": {
+          "id": "9hx3AbJM",
+          "slug": "easy-magic",
+          "project_type": "mod",
+          "team": "VMQE7LQc",
+          "title": "Easy Magic",
+          "description": "Enchanting tables as they always should have been! Items stay after closing, and easy re-rolls.",
+          "body": "<p><img src=\"https://i.imgur.com/Mlxi8cy.png\" width=\"854\" height=\"240\" /></p>\n<p><img src=\"https://i.imgur.com/OwxZhGM.png\" width=\"854\" height=\"14\" /></p>\n<p style=\"text-align: center; line-height: 36px;\"><img src=\"https://img.shields.io/badge/Available%20for%20Minecraft-1.19%20%7C%201.18%20%7C%201.17%20%7C%201.16%20%7C%201.15-ecebe6?labelColor=2F4858&amp;style=for-the-badge\" width=\"432\" height=\"28\" />&emsp;<img src=\"https://img.shields.io/badge/Install%20on-Client%20%26%20Server-ecebe6?labelColor=2F4858&amp;style=for-the-badge\" width=\"240\" height=\"28\" /></p>\n<p style=\"text-align: center; line-height: 36px;\"><a href=\"https://www.curseforge.com/minecraft/mc-mods/easy-magic/files/all?filter-status=1&amp;filter-game-version=2020709689%3A7498\"><img src=\"https://bit.ly/3yrSsw7\" width=\"320\" height=\"28\" /></a>&emsp;<a href=\"https://www.curseforge.com/minecraft/mc-mods/puzzles-lib\"><img src=\"https://bit.ly/3jr9xQw\" width=\"215\" height=\"28\" /></a></p>\n<p style=\"text-align: center; line-height: 36px;\"><a href=\"https://www.curseforge.com/minecraft/mc-mods/easy-magic/files/all?filter-status=1&amp;filter-game-version=2020709689%3A7499\"><img src=\"https://bit.ly/3nRXr4m\" width=\"325\" height=\"28\" /></a>&emsp;<a href=\"https://www.curseforge.com/minecraft/mc-mods/fabric-api\"><img src=\"https://bit.ly/30lZmFY\" width=\"208\" height=\"28\" /></a>&emsp;<a href=\"https://www.curseforge.com/minecraft/mc-mods/puzzles-lib\"><img src=\"https://bit.ly/3jr9xQw\" width=\"215\" height=\"28\" /></a>&emsp;<a href=\"https://www.curseforge.com/minecraft/mc-mods/forge-config-api-port-fabric\"><img src=\"https://bit.ly/3clkhvn\" width=\"299\" height=\"28\" /></a></p>\n<p><img src=\"https://i.imgur.com/OwxZhGM.png\" width=\"854\" height=\"14\" /></p>\n<p><span style=\"font-size: 20px;\"><strong>📖 About:</strong></span></p>\n<p><span style=\"font-size: 14px;\"><strong>Easy Magic</strong> enables enchanting tables to retain their inventory contents even after closing the interface.</span></p>\n<p><img src=\"https://i.imgur.com/OwxZhGM.png\" width=\"854\" height=\"14\" /></p>\n<p><span style=\"font-size: 20px;\"><strong>📚 Contents:</strong></span></p>\n<p><span style=\"font-size: 14px;\">Enchanting tables now have an <strong>Inventory</strong>, meaning any items placed in their two slots will stay in those slots. Even after the enchanting screen is closed! To put this new capability to good use, enchanting tables will <strong>Render Their Contents</strong> in the world. There are two different rendering modes to choose from.</span></p>\n<p><span style=\"font-size: 14px;\"><strong>Rerolling Enchantments</strong> has become extremely easy. The enchanting screen now has a dedicated button to do just that at a small cost of some lapis lazuli and a few experience points (not full enchantment levels to not ruin your level progress for enchanting as much). Costs are fully configurable and can even be set to completely free.</span></p>\n<p><span style=\"font-size: 14px;\">Enchanting tooltips will show not just a single random enchantment, instead they show the <strong>Complete Outcome</strong> of the enchanting process. This feature is disabled by default.</span></p>\n<p><span style=\"font-size: 14px;\">Additionally, to enable some basic automation, <strong>Hoppers</strong> can be used to input and output items in the following ways.</span></p>\n<ul>\n<li><span style=\"font-size: 14px;\"><strong>Top:</strong> Input for enchantable items</span></li>\n<li><span style=\"font-size: 14px;\"><strong>Sides:</strong> Input for lapis lazuli</span></li>\n<li><span style=\"font-size: 14px;\"><strong>Bottom:</strong> Output for enchanted items</span></li>\n</ul>\n<p><span style=\"font-size: 14px;\">And <strong>Comparators</strong> work, too! They will output a signal strength of 0, 1, 2, or 3 depending on the amount of lapis lazuli items placed in the table. More than 3 items don't make a difference.</span></p>\n<p><span style=\"font-size: 14px;\">Bookshelves no longer require <strong>Air Blocks</strong> between themselves and the enchanting table to count towards the current enchanting power. Instead, any block without a collision box, such as water, torches, or grass can be placed in between. Also the <strong>Number Of Bookshelves</strong> required for maximum level enchantments can be configured.</span></p>\n<p><img src=\"https://i.imgur.com/OwxZhGM.png\" width=\"854\" height=\"14\" /></p>\n<p><span style=\"font-size: 20px;\"><strong>📷 Media:</strong></span></p>\n<table style=\"text-align: center;\">\n<tbody>\n<tr>\n<td><img src=\"https://media.forgecdn.net/attachments/490/367/2022-08-27_08.png\" width=\"410\" height=\"231\" /></td>\n<td>&emsp;&emsp;</td>\n<td><img src=\"https://media.forgecdn.net/attachments/490/368/2022-08-27_08.png\" width=\"410\" height=\"231\" /></td>\n</tr>\n<tr>\n<td><strong>Reroll enchantments with the click of a button</strong></td>\n<td>&emsp;&emsp;</td>\n<td><strong>All, one or no enchantments can be shown on the tooltip</strong></td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td><img src=\"https://media.forgecdn.net/attachments/490/369/2022-08-27_08.png\" width=\"410\" height=\"231\" /></td>\n<td>&emsp;&emsp;</td>\n<td><img src=\"https://media.forgecdn.net/attachments/490/370/2022-08-27_08.png\" width=\"410\" height=\"231\" /></td>\n</tr>\n<tr>\n<td><strong>Floating rendering for enchanting table contents</strong></td>\n<td>&emsp;&emsp;</td>\n<td><strong>Flat rendering for enchanting table contents</strong></td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td><img src=\"https://media.forgecdn.net/attachments/348/779/2021-03-16_09.png\" width=\"410\" height=\"231\" /></td>\n<td>&emsp;&emsp;</td>\n<td><img src=\"https://media.forgecdn.net/attachments/348/780/2021-03-16_09.png\" width=\"410\" height=\"231\" /></td>\n</tr>\n<tr>\n<td><strong>Enchanting with bookshelves works underwater</strong></td>\n<td>&emsp;&emsp;</td>\n<td><strong>A semi-automated setup for bulk enchanting using hoppers</strong></td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>\n<p><img src=\"https://i.imgur.com/OwxZhGM.png\" width=\"854\" height=\"14\" /></p>\n<p><span style=\"font-size: 20px;\"><strong>💡 FAQ:</strong></span></p>\n<p><span style=\"font-size: 14px;\"><strong>Q: How do I configure this mod on Forge?</strong><br /><strong>A:</strong> Install my <span style=\"font-size: 14px;\"><a href=\"https://www.curseforge.com/minecraft/mc-mods/config-menus-forge\"><span style=\"font-size: 14px;\"><strong>Config Menus for Forge</strong></span></a> mod and do it directly in-game!</span></span></p>\n<p><span style=\"font-size: 14px;\"><strong>Q: How do I configure this mod on Fabric?</strong><br /><strong>A:</strong> Editing configs directly in-game has not yet been implemented. Instead when in a world run the <code>/config showfile &lt;modid&gt;</code> command by choosing either <code>CLIENT</code> or <code>SERVER</code> (depending on the mod), then click the file name (ending with .toml) that appears in chat to be able to manually edit the config file in a separate editor. After saving the file, the config will automatically reload in-game after a couple of seconds, so no game restart required.</span></p>\n<p><span style=\"font-size: 14px;\"><strong>Q: Where can I download this mod for Fabric on versions of Minecraft before 1.19?</strong><br /><strong>A:</strong> Older downloads are found on the <a href=\"https://www.curseforge.com/minecraft/mc-mods/easy-magic-fabric\"><span style=\"font-size: 14px;\"><strong>old project page</strong></span></a>.</span></p>\n<p><span style=\"font-size: 14px;\"><strong>Q: I just installed Easy Magic and it's not working!</strong><br /><strong>A:</strong> No new capabilities will be added to existing enchanting tables. You will need to manually break and replace the block. Same goes for converting enchanting tables back to vanilla after removing the mod.</span></p>\n<p><span style=\"font-size: 14px;\"><strong>Q: The new button for rerolling enchantments added to the enchanting screen is incompatible with my resource pack!</strong><br /><strong>A:</strong> The client config has an option to keep the book from the vanilla screen, the rerolling button will simply not be visible then. Rerolling still works as before, just by clicking the book now.</span></p>\n<p><span style=\"font-size: 14px;\"><strong>Q: I want anvils to keep and render their contents as well!</strong><br /><strong>A:</strong> Sure thing, check out my <a href=\"https://www.curseforge.com/minecraft/mc-mods/easy-anvils\"><span style=\"font-size: 14px;\">Easy Anvils</span></a> mod which does just that and more.</span></p>\n<p><span style=\"font-size: 14px;\"><strong>Q: I'm using Apotheosis' or Quark's enchanting system, will Easy Magic work as well?</strong><br /><strong>A:</strong> Sadly no, Easy Magic only supports the vanilla system and will be overridden by other mods introducing their own.</span></p>\n<p><img src=\"https://i.imgur.com/OwxZhGM.png\" width=\"854\" height=\"14\" /></p>\n<p><span style=\"font-size: 20px;\"><strong>🏆 Credits:</strong></span></p>\n<p><span style=\"font-size: 14px;\">Developing Easy Magic was helped and inspired by:</span></p>\n<ul>\n<li><span style=\"font-size: 14px;\"><a href=\"https://www.curseforge.com/members/Forge_User_41096743\"><span style=\"font-size: 14px;\"><strong>Forge_User_41096743</strong></span></a> for the idea of storing items in the enchantment table from their <a href=\"https://www.curseforge.com/minecraft/mc-mods/lapis-stays-in-the-enchanting-table\"><span style=\"font-size: 14px;\">Lapis Stays in the Enchanting Table\n</span></a> mod</span></li>\n<li><span style=\"font-size: 14px;\"><a href=\"https://www.curseforge.com/members/vazkii\"><span style=\"font-size: 14px;\"><strong>Vazkii</strong></span></a> for the floating inventory contents rendering code taken from their <a href=\"https://www.curseforge.com/minecraft/mc-mods/botania\"><span style=\"font-size: 14px;\">Botania</span></a> mod</span></li>\n<li><span style=\"font-size: 14px;\"><a href=\"https://www.curseforge.com/members/draylar1\"><span style=\"font-size: 14px;\"><strong>Draylar</strong></span></a> for the idea of locking enchantment rerolls behind a certain cost from their <a href=\"https://www.curseforge.com/minecraft/mc-mods/reroll\"><span style=\"font-size: 14px;\">Reroll</span></a> mod</span></li>\n<li><span style=\"font-size: 14px;\"><a href=\"https://www.curseforge.com/members/johnsmith_474\"><span style=\"font-size: 14px;\"><strong>JohnSmith_474</strong></span></a> for inspiring the design of the reroll button from their awesome <a href=\"https://www.curseforge.com/minecraft/mc-mods/enchanting-overhauled\"><span style=\"font-size: 14px;\">Enchanting Overhauled</span></a> mod</span></li>\n</ul>\n<p><img src=\"https://i.imgur.com/OwxZhGM.png\" width=\"854\" height=\"14\" /></p>\n<p style=\"text-align: center; line-height: 36px;\"><a href=\"https://www.curseforge.com/members/lunapixelstudios/projects\"><img src=\"https://img.shields.io/static/v1?label=CurseForge&amp;message=LunaPixelStudios&amp;color=ecebe6&amp;labelColor=2F4858&amp;style=for-the-badge&amp;logo=curseforge&amp;logoColor=white\" width=\"282\" height=\"28\" /></a>&emsp;<a href=\"https://twitter.com/LunaPixelStudio\"><img src=\"https://img.shields.io/twitter/follow/LunaPixelStudio?label=Twitter&amp;color=ecebe6&amp;labelColor=2F4858&amp;style=for-the-badge&amp;logo=twitter&amp;logoColor=white\" width=\"149\" height=\"28\" /></a>&emsp;<a href=\"https://discord.gg/8ZmhaPPbjE\"><img src=\"https://img.shields.io/discord/790272037578473512?label=Discord&amp;color=ecebe6&amp;labelColor=2F4858&amp;style=for-the-badge&amp;logo=discord&amp;logoColor=white\" width=\"220\" height=\"28\" /></a></p>\n<p><img src=\"https://i.imgur.com/1MOyd2u.png\" width=\"854\" height=\"300\" /></p>\n<p style=\"text-align: center; line-height: 36px;\"><a href=\"https://www.curseforge.com/members/fuzs_/projects\"><img src=\"https://img.shields.io/static/v1?label=&amp;message=Fuzs_&amp;color=ecebe6&amp;labelColor=2F4858&amp;style=for-the-badge&amp;logo=curseforge&amp;logoColor=white\" width=\"97\" height=\"28\" /></a>&emsp;<a href=\"https://github.com/Fuzss\"><img src=\"https://img.shields.io/static/v1?label=&amp;message=Fuzss&amp;color=ecebe6&amp;labelColor=2F4858&amp;style=for-the-badge&amp;logo=github&amp;logoColor=white\" width=\"97\" height=\"28\" /></a>&emsp;<a href=\"https://www.youtube.com/channel/UC2l26SuCmCNSCPefpfbCX7Q\"><img src=\"https://img.shields.io/static/v1?label=&amp;message=Fuzs&amp;color=ecebe6&amp;labelColor=2F4858&amp;style=for-the-badge&amp;logo=youtube&amp;logoColor=white\" width=\"89\" height=\"28\" /></a>&emsp;<a href=\"https://twitter.com/Fusseel\"><img src=\"https://img.shields.io/static/v1?label=&amp;message=@Fusseel&amp;color=ecebe6&amp;labelColor=2F4858&amp;style=for-the-badge&amp;logo=twitter&amp;logoColor=white\" width=\"124\" height=\"28\" /></a>&emsp;<a href=\"https://www.reddit.com/user/Fusseel\"><img src=\"https://img.shields.io/static/v1?label=&amp;message=u/Fusseel&amp;color=ecebe6&amp;labelColor=2F4858&amp;style=for-the-badge&amp;logo=reddit&amp;logoColor=white\" alt=\"Reddit\" width=\"130\" height=\"28\" /></a>&emsp;<img src=\"https://img.shields.io/static/v1?label=&amp;message=Fuzs%200212&amp;color=ecebe6&amp;labelColor=2F4858&amp;style=for-the-badge&amp;logo=discord&amp;logoColor=white\" width=\"127\" height=\"28\" /></p>\n<p><img src=\"https://i.imgur.com/OwxZhGM.png\" width=\"854\" height=\"14\" /></p>\n<table style=\"text-align: center;\">\n<tbody>\n<tr>\n<td><a href=\"https://www.curseforge.com/minecraft/mc-mods/config-menus-forge\"><img src=\"https://i.imgur.com/kiHP8s9.png\" width=\"410\" height=\"115\" /></a></td>\n<td>&emsp;&emsp;</td>\n<td><a href=\"https://www.curseforge.com/minecraft/mc-mods/diagonal-fences\"><img src=\"https://i.imgur.com/mU9OlhP.png\" width=\"410\" height=\"115\" /></a></td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td><a href=\"https://www.curseforge.com/minecraft/mc-mods/better-tridents\"><img src=\"https://i.imgur.com/go1pRmx.png\" width=\"410\" height=\"115\" /></a></td>\n<td>&emsp;&emsp;</td>\n<td><a href=\"https://www.curseforge.com/minecraft/mc-mods/portable-hole\"><img src=\"https://i.imgur.com/Lk8bHYP.png\" width=\"410\" height=\"115\" /></a></td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td><a href=\"https://www.curseforge.com/minecraft/mc-mods/easy-anvils\"><img src=\"https://i.imgur.com/UNn2DzX.png\" width=\"410\" height=\"115\" /></a></td>\n<td>&emsp;&emsp;</td>\n<td><a href=\"https://www.curseforge.com/minecraft/mc-mods/easy-shulker-boxes-forge\"><img src=\"https://i.imgur.com/vz0tBff.png\" width=\"410\" height=\"115\" /></a></td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td><a href=\"https://www.curseforge.com/minecraft/mc-mods/universal-bone-meal-forge\"><img src=\"https://i.imgur.com/q3CooZb.png\" width=\"410\" height=\"115\" /></a></td>\n<td>&emsp;&emsp;</td>\n<td><a href=\"https://www.curseforge.com/minecraft/mc-mods/bartering-station\"><img src=\"https://i.imgur.com/LTZQj4C.png\" width=\"410\" height=\"115\" /></a></td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n</tr>\n<tr>\n<td><a href=\"https://www.curseforge.com/minecraft/mc-mods/pick-up-notifier\"><img src=\"https://i.imgur.com/DCwxKZU.png\" width=\"410\" height=\"115\" /></a></td>\n<td>&emsp;&emsp;</td>\n<td><a href=\"https://www.curseforge.com/minecraft/mc-mods/enchanting-infuser-forge\"><img src=\"https://i.imgur.com/ALHMDQn.png\" width=\"410\" height=\"115\" /></a></td>\n</tr>\n<tr>\n<td>&nbsp;</td>\n</tr>\n</tbody>\n</table>\n<p><img src=\"https://i.imgur.com/OwxZhGM.png\" width=\"854\" height=\"14\" /></p>",
+          "published": "2022-07-17T19:26:49.063522Z",
+          "updated": "2024-09-18T09:36:43.331407Z",
+          "status": "approved",
+          "license": {
+            "id": "MPL-2.0",
+            "name": "Mozilla Public License 2.0"
+          },
+          "client_side": "required",
+          "server_side": "required",
+          "categories": [
+            "utility"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/9hx3AbJM/7afd602e584e52950fa27695ac269a2dc48712ca_96.webp",
+          "issues_url": "https://github.com/Fuzss/easymagic/issues",
+          "source_url": "https://github.com/Fuzss/easymagic",
+          "donation_urls": [],
+          "gallery": [
+            {
+              "url": "https://cdn.modrinth.com/data/9hx3AbJM/images/5bb43ad35f608156d56210e15ebb8015095a15d3_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/9hx3AbJM/images/9c4c20b0a1886938cea62aad41373f67083fde27.png",
+              "featured": true,
+              "created": "2023-01-09T11:27:08.375910Z",
+              "ordering": 0.0
+            }
+          ]
+        },
+        "modrinthVersion": {
+          "id": "9Jw4urvo",
+          "project_id": "9hx3AbJM",
+          "author_id": "rHdGpxOA",
+          "name": "[FABRIC] [1.20.1] EasyMagic-v8.0.1",
+          "version_number": "v8.0.1-1.20.1-Fabric",
+          "changelog": "# Changelog\nAll notable changes to this project will be documented in this file.\n\nThe format is based on [Keep a Changelog].\n\n## [v8.0.1-1.20.1] - 2023-07-22\n### Fixed\n- Fixed an issue where the reroll button would show as disabled, but was still clickable when an item that cannot be enchanted is placed in the enchanting table\n\n## [v8.0.0-1.20.1] - 2023-06-27\n- Ported to Minecraft 1.20.1\n\n[Keep a Changelog]: https://keepachangelog.com/en/1.0.0/\n",
+          "date_published": "2023-07-22T19:00:57.714867Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha512": "359783536d189f2ea9b79828890483858eae1c286aafd50a3b674888d99372d11c945c4648e35eb65e16af0e6f605485585dfaa48ab040f73aa916c47ac6689d",
+                "sha1": "08f95e61a1c9c1a51905962455c3f5a8e2809257"
+              },
+              "url": "https://cdn.modrinth.com/data/9hx3AbJM/versions/9Jw4urvo/EasyMagic-v8.0.1-1.20.1-Fabric.jar",
+              "filename": "EasyMagic-v8.0.1-1.20.1-Fabric.jar",
+              "primary": true,
+              "size": 104693
+            }
+          ],
+          "dependencies": [
+            {
+              "version_id": "XheZ9iGK",
+              "project_id": "P7dR8mSH",
+              "dependency_type": "required"
+            },
+            {
+              "version_id": "wfZ1WUlB",
+              "project_id": "QAGBst4M",
+              "dependency_type": "required"
+            },
+            {
+              "project_id": "ohNO6lps",
+              "dependency_type": "required"
+            }
+          ],
+          "game_versions": [
+            "1.20.1"
+          ],
+          "loaders": [
+            "fabric"
+          ]
+        }
+      },
+      {
+        "name": "Diagonal Fences",
+        "version": "[FABRIC] [1.20.1] DiagonalFences-v8.1.4",
+        "optional": true,
+        "file": "DiagonalFences-v8.1.4-1.20.1-Fabric.jar",
+        "type": "mods",
+        "description": "Fences connecting diagonally? Wait. That's illegal.",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 458048,
+        "curseForgeFileId": 5220105,
+        "curseForgeProject": {
+          "id": 458048,
+          "name": "Diagonal Fences [Forge & Fabric]",
+          "authors": [
+            {
+              "id": 10384423,
+              "name": "Fuzs",
+              "url": "https://www.curseforge.com/members/fuzs"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Fences connecting diagonally? Wait. That's illegal.",
+          "categories": [
+            {
+              "name": "Utility & QoL",
+              "slug": "utility-qol",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/utility-qol",
+              "dateModified": "2021-11-17T11:45:09.143Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 5191,
+              "iconUrl": "https://media.forgecdn.net/avatars/456/558/637727379086405233.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 5191,
+          "classId": 6,
+          "slug": "diagonal-fences",
+          "isFeatured": false,
+          "dateModified": "2024-09-17T15:57:46Z",
+          "dateCreated": "2021-03-17T19:30:49.687Z",
+          "dateReleased": "2024-09-17T15:55:34.893Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/diagonal-fences",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/Fuzss/diagonalfences/issues",
+            "sourceUrl": "https://github.com/Fuzss/diagonalfences"
+          },
+          "logo": {
+            "id": 852544,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/852/544/256/256/638255494025114744.png",
+            "title": "638255494025114744.png",
+            "url": "https://media.forgecdn.net/avatars/852/544/638255494025114744.png",
+            "modId": 458048
+          },
+          "allowModDistribution": true,
+          "screenshots": [
+            {
+              "id": 362832,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/362/832/310/172/2021-05-11_11.png",
+              "title": "Perfectly compatible with normal fences added by other mods",
+              "url": "https://media.forgecdn.net/attachments/362/832/2021-05-11_11.png",
+              "modId": 458048
+            },
+            {
+              "id": 362830,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/362/830/310/172/2021-05-11_11.png",
+              "title": "Fences only connect diagonally when there is no other option",
+              "url": "https://media.forgecdn.net/attachments/362/830/2021-05-11_11.png",
+              "modId": 458048
+            },
+            {
+              "id": 362833,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/362/833/310/172/2021-05-11_11.png",
+              "title": "Even works with many custom fences",
+              "url": "https://media.forgecdn.net/attachments/362/833/2021-05-11_11.png",
+              "modId": 458048
+            },
+            {
+              "id": 362828,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/362/828/310/172/2021-05-11_11.png",
+              "title": "Animals are kept in their pens as always",
+              "url": "https://media.forgecdn.net/attachments/362/828/2021-05-11_11.png",
+              "modId": 458048
+            },
+            {
+              "id": 362829,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/362/829/310/172/2021-05-11_11.png",
+              "title": "Even more animals in pens",
+              "url": "https://media.forgecdn.net/attachments/362/829/2021-05-11_11.png",
+              "modId": 458048
+            },
+            {
+              "id": 362831,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/362/831/310/172/2021-05-11_11.png",
+              "title": "Collision boxes and hit boxes match the new shapes",
+              "url": "https://media.forgecdn.net/attachments/362/831/2021-05-11_11.png",
+              "modId": 458048
+            },
+            {
+              "id": 362827,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/362/827/310/172/2021-05-11_11.png",
+              "title": "Fancy new pen shapes",
+              "url": "https://media.forgecdn.net/attachments/362/827/2021-05-11_11.png",
+              "modId": 458048
+            },
+            {
+              "id": 362826,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/362/826/310/172/2021-05-11_11.png",
+              "title": "Diagonal fences everywhere",
+              "url": "https://media.forgecdn.net/attachments/362/826/2021-05-11_11.png",
+              "modId": 458048
+            }
+          ],
+          "mainFileId": 5731804
+        },
+        "curseForgeFile": {
+          "id": 5220105,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "[FABRIC] [1.20.1] DiagonalFences-v8.1.4",
+          "fileName": "DiagonalFences-v8.1.4-1.20.1-Fabric.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2024-03-29T12:33:57.327Z",
+          "fileLength": 164836,
+          "dependencies": [],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 2630210959,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 957685640,
+              "name": "CHANGELOG.md"
+            },
+            {
+              "fingerprint": 186374256,
+              "name": "LICENSE-ASSETS.md"
+            },
+            {
+              "fingerprint": 2980605036,
+              "name": "LICENSE.md"
+            },
+            {
+              "fingerprint": 486343210,
+              "name": "fabric.mod.json"
+            },
+            {
+              "fingerprint": 1524697958,
+              "name": "fuzs"
+            },
+            {
+              "fingerprint": 3192099021,
+              "name": "mod_banner.png"
+            },
+            {
+              "fingerprint": 2522437465,
+              "name": "mod_logo.png"
+            },
+            {
+              "fingerprint": 1469921749,
+              "name": "pack.mcmeta"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "39da2e20ae9097437564320c93fa29933a4a69eb",
+              "algo": 1
+            },
+            {
+              "value": "ad679950be817cd16c94451e208bdfc2",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-09-01T00:00:00Z",
+              "gameVersionName": "Fabric"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            }
+          ],
+          "gameVersions": [
+            "Fabric",
+            "1.20.1"
+          ],
+          "fileFingerprint": 50426873,
+          "modId": 458048
+        },
+        "modrinthProject": {
+          "id": "IKARgflD",
+          "slug": "diagonal-fences",
+          "project_type": "mod",
+          "team": "pE1N4GEG",
+          "title": "Diagonal Fences",
+          "description": "Fences connecting diagonally? Wait. That's illegal.",
+          "body": "<p><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/data/diagonalfences/banner.png\" width=\"854\" height=\"240\" /></p>\n<p><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/data/diagonalfences/strip.png\" width=\"854\" height=\"14\" /></p>\n<p style=\"text-align: center; line-height: 36px;\"><a href=\"https://lunapixel.studio/discord\"><img src=\"https://img.shields.io/static/v1?label=&amp;message=Discord&amp;color=ECEBE6&amp;labelColor=2F4858&amp;style=for-the-badge&amp;logo=discord&amp;logoColor=white\" width=\"117\" height=\"28\" /></a>&emsp;<a href=\"https://twitter.com/Fusseel\"><img src=\"https://img.shields.io/static/v1?label=&amp;message=Twitter&amp;color=ECEBE6&amp;labelColor=2F4858&amp;style=for-the-badge&amp;logo=twitter&amp;logoColor=white\" width=\"116\" height=\"28\" /></a>&emsp;<a href=\"https://www.youtube.com/channel/UC2l26SuCmCNSCPefpfbCX7Q\"><img src=\"https://img.shields.io/static/v1?label=&amp;message=YouTube&amp;color=ECEBE6&amp;labelColor=2F4858&amp;style=for-the-badge&amp;logo=youtube&amp;logoColor=white\" width=\"118\" height=\"28\" /></a>&emsp;<a href=\"https://www.patreon.com/heyitsfuzs\"><img src=\"https://img.shields.io/static/v1?label=&amp;message=Patreon&amp;color=ECEBE6&amp;labelColor=2F4858&amp;style=for-the-badge&amp;logo=patreon&amp;logoColor=white\" width=\"118\" height=\"28\" /></a>&emsp;<a href=\"https://www.paypal.com/donate/?hosted_button_id=TYG7QUSWMVSNG\"><img src=\"https://img.shields.io/static/v1?label=&amp;message=PayPal&amp;color=ECEBE6&amp;labelColor=2F4858&amp;style=for-the-badge&amp;logo=paypal&amp;logoColor=white\" width=\"107\" height=\"28\" /></a>&emsp;<a href=\"https://github.com/Fuzss\"><img src=\"https://img.shields.io/static/v1?label=&amp;message=GitHub&amp;color=ECEBE6&amp;labelColor=2F4858&amp;style=for-the-badge&amp;logo=github&amp;logoColor=white\" width=\"108\" height=\"28\" /></a></p>\n<p><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/data/diagonalfences/strip.png\" width=\"854\" height=\"14\" /></p>\n<p><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/commons/headers/about.png\" width=\"854\" height=\"32\" /></p>\n<p><span style=\"font-size: 14px;\">Diagonal Fences makes all kinds of fences able to connect diagonally. Works just like you would expect it to, so not much more to say really.</span></p>\n<p><span style=\"font-size: 14px;\">Blocks added by other mods are dynamically supported whenever possible. Blocks that are affected unintentionally can be prevented from being so by adding them to the </span><code><span style=\"font-size: 14px;\">diagonalfences:non_diagonal_fences</span></code><span style=\"font-size: 14px;\"> block tag.</span></p>\n<p><span style=\"font-size: 14px;\">Check out the two other projects from the diagonal blocks mod family: </span><a href=\"https://www.curseforge.com/minecraft/mc-mods/diagonal-windows\"><span style=\"font-size: 14px;\">Diagonal Windows</span></a><span style=\"font-size: 14px;\"> and </span><a href=\"https://www.curseforge.com/minecraft/mc-mods/diagonal-walls\"><span style=\"font-size: 14px;\">Diagonal Walls</span></a><span style=\"font-size: 14px;\">.</span></p>\n<p><span style=\"font-size: 14px;\">Works great in combination with mods such as </span><a href=\"https://www.curseforge.com/minecraft/mc-mods/mrcrayfish-furniture-mod\"><span style=\"font-size: 14px;\">MrCrayfish's Furniture Mod</span></a><span style=\"font-size: 14px;\"> by </span><a href=\"https://www.curseforge.com/members/mrcrayfish\"><span style=\"font-size: 14px;\">MrCrayfish</span></a><span style=\"font-size: 14px;\"> and </span><a href=\"https://www.curseforge.com/minecraft/mc-mods/macaws-fences-and-walls\"><span style=\"font-size: 14px;\">Macaw's Fences and Walls</span></a><span style=\"font-size: 14px;\"> by </span><a href=\"https://www.curseforge.com/members/sketch_macaw\"><span style=\"font-size: 14px;\">Sketch_Macaw</span></a><span style=\"font-size: 14px;\">.</span></p>\n<p><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/data/diagonalfences/strip.png\" width=\"854\" height=\"14\" /></p>\n<p><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/commons/headers/media.png\" width=\"854\" height=\"32\" /></p>\n<p><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/data/diagonalfences/media/1.png\" width=\"854\" height=\"480\" /></p>\n<p><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/data/diagonalfences/media/2.png\" width=\"854\" height=\"480\" /></p>\n<p><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/data/diagonalfences/media/3.png\" width=\"854\" height=\"480\" /></p>\n<p><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/data/diagonalfences/strip.png\" width=\"854\" height=\"14\" /></p>\n<p><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/commons/headers/installation.png\" width=\"854\" height=\"32\" /></p>\n<p><strong><span style=\"font-size: 14px;\">⏩ </span></strong><strong><span style=\"font-size: 14px;\">INSTALLATION REQUIRED ON CLIENT &amp; REQUIRED ON SERVER</span></strong></p>\n<p><strong><span style=\"font-size: 14px;\">⏩ </span></strong><strong><span style=\"font-size: 14px;\">REQUIRES </span></strong><a href=\"https://modrinth.com/mod/puzzles-lib\"><strong><span style=\"font-size: 14px;\">PUZZLES LIB</span></strong></a><strong><span style=\"font-size: 14px;\"> TO BE INSTALLED (FORGE &amp; FABRIC)</span></strong></p>\n<p><strong><span style=\"font-size: 14px;\">⏩ </span></strong><strong><span style=\"font-size: 14px;\">REQUIRES </span></strong><a href=\"https://modrinth.com/mod/fabric-api\"><strong><span style=\"font-size: 14px;\">FABRIC API</span></strong></a><strong><span style=\"font-size: 14px;\"> TO BE INSTALLED (FABRIC)</span></strong></p>\n<p><strong><span style=\"font-size: 14px;\">⏩ </span></strong><strong><span style=\"font-size: 14px;\">REQUIRES </span></strong><a href=\"https://modrinth.com/mod/forge-config-api-port\"><strong><span style=\"font-size: 14px;\">FORGE CONFIG API PORT</span></strong></a><strong><span style=\"font-size: 14px;\"> TO BE INSTALLED (FABRIC)</span></strong></p>\n<p><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/data/diagonalfences/strip.png\" width=\"854\" height=\"14\" /></p>\n<p><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/commons/headers/credits.png\" width=\"854\" height=\"32\" /></p>\n<p><span style=\"font-size: 14px;\">🌟 </span><span style=\"font-size: 14px;\">Thanks to </span><a href=\"https://www.curseforge.com/members/theweatherpony\"><span style=\"font-size: 14px;\">TheWeatherPony</span></a><span style=\"font-size: 14px;\"> for the original idea with their </span><a href=\"https://www.curseforge.com/minecraft/mc-mods/fence-overhaul\"><span style=\"font-size: 14px;\">Fence Overhaul</span></a><span style=\"font-size: 14px;\"> mod.</span></p>\n<p><span style=\"font-size: 14px;\">🌟 </span><span style=\"font-size: 14px;\">Thanks to </span><a href=\"https://www.curseforge.com/members/magneticflux_\"><span style=\"font-size: 14px;\">Magneticflux</span></a><span style=\"font-size: 14px;\"> for some of the diagonal hitbox code from their </span><a href=\"https://www.curseforge.com/minecraft/mc-mods/diagonal-panes\"><span style=\"font-size: 14px;\">Diagonal Panes</span></a><span style=\"font-size: 14px;\"> mod.</span></p>\n<p><span style=\"font-size: 14px;\">🌟 </span><span style=\"font-size: 14px;\">Thanks a lot to </span><a href=\"https://www.curseforge.com/members/xfacthd\"><span style=\"font-size: 14px;\">XFactHD</span></a><span style=\"font-size: 14px;\"> for porting Diagonal Fences to 1.18, contributing the diagonal model code and helping out during development in general!</span></p>\n<p><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/data/diagonalfences/strip.png\" width=\"854\" height=\"14\" /></p>\n<p><a href=\"https://www.patreon.com/heyitsfuzs\"><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/commons/support.png\" width=\"854\" height=\"240\" /></a></p>\n<p><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/data/diagonalfences/strip.png\" width=\"854\" height=\"14\" /></p>\n<p><a href=\"https://modrinth.com/mod/enchanting-infuser\"><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/data/enchantinginfuser/banner.png\" width=\"854\" height=\"240\" /></a></p><p><a href=\"https://modrinth.com/mod/universal-enchants\"><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/data/universalenchants/banner.png\" width=\"854\" height=\"240\" /></a></p><p><a href=\"https://modrinth.com/mod/illager-invasion\"><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/data/illagerinvasion/banner.png\" width=\"854\" height=\"240\" /></a></p><p><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/data/diagonalfences/strip.png\" width=\"854\" height=\"14\" /></p>\n<p><a href=\"https://lunapixel.studio/discord\"><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/commons/studio.png\" width=\"854\" height=\"240\" /></a></p>\n<p><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/data/diagonalfences/strip.png\" width=\"854\" height=\"14\" /></p>\n",
+          "published": "2022-07-13T17:23:29.083959Z",
+          "updated": "2024-09-17T15:55:38.561389Z",
+          "status": "approved",
+          "license": {
+            "id": "MPL-2.0",
+            "name": "Mozilla Public License 2.0"
+          },
+          "client_side": "required",
+          "server_side": "required",
+          "categories": [
+            "decoration",
+            "utility"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/IKARgflD/c72c104166bb80db7a19926d12989eeaacadaae5_96.webp",
+          "issues_url": "https://github.com/Fuzss/diagonalfences/issues",
+          "source_url": "https://github.com/Fuzss/diagonalfences",
+          "donation_urls": [],
+          "gallery": [
+            {
+              "url": "https://cdn.modrinth.com/data/IKARgflD/images/54ded00db2c8aac2cbbe05a34cc762bed6a405f9_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/IKARgflD/images/03826c9766290cbb724c6d6ed06b42f1ebe73fd4.png",
+              "featured": true,
+              "created": "2023-11-02T22:56:48.486576Z",
+              "ordering": 0.0
+            }
+          ]
+        },
+        "modrinthVersion": {
+          "id": "84fNDUkA",
+          "project_id": "IKARgflD",
+          "author_id": "rHdGpxOA",
+          "name": "[FABRIC] [1.20.1] DiagonalFences-v8.1.4",
+          "version_number": "v8.1.4-1.20.1-Fabric",
+          "changelog": "# Changelog\nAll notable changes to this project will be documented in this file.\n\nThe format is based on [Keep a Changelog].\n\n## [v8.1.4-1.20.1] - 2024-03-29\n- Bump bundled Diagonal Blocks mod to v8.0.5\n\n## [v8.1.3-1.20.1] - 2023-12-08\n### Changed\n- Update Diagonal Blocks to v8.0.4\n\n## [v8.1.2-1.20.1] - 2023-10-29\n### Changed\n- Updated to Puzzles Lib v8.1.5\n\n## [v8.1.1-1.20.1] - 2023-10-28\n### Fixed\n- Fixed dynamic data generation failing on Windows systems, leading to missing models on Fabric and a crash during start-up on Forge\n- Fixed targeting blocks with new block state properties which cannot be properly supported\n\n## [v8.1.0-1.20.1] - 2023-10-27\n**BREAKING UPDATE:** All diagonal connections from existing blocks will disappear. The blocks need to be replaced for them to show again.\n### Changed\n- No longer applies patches to vanilla blocks, instead a new custom block is dynamically added for every block that is to be made diagonal\n- Players will not notice a difference as there is no new item or crafting recipe, everything works just as it did on the user-side\n- Overhauled connection block state updates, recalculates changes much more efficiently now\n- Performance improvements for constructing shapes\n- Other blocks intersecting with a diagonal connection will now prevent it from forming\n### Fixed\n- Fixed block state mismatches when joining a server without the mod installed\n- Fixed log spam for incompatible block state models, every block will only be logged once at most\n\n## [v8.0.1-1.20.1] - 2023-07-19\n### Fixed\n- Fixed an occasional crash when reloading resources\n\n## [v8.0.0-1.20.1] - 2023-06-27\n- Ported to Minecraft 1.20.1\n\n[Keep a Changelog]: https://keepachangelog.com/en/1.0.0/\n",
+          "date_published": "2024-03-29T12:34:01.765030Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha512": "217c15a2f8bb0d31e88b1daf2039ef3283c709692b88c8b5f65b75e2480cfeeb0be727302af214d31b009f10c3dfeb9ba603b18ab11fb5880b61fc00f957334d",
+                "sha1": "39da2e20ae9097437564320c93fa29933a4a69eb"
+              },
+              "url": "https://cdn.modrinth.com/data/IKARgflD/versions/84fNDUkA/DiagonalFences-v8.1.4-1.20.1-Fabric.jar",
+              "filename": "DiagonalFences-v8.1.4-1.20.1-Fabric.jar",
+              "primary": true,
+              "size": 164836
+            }
+          ],
+          "dependencies": [
+            {
+              "project_id": "5WeWGLoJ",
+              "dependency_type": "optional"
+            },
+            {
+              "project_id": "P7dR8mSH",
+              "dependency_type": "required"
+            },
+            {
+              "project_id": "QAGBst4M",
+              "dependency_type": "required"
+            },
+            {
+              "project_id": "ohNO6lps",
+              "dependency_type": "required"
+            }
+          ],
+          "game_versions": [
+            "1.20.1"
+          ],
+          "loaders": [
+            "fabric"
+          ]
+        }
+      },
+      {
+        "name": "Diagonal Walls",
+        "version": "[FABRIC] [1.20.1] DiagonalWalls-v8.0.3",
+        "optional": true,
+        "file": "DiagonalWalls-v8.0.3-1.20.1-Fabric.jar",
+        "type": "mods",
+        "description": "The missing diagonal blocks are here! After all these years. Finally, you have them all.",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 969422,
+        "curseForgeFileId": 5220116,
+        "curseForgeProject": {
+          "id": 969422,
+          "name": "Diagonal Walls",
+          "authors": [
+            {
+              "id": 10384423,
+              "name": "Fuzs",
+              "url": "https://www.curseforge.com/members/fuzs"
+            }
+          ],
+          "gameId": 432,
+          "summary": "The missing diagonal blocks are here! After all these years. Finally, you have them all.",
+          "categories": [
+            {
+              "name": "Utility & QoL",
+              "slug": "utility-qol",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/utility-qol",
+              "dateModified": "2021-11-17T11:45:09.143Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 5191,
+              "iconUrl": "https://media.forgecdn.net/avatars/456/558/637727379086405233.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Cosmetic",
+              "slug": "cosmetic",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/cosmetic",
+              "dateModified": "2014-05-08T17:42:35.597Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 424,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/39/635351497555976928.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 5191,
+          "classId": 6,
+          "slug": "diagonal-walls",
+          "isFeatured": false,
+          "dateModified": "2024-09-17T16:03:35.793Z",
+          "dateCreated": "2024-02-01T12:54:03.52Z",
+          "dateReleased": "2024-09-17T16:00:15.9Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/diagonal-walls",
+            "issuesUrl": "https://github.com/Fuzss/diagonalwalls/issues",
+            "sourceUrl": "https://github.com/Fuzss/diagonalwalls"
+          },
+          "logo": {
+            "id": 941954,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/941/954/256/256/638423888435546433.png",
+            "title": "638423888435546433.png",
+            "url": "https://media.forgecdn.net/avatars/941/954/638423888435546433.png",
+            "modId": 969422
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 5731822
+        },
+        "curseForgeFile": {
+          "id": 5220116,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "[FABRIC] [1.20.1] DiagonalWalls-v8.0.3",
+          "fileName": "DiagonalWalls-v8.0.3-1.20.1-Fabric.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2024-03-29T12:35:46.71Z",
+          "fileLength": 156141,
+          "dependencies": [],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 1265503075,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 3388614389,
+              "name": "CHANGELOG.md"
+            },
+            {
+              "fingerprint": 186374256,
+              "name": "LICENSE-ASSETS.md"
+            },
+            {
+              "fingerprint": 2980605036,
+              "name": "LICENSE.md"
+            },
+            {
+              "fingerprint": 2022872319,
+              "name": "fabric.mod.json"
+            },
+            {
+              "fingerprint": 3770565306,
+              "name": "fuzs"
+            },
+            {
+              "fingerprint": 2959957788,
+              "name": "mod_banner.png"
+            },
+            {
+              "fingerprint": 1986283727,
+              "name": "mod_logo.png"
+            },
+            {
+              "fingerprint": 4095689200,
+              "name": "pack.mcmeta"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "73b63b2ac921eb0a0e7a92ce22e1802f4d6963c8",
+              "algo": 1
+            },
+            {
+              "value": "cb1949f9e247c3642fd4d2a211054e1d",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-09-01T00:00:00Z",
+              "gameVersionName": "Fabric"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            }
+          ],
+          "gameVersions": [
+            "Fabric",
+            "1.20.1"
+          ],
+          "fileFingerprint": 1118973332,
+          "modId": 969422
+        },
+        "modrinthProject": {
+          "id": "FQgc8dib",
+          "slug": "diagonal-walls",
+          "project_type": "mod",
+          "team": "H8SsRTfB",
+          "title": "Diagonal Walls",
+          "description": "The missing diagonal blocks are here! After all these years. Finally, you have them all.",
+          "body": "<p><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/data/diagonalwalls/banner.png\" width=\"854\" height=\"240\" /></p>\n<p><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/data/diagonalwalls/strip.png\" width=\"854\" height=\"14\" /></p>\n<p style=\"text-align: center; line-height: 36px;\"><a href=\"https://lunapixel.studio/discord\"><img src=\"https://img.shields.io/static/v1?label=&amp;message=Discord&amp;color=ECEBE6&amp;labelColor=2F4858&amp;style=for-the-badge&amp;logo=discord&amp;logoColor=white\" width=\"117\" height=\"28\" /></a>&emsp;<a href=\"https://twitter.com/Fusseel\"><img src=\"https://img.shields.io/static/v1?label=&amp;message=Twitter&amp;color=ECEBE6&amp;labelColor=2F4858&amp;style=for-the-badge&amp;logo=twitter&amp;logoColor=white\" width=\"116\" height=\"28\" /></a>&emsp;<a href=\"https://www.youtube.com/channel/UC2l26SuCmCNSCPefpfbCX7Q\"><img src=\"https://img.shields.io/static/v1?label=&amp;message=YouTube&amp;color=ECEBE6&amp;labelColor=2F4858&amp;style=for-the-badge&amp;logo=youtube&amp;logoColor=white\" width=\"118\" height=\"28\" /></a>&emsp;<a href=\"https://www.patreon.com/heyitsfuzs\"><img src=\"https://img.shields.io/static/v1?label=&amp;message=Patreon&amp;color=ECEBE6&amp;labelColor=2F4858&amp;style=for-the-badge&amp;logo=patreon&amp;logoColor=white\" width=\"118\" height=\"28\" /></a>&emsp;<a href=\"https://www.paypal.com/donate/?hosted_button_id=TYG7QUSWMVSNG\"><img src=\"https://img.shields.io/static/v1?label=&amp;message=PayPal&amp;color=ECEBE6&amp;labelColor=2F4858&amp;style=for-the-badge&amp;logo=paypal&amp;logoColor=white\" width=\"107\" height=\"28\" /></a>&emsp;<a href=\"https://github.com/Fuzss\"><img src=\"https://img.shields.io/static/v1?label=&amp;message=GitHub&amp;color=ECEBE6&amp;labelColor=2F4858&amp;style=for-the-badge&amp;logo=github&amp;logoColor=white\" width=\"108\" height=\"28\" /></a></p>\n<p><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/data/diagonalwalls/strip.png\" width=\"854\" height=\"14\" /></p>\n<p><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/commons/headers/about.png\" width=\"854\" height=\"32\" /></p>\n<p><span style=\"font-size: 14px;\">Diagonal Walls is the final addition to the diagonal blocks mod serires: At last not just fences and glass panes, but also walls are able to connect when placed diagonally. Finally you can build the castle of your dreams without limits.</span></p>\n<p><span style=\"font-size: 14px;\">Please note that for technical reasons when installing the Diagonal Walls mod walls are no longer able to connect upwards and will once again show gaps when stacked vertically (like they used to in Minecraft 1.15.2 and before). Adding that feature back is unfortunatly not technically feasible and is not planned.</span></p>\n<p><span style=\"font-size: 14px;\">Blocks added by other mods are dynamically supported whenever possible. Blocks that are affected unintentionally can be prevented from being so by adding them to the </span><code><span style=\"font-size: 14px;\">diagonalwalls:non_diagonal_walls</span></code><span style=\"font-size: 14px;\"> block tag.</span></p>\n<p><span style=\"font-size: 14px;\">Check out the two other projects from the diagonal blocks mod family: </span><a href=\"https://www.curseforge.com/minecraft/mc-mods/diagonal-fences\"><span style=\"font-size: 14px;\">Diagonal Fences</span></a><span style=\"font-size: 14px;\"> and </span><a href=\"https://www.curseforge.com/minecraft/mc-mods/diagonal-windows\"><span style=\"font-size: 14px;\">Diagonal Windows</span></a><span style=\"font-size: 14px;\">.</span></p>\n<p><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/data/diagonalwalls/strip.png\" width=\"854\" height=\"14\" /></p>\n<p><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/commons/headers/media.png\" width=\"854\" height=\"32\" /></p>\n<p><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/data/diagonalwalls/media/1.png\" width=\"854\" height=\"480\" /></p>\n<p><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/data/diagonalwalls/strip.png\" width=\"854\" height=\"14\" /></p>\n<p><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/commons/headers/installation.png\" width=\"854\" height=\"32\" /></p>\n<p><strong><span style=\"font-size: 14px;\">⏩ </span></strong><strong><span style=\"font-size: 14px;\">INSTALLATION REQUIRED ON CLIENT &amp; REQUIRED ON SERVER</span></strong></p>\n<p><strong><span style=\"font-size: 14px;\">⏩ </span></strong><strong><span style=\"font-size: 14px;\">REQUIRES </span></strong><a href=\"https://modrinth.com/mod/puzzles-lib\"><strong><span style=\"font-size: 14px;\">PUZZLES LIB</span></strong></a><strong><span style=\"font-size: 14px;\"> TO BE INSTALLED (FABRIC &amp; NEOFORGE &amp; FORGE)</span></strong></p>\n<p><strong><span style=\"font-size: 14px;\">⏩ </span></strong><strong><span style=\"font-size: 14px;\">REQUIRES </span></strong><a href=\"https://modrinth.com/mod/fabric-api\"><strong><span style=\"font-size: 14px;\">FABRIC API</span></strong></a><strong><span style=\"font-size: 14px;\"> TO BE INSTALLED (FABRIC)</span></strong></p>\n<p><strong><span style=\"font-size: 14px;\">⏩ </span></strong><strong><span style=\"font-size: 14px;\">REQUIRES </span></strong><a href=\"https://modrinth.com/mod/forge-config-api-port\"><strong><span style=\"font-size: 14px;\">FORGE CONFIG API PORT</span></strong></a><strong><span style=\"font-size: 14px;\"> TO BE INSTALLED (FABRIC &amp; FORGE)</span></strong></p>\n<p><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/data/diagonalwalls/strip.png\" width=\"854\" height=\"14\" /></p>\n<p><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/commons/headers/credits.png\" width=\"854\" height=\"32\" /></p>\n<p><span style=\"font-size: 14px;\">🌟 </span><span style=\"font-size: 14px;\">Thanks a lot to </span><a href=\"https://www.curseforge.com/members/xfacthd\"><span style=\"font-size: 14px;\">XFactHD</span></a><span style=\"font-size: 14px;\"> for contributing the diagonal model transformation code and helping out during development in general!</span></p>\n<p><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/data/diagonalwalls/strip.png\" width=\"854\" height=\"14\" /></p>\n<p><a href=\"https://www.patreon.com/heyitsfuzs\"><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/commons/support.png\" width=\"854\" height=\"240\" /></a></p>\n<p><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/data/diagonalwalls/strip.png\" width=\"854\" height=\"14\" /></p>\n<p><a href=\"https://modrinth.com/mod/leave-my-bars-alone\"><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/data/leavemybarsalone/banner.png\" width=\"854\" height=\"240\" /></a></p><p><a href=\"https://modrinth.com/mod/metal-bundles\"><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/data/metalbundles/banner.png\" width=\"854\" height=\"240\" /></a></p><p><a href=\"https://modrinth.com/mod/bag-of-holding\"><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/data/bagofholding/banner.png\" width=\"854\" height=\"240\" /></a></p><p><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/data/diagonalwalls/strip.png\" width=\"854\" height=\"14\" /></p>\n<p><a href=\"https://lunapixel.studio/discord\"><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/commons/studio.png\" width=\"854\" height=\"240\" /></a></p>\n<p><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/data/diagonalwalls/strip.png\" width=\"854\" height=\"14\" /></p>\n",
+          "published": "2024-02-01T12:54:33.320005Z",
+          "updated": "2024-09-17T16:00:19.587131Z",
+          "status": "approved",
+          "license": {
+            "id": "MPL-2.0",
+            "name": "Mozilla Public License 2.0"
+          },
+          "client_side": "required",
+          "server_side": "required",
+          "categories": [
+            "decoration"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/FQgc8dib/df93780486910bf6b3ae2bf9ddc3e531ab923780_96.webp",
+          "issues_url": "https://github.com/Fuzss/diagonalwalls/issues",
+          "source_url": "https://github.com/Fuzss/diagonalwalls",
+          "discord_url": "https://lunapixel.studio/discord",
+          "donation_urls": [],
+          "gallery": [
+            {
+              "url": "https://cdn.modrinth.com/data/FQgc8dib/images/09b74b3c95dd884a88cf168f30ffd3d6433a8373_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/FQgc8dib/images/920a205afc3a40927b8e1d65217cb412bba0bdb1.png",
+              "featured": true,
+              "created": "2024-02-01T12:57:21.743823Z",
+              "ordering": 0.0
+            }
+          ]
+        },
+        "modrinthVersion": {
+          "id": "ISD6tUmP",
+          "project_id": "FQgc8dib",
+          "author_id": "rHdGpxOA",
+          "name": "[FABRIC] [1.20.1] DiagonalWalls-v8.0.3",
+          "version_number": "v8.0.3-1.20.1-Fabric",
+          "changelog": "# Changelog\nAll notable changes to this project will be documented in this file.\n\nThe format is based on [Keep a Changelog].\n\n## [v8.0.3-1.20.1] - 2024-03-29\n- Bump bundled Diagonal Blocks mod to v8.0.5\n\n## [v8.0.2-1.20.1] - 2023-10-29\n### Changed\n- Updated to Puzzles Lib v8.1.5\n\n## [v8.0.1-1.20.1] - 2023-10-28\n### Fixed\n- Fixed dynamic data generation failing on Windows systems, leading to missing models on Fabric and a crash during start-up on Forge\n- Fixed targeting blocks with new block state properties which cannot be properly supported\n\n## [v8.0.0-1.20.1] - 2023-10-27\n- Initial release\n\n[Keep a Changelog]: https://keepachangelog.com/en/1.0.0/\n",
+          "date_published": "2024-03-29T12:35:50.846473Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha1": "73b63b2ac921eb0a0e7a92ce22e1802f4d6963c8",
+                "sha512": "f9dc1ab287b3ace3d3d5157777b4e3b78745dd2ababfe3ca8412706aeb94d05d05f9243f705f267943def9f6132f41e2250bbe2ad4f99c09bc180863ff02c5ac"
+              },
+              "url": "https://cdn.modrinth.com/data/FQgc8dib/versions/ISD6tUmP/DiagonalWalls-v8.0.3-1.20.1-Fabric.jar",
+              "filename": "DiagonalWalls-v8.0.3-1.20.1-Fabric.jar",
+              "primary": true,
+              "size": 156141
+            }
+          ],
+          "dependencies": [
+            {
+              "project_id": "5WeWGLoJ",
+              "dependency_type": "optional"
+            },
+            {
+              "project_id": "QAGBst4M",
+              "dependency_type": "required"
+            },
+            {
+              "project_id": "ohNO6lps",
+              "dependency_type": "required"
+            },
+            {
+              "project_id": "P7dR8mSH",
+              "dependency_type": "required"
+            }
+          ],
+          "game_versions": [
+            "1.20.1"
+          ],
+          "loaders": [
+            "fabric"
+          ]
+        }
+      },
+      {
+        "name": "Jump Over Fences",
+        "version": "1.3.1",
+        "optional": true,
+        "file": "jumpoverfences-fabric-1.20.1-1.3.1.jar",
+        "type": "mods",
+        "description": "you can jump over blocks, why not fences?",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 423421,
+        "curseForgeFileId": 4915384,
+        "curseForgeProject": {
+          "id": 423421,
+          "name": "Jump Over Fences",
+          "authors": [
+            {
+              "id": 10528774,
+              "name": "Kreezxil",
+              "url": "https://www.curseforge.com/members/kreezxil"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Don't let walls and fences stop you! Jump over them!",
+          "categories": [
+            {
+              "name": "Miscellaneous",
+              "slug": "mc-miscellaneous",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-miscellaneous",
+              "dateModified": "2014-06-15T04:27:14.543Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 425,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/40/635351497693711265.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 425,
+          "classId": 6,
+          "slug": "jump-over-fences-forge",
+          "isFeatured": false,
+          "dateModified": "2024-09-02T17:54:05.523Z",
+          "dateCreated": "2020-11-29T04:30:48.377Z",
+          "dateReleased": "2024-06-24T21:19:09.313Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/jump-over-fences-forge",
+            "wikiUrl": "",
+            "issuesUrl": "https://gitlab.com/kreezxil/jump-over-fences/-/issues",
+            "sourceUrl": "https://gitlab.com/kreezxil/jump-over-fences/"
+          },
+          "logo": {
+            "id": 455081,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/455/81/256/256/637723441345850988.png",
+            "title": "637723441345850988.png",
+            "url": "https://media.forgecdn.net/avatars/455/81/637723441345850988.png",
+            "modId": 423421
+          },
+          "allowModDistribution": false,
+          "screenshots": [
+            {
+              "id": 407667,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/407/667/310/172/bh_jof_overview.png",
+              "title": "overview",
+              "url": "https://media.forgecdn.net/attachments/407/667/bh_jof_overview.png",
+              "modId": 423421
+            },
+            {
+              "id": 407664,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/407/664/310/172/bh_jof_logo.png",
+              "title": "logo",
+              "url": "https://media.forgecdn.net/attachments/407/664/bh_jof_logo.png",
+              "modId": 423421
+            },
+            {
+              "id": 407665,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/407/665/310/172/bh_jof_community.png",
+              "title": "community",
+              "url": "https://media.forgecdn.net/attachments/407/665/bh_jof_community.png",
+              "modId": 423421
+            },
+            {
+              "id": 407668,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/407/668/310/172/bh_jof_title.png",
+              "title": "title",
+              "url": "https://media.forgecdn.net/attachments/407/668/bh_jof_title.png",
+              "modId": 423421
+            },
+            {
+              "id": 407666,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/407/666/310/172/bh_jof_bisect.png",
+              "title": "bisect",
+              "url": "https://media.forgecdn.net/attachments/407/666/bh_jof_bisect.png",
+              "modId": 423421
+            }
+          ],
+          "mainFileId": 5470124
+        },
+        "curseForgeFile": {
+          "id": 4915384,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "jumpoverfences-fabric-1.20.1-1.3.1.jar",
+          "fileName": "jumpoverfences-fabric-1.20.1-1.3.1.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2023-11-30T21:31:52.88Z",
+          "fileLength": 29556,
+          "dependencies": [],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 3190440553,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 3834109939,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 2282890435,
+              "name": "com"
+            },
+            {
+              "fingerprint": 223661375,
+              "name": "fabric.mod.json"
+            },
+            {
+              "fingerprint": 971354733,
+              "name": "jumpoverfences-fabric-1.20.1-refmap.json"
+            },
+            {
+              "fingerprint": 2709502360,
+              "name": "jumpoverfences.mixins.json"
+            },
+            {
+              "fingerprint": 847805944,
+              "name": "pack.mcmeta"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "f12109b47de6395f222a216a0328b0e04cdb23fa",
+              "algo": 1
+            },
+            {
+              "value": "a0210b3cb2daef1f809f38683bf640c2",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-09-01T00:00:00Z",
+              "gameVersionName": "Fabric"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Client"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            }
+          ],
+          "gameVersions": [
+            "Fabric",
+            "Client",
+            "1.20.1"
+          ],
+          "fileFingerprint": 3708501491,
+          "modId": 423421
+        },
+        "modrinthProject": {
+          "id": "4HeIHvIP",
+          "slug": "jump-over-fences",
+          "project_type": "mod",
+          "team": "c00YXTYl",
+          "title": "Jump Over Fences",
+          "description": "you can jump over blocks, why not fences?",
+          "body": "<p style=\"text-align: center;\"><img class=\"aligncenter size-full wp-image-5885\" src=\"https://kreezcraft.com/wp-content/uploads/2022/05/bh_jof_title.png\" alt=\"\" width=\"1434\" height=\"427\" /></p>\n<p style=\"text-align: center;\"></p>\n<a href=\"https://kreezcraft.com/jump_over_fences_forge\"><img class=\"aligncenter size-full wp-image-5886\" src=\"https://kreezcraft.com/wp-content/uploads/2022/05/bh_jof_bisect.png\" alt=\"\" width=\"1429\" height=\"229\" /></a>\n<p style=\"text-align: center;\">If you want a server setup for the Any mod pack with zero effort, get a <a href=\"https://kreezcraft.com/jump_over_fences_forge\">server with BisectHosting</a> and receive 25% off your first month as a new customer using the code kreezxil</p>\n&nbsp;\n\n<img class=\"aligncenter size-full wp-image-5887\" src=\"https://kreezcraft.com/wp-content/uploads/2022/05/bh_jof_overview.png\" alt=\"\" width=\"1434\" height=\"149\" />Port of https://www.curseforge.com/minecraft/mc-mods/fence-jumper by <a href=\"https://www.curseforge.com/members/therealp455w0rd\">TheRealp455w0rd</a> to 1.16.4+ under the MIT license.\n\n&nbsp;\n\nWhen walls and fences hold you, fret not, now you can jump them!\n\n&nbsp;\n\nThis mod is client side.\n\n&nbsp;\n\nNo need to ask for permissions, just add it.\n\n<img class=\"aligncenter size-full wp-image-5888\" src=\"https://kreezcraft.com/wp-content/uploads/2022/05/bh_jof_community.png\" alt=\"\" width=\"1434\" height=\"149\" />\n\n&nbsp;\n<p style=\"text-align: left;\"><a href=\"https://discord.gg/ngNQjT5\" rel=\"nofollow\"><img src=\"https://discordapp.com/api/guilds/96753964485181440/widget.png?style=banner2\" /></a> <a href=\"https://twitter.com/kreezxil\" rel=\"nofollow\"><img src=\"https://s12.directupload.net/images/200916/joj33k55.png\" /></a> <a href=\"https://www.reddit.com/r/MinecraftModdedForge\" rel=\"nofollow\"><img src=\"https://s12.directupload.net/images/200916/efhmdjhg.png\" /></a></p>",
+          "published": "2022-05-26T11:49:35.920981Z",
+          "updated": "2024-06-24T21:21:18.917210Z",
+          "status": "approved",
+          "license": {
+            "id": "MIT",
+            "name": "MIT License"
+          },
+          "client_side": "required",
+          "server_side": "unsupported",
+          "categories": [
+            "utility"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/4HeIHvIP/8b653be250373fda6435cea75c4631a76ae74fca_96.webp",
+          "issues_url": "https://gitlab.com/kreezxil/jump-over-fences/-/issues",
+          "source_url": "https://gitlab.com/kreezxil/jump-over-fences",
+          "discord_url": "https://discord.gg/ngNQjT5",
+          "donation_urls": [
+            {
+              "id": "patreon",
+              "platform": "Patreon",
+              "url": "https://patreon.com/kreezxil"
+            }
+          ],
+          "gallery": []
+        },
+        "modrinthVersion": {
+          "id": "DuXpBGwE",
+          "project_id": "4HeIHvIP",
+          "author_id": "mjD7wCrq",
+          "name": "1.3.1",
+          "version_number": "1.3.1",
+          "changelog": "<p style=\"text-align:center;\"><a href=\"https://kreezcraft.com/jump_over_fences_forge\"><img width=\"90%\" src=\"https://media.forgecdn.net/attachments/407/666/bh_jof_bisect.png\" alt=\"Bisect Hosting\"/></a></p><p style=\"text-align: center;\">If you want a server setup using Jump Over Fences with zero effort, get a <a href=\"https://kreezcraft.com/jump_over_fences_forge\">server with BisectHosting</a> and receive 25% off your first month as  a new customer using the code kreezxil</b></p><p>&nbsp;</p><h2>Changes</h2>\n<p>&bull; added a config that allows you to jump over more than just fences.</p>\n<p>&bull; fabric versions now require cloth-config</p>\n",
+          "date_published": "2023-11-30T21:34:06.188242Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha512": "04470f0bb366e4b1ebd48a82ce405e3ebaa4e5284100719c80f5f11c866f6dea249937ab8983a46d6c000ea5b8e483a523c75c90736b26b1d0777b16ce2a3dc3",
+                "sha1": "f12109b47de6395f222a216a0328b0e04cdb23fa"
+              },
+              "url": "https://cdn.modrinth.com/data/4HeIHvIP/versions/DuXpBGwE/jumpoverfences-fabric-1.20.1-1.3.1.jar",
+              "filename": "jumpoverfences-fabric-1.20.1-1.3.1.jar",
+              "primary": true,
+              "size": 29556
+            }
+          ],
+          "dependencies": [
+            {
+              "project_id": "9s6osm5g",
+              "dependency_type": "required"
+            },
+            {
+              "project_id": "P7dR8mSH",
+              "dependency_type": "required"
+            }
+          ],
+          "game_versions": [
+            "1.20.1"
+          ],
+          "loaders": [
+            "fabric"
+          ]
+        }
+      },
+      {
+        "name": "Orb of Origin Plus",
+        "version": "Orb of Origin Plus 1.1 - 1.20.X",
+        "optional": true,
+        "file": "Orb_of_Origin_Plus_1.1-1.20.X.jar",
+        "type": "mods",
+        "description": "Makes the orb of origin possible to obtain in survival mode.",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "modrinthProject": {
+          "id": "zaacAhCS",
+          "slug": "orb-of-origin-plus",
+          "project_type": "mod",
+          "team": "31JHcnuj",
+          "title": "Orb of Origin Plus",
+          "description": "Makes the orb of origin possible to obtain in survival mode.",
+          "body": "Makes the orb of origin from the origins mod is possible to obtain in survival mode. Orb of origin shards can be found in ancient city loot chests, very rarely orbs of origin can also be found in them. Crafting orb of origin shards in a plus shape makes the orb of origin.\n\nPlanned Features - Orb of origin will play a sound and give you 0-4 orb of origin shards on use.\n\nRecipe:\n\n![Recipe](https://cdn.modrinth.com/data/zaacAhCS/images/6a8b93ea5ac8326302bd7e0c5f4a63ac98162469.png)",
+          "published": "2024-03-03T06:59:51.575081Z",
+          "updated": "2024-03-10T21:28:36.344477Z",
+          "status": "approved",
+          "license": {
+            "id": "LicenseRef-All-Rights-Reserved",
+            "name": ""
+          },
+          "client_side": "required",
+          "server_side": "required",
+          "categories": [
+            "adventure",
+            "equipment"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/zaacAhCS/c5043836985aba89d331e24daf81355c0e8c4812.png",
+          "issues_url": "https://github.com/ForestMinecraft/Orb-of-Origin-Plus/issues",
+          "source_url": "https://github.com/ForestMinecraft/Orb-of-Origin-Plus",
+          "donation_urls": [],
+          "gallery": [
+            {
+              "url": "https://cdn.modrinth.com/data/zaacAhCS/images/27d7892d59a72c9a0d775ffe73b6cabcdfcf6ae9_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/zaacAhCS/images/6a8b93ea5ac8326302bd7e0c5f4a63ac98162469.png",
+              "featured": false,
+              "title": "Recipe",
+              "created": "2024-03-03T07:14:50.666276Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/zaacAhCS/images/80a2cd3dc4871c208b74a3733bb5f2ffca85a110_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/zaacAhCS/images/80a2cd3dc4871c208b74a3733bb5f2ffca85a110.png",
+              "featured": false,
+              "title": "Loot",
+              "created": "2024-03-10T21:29:17.881044Z",
+              "ordering": 1.0
+            }
+          ]
+        },
+        "modrinthVersion": {
+          "id": "yR41mCIT",
+          "project_id": "zaacAhCS",
+          "author_id": "6h7dVD9H",
+          "name": "Orb of Origin Plus 1.1 - 1.20.X",
+          "version_number": "1.1",
+          "changelog": "- Changed orb of origin shards to have aqua text like the orb of origin.\n- Orbs of origin will now genrate in ancient city loot chests with the same rarity as enchanted golden apples.\n- Orb of origin shards will now have a max stack size of 16.",
+          "date_published": "2024-03-10T21:28:36.763247Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha1": "334452578afc656d95e71c9a4cafc56085866624",
+                "sha512": "32dc10b6efe359a9c5bb2744a74fb35334c57a8e8d7b83f0b48163806ccace60f02ff766cc3401c63270ec5de12fe803b6417c2a3ad2ad3f46f55eab8e0a19e5"
+              },
+              "url": "https://cdn.modrinth.com/data/zaacAhCS/versions/yR41mCIT/Orb_of_Origin_Plus_1.1-1.20.X.jar",
+              "filename": "Orb_of_Origin_Plus_1.1-1.20.X.jar",
+              "primary": true,
+              "size": 11589
+            }
+          ],
+          "dependencies": [
+            {
+              "project_id": "3BeIrqZR",
+              "dependency_type": "required"
+            },
+            {
+              "project_id": "P7dR8mSH",
+              "dependency_type": "required"
+            }
+          ],
+          "game_versions": [
+            "1.20",
+            "1.20.1",
+            "1.20.2"
+          ],
+          "loaders": [
+            "fabric"
+          ]
+        }
+      },
+      {
+        "name": "Bad Wither No Cookie - Reloaded",
+        "version": "3.17.0",
+        "optional": true,
+        "file": "bwncr-fabric-1.20.1-3.17.0.jar",
+        "type": "mods",
+        "description": "Localizes the wither and dragon death sounds.",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 261251,
+        "curseForgeFileId": 4626781,
+        "curseForgeProject": {
+          "id": 261251,
+          "name": "Bad Wither No Cookie - Reloaded",
+          "authors": [
+            {
+              "id": 10528774,
+              "name": "Kreezxil",
+              "url": "https://www.curseforge.com/members/kreezxil"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Localizes the wither and dragon death sounds.",
+          "categories": [
+            {
+              "name": "Miscellaneous",
+              "slug": "mc-miscellaneous",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-miscellaneous",
+              "dateModified": "2014-06-15T04:27:14.543Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 425,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/40/635351497693711265.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Utility & QoL",
+              "slug": "utility-qol",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/utility-qol",
+              "dateModified": "2021-11-17T11:45:09.143Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 5191,
+              "iconUrl": "https://media.forgecdn.net/avatars/456/558/637727379086405233.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 425,
+          "classId": 6,
+          "slug": "bad-wither-no-cookie-reloaded",
+          "isFeatured": false,
+          "dateModified": "2024-03-06T21:19:26.647Z",
+          "dateCreated": "2017-02-20T17:59:55.46Z",
+          "dateReleased": "2024-02-22T21:31:08.957Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/bad-wither-no-cookie-reloaded",
+            "wikiUrl": "",
+            "issuesUrl": "https://gitlab.com/kreezxil/BadWitherNoCookie/-/issues",
+            "sourceUrl": "https://gitlab.com/kreezxil/BadWitherNoCookie/"
+          },
+          "logo": {
+            "id": 468874,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/468/874/256/256/637753300913400544.png",
+            "title": "637753300913400544.png",
+            "url": "https://media.forgecdn.net/avatars/468/874/637753300913400544.png",
+            "modId": 261251
+          },
+          "allowModDistribution": false,
+          "screenshots": [
+            {
+              "id": 416324,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/416/324/310/172/bh_bwncr_vet.png",
+              "title": "VET",
+              "url": "https://media.forgecdn.net/attachments/416/324/bh_bwncr_vet.png",
+              "modId": 261251
+            },
+            {
+              "id": 416321,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/416/321/310/172/bh_bwncr_header.png",
+              "title": "HEADER",
+              "url": "https://media.forgecdn.net/attachments/416/321/bh_bwncr_header.png",
+              "modId": 261251
+            },
+            {
+              "id": 416323,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/416/323/310/172/bh_bwncr_promo.png",
+              "title": "PROMO",
+              "url": "https://media.forgecdn.net/attachments/416/323/bh_bwncr_promo.png",
+              "modId": 261251
+            },
+            {
+              "id": 416322,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/416/322/310/172/bh_bwncr_features.png",
+              "title": " FEATURES",
+              "url": "https://media.forgecdn.net/attachments/416/322/bh_bwncr_features.png",
+              "modId": 261251
+            }
+          ],
+          "mainFileId": 5129049
+        },
+        "curseForgeFile": {
+          "id": 4626781,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "bwncr-fabric-1.20.1-3.17.0.jar",
+          "fileName": "bwncr-fabric-1.20.1-3.17.0.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2023-07-05T18:29:44Z",
+          "fileLength": 19526,
+          "dependencies": [],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 301890932,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 546162088,
+              "name": "pack.mcmeta"
+            },
+            {
+              "fingerprint": 2978804217,
+              "name": "fabric.mod.json"
+            },
+            {
+              "fingerprint": 3901599661,
+              "name": "bwncr.mixins.json"
+            },
+            {
+              "fingerprint": 3804223585,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 4157905079,
+              "name": "bwncr.refmap.json"
+            },
+            {
+              "fingerprint": 1509663274,
+              "name": "com"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "da14e71ab3ace3ff884f852c60232eac0c30cde2",
+              "algo": 1
+            },
+            {
+              "value": "c34e8165b85f9c047df834b3e8d05782",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-09-01T00:00:00Z",
+              "gameVersionName": "Fabric"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Client"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            }
+          ],
+          "gameVersions": [
+            "Fabric",
+            "Client",
+            "1.20.1"
+          ],
+          "fileFingerprint": 387569077,
+          "modId": 261251
+        },
+        "modrinthProject": {
+          "id": "lL2MtE37",
+          "slug": "bad-wither-no-cookie",
+          "project_type": "mod",
+          "team": "a6BfddNI",
+          "title": "Bad Wither No Cookie - Reloaded",
+          "description": "Localizes the wither and dragon death sounds.",
+          "body": "<h2 style=\"text-align: left;\"><span style=\"color: #ff9900;\">As of 1.18.2, the mod no longer runs on the server and is client sided.<img class=\"alignnone size-medium\" src=\"https://i.imgur.com/GLLhAJg.png\" width=\"2700\" height=\"1098\" /></span></h2>\n<p style=\"text-align: center;\"><a href=\"https://discord.gg/ngNQjT5\" rel=\"nofollow\"><img src=\"https://discordapp.com/api/guilds/96753964485181440/widget.png?style=banner2\" /></a> <a href=\"https://twitter.com/kreezxil\" rel=\"nofollow\"><img src=\"https://s12.directupload.net/images/200916/joj33k55.png\" /></a> <a href=\"https://www.reddit.com/r/MinecraftModdedForge\" rel=\"nofollow\"><img src=\"https://s12.directupload.net/images/200916/efhmdjhg.png\" /></a></p>\n&nbsp;\n<h2>Bad Wither No Cookie!</h2>\n&nbsp;\n<p><strong><span style=\"color:#f00\">Fabric Versions&nbsp;</span></strong>REQUIRE FABRIC API &amp; CLOTH CONFIG</p>\n<p>&nbsp;</p>\n<p><strong><span style=\"color:#f60\">As of 1.18.2, the mod no longer runs on the server and is client sided.</span></strong></p>\nA lightweight universal mod to silence these nasty world wide broadcast sounds:\n<ul>\n \t<li>Wither</li>\n \t<li>End Dragon</li>\n \t<li>Thunder</li>\n \t<li>and now any sound that any mod makes!</li>\n</ul>\nThis is especially handy on servers where spawners and/or farms are in use for these mobs. This mod can be installed on a client even if it is not on the server.\n\n<img class=\"alignnone size-medium\" src=\"https://i.imgur.com/rxlDQr9.png\" width=\"2700\" height=\"325\" />\n<h2>Sidedness</h2>\n1.18.2+ client only\n\n1.17.x and lower, both\n<h2>Features</h2>\nBlock wither spawn, end dragon death, lightning, thunder, other sounds you care to configure\n\n[1.16.1+] also blocks wither death, wander_trader and llama ambient sounds as well as wither death\n<h3></h3>\n&nbsp;\n<h3 id=\"title-1-1\">Implemented Features:</h3>\n<ul>\n \t<li>config file</li>\n \t<li>all sound types mentioned in this overview disabled by default</li>\n \t<li>console output when a sound is silenced also silenced by default</li>\n \t<li>command to see event sound names: /listen</li>\n</ul>\n<h3></h3><a href=\"https://kreezcraft.com/bwncrfabric\">\n<img alt=\"https://kreezcraft.com/bwncrfabric for a super sweet discount at bisect hosting\" class=\"alignnone size-medium\" src=\"https://i.imgur.com/knrZ6f6.png\" width=\"2700\" height=\"654\" /></a>\n<p style=\"text-align: center;\">If you want a server setup for the Any mod pack with zero effort, get a <a href=\"https://kreezcraft.com/bwncrfabric\">server with BisectHosting</a> and receive 25% off your first month as a new customer using the code kreezxil</p>\n&nbsp;\n<h2 id=\"title-1\"></h2>\n<h2></h2>\n<h3>Licenses</h3>\nCode, Textures and binaries are licensed under the MIT License.\n\nYou are allowed to use the mod in your modpack.\n\nAny alternate licenses are noted where appropriate.\n\n&nbsp;\n\n<img class=\"alignnone size-medium\" src=\"https://i.imgur.com/iTNPJqL.png\" width=\"2700\" height=\"325\" />\n<h2>Help a Veteran today</h2>\nI am Veteran of United States Army. I am not disabled. But I do love to make these mods and modpacks for you guys. Please help me to help you by Donating at <a href=\"https://patreon.com/kreezxil\" target=\"_blank\" rel=\"noopener noreferrer\">https://patreon.com/kreezxil</a>\n\n&nbsp;",
+          "published": "2022-05-25T14:38:16.648309Z",
+          "updated": "2024-02-22T21:33:17.197600Z",
+          "status": "approved",
+          "license": {
+            "id": "MIT",
+            "name": "MIT License"
+          },
+          "client_side": "required",
+          "server_side": "unsupported",
+          "categories": [
+            "game-mechanics"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/lL2MtE37/a6e0b3969dec2c2fc98081d5f95ae8edac8ada95_96.webp",
+          "issues_url": "https://gitlab.com/kreezxil/BadWitherNoCookie/-/issues",
+          "source_url": "https://gitlab.com/kreezxil/BadWitherNoCookie/",
+          "discord_url": "https://discord.gg/ngNQjT5",
+          "donation_urls": [
+            {
+              "id": "patreon",
+              "platform": "Patreon",
+              "url": "https://patreon.com/kreezxil"
+            }
+          ],
+          "gallery": []
+        },
+        "modrinthVersion": {
+          "id": "QPGXdFQ8",
+          "project_id": "lL2MtE37",
+          "author_id": "mjD7wCrq",
+          "name": "3.17.0",
+          "version_number": "3.17.0",
+          "changelog": "<p style=\"text-align:center;\"><a href=\"https://kreezcraft.com/bwncrforge\"><img width=\"90%\" src=\"https://media.forgecdn.net/attachments/416/323/bh_bwncr_promo.png\" alt=\"Bisect Hosting\"/></a></p><p style=\"text-align: center;\">If you want a server setup using Bad Wither No Cookie - Reloaded with zero effort, get a <a href=\"https://kreezcraft.com/bwncrforge\">server with BisectHosting</a> and receive 25% off your first month as  a new customer using the code kreezxil</b></p><p>&nbsp;</p><h2>Ported to 1.20.1</h2>",
+          "date_published": "2023-07-05T18:31:12.410702Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha512": "b1af672ffae2936b31e09adc16d749e455b7912341625ada7a35cdc9ec287d7994ac0e412bbc7f54735ed8d08aca6a0f6fa2ad97cb1cd74bac4f16b64c300931",
+                "sha1": "da14e71ab3ace3ff884f852c60232eac0c30cde2"
+              },
+              "url": "https://cdn.modrinth.com/data/lL2MtE37/versions/QPGXdFQ8/bwncr-fabric-1.20.1-3.17.0.jar",
+              "filename": "bwncr-fabric-1.20.1-3.17.0.jar",
+              "primary": true,
+              "size": 19526
+            }
+          ],
+          "dependencies": [
+            {
+              "version_id": "s7VTKfLA",
+              "project_id": "9s6osm5g",
+              "dependency_type": "required"
+            },
+            {
+              "version_id": "XheZ9iGK",
+              "project_id": "P7dR8mSH",
+              "dependency_type": "required"
+            }
+          ],
+          "game_versions": [
+            "1.20.1"
+          ],
+          "loaders": [
+            "fabric"
+          ]
+        }
       }
     ],
     "ignoredUpdates": [],
     "ignoreAllUpdates": false,
     "vanillaInstance": true,
-    "lastPlayed": 1726360141326,
-    "numPlays": 105,
+    "lastPlayed": 1726683728276,
+    "numPlays": 106,
     "lastExportName": "Sunnie's RPG Tech",
     "lastExportVersion": "1.20.1",
     "lastExportAuthor": "Hitomiiv",
@@ -75690,10 +77724,10 @@
   "minimumLauncherVersion": "21",
   "assetIndex": {
     "id": "5",
-    "sha1": "9ee5b32d87acded8f2d3d57ceec589ee5243ea61",
-    "size": 411881,
-    "url": "https://piston-meta.mojang.com/v1/packages/9ee5b32d87acded8f2d3d57ceec589ee5243ea61/5.json",
-    "totalSize": 626130491
+    "sha1": "deff28247ad5a294b5edcab128507ea9b9a98c6d",
+    "size": 411980,
+    "url": "https://piston-meta.mojang.com/v1/packages/deff28247ad5a294b5edcab128507ea9b9a98c6d/5.json",
+    "totalSize": 626585123
   },
   "assets": "5",
   "downloads": {
