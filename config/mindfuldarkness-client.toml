@@ -26,4 +26,4 @@ texture_darkness = 0.7517605633802817
 font_brightness = 1.0
 #Algorithm selector for darkening interface pixels.
 #Allowed Values: GRAYSCALE_AND_HSP, HSP, GRAYSCALE_AND_HSL, HSL, GRAYSCALE_AND_LINEAR, LINEAR
-darkening_algorithm = "GRAYSCALE_AND_HSP"
+darkening_algorithm = "GRAYSCALE_AND_HSL"

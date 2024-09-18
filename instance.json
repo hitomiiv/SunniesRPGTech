@@ -82029,13 +82029,451 @@
             "fabric"
           ]
         }
+      },
+      {
+        "name": "Marium's Soulslike Weaponry",
+        "version": "SW 1.1.4.2 [1.20.1] Fabric",
+        "optional": true,
+        "file": "soulslike-weaponry-1.1.4.2-1.20.1-fabric.jar",
+        "type": "mods",
+        "description": "A minecraft mod that adds new bosses and legendary weapons",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 632066,
+        "curseForgeFileId": 5605941,
+        "curseForgeProject": {
+          "id": 632066,
+          "name": "Marium's Soulslike Weaponry",
+          "authors": [
+            {
+              "id": 103398279,
+              "name": "mariumbacchus",
+              "url": "https://www.curseforge.com/members/mariumbacchus"
+            }
+          ],
+          "gameId": 432,
+          "summary": "New bosses and legendary weapons!",
+          "categories": [
+            {
+              "name": "Armor, Tools, and Weapons",
+              "slug": "armor-weapons-tools",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/armor-weapons-tools",
+              "dateModified": "2014-05-08T17:44:39.057Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 434,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/47/635351498790409758.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Adventure and RPG",
+              "slug": "adventure-rpg",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/adventure-rpg",
+              "dateModified": "2014-05-08T17:42:09.54Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 422,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/37/635351497295252123.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Mobs",
+              "slug": "world-mobs",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen/world-mobs",
+              "dateModified": "2014-05-08T17:46:59.507Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 411,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/53/635351500195070414.png",
+              "parentCategoryId": 406,
+              "classId": 6
+            },
+            {
+              "name": "Structures",
+              "slug": "world-structures",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen/world-structures",
+              "dateModified": "2014-05-08T17:37:17.173Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 409,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/24/635351494371736208.png",
+              "parentCategoryId": 406,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 422,
+          "classId": 6,
+          "slug": "mariums-soulslike-weaponry",
+          "isFeatured": false,
+          "dateModified": "2024-08-26T15:39:14.12Z",
+          "dateCreated": "2022-06-09T16:54:28.937Z",
+          "dateReleased": "2024-08-25T13:10:39.363Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/mariums-soulslike-weaponry",
+            "wikiUrl": "https://github.com/mariumbacchus/Soulslike-Weaponry/wiki",
+            "issuesUrl": "https://github.com/mariumbacchus/Soulslike-Weaponry/issues",
+            "sourceUrl": "https://github.com/mariumbacchus/Soulslike-Weaponry"
+          },
+          "logo": {
+            "id": 804473,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/804/473/256/256/638170852429354572.png",
+            "title": "638170852429354572.png",
+            "url": "https://media.forgecdn.net/avatars/804/473/638170852429354572.png",
+            "modId": 632066
+          },
+          "allowModDistribution": true,
+          "screenshots": [
+            {
+              "id": 776399,
+              "description": "Found in colder biomes",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/776/399/310/172/graves2.png",
+              "title": "Old Champion's Graves",
+              "url": "https://media.forgecdn.net/attachments/776/399/graves2.png",
+              "modId": 632066
+            },
+            {
+              "id": 468122,
+              "description": "Weapon Showcase",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/468/122/310/172/2022-06-08_18.png",
+              "title": "Heap of Raw Iron",
+              "url": "https://media.forgecdn.net/attachments/468/122/2022-06-08_18.png",
+              "modId": 632066
+            },
+            {
+              "id": 468124,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/468/124/310/172/2022-06-08_18.png",
+              "title": "Old Champion's Remains Boss",
+              "url": "https://media.forgecdn.net/attachments/468/124/2022-06-08_18.png",
+              "modId": 632066
+            },
+            {
+              "id": 776397,
+              "description": "Use the Shard of Uncertainty on the Blackstone Pedestal",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/776/397/310/172/chaos_monarch.png",
+              "title": "Monarch of Chaos",
+              "url": "https://media.forgecdn.net/attachments/776/397/chaos_monarch.png",
+              "modId": 632066
+            },
+            {
+              "id": 776398,
+              "description": "Use the Chaos Orb under open sky",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/776/398/310/172/teaser1.png",
+              "title": "Day Stalker",
+              "url": "https://media.forgecdn.net/attachments/776/398/teaser1.png",
+              "modId": 632066
+            },
+            {
+              "id": 776401,
+              "description": "Found underground in small quantities",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/776/401/310/172/verglas_ore.png",
+              "title": "Verglas ore",
+              "url": "https://media.forgecdn.net/attachments/776/401/verglas_ore.png",
+              "modId": 632066
+            },
+            {
+              "id": 468121,
+              "description": "Weapon Showcase",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/468/121/310/172/2022-06-08_18.png",
+              "title": "Nightfall",
+              "url": "https://media.forgecdn.net/attachments/468/121/2022-06-08_18.png",
+              "modId": 632066
+            },
+            {
+              "id": 468135,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/468/135/310/172/2022-06-09_19.png",
+              "title": "Moonstone Ore",
+              "url": "https://media.forgecdn.net/attachments/468/135/2022-06-09_19.png",
+              "modId": 632066
+            },
+            {
+              "id": 776396,
+              "description": "Summoned by using Essence of Eventide on Old Moon Altar",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/776/396/310/172/fallen_icon.png",
+              "title": "Fallen Icon",
+              "url": "https://media.forgecdn.net/attachments/776/396/fallen_icon.png",
+              "modId": 632066
+            },
+            {
+              "id": 468123,
+              "description": "Weapon Showcase",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/468/123/310/172/2022-06-08_18.png",
+              "title": "Dragonslayer Swordspear",
+              "url": "https://media.forgecdn.net/attachments/468/123/2022-06-08_18.png",
+              "modId": 632066
+            },
+            {
+              "id": 468119,
+              "description": "Found in the Nether",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/468/119/310/172/2022-06-08_18.png",
+              "title": "The Decaying King",
+              "url": "https://media.forgecdn.net/attachments/468/119/2022-06-08_18.png",
+              "modId": 632066
+            }
+          ],
+          "mainFileId": 5662104
+        },
+        "curseForgeFile": {
+          "id": 5605941,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "[1.20.1] SW-1.1.4.2 fabric",
+          "fileName": "soulslike-weaponry-1.1.4.2-1.20.1-fabric.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2024-08-07T21:33:33.787Z",
+          "fileLength": 6211457,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 643780,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 962162,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 280510,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 388172,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 306612,
+              "relationType": 3
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 1273462288,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 2493310413,
+              "name": ".cache"
+            },
+            {
+              "fingerprint": 18375977,
+              "name": "LICENSE_soulslike-weaponry"
+            },
+            {
+              "fingerprint": 2613019408,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 725537648,
+              "name": "data"
+            },
+            {
+              "fingerprint": 1637030444,
+              "name": "fabric.mod.json"
+            },
+            {
+              "fingerprint": 1887847106,
+              "name": "net"
+            },
+            {
+              "fingerprint": 3218745317,
+              "name": "resourcepacks"
+            },
+            {
+              "fingerprint": 1081839379,
+              "name": "soulslike-weaponry-refmap.json"
+            },
+            {
+              "fingerprint": 2696778006,
+              "name": "soulsweapons.mixins.json"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "06cb0e1c11a630c5b1d33b43f0dda017fb09f39c",
+              "algo": 1
+            },
+            {
+              "value": "beaf517947d006c7b7e8a1ecd5cabea6",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-09-01T00:00:00Z",
+              "gameVersionName": "Fabric"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Client"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Server"
+            }
+          ],
+          "gameVersions": [
+            "Fabric",
+            "Client",
+            "1.20.1",
+            "Server"
+          ],
+          "fileFingerprint": 3131467104,
+          "modId": 632066
+        },
+        "modrinthProject": {
+          "id": "oX6SohLj",
+          "slug": "mariums-soulslike-weaponry",
+          "project_type": "mod",
+          "team": "bXjGYdNw",
+          "title": "Marium's Soulslike Weaponry",
+          "description": "A minecraft mod that adds new bosses and legendary weapons",
+          "body": "![background](https://cdn.modrinth.com/data/cached_images/2bd1e5716ac8b0fa670286c50e301c828c52834a.png)\n<h1>Features</h1>\nWelcome to Soulslike Weaponry, a mod that adds over 40+ legendary weapons and multiple bosses to fight.\nThis mod aims to add more endgame content to Minecraft, namely legendary weapons with unique effects and challenging boss fights. When you kill bosses in this mod adds or the vanilla ones, namely the Wither or Ender Dragon, they will now drop a Lord Soul item, which you can use to craft most of the legendary weapons this mod adds. The mod is highly configurable through the config file. You can change everything from boss health, damage to weapon damage and ability cooldowns.\n\nThe weapons come from many different places, ranging from Norse mythology, the imagination, or other game titles. A list of all the weapons added can be found <a href=\"https://github.com/mariumbacchus/Soulslike-Weaponry/wiki/Weapons-&-Armor\">in the wiki</a>, some of them include:\n- Bloodthirster, Comet Spear and the Darkin Blade from League of Legends\n- Moonlight Short/Greatsword, Dragonslayer Swordspear and Forlorn Scythe from Dark Souls\n- Blunderbuss, Gatling Gun, Whirligig Sawblade and Hunter Cannon from Bloodborne\n- Sword of Freyr, Mjölnir and Skofnung from Norse Mythology\n- and more!\n\nThe mod also includes a parry mechanic with the shields and a posture meter that applies Posture Break effect on the target when filled. Guns and the Stagger enchant applies posture loss that fills this meter.\n\n<h4>Dependencies</h4>\nFabric API, Geckolib and AttributeFix are needed.\n\n<h2><a href=\"https://github.com/mariumbacchus/Soulslike-Weaponry/wiki/Bosses\">Bosses</a>:</h2>\n\n- The Decaying King\n     - The Decaying King lives in the throne room of the demon city, the last remains of the ancient civilization from the nether after the entire civilization collapsed into the lava sea. This cursed monstrosity wields The Darkin Blade, and has many deadly attacks to look out for. Killing it makes it drop the Darkin Blade, a Lord Soul and the Withered Demon Heart.\n- Old Champion's Remains\n     - A boss living in the Old Champion's Graves, this skeleton figure has been possessed by another being, namely The Frenzied Shade. The Old Champion will switch between a defensive state behind his shield and an aggressive state by relentlessly swinging at you with his sword. After killing the Old Champion, it will drop the Draugr sword, and the Frenzied Shade will emerge. This creature is the one possessing the Lord Soul, so make sure to stay alert when killing the Old Champion!\n- The Returning Knight\n     - The Returning Knight is a slow, but hard hitting boss with a few attacks up his sleeve. First of all, all projectiles around him will have no effect on him, and will rather be reflected back in the direction they came from, so be careful with that Hunter Cannon! At half health, he will use his last forces of moonlight to be Unbreakable, slamming his arm on his chest, gaining Resistance. After killing The Returning Knight, he will drop moonstone, Nightfall, a Lord Soul and the Arkenstone.\n- Fallen Icon\n     - By using the Essence of Eventide on the Old Moon Altar, you will return the true essence back to it's original body. This will result in the summoning of the Fallen Icon, a fierce empowered version of the Returning Knight with a fast and dangerous second phase. When summoned, Unbreakable will be used right away, affecting all nearby players with Weakness, Nausea and Slowness. The boss does not get any bonus Resistance unlike Returning Knight, and since the true soul has been returned to the vessel, some of the dark power has been slightly suppressed, making the boss unable to reflect projectiles, but it is still immune to them! Upon it's death, the Arkenstone will shatter, and it will instead drop the Essence of Luminescence, the crafting recipe for creating the Pure Moonlight Greatsword.\n- Monarch of Chaos\n     - The Monarch of Chaos is a powerful mage wielding the accursed wand, the Withered Wabbajack. Additionally, it wears both the Crown of Chaos and the Cape of Chaos, two items that that will be dropped upon it's death with the Withered Wabbajack. It can be summoned by using the Shard of Uncertainty (which is dropped by the Wither) on the Blackstone Pedestal block. The Monarch of Chaos is a fast attacking and chaotic boss, hence it's name, having it's attack cooldown reduced lower and lower based on it's missing health. Thanks to the Cape of Chaos, it turns all Grass Blocks around it into Withered Grass Blocks, which will continuously inflict the Decay status effect on all entities standing on them. On non-player entities, they will also take high Wither damage, while players will have their armor quickly deteriorate and fall apart, meanwhile thanks to the Crown of Chaos, the boss itself will heal small amounts on this zone.\n- Day Stalker & Night Prowler\n     - A fierce duo boss representing day and night. They are both empowered based on whether it is daytime or nighttime, and will each switch between flying above the target and being on the ground. Upon killing one of them, the other will become empowered, entering a challenging phase two.",
+          "published": "2023-03-24T19:00:03.759253Z",
+          "updated": "2024-08-25T13:13:12.358529Z",
+          "status": "approved",
+          "license": {
+            "id": "CC0-1.0",
+            "name": "Creative Commons Zero v1.0 Universal"
+          },
+          "client_side": "required",
+          "server_side": "required",
+          "categories": [
+            "adventure",
+            "equipment",
+            "mobs"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/oX6SohLj/273f845965c0aaa9a67a01803914facdd42d5bbb.png",
+          "issues_url": "https://github.com/mariumbacchus/Soulslike-Weaponry/issues",
+          "source_url": "https://github.com/mariumbacchus/Soulslike-Weaponry",
+          "wiki_url": "https://github.com/mariumbacchus/Soulslike-Weaponry/wiki",
+          "donation_urls": [],
+          "gallery": [
+            {
+              "url": "https://cdn.modrinth.com/data/oX6SohLj/images/170991e3e1f87d9145c751416595c3ef3554c13b_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/oX6SohLj/images/a6e3ffcb348bc052501d5c35cc6286775581ee31.png",
+              "featured": false,
+              "title": "Fallen Icon",
+              "description": "One of the bosses",
+              "created": "2023-03-24T19:08:26.528815Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/oX6SohLj/images/2672267f1b7ed7c136416f4d8b72c3df44b6aec8_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/oX6SohLj/images/d37c581e324caff67261d9b7ca3439611105b46b.png",
+              "featured": false,
+              "title": "Weapons",
+              "description": "A gallery of some of the weapons",
+              "created": "2023-03-24T19:10:48.015846Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/oX6SohLj/images/72509f3b39fb71d24d7fe12f6ce3e11b2417899e_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/oX6SohLj/images/be178069a66cbb1a6538ba9c9d3b7581446ffee3.png",
+              "featured": false,
+              "title": "The Decaying King",
+              "description": "One of the bosses",
+              "created": "2023-03-24T19:09:09.704632Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/oX6SohLj/images/e74c81c997e9c66e4714655c0c1c92f59c0a7b6f_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/oX6SohLj/images/c8aab4db839b4f8051e5557747b9f62989257507.png",
+              "featured": false,
+              "title": "Old Champion's Remains",
+              "description": "One of the bosses",
+              "created": "2023-03-24T19:08:52.710142Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/oX6SohLj/images/f16dfa14efbc7df20dbda62fc54adec5d0de7d32_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/oX6SohLj/images/29f9a81bef0e207bae0a5f8f9441b2d6e2861cb3.png",
+              "featured": false,
+              "title": "Monarch of Chaos",
+              "description": "One of the bosses",
+              "created": "2023-03-24T19:09:28.828022Z",
+              "ordering": 0.0
+            }
+          ]
+        },
+        "modrinthVersion": {
+          "id": "8NbsppBy",
+          "project_id": "oX6SohLj",
+          "author_id": "A8tRJfFh",
+          "name": "SW 1.1.4.2 [1.20.1] Fabric",
+          "version_number": "1.1.4.2-1.20.1-fabric",
+          "changelog": "Changelog 1.1.4.2:\n\n- Fixed a bug where other players could pick up a players Leviathan Axe and Mjolnir despite him throwing it and returning it (despite the projectiles having him as owner)\n- Fixed a bug where Darkin Scythe Prime attack speed was 1.6 instead of 1 (update config to make it live)\n- Players having Ghostly effect cannot attack (mainly during Umbral Trespass ability)\n- Fixed an issue where Umbral Trespass ability would crash the game at random intervals (too many packets being sent)\n- Added is_fireproof_item config lines for all weapons and armor, determining whether the item is fireproof or not like netherite\n- Fixed a bug where throwing Leviathan Axe did not apply Permafrost to the target hit\n- Added config line prioritize_off_hand_shield_over_weapon which is false by default, set it to true to have the shield being prioritized over the items use ability (like Nightfall smash)\n",
+          "date_published": "2024-08-07T21:42:59.007081Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha512": "eedc3bb426bc0404a47319ceb3a43d3c1e2f9468ea20bbb129704107aaa2191f957f410676984111e4b8c84288126aadea917b30f387c8b116bfc2a35fa50097",
+                "sha1": "06cb0e1c11a630c5b1d33b43f0dda017fb09f39c"
+              },
+              "url": "https://cdn.modrinth.com/data/oX6SohLj/versions/8NbsppBy/soulslike-weaponry-1.1.4.2-1.20.1-fabric.jar",
+              "filename": "soulslike-weaponry-1.1.4.2-1.20.1-fabric.jar",
+              "primary": true,
+              "size": 6211457
+            }
+          ],
+          "dependencies": [
+            {
+              "project_id": "8BmcQJ2H",
+              "dependency_type": "required"
+            },
+            {
+              "project_id": "AqaIIO6D",
+              "dependency_type": "required"
+            },
+            {
+              "project_id": "P7dR8mSH",
+              "dependency_type": "required"
+            },
+            {
+              "project_id": "lOOpEntO",
+              "dependency_type": "required"
+            }
+          ],
+          "game_versions": [
+            "1.20.1"
+          ],
+          "loaders": [
+            "fabric"
+          ]
+        }
       }
     ],
     "ignoredUpdates": [],
     "ignoreAllUpdates": false,
     "vanillaInstance": true,
-    "lastPlayed": 1726695068767,
-    "numPlays": 113,
+    "lastPlayed": 1726696830649,
+    "numPlays": 116,
     "lastExportName": "Sunnie's RPG Tech",
     "lastExportVersion": "1.20.1",
     "lastExportAuthor": "Hitomiiv",

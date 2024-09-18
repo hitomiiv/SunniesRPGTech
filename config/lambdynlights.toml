@@ -80,6 +80,8 @@ mode = "fancy"
 				polar_bear = true
 				vindicator = true
 				evoker = true
+				experience_orb = true
+				mooshroom = true
 
 			[light_sources.settings.entities.artifacts]
 				mimic = true
@@ -155,6 +157,7 @@ mode = "fancy"
 			[light_sources.settings.entities.mythicmounts]
 				geckotoalizard = true
 				dragon = true
+				griffon = true
 
 			[light_sources.settings.entities.spell_engine]
 				spell_area_effect = true
@@ -165,6 +168,7 @@ mode = "fancy"
 				corrupted_vindicator = true
 				acolyte = true
 				corrupted_pillager = true
+				nameless_hanged = true
 
 			[light_sources.settings.entities.aquamirae]
 				spinefish = true
@@ -176,4 +180,9 @@ mode = "fancy"
 
 			[light_sources.settings.entities.obscure_api]
 				texture_fx = true
+
+			[light_sources.settings.entities.soulsweapons]
+				silver_bullet_entity = true
+				cannonball_entity_type = true
+				dark_sorcerer = true
 
