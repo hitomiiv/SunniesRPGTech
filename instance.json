@@ -77555,13 +77555,2881 @@
             "fabric"
           ]
         }
+      },
+      {
+        "name": "SuperMartijn642's Config Lib",
+        "version": "SuperMartijn642's Config Lib 1.1.8a",
+        "optional": true,
+        "file": "supermartijn642configlib-1.1.8a-fabric-mc1.20.jar",
+        "type": "mods",
+        "description": "Config Lib makes dealing with config files just a bit easier.",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 438332,
+        "curseForgeFileId": 4785838,
+        "curseForgeProject": {
+          "id": 438332,
+          "name": "SuperMartijn642's Config Lib",
+          "authors": [
+            {
+              "id": 19533279,
+              "name": "SuperMartijn642",
+              "url": "https://www.curseforge.com/members/supermartijn642"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Config Lib makes dealing with config files just a bit easier.",
+          "categories": [
+            {
+              "name": "API and Library",
+              "slug": "library-api",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/library-api",
+              "dateModified": "2014-05-23T03:21:44.06Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 421,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/36/635351496947765531.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 421,
+          "classId": 6,
+          "slug": "supermartijn642s-config-lib",
+          "isFeatured": false,
+          "dateModified": "2024-07-19T22:19:25.327Z",
+          "dateCreated": "2021-01-21T00:12:50.467Z",
+          "dateReleased": "2024-07-19T22:10:58.73Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/supermartijn642s-config-lib",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/SuperMartijn642/SuperMartijn642sConfigLib/issues",
+            "sourceUrl": "https://github.com/SuperMartijn642/SuperMartijn642sConfigLib"
+          },
+          "logo": {
+            "id": 334247,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/334/247/256/256/637467847705006848.png",
+            "title": "637467847705006848.png",
+            "url": "https://media.forgecdn.net/avatars/334/247/637467847705006848.png",
+            "modId": 438332
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 5546996
+        },
+        "curseForgeFile": {
+          "id": 4785838,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "SuperMartijn642's Config Lib 1.1.8a for Fabric 1.20.1",
+          "fileName": "supermartijn642configlib-1.1.8a-fabric-mc1.20.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2023-10-07T09:55:21.693Z",
+          "fileLength": 207990,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 306612,
+              "relationType": 3
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 3106162831,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 4041043145,
+              "name": "supermartijn642configlib.png"
+            },
+            {
+              "fingerprint": 3335400919,
+              "name": "supermartijn642configlib.mixins.json"
+            },
+            {
+              "fingerprint": 1673185071,
+              "name": "supermartijn642configlib.accesswidener"
+            },
+            {
+              "fingerprint": 4022650200,
+              "name": "pack.mcmeta"
+            },
+            {
+              "fingerprint": 3946452314,
+              "name": "fabric.mod.json"
+            },
+            {
+              "fingerprint": 1548441861,
+              "name": "com"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "964df96c16afe775efd467b22f24458915805ad8",
+              "algo": 1
+            },
+            {
+              "value": "b8e27e4c98a70e3034774f5b31a3044e",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-09-01T00:00:00Z",
+              "gameVersionName": "Fabric"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020",
+              "gameVersion": "1.20",
+              "gameVersionReleaseDate": "2023-06-07T00:00:00Z",
+              "gameVersionName": "1.20"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-05-26T00:00:00Z",
+              "gameVersionName": "Quilt"
+            }
+          ],
+          "gameVersions": [
+            "Fabric",
+            "1.20.1",
+            "1.20",
+            "Quilt"
+          ],
+          "fileFingerprint": 1820505617,
+          "modId": 438332
+        },
+        "modrinthProject": {
+          "id": "LN9BxssP",
+          "slug": "supermartijn642s-config-lib",
+          "project_type": "mod",
+          "team": "ddl3TBwM",
+          "title": "SuperMartijn642's Config Lib",
+          "description": "Config Lib makes dealing with config files just a bit easier.",
+          "body": "![SuperMartijn642's Config Lib](https://imgur.com/oVcLlAO.png)   \n**SuperMartijn642's Config Lib** allows you to **specify a config once** and it then **handles reloading values between world loads, syncing values with clients**, and **generating values for client- or server-only** on its own.\n\n---\n\n### Creating a config:\nA config is created using a `ModConfigBuilder`.\nSimply create a new instance using `#ModConfigBuilder()`.\n```java\n   ModConfigBuilder builder = new ModConfigBuilder();\n```\nA value can be added to the config with `ModConfigBuilder#define` which takes a name and a default value.\nFor integer and double values a minimum and maximum value are also required.\n`ModConfigBuilder#define` returns a `Supplier` which should be stored to retrieve the value from the config.\n```java\n   Supplier<Boolean> booleanValue = builder.define( \"booleanValue\", true );\n\n   Supplier<Integer> integerValue = builder.define( \"integerValue\", 5, 0, 10 );\n\n   Supplier<Double> doubleValue = builder.define( \"doubleValue\", 0.5, 0, 1);\n\n   Supplier<ExampleEnum> enumValue = builder.define( \"enumValue\", ExampleEnum.VALUE_1 );\n```\nA comment can be added to a value by calling `ModConfigBuilder#comment(String)` before defining the value.\n```java\n   Supplier<Boolean> valueWithComment = builder.comment( \"this is a comment for 'valueWithComment'\" ).define( \"valueWithComment \", true );\n```\nBy default values are reloaded when world is loaded.\nThis can be changed to only reload a value when Minecraft launches by calling `ModConfigBuilder#gameRestart()` before defining the value.\n```java\n   Supplier<Boolean> notReloadedValue = builder.comment( \"this is value will not be reloaded\" ).define( \"notReloadedValue\", true );\n```\nValues in COMMON or SERVER configs are synchronized with clients by default, to prevent this use `ModConfigBuilder#dontSync()`.\n```java\n   Supplier<Boolean> notSynchronizedValue = builder.comment( \"this is value will not be synchronized\" ).define( \"notSynchronizedValue\", true );\n```\nValues can also be put into categories.\n`ModConfigBuilder#push(String)` pushes a category and `ModConfigBuilder#pop()` pops a category.\n```java\n   builder.push( \"special\" );\n   \n   Supplier<Boolean> specialValue = builder.comment( \"this value is in the 'special' category\" ).define( \"specialValue\", true );\n   \n   builder.pop();\n```\nA comment can be added to the active category using `ModConfigBuilder#categoryComment(String)`.\n```java\n   builder.push( \"client\" ).categoryComment( \"this, is a comment for the 'client' category\" );\n```\nAfter defining all values `ModConfigBuilder#build()` must be called to finish the config.\n```java\n   builder.build();\n```\nNow the values in your config will reloaded and synced automatically and the values can be retrieved using the stored `Supplier` instances.\nThis will work for all available versions, that includes Minecraft 1.12, 1.14, 1.15, 1.16, 1.17, 1.18, and 1.19.\n\n---\n\n### Example Mod:\nFor a concrete example of how to use Config Lib checkout [the example mod](https://github.com/SuperMartijn642/SuperMartijn642sConfigLib/blob/1.16/src/test/java/ExampleModConfig.java).\n\n---\n\n### FAQ\nCan I use your mod in my modpack?  \nYes, feel free to use my mod in your modpack\n\n---\n\n### Discord\nFor future content, upcoming mods, and discussion, feel free to join the SuperMartijn642 discord server!  \n[<img width='400' src='https://imgur.com/IG1us6p.png'>](https://discord.gg/QEbGyUYB2e)\n",
+          "published": "2022-07-15T17:18:43.675914Z",
+          "updated": "2024-07-19T22:10:57.947974Z",
+          "status": "approved",
+          "license": {
+            "id": "LicenseRef-All-Rights-Reserved",
+            "name": ""
+          },
+          "client_side": "required",
+          "server_side": "required",
+          "categories": [
+            "library"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/LN9BxssP/ad25597dd1b10b49cdfbc97c70d401e3158000f7_96.webp",
+          "issues_url": "https://github.com/SuperMartijn642/SuperMartijn642sConfigLib/issues",
+          "source_url": "https://github.com/SuperMartijn642/SuperMartijn642sConfigLib",
+          "discord_url": "https://discord.gg/QEbGyUYB2e",
+          "donation_urls": [],
+          "gallery": []
+        },
+        "modrinthVersion": {
+          "id": "Ur02nrUT",
+          "project_id": "LN9BxssP",
+          "author_id": "3KDmigFH",
+          "name": "SuperMartijn642's Config Lib 1.1.8a",
+          "version_number": "1.1.8a-fabric-mc1.20.1",
+          "changelog": "### SuperMartijn642's Config Library 1.1.8a\n- Fixed config values not getting synced to the client\n\n### SuperMartijn642's Config Library 1.1.8\n- Fixed double values in toml configs not accepting integers\n\n### SuperMartijn642's Config Library 1.1.7\n- Config file entries will now generate in the same order as they were registered\n\n### SuperMartijn642's Config Library 1.1.6\n- Initial release of SuperMartijn642's Config Library for Minecraft 1.20\n",
+          "date_published": "2023-10-07T09:55:26.183207Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha1": "964df96c16afe775efd467b22f24458915805ad8",
+                "sha512": "bccd2d3e55a70c7d4c1aedaa9e85d6d0039e982ebdab40bc2aeba4b27a5112859f7a05c342c3c9575ff5d8ced769d1feffb104ecdd4d19cac8afba9ea2017c52"
+              },
+              "url": "https://cdn.modrinth.com/data/LN9BxssP/versions/Ur02nrUT/supermartijn642configlib-1.1.8a-fabric-mc1.20.jar",
+              "filename": "supermartijn642configlib-1.1.8a-fabric-mc1.20.jar",
+              "primary": true,
+              "size": 207990
+            }
+          ],
+          "dependencies": [
+            {
+              "project_id": "P7dR8mSH",
+              "dependency_type": "required"
+            }
+          ],
+          "game_versions": [
+            "1.20",
+            "1.20.1"
+          ],
+          "loaders": [
+            "fabric",
+            "quilt"
+          ]
+        }
+      },
+      {
+        "name": "Durability Tooltip",
+        "version": "Durability Tooltip 1.1.5",
+        "optional": true,
+        "file": "durabilitytooltip-1.1.5-fabric-mc1.20.jar",
+        "type": "mods",
+        "description": "Durability Tooltip shows you the durability of an item!",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 511040,
+        "curseForgeFileId": 4741041,
+        "curseForgeProject": {
+          "id": 511040,
+          "name": "Durability Tooltip",
+          "authors": [
+            {
+              "id": 19533279,
+              "name": "SuperMartijn642",
+              "url": "https://www.curseforge.com/members/supermartijn642"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Durability Tooltip shows you the durability of an item!",
+          "categories": [
+            {
+              "name": "Armor, Tools, and Weapons",
+              "slug": "armor-weapons-tools",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/armor-weapons-tools",
+              "dateModified": "2014-05-08T17:44:39.057Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 434,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/47/635351498790409758.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Cosmetic",
+              "slug": "cosmetic",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/cosmetic",
+              "dateModified": "2014-05-08T17:42:35.597Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 424,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/39/635351497555976928.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Map and Information",
+              "slug": "map-information",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/map-information",
+              "dateModified": "2014-05-08T17:42:23.74Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 423,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/38/635351497437388438.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 434,
+          "classId": 6,
+          "slug": "durability-tooltip",
+          "isFeatured": false,
+          "dateModified": "2024-07-21T03:23:12.277Z",
+          "dateCreated": "2021-08-03T20:24:32.623Z",
+          "dateReleased": "2024-07-21T03:15:54.627Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/durability-tooltip",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/SuperMartijn642/DurabilityTooltip/issues",
+            "sourceUrl": "https://github.com/SuperMartijn642/DurabilityTooltip"
+          },
+          "logo": {
+            "id": 414342,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/414/342/256/256/637636295408026017.png",
+            "title": "637636295408026017.png",
+            "url": "https://media.forgecdn.net/avatars/414/342/637636295408026017.png",
+            "modId": 511040
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 5550237
+        },
+        "curseForgeFile": {
+          "id": 4741041,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "Durability Tooltip 1.1.5 for Fabric 1.20",
+          "fileName": "durabilitytooltip-1.1.5-fabric-mc1.20.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2023-09-06T14:37:47.193Z",
+          "fileLength": 20716,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 438332,
+              "relationType": 3
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 4081930312,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 286610978,
+              "name": "pack.mcmeta"
+            },
+            {
+              "fingerprint": 233163075,
+              "name": "fabric.mod.json"
+            },
+            {
+              "fingerprint": 3592118345,
+              "name": "durabilitytooltip.png"
+            },
+            {
+              "fingerprint": 613878346,
+              "name": "durabilitytooltip.mixins.json"
+            },
+            {
+              "fingerprint": 1673185071,
+              "name": "durabilitytooltip.accesswidener"
+            },
+            {
+              "fingerprint": 3943322836,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 131184112,
+              "name": "com"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "cfee9a225e8b2b123594815150a4df9484a7d1e8",
+              "algo": 1
+            },
+            {
+              "value": "0f276365c9667611687c126888677c10",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000002",
+              "gameVersion": "1.20.2",
+              "gameVersionReleaseDate": "2023-09-21T15:25:15.053Z",
+              "gameVersionName": "1.20.2"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-09-01T00:00:00Z",
+              "gameVersionName": "Fabric"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000003",
+              "gameVersion": "1.20.3",
+              "gameVersionReleaseDate": "2023-12-05T17:24:10.113Z",
+              "gameVersionName": "1.20.3"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020",
+              "gameVersion": "1.20",
+              "gameVersionReleaseDate": "2023-06-07T00:00:00Z",
+              "gameVersionName": "1.20"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000004",
+              "gameVersion": "1.20.4",
+              "gameVersionReleaseDate": "2023-12-07T15:17:47.907Z",
+              "gameVersionName": "1.20.4"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-05-26T00:00:00Z",
+              "gameVersionName": "Quilt"
+            }
+          ],
+          "gameVersions": [
+            "1.20.2",
+            "Fabric",
+            "1.20.3",
+            "1.20.1",
+            "1.20",
+            "1.20.4",
+            "Quilt"
+          ],
+          "fileFingerprint": 2119840239,
+          "modId": 511040
+        },
+        "modrinthProject": {
+          "id": "smUP7V3r",
+          "slug": "durability-tooltip",
+          "project_type": "mod",
+          "team": "c72oGXxO",
+          "title": "Durability Tooltip",
+          "description": "Durability Tooltip shows you the durability of an item!",
+          "body": "![Durability Tooltip](https://imgur.com/OtKnynt.png)  \n\n**Durability Tooltip** shows you the durability of items!\n\n![Separator](https://imgur.com/ndYRaKl.png)\n\n### Tooltip Styles\nThe tooltip style can be changed in the config file. The following styles are available:\n\n#### Numbers\n<img width='280' src='https://imgur.com/7gGOfD3.gif' alt='Numbers tooltip style'>\n\n#### Bar\n<img width='280' src='https://imgur.com/CO2xhM3.gif' alt='Bar tooltip style'>\n\n#### Text\n<img width='358' src='https://imgur.com/sL27du9.gif' alt='Text tooltip style'><br>\n\n![Separator](https://imgur.com/ndYRaKl.png)\n\n### FAQ\n**Is Durability Tooltip required on the server?**  \nNo, Durability Tooltip is only required on the client and will work with servers that don't have it installed  \n**Can I use your mod in my modpack?**  \nYes, feel free to use my mod in your modpack\n\n![Separator](https://imgur.com/ndYRaKl.png)\n\n### Discord\nFor future content, upcoming mods, and discussion, feel free to join the SuperMartijn642 discord server!  \n[<img width='400' src='https://imgur.com/IG1us6p.png'>](https://discord.gg/QEbGyUYB2e)\n\n![Separator](https://imgur.com/ndYRaKl.png)\n\n### Legal Stuff\nDurability Tooltip is the property of SuperMartijn642 and is protected under copyright law and may not be altered or reuploaded without direct permission from SuperMartijn642.",
+          "published": "2022-07-16T20:42:15.642750Z",
+          "updated": "2024-07-21T03:15:53.729563Z",
+          "status": "approved",
+          "license": {
+            "id": "LicenseRef-All-Rights-Reserved",
+            "name": ""
+          },
+          "client_side": "required",
+          "server_side": "unsupported",
+          "categories": [
+            "utility"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/smUP7V3r/icon.png",
+          "issues_url": "https://github.com/SuperMartijn642/DurabilityTooltip/issues",
+          "source_url": "https://github.com/SuperMartijn642/DurabilityTooltip",
+          "discord_url": "https://discord.gg/QEbGyUYB2e",
+          "donation_urls": [],
+          "gallery": []
+        },
+        "modrinthVersion": {
+          "id": "WmJeyttw",
+          "project_id": "smUP7V3r",
+          "author_id": "3KDmigFH",
+          "name": "Durability Tooltip 1.1.5",
+          "version_number": "1.1.5-fabric-mc1.20",
+          "changelog": "### Durability Tooltip 1.1.5\n- Added a config option to blacklist items from certain mods\n- Added a config option to hide the durability tooltip when an item is not damaged\n- Added German translations (thanks to Wizqok!)\n\n### Durability Tooltip 1.1.4\n- Initial release of Durability Tooltip for Minecraft 1.20\n",
+          "date_published": "2023-09-06T14:37:51.224311Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha1": "cfee9a225e8b2b123594815150a4df9484a7d1e8",
+                "sha512": "207d3f32d031bfc391ab267c64f87b9a90b0370aa5e579c217f6774f6a69aeac141c7b8a013d144ccde4f0ed0ce162071358e55cff632fb3d82ad4de8efcf5a3"
+              },
+              "url": "https://cdn.modrinth.com/data/smUP7V3r/versions/WmJeyttw/durabilitytooltip-1.1.5-fabric-mc1.20.jar",
+              "filename": "durabilitytooltip-1.1.5-fabric-mc1.20.jar",
+              "primary": true,
+              "size": 20716
+            }
+          ],
+          "dependencies": [
+            {
+              "project_id": "LN9BxssP",
+              "dependency_type": "required"
+            }
+          ],
+          "game_versions": [
+            "1.20",
+            "1.20.1",
+            "1.20.2",
+            "1.20.3",
+            "1.20.4"
+          ],
+          "loaders": [
+            "fabric",
+            "quilt"
+          ]
+        }
+      },
+      {
+        "name": "Amecs",
+        "version": "[1.20.1] 1.3.10",
+        "optional": true,
+        "file": "amecs-1.3.10+mc.1.20.1.jar",
+        "type": "mods",
+        "description": "Improves your keys & controls setup by providing modifier keys and making multi-functional keys a thing.",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 324564,
+        "curseForgeFileId": 4782283,
+        "curseForgeProject": {
+          "id": 324564,
+          "name": "Amecs (Fabric)",
+          "authors": [
+            {
+              "id": 23798694,
+              "name": "Siphalor",
+              "url": "https://www.curseforge.com/members/siphalor"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Improves your keys & controls setup by providing modifier keys and making multi-functional keys a thing.",
+          "categories": [
+            {
+              "name": "Miscellaneous",
+              "slug": "mc-miscellaneous",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-miscellaneous",
+              "dateModified": "2014-06-15T04:27:14.543Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 425,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/40/635351497693711265.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "API and Library",
+              "slug": "library-api",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/library-api",
+              "dateModified": "2014-05-23T03:21:44.06Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 421,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/36/635351496947765531.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 425,
+          "classId": 6,
+          "slug": "amecs",
+          "isFeatured": false,
+          "dateModified": "2023-12-15T15:33:23.73Z",
+          "dateCreated": "2019-06-17T12:51:26.497Z",
+          "dateReleased": "2023-12-15T15:30:28.44Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/amecs",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/Siphalor/amecs/issues",
+            "sourceUrl": "https://github.com/Siphalor/amecs"
+          },
+          "logo": {
+            "id": 207107,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/207/107/256/256/636963726865273009.png",
+            "title": "636963726865273009.png",
+            "url": "https://media.forgecdn.net/avatars/207/107/636963726865273009.png",
+            "modId": 324564
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 4958898
+        },
+        "curseForgeFile": {
+          "id": 4782283,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "[1.20.1] 1.3.10",
+          "fileName": "amecs-1.3.10+mc.1.20.1.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2023-10-04T19:30:51.677Z",
+          "fileLength": 180129,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 306612,
+              "relationType": 1
+            },
+            {
+              "fileId": 0,
+              "modId": 310111,
+              "relationType": 2
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 1193266946,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 18375977,
+              "name": "LICENSE"
+            },
+            {
+              "fingerprint": 3889694213,
+              "name": "fabric.mod.json"
+            },
+            {
+              "fingerprint": 3868891475,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 3341608424,
+              "name": "amecs.mixins.json"
+            },
+            {
+              "fingerprint": 3997034308,
+              "name": "amecs.accesswidener"
+            },
+            {
+              "fingerprint": 1433678292,
+              "name": "amecs-refmap.json"
+            },
+            {
+              "fingerprint": 1269390071,
+              "name": "de"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "1eff33308da62b47e5767875b28cdd436da77e2c",
+              "algo": 1
+            },
+            {
+              "value": "9681eafc3998b28a8a207b6ed7f2c66d",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-09-01T00:00:00Z",
+              "gameVersionName": "Fabric"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            }
+          ],
+          "gameVersions": [
+            "Fabric",
+            "1.20.1"
+          ],
+          "fileFingerprint": 3746346736,
+          "modId": 324564
+        },
+        "modrinthProject": {
+          "id": "rcLriA4v",
+          "slug": "amecs",
+          "project_type": "mod",
+          "team": "mUw0WYvU",
+          "title": "Amecs",
+          "description": "Improves your keys & controls setup by providing modifier keys and making multi-functional keys a thing.",
+          "body": "**Requires Fabric API.**\n\n---\n\n## Amecs: Alt-Meta-Escape-Control-Shift\nAmecs is a mod that tries to improve your keyboard immersion. Therefore it introduces several modifier keys (alt, control and shift) for now to give you a larger variety to chose from when making keybindings.\n\nAmecs also removes that annoying key blocking where only one functionality can be associated with a key.\n\n_Disclaimer: Duplicate entries will still turn red to let you know of possibly unwanted collisions._\n\nAnd there's yet another feature: Amecs introduces a search bar for your controls screen! No more searching for that one nasty keybinding in a giant list.\n\nAnd last but not least it adds keybindings for toggling auto jump as well as each of the skin layers.\n\n## Example view\n\n![example](https://i.imgur.com/cm1bkcx.png)",
+          "published": "2022-02-13T07:14:32.639729Z",
+          "updated": "2023-12-15T15:29:50.241178Z",
+          "status": "approved",
+          "license": {
+            "id": "CC0-1.0",
+            "name": "Creative Commons Zero v1.0 Universal"
+          },
+          "client_side": "required",
+          "server_side": "unsupported",
+          "categories": [
+            "utility"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/rcLriA4v/dbb0b48cf6ea4ab000b152e2756f5a0a17753763_96.webp",
+          "issues_url": "https://github.com/Siphalor/amecs/issues",
+          "source_url": "https://github.com/Siphalor/amecs",
+          "discord_url": "https://discord.gg/6gaXmbj",
+          "donation_urls": [],
+          "gallery": [
+            {
+              "url": "https://cdn.modrinth.com/data/rcLriA4v/images/dbe1d0c0b0b56a75555a052a9b9cf1b1aa50eae7.png",
+              "raw_url": "https://cdn.modrinth.com/data/rcLriA4v/images/dbe1d0c0b0b56a75555a052a9b9cf1b1aa50eae7.png",
+              "featured": false,
+              "title": "The Controls screen when using Amecs",
+              "created": "2023-10-04T19:46:01.330364Z",
+              "ordering": 0.0
+            }
+          ]
+        },
+        "modrinthVersion": {
+          "id": "HuXAp0GB",
+          "project_id": "rcLriA4v",
+          "author_id": "JJJqUOvE",
+          "name": "[1.20.1] 1.3.10",
+          "version_number": "1.3.10+mc.1.20.1",
+          "changelog": "## Version 1.3.10\n\n- Various translations updates, thanks to:\n  - Rigin: Portugese\n  - Pho753: Italian\n  - theflusspferd: German\n  - Max: Finnish\n\nRelease by Siphalor",
+          "date_published": "2023-10-04T19:30:49.446839Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha512": "f75b6953825e0d59a5c205fc686e82ea67fa76bdbd79b39a9ab2d948a090503c6638de7be252b7d070114521a0e995cdf0964da417dfdf72af07b7fcd5f4643f",
+                "sha1": "1eff33308da62b47e5767875b28cdd436da77e2c"
+              },
+              "url": "https://cdn.modrinth.com/data/rcLriA4v/versions/HuXAp0GB/amecs-1.3.10%2Bmc.1.20.1.jar",
+              "filename": "amecs-1.3.10+mc.1.20.1.jar",
+              "primary": true,
+              "size": 180129
+            }
+          ],
+          "dependencies": [],
+          "game_versions": [
+            "1.20.1"
+          ],
+          "loaders": [
+            "fabric"
+          ]
+        }
+      },
+      {
+        "name": "Detail Armor Bar",
+        "version": "2.6.3 (for 1.20.1 / Fabric)",
+        "optional": true,
+        "file": "DetailArmorBar-2.6.3+1.20.1-fabric.jar",
+        "type": "mods",
+        "description": "More detail about armor in Armor bar!",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 506898,
+        "curseForgeFileId": 4584467,
+        "curseForgeProject": {
+          "id": 506898,
+          "name": "Detail Armor Bar [Fabric]",
+          "authors": [
+            {
+              "id": 101784979,
+              "name": "RedLime",
+              "url": "https://www.curseforge.com/members/redlime"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Show more details of armors in Armor bar!",
+          "categories": [
+            {
+              "name": "Miscellaneous",
+              "slug": "mc-miscellaneous",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-miscellaneous",
+              "dateModified": "2014-06-15T04:27:14.543Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 425,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/40/635351497693711265.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Armor, Tools, and Weapons",
+              "slug": "armor-weapons-tools",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/armor-weapons-tools",
+              "dateModified": "2014-05-08T17:44:39.057Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 434,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/47/635351498790409758.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 425,
+          "classId": 6,
+          "slug": "detail-armor-bar",
+          "isFeatured": false,
+          "dateModified": "2024-08-08T15:49:44.573Z",
+          "dateCreated": "2021-07-21T09:29:36.417Z",
+          "dateReleased": "2024-08-08T15:42:00.493Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/detail-armor-bar",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/RedLime/DetailArmorBar",
+            "sourceUrl": "https://github.com/RedLime/DetailArmorBar"
+          },
+          "logo": {
+            "id": 409453,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/409/453/256/256/637624565764615091.png",
+            "title": "637624565764615091.png",
+            "url": "https://media.forgecdn.net/avatars/409/453/637624565764615091.png",
+            "modId": 506898
+          },
+          "allowModDistribution": true,
+          "screenshots": [
+            {
+              "id": 382537,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/382/537/310/172/enchants_outline.gif",
+              "title": "Enchant effects - Outline (GIF)",
+              "url": "https://media.forgecdn.net/attachments/382/537/enchants_outline.gif",
+              "modId": 506898
+            },
+            {
+              "id": 382532,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/382/532/310/172/all_aura.gif",
+              "title": "Enchant effects - Aura",
+              "url": "https://media.forgecdn.net/attachments/382/532/all_aura.gif",
+              "modId": 506898
+            },
+            {
+              "id": 382533,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/382/533/310/172/enchants_outline.png",
+              "title": "Enchant effects - Outline",
+              "url": "https://media.forgecdn.net/attachments/382/533/enchants_outline.png",
+              "modId": 506898
+            },
+            {
+              "id": 382538,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/382/538/310/172/low_durability.gif",
+              "title": "Low Durability Warning (GIF)",
+              "url": "https://media.forgecdn.net/attachments/382/538/low_durability.gif",
+              "modId": 506898
+            },
+            {
+              "id": 382540,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/382/540/310/172/thorns.gif",
+              "title": "Thorns effect (GIF)",
+              "url": "https://media.forgecdn.net/attachments/382/540/thorns.gif",
+              "modId": 506898
+            },
+            {
+              "id": 382536,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/382/536/310/172/all_aura.gif",
+              "title": "Enchant Effect - Aura (GIF)",
+              "url": "https://media.forgecdn.net/attachments/382/536/all_aura.gif",
+              "modId": 506898
+            },
+            {
+              "id": 382535,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/382/535/310/172/netherites.png",
+              "title": "Netherite Armor Bar",
+              "url": "https://media.forgecdn.net/attachments/382/535/netherites.png",
+              "modId": 506898
+            },
+            {
+              "id": 382539,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/382/539/310/172/mending.gif",
+              "title": "Mending effect (GIF)",
+              "url": "https://media.forgecdn.net/attachments/382/539/mending.gif",
+              "modId": 506898
+            },
+            {
+              "id": 382534,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/382/534/310/172/thorns.png",
+              "title": "Thorns Overlay",
+              "url": "https://media.forgecdn.net/attachments/382/534/thorns.png",
+              "modId": 506898
+            }
+          ],
+          "mainFileId": 5608108
+        },
+        "curseForgeFile": {
+          "id": 4584467,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "2.6.3 (for 1.20.1 / Fabric)",
+          "fileName": "DetailArmorBar-2.6.3+1.20.1-fabric.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2023-06-13T12:45:35.81Z",
+          "fileLength": 57045,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 306612,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 308702,
+              "relationType": 4
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 2504647217,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 3886309325,
+              "name": "LICENSE_DetailArmorBar"
+            },
+            {
+              "fingerprint": 2396663480,
+              "name": "fabric.mod.json"
+            },
+            {
+              "fingerprint": 1984137887,
+              "name": "detailab.mixins.json"
+            },
+            {
+              "fingerprint": 3831732855,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 2651645705,
+              "name": "DetailArmorBar-refmap.json"
+            },
+            {
+              "fingerprint": 1652283075,
+              "name": "com"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "4ebf5767f28d700583e8ee0e91eab118657101d2",
+              "algo": 1
+            },
+            {
+              "value": "65bf41573a9920ea732beb6e9564208a",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-09-01T00:00:00Z",
+              "gameVersionName": "Fabric"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Client"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020",
+              "gameVersion": "1.20",
+              "gameVersionReleaseDate": "2023-06-07T00:00:00Z",
+              "gameVersionName": "1.20"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-05-26T00:00:00Z",
+              "gameVersionName": "Quilt"
+            }
+          ],
+          "gameVersions": [
+            "Fabric",
+            "Client",
+            "1.20.1",
+            "1.20",
+            "Quilt"
+          ],
+          "fileFingerprint": 2496189724,
+          "modId": 506898
+        },
+        "modrinthProject": {
+          "id": "hAt6ty93",
+          "slug": "detail-armor-bar",
+          "project_type": "mod",
+          "team": "wYYI4V2P",
+          "title": "Detail Armor Bar",
+          "description": "More detail about armor in Armor bar!",
+          "body": "<h2><strong>Detail Armor Bar</strong></h2>\n<p><span style=\"font-size: 18px;\">The detail armor bar adds more information to the armor bar.</span></p>\n<h4><span style=\"font-size: 18px;\"><br /><span style=\"color: #ff0000;\">[This is client-side mod!&nbsp;No need to install on server.]</span><br /></span></h4>\n<h4><strong><a style=\"color: #3366ff;\" href=\"https://www.youtube.com/watch?v=Dd0cW3xGEkE\" target=\"_blank\" rel=\"noopener noreferrer\">Showcase Video</a></span></strong></h4>\n<h4><strong>Features:</strong></h4>\n<ul>\n<li><span style=\"font-size: 14px;\"><b>Netherite Armor Bar</b></span></li>\n<li><span style=\"font-size: 14px;\">Enchant Protection Type Color Effect</span></li>\n<li><span style=\"font-size: 14px;\">Armor Mending Effect</span></li>\n<li><span style=\"font-size: 14px;\">Thorns Overlay / Effect</span></li>\n<li><span style=\"font-size: 14px;\">Armor's Low Durability Warn Effect</span></li>\n</ul>\n<p><span style=\"font-size: 14px;\"><em>Check out the showcase videos :)</em></span></p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n<h4><strong>Protection Colors :&nbsp;</strong></h4>\n<p>- Protection - <span style=\"color: #33cccc;\">Aqua(Cyan)</span></p>\n<p>- Projectile Protection - <span style=\"color: #800080;\">Purple</span></p>\n<p>- Blast Protection - <span style=\"color: #ffff00;\">Yellow</span></p>\n<p>- Fire Protection - <span style=\"color: #ff0000;\">Red or.. <span style=\"color: #ff6600;\">Orange</span>?</span></p>\n<p>&nbsp;</p>\n<h3>&gt;&nbsp;<a href=\"https://github.com/RedLime/DetailArmorBar/wiki/For-Developer-(API-Document)\" target=\"_blank\" rel=\"noopener noreferrer\">API Document</a></h3>",
+          "published": "2021-08-03T06:06:57.413064Z",
+          "updated": "2024-08-08T16:28:04.492662Z",
+          "status": "approved",
+          "license": {
+            "id": "MIT",
+            "name": "MIT License"
+          },
+          "client_side": "required",
+          "server_side": "unsupported",
+          "categories": [
+            "equipment",
+            "utility"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/hAt6ty93/icon.png",
+          "source_url": "https://github.com/RedLime/DetailArmorBar",
+          "donation_urls": [
+            {
+              "id": "patreon",
+              "platform": "Patreon",
+              "url": "https://www.patreon.com/join/redlimerl/checkout?rid=0"
+            },
+            {
+              "id": "ko-fi",
+              "platform": "Ko-fi",
+              "url": "https://ko-fi.com/redlimerl"
+            }
+          ],
+          "gallery": []
+        },
+        "modrinthVersion": {
+          "id": "bFQ1ISy6",
+          "project_id": "hAt6ty93",
+          "author_id": "8oopSkBe",
+          "name": "2.6.3 (for 1.20.1 / Fabric)",
+          "version_number": "2.6.3+1.20.1-fabric",
+          "changelog": "",
+          "date_published": "2023-06-13T12:44:44.153504Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha512": "b0816df8b8052cafb31a48ad277965b55f1304659f4e4433fbf69958f20a56af0843fc672d70f4a9202021212667f8e43bcbacdb2b6619fcb78cc761182696f5",
+                "sha1": "4ebf5767f28d700583e8ee0e91eab118657101d2"
+              },
+              "url": "https://cdn.modrinth.com/data/hAt6ty93/versions/bFQ1ISy6/DetailArmorBar-2.6.3%2B1.20.1-fabric.jar",
+              "filename": "DetailArmorBar-2.6.3+1.20.1-fabric.jar",
+              "primary": true,
+              "size": 57045
+            }
+          ],
+          "dependencies": [
+            {
+              "version_id": "XheZ9iGK",
+              "project_id": "P7dR8mSH",
+              "dependency_type": "required"
+            }
+          ],
+          "game_versions": [
+            "1.20.1"
+          ],
+          "loaders": [
+            "fabric",
+            "quilt"
+          ]
+        }
+      },
+      {
+        "name": "Smooth Swapping",
+        "version": "[Fabric 1.20.2] v0.9.3.1",
+        "optional": true,
+        "file": "smoothswapping-0.9.3.1-1.20.2-fabric.jar",
+        "type": "mods",
+        "description": "Moves items smoothly in inventories",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 513689,
+        "curseForgeFileId": 4838934,
+        "curseForgeProject": {
+          "id": 513689,
+          "name": "Smooth Swapping",
+          "authors": [
+            {
+              "id": 100743877,
+              "name": "Schauweg",
+              "url": "https://www.curseforge.com/members/schauweg"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Moves items smoothly in inventories",
+          "categories": [
+            {
+              "name": "Cosmetic",
+              "slug": "cosmetic",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/cosmetic",
+              "dateModified": "2014-05-08T17:42:35.597Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 424,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/39/635351497555976928.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 424,
+          "classId": 6,
+          "slug": "smooth-swapping",
+          "isFeatured": false,
+          "dateModified": "2023-11-04T00:30:26.573Z",
+          "dateCreated": "2021-08-09T00:15:23.643Z",
+          "dateReleased": "2023-11-04T00:22:32.65Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/smooth-swapping",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/Schauweg/Smooth-Swapping/issues",
+            "sourceUrl": "https://github.com/Schauweg/Smooth-Swapping"
+          },
+          "logo": {
+            "id": 417170,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/417/170/256/256/637640649236923611.png",
+            "title": "637640649236923611.png",
+            "url": "https://media.forgecdn.net/avatars/417/170/637640649236923611.png",
+            "modId": 513689
+          },
+          "allowModDistribution": true,
+          "screenshots": [
+            {
+              "id": 655061,
+              "description": "Settings menu with configurable animation curve",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/655/61/310/172/settings.gif",
+              "title": "Settings menu",
+              "url": "https://media.forgecdn.net/attachments/655/61/settings.gif",
+              "modId": 513689
+            },
+            {
+              "id": 655059,
+              "description": "Items moving smoothly inside an inventory",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/655/59/310/172/inventory.gif",
+              "title": "Inventory movement",
+              "url": "https://media.forgecdn.net/attachments/655/59/inventory.gif",
+              "modId": 513689
+            }
+          ],
+          "mainFileId": 4838934
+        },
+        "curseForgeFile": {
+          "id": 4838934,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "[Fabric 1.20.2] v0.9.3.1",
+          "fileName": "smoothswapping-0.9.3.1-1.20.2-fabric.jar",
+          "releaseType": 2,
+          "fileStatus": 4,
+          "fileDate": "2023-11-04T00:22:32.65Z",
+          "fileLength": 61986,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 306612,
+              "relationType": 3
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 50927606,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 3997781319,
+              "name": "architectury_inject_SmoothSwapping_common_068912dd7b524527b2d91957d5f2a71b_6be85e58504b951391a90640e77e4746b1dbe15adb853bbeb03c82cb11453984smoothswapping0931devjar"
+            },
+            {
+              "fingerprint": 3478354800,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 3912828023,
+              "name": "dev"
+            },
+            {
+              "fingerprint": 27600133,
+              "name": "fabric.mod.json"
+            },
+            {
+              "fingerprint": 4207838523,
+              "name": "smoothswapping-common-refmap.json"
+            },
+            {
+              "fingerprint": 3587207080,
+              "name": "smoothswapping-common.mixins.json"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "0deaefc844f35113ed5db90d76b5bd0bd5a279df",
+              "algo": 1
+            },
+            {
+              "value": "b4410e1317c568a4cd429e62f614dcd8",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000002",
+              "gameVersion": "1.20.2",
+              "gameVersionReleaseDate": "2023-09-21T15:25:15.053Z",
+              "gameVersionName": "1.20.2"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-09-01T00:00:00Z",
+              "gameVersionName": "Fabric"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020",
+              "gameVersion": "1.20",
+              "gameVersionReleaseDate": "2023-06-07T00:00:00Z",
+              "gameVersionName": "1.20"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-05-26T00:00:00Z",
+              "gameVersionName": "Quilt"
+            }
+          ],
+          "gameVersions": [
+            "1.20.2",
+            "Fabric",
+            "1.20.1",
+            "1.20",
+            "Quilt"
+          ],
+          "fileFingerprint": 1151343136,
+          "modId": 513689
+        },
+        "modrinthProject": {
+          "id": "ydZic5r4",
+          "slug": "smooth-swapping",
+          "project_type": "mod",
+          "team": "VyyLLc3V",
+          "title": "Smooth Swapping",
+          "description": "Moves items smoothly in inventories",
+          "body": "<h1 align=\"center\">Smooth Swapping</h1>\n\n---\n\n<h3 align=\"center\">About</h3>\n\nSmooth Swapping is a client side mod that animates item movement inside of inventories.\n\n- It is avaible for Fabric and Forge (since Minecraft version 1.19.4)\n\n- Eventhough it is written using Architectury it does **not** need the Aechtectury API, neither for Forge or Fabric\n\n- If you use the Fabric version you need the [Fabric API](https://modrinth.com/mod/fabric-api) and you will need [Modmenu](https://modrinth.com/mod/modmenu) to able to access the settings menu\n\n---\n\n<p align=\"center\" style=\"text-align: center;\">Smooth Item animation inside an inventory</p>\n\n<img src=\"https://cdn.modrinth.com/data/ydZic5r4/images/d8f15765da5939e01ea42de6c874e57739ffcf39.gif\"  height=\"512\">\n\n\n---\n\n<p align=\"center\" style=\"text-align: center;\">Smooth Swapping settings menu</p>\n\n- Toogle button to activate and deactivate the mod\n\n- Slider to adjust the animation speed\n\n- Graph to change the animation curve\n  \n  - Right click with your mouse on an empty space to create a new curve point\n  \n  - Left click and drag a point to move it. The first and last point can't be moved though\n  \n  - Right click on a point to delete it\n\n- Small inventory to test your animation\n\n<img src=\"https://cdn.modrinth.com/data/ydZic5r4/images/5dbec7a2d372ea902d66e99fa4be88e36920f810.gif\"  height=\"512\">\n\n---\n\n[Forge downloads](https://modrinth.com/mod/smooth-swapping/versions?l=forge)\n\n[Fabric downloads](https://modrinth.com/mod/smooth-swapping/versions?l=fabric)\n\n\n",
+          "published": "2021-08-16T20:23:39.493513Z",
+          "updated": "2023-11-04T00:22:33.567291Z",
+          "status": "approved",
+          "license": {
+            "id": "LGPL-3.0-only",
+            "name": "GNU Lesser General Public License v3.0 only"
+          },
+          "client_side": "required",
+          "server_side": "unsupported",
+          "categories": [
+            "decoration"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/ydZic5r4/2d949628d59149ec28c08f50f61d2984dd81ecbb_96.webp",
+          "issues_url": "https://github.com/Schauweg/Smooth-Swapping/issues",
+          "source_url": "https://github.com/Schauweg/Smooth-Swapping",
+          "donation_urls": [],
+          "gallery": [
+            {
+              "url": "https://cdn.modrinth.com/data/ydZic5r4/images/d8f15765da5939e01ea42de6c874e57739ffcf39.gif",
+              "raw_url": "https://cdn.modrinth.com/data/ydZic5r4/images/d8f15765da5939e01ea42de6c874e57739ffcf39.gif",
+              "featured": false,
+              "title": "Inventory anmation",
+              "description": "Smooth inventory animation",
+              "created": "2023-05-01T11:48:15.250304Z",
+              "ordering": 1.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/ydZic5r4/images/5dbec7a2d372ea902d66e99fa4be88e36920f810.gif",
+              "raw_url": "https://cdn.modrinth.com/data/ydZic5r4/images/5dbec7a2d372ea902d66e99fa4be88e36920f810.gif",
+              "featured": false,
+              "title": "Settings Menu",
+              "description": "Settings Menu with toggle button, speed slider and animation graph",
+              "created": "2023-05-01T11:47:38.583167Z",
+              "ordering": 2.0
+            }
+          ]
+        },
+        "modrinthVersion": {
+          "id": "ZOPxSIii",
+          "project_id": "ydZic5r4",
+          "author_id": "AGzRGj6e",
+          "name": "[Fabric 1.20.2] v0.9.3.1",
+          "version_number": "0.9.3.1-1.20.2",
+          "changelog": "### 0.9.3.1\n- small change in rendering fake item in destination slot\n- fixed small error in InventoryWidget which caused crashes",
+          "date_published": "2023-11-04T00:22:36.125913Z",
+          "version_type": "beta",
+          "files": [
+            {
+              "hashes": {
+                "sha1": "0deaefc844f35113ed5db90d76b5bd0bd5a279df",
+                "sha512": "316b8a050e34a320119f7a0769159dd5d4bb505518f7f77696dfb136d547b5c7ea30dfd4ad47166a95ef3d0a50d9127de7dc164e8ec283bff7791f7ab037923f"
+              },
+              "url": "https://cdn.modrinth.com/data/ydZic5r4/versions/ZOPxSIii/smoothswapping-0.9.3.1-1.20.2-fabric.jar",
+              "filename": "smoothswapping-0.9.3.1-1.20.2-fabric.jar",
+              "primary": true,
+              "size": 61986
+            }
+          ],
+          "dependencies": [
+            {
+              "project_id": "P7dR8mSH",
+              "dependency_type": "required"
+            },
+            {
+              "project_id": "mOgUt4GM",
+              "dependency_type": "optional"
+            }
+          ],
+          "game_versions": [
+            "1.20",
+            "1.20.1",
+            "1.20.2"
+          ],
+          "loaders": [
+            "fabric",
+            "quilt"
+          ]
+        }
+      },
+      {
+        "name": "Mindful Darkness",
+        "version": "[FABRIC] [1.20.1] MindfulDarkness-v8.0.3",
+        "optional": true,
+        "file": "MindfulDarkness-v8.0.3-1.20.1-Fabric.jar",
+        "type": "mods",
+        "description": "Turning all the lights off! Automatic dark mode for guis; as configurable as possible.",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 852669,
+        "curseForgeFileId": 5081355,
+        "curseForgeProject": {
+          "id": 852669,
+          "name": "Mindful Darkness [Forge & Fabric]",
+          "authors": [
+            {
+              "id": 10384423,
+              "name": "Fuzs",
+              "url": "https://www.curseforge.com/members/fuzs"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Turning all the lights off! Automatic dark mode for guis; as configurable as possible.",
+          "categories": [
+            {
+              "name": "Utility & QoL",
+              "slug": "utility-qol",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/utility-qol",
+              "dateModified": "2021-11-17T11:45:09.143Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 5191,
+              "iconUrl": "https://media.forgecdn.net/avatars/456/558/637727379086405233.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Cosmetic",
+              "slug": "cosmetic",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/cosmetic",
+              "dateModified": "2014-05-08T17:42:35.597Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 424,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/39/635351497555976928.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 424,
+          "classId": 6,
+          "slug": "mindful-darkness",
+          "isFeatured": false,
+          "dateModified": "2024-02-04T20:36:41.4Z",
+          "dateCreated": "2023-04-20T10:46:52.76Z",
+          "dateReleased": "2024-02-04T20:29:28.063Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/mindful-darkness",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/Fuzss/mindfuldarkness/issues",
+            "sourceUrl": "https://github.com/Fuzss/mindfuldarkness"
+          },
+          "logo": {
+            "id": 807106,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/807/106/256/256/638175844127695571.png",
+            "title": "638175844127695571.png",
+            "url": "https://media.forgecdn.net/avatars/807/106/638175844127695571.png",
+            "modId": 852669
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 5081355
+        },
+        "curseForgeFile": {
+          "id": 5081355,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "[FABRIC] [1.20.1] MindfulDarkness-v8.0.3",
+          "fileName": "MindfulDarkness-v8.0.3-1.20.1-Fabric.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2024-02-04T20:29:28.063Z",
+          "fileLength": 95205,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 495476,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 306612,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 547434,
+              "relationType": 3
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 769100406,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 3821522775,
+              "name": "CHANGELOG.md"
+            },
+            {
+              "fingerprint": 186374256,
+              "name": "LICENSE-ASSETS.md"
+            },
+            {
+              "fingerprint": 2980605036,
+              "name": "LICENSE.md"
+            },
+            {
+              "fingerprint": 2189019493,
+              "name": "pack.mcmeta"
+            },
+            {
+              "fingerprint": 3476386164,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 643602888,
+              "name": "mod_banner.png"
+            },
+            {
+              "fingerprint": 2754131880,
+              "name": "mod_logo.png"
+            },
+            {
+              "fingerprint": 1055202801,
+              "name": "mindfuldarkness.common.mixins.json"
+            },
+            {
+              "fingerprint": 2268168441,
+              "name": "fabric.mod.json"
+            },
+            {
+              "fingerprint": 2382772506,
+              "name": "mindfuldarkness.refmap.json"
+            },
+            {
+              "fingerprint": 2153225606,
+              "name": "fuzs"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "1dfd349b98ccba31a0da2e551e8caed439dc4b56",
+              "algo": 1
+            },
+            {
+              "value": "199f1e3742a1e133caacdd9279cd2aae",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-09-01T00:00:00Z",
+              "gameVersionName": "Fabric"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            }
+          ],
+          "gameVersions": [
+            "Fabric",
+            "1.20.1"
+          ],
+          "fileFingerprint": 3759076953,
+          "modId": 852669
+        },
+        "modrinthProject": {
+          "id": "pzCY6C3e",
+          "slug": "mindful-darkness",
+          "project_type": "mod",
+          "team": "rmjvM0s6",
+          "title": "Mindful Darkness",
+          "description": "Turning all the lights off! Automatic dark mode for guis; as configurable as possible.",
+          "body": "<p><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/data/mindfuldarkness/banner.png\" width=\"854\" height=\"240\" /></p>\n<p><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/data/mindfuldarkness/strip.png\" width=\"854\" height=\"14\" /></p>\n<p style=\"text-align: center; line-height: 36px;\"><a href=\"https://lunapixel.studio/discord\"><img src=\"https://img.shields.io/static/v1?label=&amp;message=Discord&amp;color=ECEBE6&amp;labelColor=2F4858&amp;style=for-the-badge&amp;logo=discord&amp;logoColor=white\" width=\"117\" height=\"28\" /></a>&emsp;<a href=\"https://twitter.com/Fusseel\"><img src=\"https://img.shields.io/static/v1?label=&amp;message=Twitter&amp;color=ECEBE6&amp;labelColor=2F4858&amp;style=for-the-badge&amp;logo=twitter&amp;logoColor=white\" width=\"116\" height=\"28\" /></a>&emsp;<a href=\"https://www.youtube.com/channel/UC2l26SuCmCNSCPefpfbCX7Q\"><img src=\"https://img.shields.io/static/v1?label=&amp;message=YouTube&amp;color=ECEBE6&amp;labelColor=2F4858&amp;style=for-the-badge&amp;logo=youtube&amp;logoColor=white\" width=\"118\" height=\"28\" /></a>&emsp;<a href=\"https://www.patreon.com/heyitsfuzs\"><img src=\"https://img.shields.io/static/v1?label=&amp;message=Patreon&amp;color=ECEBE6&amp;labelColor=2F4858&amp;style=for-the-badge&amp;logo=patreon&amp;logoColor=white\" width=\"118\" height=\"28\" /></a>&emsp;<a href=\"https://www.paypal.com/donate/?hosted_button_id=TYG7QUSWMVSNG\"><img src=\"https://img.shields.io/static/v1?label=&amp;message=PayPal&amp;color=ECEBE6&amp;labelColor=2F4858&amp;style=for-the-badge&amp;logo=paypal&amp;logoColor=white\" width=\"107\" height=\"28\" /></a>&emsp;<a href=\"https://github.com/Fuzss\"><img src=\"https://img.shields.io/static/v1?label=&amp;message=GitHub&amp;color=ECEBE6&amp;labelColor=2F4858&amp;style=for-the-badge&amp;logo=github&amp;logoColor=white\" width=\"108\" height=\"28\" /></a></p>\n<p><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/data/mindfuldarkness/strip.png\" width=\"854\" height=\"14\" /></p>\n<p><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/commons/headers/about.png\" width=\"854\" height=\"32\" /></p>\n<p><span style=\"font-size: 14px;\">Mindful Darkness adds a fully automatic dark mode to your game! Darkens all guis without any texture changes required. Can be quickly turned on and off directly in-game. You can also choose from different algorithm and control the darkness intensity with ease. Also includes a simple system allowing you to control which textures are affected (see Configuration).</span></p>\n<p><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/data/mindfuldarkness/strip.png\" width=\"854\" height=\"14\" /></p>\n<p><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/commons/headers/media.png\" width=\"854\" height=\"32\" /></p>\n<p><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/data/mindfuldarkness/media/1.png\" width=\"854\" height=\"480\" /></p>\n<p><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/data/mindfuldarkness/media/2.png\" width=\"854\" height=\"480\" /></p>\n<p><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/data/mindfuldarkness/media/3.png\" width=\"854\" height=\"480\" /></p>\n<p><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/data/mindfuldarkness/media/4.png\" width=\"854\" height=\"480\" /></p>\n<p><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/data/mindfuldarkness/strip.png\" width=\"854\" height=\"14\" /></p>\n<p><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/commons/headers/installation.png\" width=\"854\" height=\"32\" /></p>\n<p><strong><span style=\"font-size: 14px;\">⏩ </span></strong><strong><span style=\"font-size: 14px;\">INSTALLATION REQUIRED ON CLIENT</span></strong></p>\n<p><strong><span style=\"font-size: 14px;\">⏩ </span></strong><strong><span style=\"font-size: 14px;\">REQUIRES </span></strong><a href=\"https://modrinth.com/mod/puzzles-lib\"><strong><span style=\"font-size: 14px;\">PUZZLES LIB</span></strong></a><strong><span style=\"font-size: 14px;\"> TO BE INSTALLED (FORGE &amp; FABRIC)</span></strong></p>\n<p><strong><span style=\"font-size: 14px;\">⏩ </span></strong><strong><span style=\"font-size: 14px;\">REQUIRES </span></strong><a href=\"https://modrinth.com/mod/fabric-api\"><strong><span style=\"font-size: 14px;\">FABRIC API</span></strong></a><strong><span style=\"font-size: 14px;\"> TO BE INSTALLED (FABRIC)</span></strong></p>\n<p><strong><span style=\"font-size: 14px;\">⏩ </span></strong><strong><span style=\"font-size: 14px;\">REQUIRES </span></strong><a href=\"https://modrinth.com/mod/forge-config-api-port\"><strong><span style=\"font-size: 14px;\">FORGE CONFIG API PORT</span></strong></a><strong><span style=\"font-size: 14px;\"> TO BE INSTALLED (FABRIC)</span></strong></p>\n<p><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/data/mindfuldarkness/strip.png\" width=\"854\" height=\"14\" /></p>\n<p><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/commons/headers/configuration.png\" width=\"854\" height=\"32\" /></p>\n<p><span style=\"font-size: 14px;\">Configuration is easily possible directly from in-game using the mod menu (requires </span><a href=\"https://www.curseforge.com/minecraft/mc-mods/modmenu\"><span style=\"font-size: 14px;\">Mod Menu</span></a><span style=\"font-size: 14px;\"> by </span><a href=\"https://www.curseforge.com/members/prospectordev\"><span style=\"font-size: 14px;\">Prospector</span></a><span style=\"font-size: 14px;\"> to be installed on Fabric) by installing either </span><a href=\"https://www.curseforge.com/minecraft/mc-mods/configured\"><span style=\"font-size: 14px;\">Configured</span></a><span style=\"font-size: 14px;\"> or </span><a href=\"https://www.curseforge.com/minecraft/mc-mods/configured-fabric\"><span style=\"font-size: 14px;\">Configured (Fabric)</span></a><span style=\"font-size: 14px;\"> by </span><a href=\"https://www.curseforge.com/members/mrcrayfish\"><span style=\"font-size: 14px;\">MrCrayfish</span></a><span style=\"font-size: 14px;\">.</span></p>\n<p><span style=\"font-size: 14px;\">When it comes to manual configuration all files are found at </span><code><span style=\"font-size: 14px;\">.minecraft/config</span></code><span style=\"font-size: 14px;\">, named as </span><code><span style=\"font-size: 14px;\">MOD_ID-client.toml</span></code><span style=\"font-size: 14px;\">, </span><code><span style=\"font-size: 14px;\">MOD_ID-common.toml</span></code><span style=\"font-size: 14px;\">, or </span><code><span style=\"font-size: 14px;\">MOD_ID-server.toml</span></code><span style=\"font-size: 14px;\"> depending on the type of config. Not all types might exist for this mod if any.</span></p>\n<p><span style=\"font-size: 14px;\">Note that on older mod versions server configuration files are found at </span><code><span style=\"font-size: 14px;\">.minecraft/saves/WORLD_NAME/serverconfigs</span></code><span style=\"font-size: 14px;\">, effecticely meaning they must be configured separately for each individual world.</span></p>\n<p><span style=\"font-size: 14px;\">Mindful Darkness does not automatically darken every gui texture in the game, instead you have to manually specify in the config which textures are affected. Resources can be specified using '*' as wildcard char, can affect all or just a single namespace and you can use '!' to exclude resources.</span></p>\n<p><span style=\"font-size: 14px;\">By default, configuration looks like this: &quot;</span><code><span style=\"font-size: 14px;\">textures/gui/*.png</span></code><span style=\"font-size: 14px;\">, </span><code><span style=\"font-size: 14px;\">!minecraft:textures/gui/icons.png</span></code><span style=\"font-size: 14px;\">&quot;. This will include all textures in the </span><code><span style=\"font-size: 14px;\">textures/gui</span></code><span style=\"font-size: 14px;\"> directory from all namespaces (since this is where mods ususally put their gui textures). Specifically for the </span><code><span style=\"font-size: 14px;\">minecraft</span></code><span style=\"font-size: 14px;\"> namespace </span><code><span style=\"font-size: 14px;\">icons.png</span></code><span style=\"font-size: 14px;\"> is excluded though (indicated by adding '!' at the beginning). NOTE: The order of defining resources matters for exclusions! Excluded resources need to come after any entry that would otherwise include them.</span></p>\n<p><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/data/mindfuldarkness/strip.png\" width=\"854\" height=\"14\" /></p>\n<p><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/commons/headers/credits.png\" width=\"854\" height=\"32\" /></p>\n<p><span style=\"font-size: 14px;\">🌟 </span><span style=\"font-size: 14px;\">Thanks to </span><a href=\"https://www.curseforge.com/members/Buuz135\"><span style=\"font-size: 14px;\">Buuz135</span></a><span style=\"font-size: 14px;\"> and their </span><a href=\"https://www.curseforge.com/minecraft/mc-mods/dark-mode-everywhere\"><span style=\"font-size: 14px;\">Dark Mode Everywhere</span></a><span style=\"font-size: 14px;\"> mod, which I stole the idea for changing the font color from.</span></p>\n<p><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/data/mindfuldarkness/strip.png\" width=\"854\" height=\"14\" /></p>\n<p><a href=\"https://www.patreon.com/heyitsfuzs\"><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/commons/support.png\" width=\"854\" height=\"240\" /></a></p>\n<p><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/data/mindfuldarkness/strip.png\" width=\"854\" height=\"14\" /></p>\n<p><a href=\"https://modrinth.com/mod/pick-up-notifier\"><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/data/pickupnotifier/banner.png\" width=\"854\" height=\"240\" /></a></p><p><a href=\"https://modrinth.com/mod/portable-hole\"><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/data/portablehole/banner.png\" width=\"854\" height=\"240\" /></a></p><p><a href=\"https://modrinth.com/mod/better-animations-collection\"><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/data/betteranimationscollection/banner.png\" width=\"854\" height=\"240\" /></a></p><p><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/data/mindfuldarkness/strip.png\" width=\"854\" height=\"14\" /></p>\n<p><a href=\"https://lunapixel.studio/discord\"><img src=\"https://i.imgur.com/kPA8Ewq.png\" width=\"854\" height=\"240\" /></a></p>\n<p><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/data/mindfuldarkness/strip.png\" width=\"854\" height=\"14\" /></p>\n",
+          "published": "2023-04-20T21:29:42.338366Z",
+          "updated": "2024-02-04T20:29:31.479217Z",
+          "status": "approved",
+          "license": {
+            "id": "MPL-2.0",
+            "name": "Mozilla Public License 2.0"
+          },
+          "client_side": "required",
+          "server_side": "unsupported",
+          "categories": [
+            "utility"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/pzCY6C3e/39c9503e5fd08169f24195355fae42ad5bb42772_96.webp",
+          "issues_url": "https://github.com/Fuzss/mindfuldarkness/issues",
+          "source_url": "https://github.com/Fuzss/mindfuldarkness",
+          "donation_urls": [],
+          "gallery": [
+            {
+              "url": "https://cdn.modrinth.com/data/pzCY6C3e/images/7e23613b1123d7204d96646da0be7269e8fff44d_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/pzCY6C3e/images/d67affe45577ed764acdac076f4218796c1aa5a8.png",
+              "featured": true,
+              "created": "2023-04-20T21:30:16.624154Z",
+              "ordering": 0.0
+            }
+          ]
+        },
+        "modrinthVersion": {
+          "id": "hynR8fnB",
+          "project_id": "pzCY6C3e",
+          "author_id": "rHdGpxOA",
+          "name": "[FABRIC] [1.20.1] MindfulDarkness-v8.0.3",
+          "version_number": "v8.0.3-1.20.1-Fabric",
+          "changelog": "# Changelog\nAll notable changes to this project will be documented in this file.\n\nThe format is based on [Keep a Changelog].\n\n## [v8.0.3-1.20.1] - 2024-02-04\n### Changed\n- Add default configurations for Quark menus\n### Fixed\n- Fix text on in-world signs changing color\n- Fix xp level color changing when a screen is open\n\n## [v8.0.2-1.20.1] - 2023-08-17\n### Changed\n- Added a default exclusion for the [Dynamic Crosshair](https://www.curseforge.com/minecraft/mc-mods/dynamic-crosshair) mod\n\n## [v8.0.1-1.20.1] - 2023-08-10\n### Added\n- Added a config option for blacklisting certain screens that should not have their font color altered, by default this includes all screens for editing signs and the chat screen\n\n## [v8.0.0-1.20.1] - 2023-06-27\n- Ported to Minecraft 1.20.1\n\n[Keep a Changelog]: https://keepachangelog.com/en/1.0.0/\n",
+          "date_published": "2024-02-04T20:29:31.994972Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha1": "1dfd349b98ccba31a0da2e551e8caed439dc4b56",
+                "sha512": "4177ea8edf142f299ea7e1d974d0bc7e441f4a378e7e0a65de62044af1796d406cd88dc75b9ecd7350c8056db5f6c4214bae38e6043baa3d736be7a7aee3d629"
+              },
+              "url": "https://cdn.modrinth.com/data/pzCY6C3e/versions/hynR8fnB/MindfulDarkness-v8.0.3-1.20.1-Fabric.jar",
+              "filename": "MindfulDarkness-v8.0.3-1.20.1-Fabric.jar",
+              "primary": true,
+              "size": 95205
+            }
+          ],
+          "dependencies": [
+            {
+              "project_id": "P7dR8mSH",
+              "dependency_type": "required"
+            },
+            {
+              "project_id": "QAGBst4M",
+              "dependency_type": "required"
+            },
+            {
+              "project_id": "ohNO6lps",
+              "dependency_type": "required"
+            }
+          ],
+          "game_versions": [
+            "1.20.1"
+          ],
+          "loaders": [
+            "fabric"
+          ]
+        }
+      },
+      {
+        "name": "ImmersiveThunder",
+        "version": "[1.20.1] - v1.2.2",
+        "optional": true,
+        "file": "ImmersiveThunder-1.20.1+1.2.2.jar",
+        "type": "mods",
+        "description": "A fabric mod that adds realistic and dynamic thunder sounds to Minecraft based on the player’s distance from the lightning strike.",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "modrinthProject": {
+          "id": "uKjKoMsj",
+          "slug": "immersivethunder",
+          "project_type": "mod",
+          "team": "9K9AOVvU",
+          "title": "ImmersiveThunder",
+          "description": "A fabric mod that adds realistic and dynamic thunder sounds to Minecraft based on the player’s distance from the lightning strike.",
+          "body": "# ImmersiveThunder\n\nImmersiveThunder adds new thunder sounds to the game and plays them dynamically based on the player’s distance from the source. The closer you are, the louder and more intense the sound will be. The farther you are, the softer and more delayed the sound will be. \n\n**Requires [Fabric API](https://modrinth.com/mod/fabric-api) to work!**\n\n---\n\n**Sounds best with [Sound Physics Remastered](https://modrinth.com/mod/sound-physics-remastered)**",
+          "published": "2023-03-24T13:12:29.689924Z",
+          "updated": "2024-09-04T17:06:10.913520Z",
+          "status": "approved",
+          "license": {
+            "id": "MIT",
+            "name": "MIT License",
+            "url": "https://github.com/LeahPie/ImmersiveThunder/blob/main/LICENSE"
+          },
+          "client_side": "required",
+          "server_side": "unsupported",
+          "categories": [
+            "adventure",
+            "game-mechanics",
+            "technology"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/uKjKoMsj/ed15718fcd49a1c4cf697f95616c47fcb244f596_96.webp",
+          "issues_url": "https://github.com/netcatgirl/ImmersiveThunder/issues",
+          "source_url": "https://github.com/netcatgirl/ImmersiveThunder",
+          "donation_urls": [],
+          "gallery": []
+        },
+        "modrinthVersion": {
+          "id": "o64NJE0v",
+          "project_id": "uKjKoMsj",
+          "author_id": "qrvz20UE",
+          "name": "[1.20.1] - v1.2.2",
+          "version_number": "1.20.1+1.2.2",
+          "changelog": "- Add missing translation key",
+          "date_published": "2023-09-23T07:36:21.179320Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha512": "ce0cd41920d3f2c70ea46216fedbd329b844fd9b8df104b4c1a14b0476606e18fc5697fc27e7b5025ba98494a5c628649d66d755308ecc6297f62089c93732d3",
+                "sha1": "c9145d76adcb75cc21482e8e4b0d7cbb5b51f230"
+              },
+              "url": "https://cdn.modrinth.com/data/uKjKoMsj/versions/o64NJE0v/ImmersiveThunder-1.20.1%2B1.2.2.jar",
+              "filename": "ImmersiveThunder-1.20.1+1.2.2.jar",
+              "primary": true,
+              "size": 3305823
+            }
+          ],
+          "dependencies": [
+            {
+              "project_id": "mOgUt4GM",
+              "dependency_type": "optional"
+            },
+            {
+              "project_id": "9s6osm5g",
+              "dependency_type": "required"
+            },
+            {
+              "project_id": "P7dR8mSH",
+              "dependency_type": "required"
+            }
+          ],
+          "game_versions": [
+            "1.20.1"
+          ],
+          "loaders": [
+            "fabric",
+            "quilt"
+          ]
+        }
+      },
+      {
+        "name": "Overflowing Bars",
+        "version": "[FABRIC] [1.20.1] OverflowingBars-v8.0.0",
+        "optional": true,
+        "file": "OverflowingBars-v8.0.0-1.20.1-Fabric.jar",
+        "type": "mods",
+        "description": "Expand health, armor and armor toughness bars beyond vanilla. Nice and compact without confusing colors.",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 852662,
+        "curseForgeFileId": 4613503,
+        "curseForgeProject": {
+          "id": 852662,
+          "name": "Overflowing Bars [Forge & Fabric]",
+          "authors": [
+            {
+              "id": 10384423,
+              "name": "Fuzs",
+              "url": "https://www.curseforge.com/members/fuzs"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Expand health, armor and armor toughness bars beyond vanilla. Nice and compact without confusing colors.",
+          "categories": [
+            {
+              "name": "Cosmetic",
+              "slug": "cosmetic",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/cosmetic",
+              "dateModified": "2014-05-08T17:42:35.597Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 424,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/39/635351497555976928.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Utility & QoL",
+              "slug": "utility-qol",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/utility-qol",
+              "dateModified": "2021-11-17T11:45:09.143Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 5191,
+              "iconUrl": "https://media.forgecdn.net/avatars/456/558/637727379086405233.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 5191,
+          "classId": 6,
+          "slug": "overflowing-bars",
+          "isFeatured": false,
+          "dateModified": "2023-08-18T10:35:34.463Z",
+          "dateCreated": "2023-04-20T10:46:33.31Z",
+          "dateReleased": "2023-08-18T10:13:15.007Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/overflowing-bars",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/Fuzss/overflowingbars/issues",
+            "sourceUrl": "https://github.com/Fuzss/overflowingbars"
+          },
+          "logo": {
+            "id": 807099,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/807/99/256/256/638175843933386225.png",
+            "title": "638175843933386225.png",
+            "url": "https://media.forgecdn.net/avatars/807/99/638175843933386225.png",
+            "modId": 852662
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 4710373
+        },
+        "curseForgeFile": {
+          "id": 4613503,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "[FABRIC] [1.20.1] OverflowingBars-v8.0.0",
+          "fileName": "OverflowingBars-v8.0.0-1.20.1-Fabric.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2023-06-28T08:40:32.937Z",
+          "fileLength": 73635,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 306612,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 495476,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 547434,
+              "relationType": 3
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 652415980,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 4213415335,
+              "name": "CHANGELOG.md"
+            },
+            {
+              "fingerprint": 1447192261,
+              "name": "LICENSE-ASSETS.md"
+            },
+            {
+              "fingerprint": 2980605036,
+              "name": "LICENSE.md"
+            },
+            {
+              "fingerprint": 3066481723,
+              "name": "pack.mcmeta"
+            },
+            {
+              "fingerprint": 742355110,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 656362072,
+              "name": "overflowingbars.common.mixins.json"
+            },
+            {
+              "fingerprint": 3265487854,
+              "name": "mod_banner.png"
+            },
+            {
+              "fingerprint": 1222520914,
+              "name": "mod_logo.png"
+            },
+            {
+              "fingerprint": 2287316289,
+              "name": "fabric.mod.json"
+            },
+            {
+              "fingerprint": 1519892941,
+              "name": "overflowingbars.fabric.mixins.json"
+            },
+            {
+              "fingerprint": 244983867,
+              "name": "overflowingbars.refmap.json"
+            },
+            {
+              "fingerprint": 2761256738,
+              "name": "fuzs"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "f04261c7c6c342ed2838d8f9188a95bd08579920",
+              "algo": 1
+            },
+            {
+              "value": "5cf59471df8d606ae3f2dc8f7ed70ab6",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-09-01T00:00:00Z",
+              "gameVersionName": "Fabric"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            }
+          ],
+          "gameVersions": [
+            "Fabric",
+            "1.20.1"
+          ],
+          "fileFingerprint": 2606391414,
+          "modId": 852662
+        },
+        "modrinthProject": {
+          "id": "XD7XOrAF",
+          "slug": "overflowing-bars",
+          "project_type": "mod",
+          "team": "bTe4HIc5",
+          "title": "Overflowing Bars",
+          "description": "Expand health, armor and armor toughness bars beyond vanilla. Nice and compact without confusing colors.",
+          "body": "<p><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/data/overflowingbars/banner.png\" width=\"854\" height=\"240\" /></p>\n<p><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/data/overflowingbars/strip.png\" width=\"854\" height=\"14\" /></p>\n<p style=\"text-align: center; line-height: 36px;\"><a href=\"https://lunapixel.studio/discord\"><img src=\"https://img.shields.io/static/v1?label=&amp;message=Discord&amp;color=ECEBE6&amp;labelColor=2F4858&amp;style=for-the-badge&amp;logo=discord&amp;logoColor=white\" width=\"117\" height=\"28\" /></a>&emsp;<a href=\"https://twitter.com/Fusseel\"><img src=\"https://img.shields.io/static/v1?label=&amp;message=Twitter&amp;color=ECEBE6&amp;labelColor=2F4858&amp;style=for-the-badge&amp;logo=twitter&amp;logoColor=white\" width=\"116\" height=\"28\" /></a>&emsp;<a href=\"https://www.youtube.com/channel/UC2l26SuCmCNSCPefpfbCX7Q\"><img src=\"https://img.shields.io/static/v1?label=&amp;message=YouTube&amp;color=ECEBE6&amp;labelColor=2F4858&amp;style=for-the-badge&amp;logo=youtube&amp;logoColor=white\" width=\"118\" height=\"28\" /></a>&emsp;<a href=\"https://www.patreon.com/heyitsfuzs\"><img src=\"https://img.shields.io/static/v1?label=&amp;message=Patreon&amp;color=ECEBE6&amp;labelColor=2F4858&amp;style=for-the-badge&amp;logo=patreon&amp;logoColor=white\" width=\"118\" height=\"28\" /></a>&emsp;<a href=\"https://www.paypal.com/donate/?hosted_button_id=TYG7QUSWMVSNG\"><img src=\"https://img.shields.io/static/v1?label=&amp;message=PayPal&amp;color=ECEBE6&amp;labelColor=2F4858&amp;style=for-the-badge&amp;logo=paypal&amp;logoColor=white\" width=\"107\" height=\"28\" /></a>&emsp;<a href=\"https://github.com/Fuzss\"><img src=\"https://img.shields.io/static/v1?label=&amp;message=GitHub&amp;color=ECEBE6&amp;labelColor=2F4858&amp;style=for-the-badge&amp;logo=github&amp;logoColor=white\" width=\"108\" height=\"28\" /></a></p>\n<p><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/data/overflowingbars/strip.png\" width=\"854\" height=\"14\" /></p>\n<p><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/commons/headers/about.png\" width=\"854\" height=\"32\" /></p>\n<p><span style=\"font-size: 14px;\">Overflowing Bars is here to bring an end to all health / armor / toughness overlay / extension mods! Get proper, nice and compact health, armor and armor toughness bars in just this single mod!</span></p>\n<p><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/data/overflowingbars/strip.png\" width=\"854\" height=\"14\" /></p>\n<p><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/commons/headers/features.png\" width=\"854\" height=\"32\" /></p>\n<p><strong><span style=\"font-size: 14px;\">▶️ </span></strong><strong><span style=\"font-size: 14px;\">Only ever uses two colors: the vanilla base color + orange / light blue. A tiny number to the side tells you how many layers are stacked on top instead of making you guess from the current color.</span></strong></p>\n<p><strong><span style=\"font-size: 14px;\">▶️ </span></strong><strong><span style=\"font-size: 14px;\">Stacks hearts on top of each other when you have more than 10 hearts. The stacked layer will always show as orange.</span></strong></p>\n<p><strong><span style=\"font-size: 14px;\">▶️ </span></strong><strong><span style=\"font-size: 14px;\">Stack armor points on top of each other when you have more than 20 points. The stacked layer shows light blue. Only as many armor icons as necessary are shown.</span></strong></p>\n<p><strong><span style=\"font-size: 14px;\">▶️ </span></strong><strong><span style=\"font-size: 14px;\">Adds a display for armor toughness right above the food bar, behaves just like the armor bar (can be moved left if you prefer).</span></strong></p>\n<p><strong><span style=\"font-size: 14px;\">▶️ </span></strong><strong><span style=\"font-size: 14px;\">Also fixes incoming chat messages to no longer hide the armor bar.</span></strong></p>\n<p><strong><span style=\"font-size: 14px;\">▶️ </span></strong><strong><span style=\"font-size: 14px;\">Fully configurable! Change stacking behavior, number display and so much more!</span></strong></p>\n<p><strong><span style=\"font-size: 14px;\">▶️ </span></strong><strong><span style=\"font-size: 14px;\">Install </span></strong><a href=\"https://www.curseforge.com/minecraft/mc-mods/attributefix\"><strong><span style=\"font-size: 14px;\">AttributeFix</span></strong></a><strong><span style=\"font-size: 14px;\"> by </span></strong><a href=\"https://www.curseforge.com/members/DarkhaxDev\"><strong><span style=\"font-size: 14px;\">DarkhaxDev</span></strong></a><strong><span style=\"font-size: 14px;\"> to properly support armor and toughness values above 20.</span></strong></p>\n<p><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/data/overflowingbars/strip.png\" width=\"854\" height=\"14\" /></p>\n<p><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/commons/headers/media.png\" width=\"854\" height=\"32\" /></p>\n<p><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/data/overflowingbars/media/1.png\" width=\"854\" height=\"480\" /></p>\n<p><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/data/overflowingbars/media/2.png\" width=\"854\" height=\"480\" /></p>\n<p><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/data/overflowingbars/media/3.png\" width=\"854\" height=\"480\" /></p>\n<p><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/data/overflowingbars/strip.png\" width=\"854\" height=\"14\" /></p>\n<p><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/commons/headers/installation.png\" width=\"854\" height=\"32\" /></p>\n<p><strong><span style=\"font-size: 14px;\">⏩ </span></strong><strong><span style=\"font-size: 14px;\">INSTALLATION REQUIRED ON CLIENT</span></strong></p>\n<p><strong><span style=\"font-size: 14px;\">⏩ </span></strong><strong><span style=\"font-size: 14px;\">REQUIRES </span></strong><a href=\"https://modrinth.com/mod/puzzles-lib\"><strong><span style=\"font-size: 14px;\">PUZZLES LIB</span></strong></a><strong><span style=\"font-size: 14px;\"> TO BE INSTALLED (FORGE &amp; FABRIC)</span></strong></p>\n<p><strong><span style=\"font-size: 14px;\">⏩ </span></strong><strong><span style=\"font-size: 14px;\">REQUIRES </span></strong><a href=\"https://modrinth.com/mod/fabric-api\"><strong><span style=\"font-size: 14px;\">FABRIC API</span></strong></a><strong><span style=\"font-size: 14px;\"> TO BE INSTALLED (FABRIC)</span></strong></p>\n<p><strong><span style=\"font-size: 14px;\">⏩ </span></strong><strong><span style=\"font-size: 14px;\">REQUIRES </span></strong><a href=\"https://modrinth.com/mod/forge-config-api-port\"><strong><span style=\"font-size: 14px;\">FORGE CONFIG API PORT</span></strong></a><strong><span style=\"font-size: 14px;\"> TO BE INSTALLED (FABRIC)</span></strong></p>\n<p><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/data/overflowingbars/strip.png\" width=\"854\" height=\"14\" /></p>\n<p><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/commons/headers/configuration.png\" width=\"854\" height=\"32\" /></p>\n<p><span style=\"font-size: 14px;\">Configuration is easily possible directly from in-game using the mod menu (requires </span><a href=\"https://www.curseforge.com/minecraft/mc-mods/modmenu\"><span style=\"font-size: 14px;\">Mod Menu</span></a><span style=\"font-size: 14px;\"> by </span><a href=\"https://www.curseforge.com/members/prospectordev\"><span style=\"font-size: 14px;\">Prospector</span></a><span style=\"font-size: 14px;\"> to be installed on Fabric) by installing either </span><a href=\"https://www.curseforge.com/minecraft/mc-mods/configured\"><span style=\"font-size: 14px;\">Configured</span></a><span style=\"font-size: 14px;\"> or </span><a href=\"https://www.curseforge.com/minecraft/mc-mods/configured-fabric\"><span style=\"font-size: 14px;\">Configured (Fabric)</span></a><span style=\"font-size: 14px;\"> by </span><a href=\"https://www.curseforge.com/members/mrcrayfish\"><span style=\"font-size: 14px;\">MrCrayfish</span></a><span style=\"font-size: 14px;\">.</span></p>\n<p><span style=\"font-size: 14px;\">When it comes to manual configuration all files are found at </span><code><span style=\"font-size: 14px;\">.minecraft/config</span></code><span style=\"font-size: 14px;\">, named as </span><code><span style=\"font-size: 14px;\">MOD_ID-client.toml</span></code><span style=\"font-size: 14px;\">, </span><code><span style=\"font-size: 14px;\">MOD_ID-common.toml</span></code><span style=\"font-size: 14px;\">, or </span><code><span style=\"font-size: 14px;\">MOD_ID-server.toml</span></code><span style=\"font-size: 14px;\"> depending on the type of config. Not all types might exist for this mod if any.</span></p>\n<p><span style=\"font-size: 14px;\">Note that on older mod versions server configuration files are found at </span><code><span style=\"font-size: 14px;\">.minecraft/saves/WORLD_NAME/serverconfigs</span></code><span style=\"font-size: 14px;\">, effecticely meaning they must be configured separately for each individual world.</span></p>\n<p><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/data/overflowingbars/strip.png\" width=\"854\" height=\"14\" /></p>\n<p><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/commons/headers/credits.png\" width=\"854\" height=\"32\" /></p>\n<p><span style=\"font-size: 14px;\">🌟 </span><span style=\"font-size: 14px;\">Thanks to </span><a href=\"https://www.curseforge.com/members/locusway\"><span style=\"font-size: 14px;\">LocusWay</span></a><span style=\"font-size: 14px;\"> and their </span><a href=\"https://www.curseforge.com/minecraft/mc-mods/overpowered-armor-bar\"><span style=\"font-size: 14px;\">Overpowered Armor Bar</span></a><span style=\"font-size: 14px;\"> mod for inspiring the layered armor bar.</span></p>\n<p><span style=\"font-size: 14px;\">🌟 </span><span style=\"font-size: 14px;\">Thanks to </span><a href=\"https://www.curseforge.com/members/Vazkii\"><span style=\"font-size: 14px;\">Vazkii</span></a><span style=\"font-size: 14px;\"> and their </span><a href=\"https://www.curseforge.com/minecraft/mc-mods/quark\"><span style=\"font-size: 14px;\">Quark</span></a><span style=\"font-size: 14px;\"> mod for inspiring the armor and toughness overlay icon.</span></p>\n<p><span style=\"font-size: 14px;\">🌟 </span><span style=\"font-size: 14px;\">Thanks to </span><a href=\"https://www.curseforge.com/members/cadaverous_queen\"><span style=\"font-size: 14px;\">cadaverous_queen</span></a><span style=\"font-size: 14px;\"> and their </span><a href=\"https://www.curseforge.com/minecraft/mc-mods/rustic\"><span style=\"font-size: 14px;\">Rustic</span></a><span style=\"font-size: 14px;\"> mod for the armor toughness icon and the original idea for that bar.</span></p>\n<p><span style=\"font-size: 14px;\">🌟 </span><span style=\"font-size: 14px;\">Thanks to </span><a href=\"https://www.curseforge.com/members/mdiyo\"><span style=\"font-size: 14px;\">mDiyo</span></a><span style=\"font-size: 14px;\"> and their </span><a href=\"https://www.curseforge.com/minecraft/mc-mods/mantle\"><span style=\"font-size: 14px;\">Mantle</span></a><span style=\"font-size: 14px;\"> mod for originally coming up with the stacking hearts display.</span></p>\n<p><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/data/overflowingbars/strip.png\" width=\"854\" height=\"14\" /></p>\n<p><a href=\"https://www.patreon.com/heyitsfuzs\"><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/commons/support.png\" width=\"854\" height=\"240\" /></a></p>\n<p><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/data/overflowingbars/strip.png\" width=\"854\" height=\"14\" /></p>\n<p><a href=\"https://modrinth.com/mod/mob-lassos\"><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/data/moblassos/banner.png\" width=\"854\" height=\"240\" /></a></p><p><a href=\"https://modrinth.com/mod/straw-statues\"><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/data/strawstatues/banner.png\" width=\"854\" height=\"240\" /></a></p><p><a href=\"https://modrinth.com/mod/permanent-sponges\"><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/data/permanentsponges/banner.png\" width=\"854\" height=\"240\" /></a></p><p><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/data/overflowingbars/strip.png\" width=\"854\" height=\"14\" /></p>\n<p><a href=\"https://lunapixel.studio/discord\"><img src=\"https://i.imgur.com/kPA8Ewq.png\" width=\"854\" height=\"240\" /></a></p>\n<p><img src=\"https://raw.githubusercontent.com/Fuzss/modresources/main/pages/data/overflowingbars/strip.png\" width=\"854\" height=\"14\" /></p>\n",
+          "published": "2023-04-20T10:58:48.671686Z",
+          "updated": "2023-08-18T10:13:18.816825Z",
+          "status": "approved",
+          "license": {
+            "id": "MPL-2.0",
+            "name": "Mozilla Public License 2.0"
+          },
+          "client_side": "required",
+          "server_side": "unsupported",
+          "categories": [
+            "game-mechanics",
+            "utility"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/XD7XOrAF/6ddcbd311d5caae678cb6df60b4d064724088869_96.webp",
+          "issues_url": "https://github.com/Fuzss/overflowingbars/issues",
+          "source_url": "https://github.com/Fuzss/overflowingbars",
+          "donation_urls": [],
+          "gallery": [
+            {
+              "url": "https://cdn.modrinth.com/data/XD7XOrAF/images/fdf3f9a6924fc963e23087585453f23471fe03b5_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/XD7XOrAF/images/f42f9758bca909ff7139911be72ce45d216000d9.png",
+              "featured": true,
+              "created": "2023-04-20T21:10:44.235396Z",
+              "ordering": 0.0
+            }
+          ]
+        },
+        "modrinthVersion": {
+          "id": "uDp2TXlN",
+          "project_id": "XD7XOrAF",
+          "author_id": "rHdGpxOA",
+          "name": "[FABRIC] [1.20.1] OverflowingBars-v8.0.0",
+          "version_number": "v8.0.0-1.20.1-Fabric",
+          "changelog": "# Changelog\nAll notable changes to this project will be documented in this file.\n\nThe format is based on [Keep a Changelog].\n\n## [v8.0.0-1.20.1] - 2023-06-27\n- Ported to Minecraft 1.20.1\n\n[Keep a Changelog]: https://keepachangelog.com/en/1.0.0/\n",
+          "date_published": "2023-06-28T08:40:37.151423Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha512": "9d3bc665a40acdd8f0f7a38d1e9ac4337b7a3eb75dfb44b55db8602357aceffbcc56b9e325f35a2fe7bd0514930b55079e61b366de92e586e20fb2068d9e2326",
+                "sha1": "f04261c7c6c342ed2838d8f9188a95bd08579920"
+              },
+              "url": "https://cdn.modrinth.com/data/XD7XOrAF/versions/uDp2TXlN/OverflowingBars-v8.0.0-1.20.1-Fabric.jar",
+              "filename": "OverflowingBars-v8.0.0-1.20.1-Fabric.jar",
+              "primary": true,
+              "size": 73635
+            }
+          ],
+          "dependencies": [
+            {
+              "version_id": "wfZ1WUlB",
+              "project_id": "QAGBst4M",
+              "dependency_type": "required"
+            },
+            {
+              "project_id": "ohNO6lps",
+              "dependency_type": "required"
+            },
+            {
+              "version_id": "XheZ9iGK",
+              "project_id": "P7dR8mSH",
+              "dependency_type": "required"
+            }
+          ],
+          "game_versions": [
+            "1.20.1"
+          ],
+          "loaders": [
+            "fabric"
+          ]
+        }
+      },
+      {
+        "name": "Better Compatibility Checker",
+        "version": "BetterCompatibilityChecker-fabric-4.0.1+mc1.20.1.jar",
+        "optional": true,
+        "file": "BetterCompatibilityChecker-fabric-4.0.1+mc1.20.1.jar",
+        "type": "mods",
+        "description": "Changes the default server compatibility check to compare modpack versions",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 551894,
+        "curseForgeFileId": 4675399,
+        "curseForgeProject": {
+          "id": 551894,
+          "name": "Better Compatibility Checker",
+          "authors": [
+            {
+              "id": 6881422,
+              "name": "Gaz_",
+              "url": "https://www.curseforge.com/members/gaz_"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Changes the default server compatability check to compare modpack versions",
+          "categories": [
+            {
+              "name": "Map and Information",
+              "slug": "map-information",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/map-information",
+              "dateModified": "2014-05-08T17:42:23.74Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 423,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/38/635351497437388438.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Server Utility",
+              "slug": "server-utility",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/server-utility",
+              "dateModified": "2014-05-08T17:44:55.057Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 435,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/48/635351498950580836.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Server Utility",
+              "slug": "server-utility",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/server-utility",
+              "dateModified": "2014-05-08T17:44:55.057Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 435,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/48/635351498950580836.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Utility & QoL",
+              "slug": "utility-qol",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/utility-qol",
+              "dateModified": "2021-11-17T11:45:09.143Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 5191,
+              "iconUrl": "https://media.forgecdn.net/avatars/456/558/637727379086405233.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Map and Information",
+              "slug": "map-information",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/map-information",
+              "dateModified": "2014-05-08T17:42:23.74Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 423,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/38/635351497437388438.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Utility & QoL",
+              "slug": "utility-qol",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/utility-qol",
+              "dateModified": "2021-11-17T11:45:09.143Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 5191,
+              "iconUrl": "https://media.forgecdn.net/avatars/456/558/637727379086405233.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 5191,
+          "classId": 6,
+          "slug": "better-compatibility-checker",
+          "isFeatured": false,
+          "dateModified": "2024-09-10T21:27:22.747Z",
+          "dateCreated": "2021-12-02T19:46:55.92Z",
+          "dateReleased": "2024-09-10T21:18:12.337Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/better-compatibility-checker",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/nanite/BetterCompatibilityChecker/issues"
+          },
+          "logo": {
+            "id": 461341,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/461/341/256/256/637741010594154538.png",
+            "title": "637741010594154538.png",
+            "url": "https://media.forgecdn.net/avatars/461/341/637741010594154538.png",
+            "modId": 551894
+          },
+          "allowModDistribution": true,
+          "screenshots": [
+            {
+              "id": 412236,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/412/236/310/172/java_2021-12-03_03-44-10.png",
+              "title": "bcc2",
+              "url": "https://media.forgecdn.net/attachments/412/236/java_2021-12-03_03-44-10.png",
+              "modId": 551894
+            },
+            {
+              "id": 412235,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/412/235/310/172/java_2021-12-03_03-43-49.png",
+              "title": "bcc1",
+              "url": "https://media.forgecdn.net/attachments/412/235/java_2021-12-03_03-43-49.png",
+              "modId": 551894
+            },
+            {
+              "id": 415880,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/415/880/310/172/javaw_2021-12-14_17-07-11.png",
+              "title": "bcc4",
+              "url": "https://media.forgecdn.net/attachments/415/880/javaw_2021-12-14_17-07-11.png",
+              "modId": 551894
+            },
+            {
+              "id": 415879,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/415/879/310/172/javaw_2021-12-14_17-06-22.png",
+              "title": "bcc3",
+              "url": "https://media.forgecdn.net/attachments/415/879/javaw_2021-12-14_17-06-22.png",
+              "modId": 551894
+            }
+          ],
+          "mainFileId": 5711702
+        },
+        "curseForgeFile": {
+          "id": 4675399,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "BetterCompatibilityChecker-fabric-4.0.1+mc1.20.1.jar",
+          "fileName": "BetterCompatibilityChecker-fabric-4.0.1+mc1.20.1.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2023-08-01T01:30:27.82Z",
+          "fileLength": 26039,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 306612,
+              "relationType": 3
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 3499987349,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 204187067,
+              "name": "LICENSE_BetterCompatibilityChecker"
+            },
+            {
+              "fingerprint": 702473039,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 2521116199,
+              "name": "bcc.fabric.mixins.json"
+            },
+            {
+              "fingerprint": 2135870684,
+              "name": "bcc.mixins.json"
+            },
+            {
+              "fingerprint": 4043492355,
+              "name": "bcc.refmap.json"
+            },
+            {
+              "fingerprint": 3949137159,
+              "name": "dev"
+            },
+            {
+              "fingerprint": 2791617972,
+              "name": "fabric.mod.json"
+            },
+            {
+              "fingerprint": 1111451269,
+              "name": "pack.mcmeta"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "0c4dda5c9ebe5fcedd829996a272009f3122630a",
+              "algo": 1
+            },
+            {
+              "value": "9e80e4e72b7c83680cf027e360b854c4",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-09-01T00:00:00Z",
+              "gameVersionName": "Fabric"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            }
+          ],
+          "gameVersions": [
+            "Fabric",
+            "1.20.1"
+          ],
+          "fileFingerprint": 1287730479,
+          "modId": 551894
+        },
+        "modrinthProject": {
+          "id": "KJhXPbHQ",
+          "slug": "better-compatibility-checker",
+          "project_type": "mod",
+          "team": "jpzbybUh",
+          "title": "Better Compatibility Checker",
+          "description": "Changes the default server compatibility check to compare modpack versions",
+          "body": "The forge server compatibility checker is not always accurate and can cause some issues with end-users of a modpack when they add a server, and it shows up as not compatible.\n\nThis mod fixes that issue when used by modpacks, as it will compare the modpack project ID and the modpack version ID set in a config file by the modpack author and display a tick if they match or an X if they do not match.\n\n\nBoth server and client are running the same version\n![](https://cdn-raw.modrinth.com/data/KJhXPbHQ/images/dcc8da720c8b426be8a5c79363b6f5864428d051.png)\nIncompatible server or client version\n![](https://cdn-raw.modrinth.com/data/KJhXPbHQ/images/0ea169b464a63c5c6fa857b8a6b370552781afa3.png)\n\n## How do I configure the mod?\n\nIt's simple to configure the mod, first, you will need to open the bcc-common.toml in the config folder, then you will need to set the modpack name and the modpack version, click save, and you're done.\n\nJust remember to update the version when you update the modpack.\n\n\nNote: Fabric config is named bcc.json\n\n\n## What happens if the mod is not installed on the server, but is on the client?\n\nThis mod will check if the data needed is set first and if it's not it will fall back to using the default forge implementation\n\n---\n\nAll Rights Reserved unless stated otherwise. Distribution permission is given to FeedTheBeast for use in modpacks",
+          "published": "2023-04-16T11:28:57.457713Z",
+          "updated": "2024-09-10T21:18:12.710065Z",
+          "status": "approved",
+          "license": {
+            "id": "LicenseRef-All-Rights-Reserved",
+            "name": ""
+          },
+          "client_side": "required",
+          "server_side": "required",
+          "categories": [
+            "game-mechanics",
+            "management",
+            "utility"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/KJhXPbHQ/bac6efc73281fab7a07ddca978800a5e9172b529.png",
+          "issues_url": "https://github.com/nanite/BetterCompatibilityChecker/issues",
+          "source_url": "https://github.com/nanite/BetterCompatibilityChecker",
+          "donation_urls": [],
+          "gallery": [
+            {
+              "url": "https://cdn.modrinth.com/data/KJhXPbHQ/images/0ea169b464a63c5c6fa857b8a6b370552781afa3.png",
+              "raw_url": "https://cdn.modrinth.com/data/KJhXPbHQ/images/0ea169b464a63c5c6fa857b8a6b370552781afa3.png",
+              "featured": false,
+              "title": "Client and server running different versions",
+              "created": "2023-04-16T11:33:37.367003Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/KJhXPbHQ/images/dcc8da720c8b426be8a5c79363b6f5864428d051.png",
+              "raw_url": "https://cdn.modrinth.com/data/KJhXPbHQ/images/dcc8da720c8b426be8a5c79363b6f5864428d051.png",
+              "featured": true,
+              "title": "Client and server matching",
+              "created": "2023-04-16T11:33:16.075434Z",
+              "ordering": 0.0
+            }
+          ]
+        },
+        "modrinthVersion": {
+          "id": "gatP97QZ",
+          "project_id": "KJhXPbHQ",
+          "author_id": "2meoiAYJ",
+          "name": "BetterCompatibilityChecker-fabric-4.0.1+mc1.20.1.jar",
+          "version_number": "4.0.1+mc1.20.1",
+          "changelog": "Changelog\n=========\n\nAll notable changes to this project will be documented in this file.\n\n\\[4.0.1\\]\n---------\n\n*   Fix fabric server not being able to start up\n\n\\[4.0.0\\]\n---------\n\n*   Moved over to MultiLoader\n    *   Fabric and forge versions should be release at the same time now :D\n\n\\[3.0.3\\]\n---------\n\n*   Fix fix\n\n\\[3.0.2\\]\n---------\n\n*   Fix crash\n\n\\[3.0.0\\]\n---------\n\n*   Ported to 1.20",
+          "date_published": "2023-09-16T14:39:59.295390Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha512": "b6b042dde4d58d858dc7dbad95c40020ad1f9e54e6c078f4534b1df1253f3f339e32d55d83f3796030b0f11a495cfcf872ef5c48750591121ce4bb32147709f4",
+                "sha1": "0c4dda5c9ebe5fcedd829996a272009f3122630a"
+              },
+              "url": "https://cdn.modrinth.com/data/KJhXPbHQ/versions/gatP97QZ/BetterCompatibilityChecker-fabric-4.0.1%2Bmc1.20.1.jar",
+              "filename": "BetterCompatibilityChecker-fabric-4.0.1+mc1.20.1.jar",
+              "primary": true,
+              "size": 26039
+            }
+          ],
+          "dependencies": [
+            {
+              "project_id": "P7dR8mSH",
+              "dependency_type": "required"
+            }
+          ],
+          "game_versions": [
+            "1.20.1"
+          ],
+          "loaders": [
+            "fabric"
+          ]
+        }
+      },
+      {
+        "name": "UniLib",
+        "version": "[Fabric 1.20.1] UniLib v1.0.2",
+        "optional": true,
+        "file": "UniLib-1.0.2+1.20.1-fabric.jar",
+        "type": "mods",
+        "description": "A common set of Utilities, designed for over 50 versions of Minecraft!",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 1056812,
+        "curseForgeFileId": 5656687,
+        "curseForgeProject": {
+          "id": 1056812,
+          "name": "UniLib",
+          "authors": [
+            {
+              "id": 30881044,
+              "name": "CDAGaming_",
+              "url": "https://www.curseforge.com/members/cdagaming_"
+            }
+          ],
+          "gameId": 432,
+          "summary": "A common set of Utilities, designed for over 50 versions of Minecraft!",
+          "categories": [
+            {
+              "name": "Utility & QoL",
+              "slug": "utility-qol",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/utility-qol",
+              "dateModified": "2021-11-17T11:45:09.143Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 5191,
+              "iconUrl": "https://media.forgecdn.net/avatars/456/558/637727379086405233.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "API and Library",
+              "slug": "library-api",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/library-api",
+              "dateModified": "2014-05-23T03:21:44.06Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 421,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/36/635351496947765531.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 421,
+          "classId": 6,
+          "slug": "unilib",
+          "isFeatured": false,
+          "dateModified": "2024-09-17T09:58:26.28Z",
+          "dateCreated": "2024-07-03T22:11:49.907Z",
+          "dateReleased": "2024-09-16T18:17:41.32Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/unilib",
+            "wikiUrl": "https://gitlab.com/CDAGaming/UniLib/wikis/home",
+            "issuesUrl": "https://gitlab.com/CDAGaming/UniLib/-/issues",
+            "sourceUrl": "https://gitlab.com/CDAGaming/UniLib/"
+          },
+          "logo": {
+            "id": 1047367,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/1047/367/256/256/638575733030598020.png",
+            "title": "638575733030598020.png",
+            "url": "https://media.forgecdn.net/avatars/1047/367/638575733030598020.png",
+            "modId": 1056812
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 5729323
+        },
+        "curseForgeFile": {
+          "id": 5656687,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "[Fabric 1.20.1] UniLib v1.0.2",
+          "fileName": "UniLib-1.0.2+1.20.1-fabric.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2024-08-23T18:23:34.557Z",
+          "fileLength": 1050381,
+          "dependencies": [],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 2741505254,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 2414516781,
+              "name": "com"
+            },
+            {
+              "fingerprint": 2821105731,
+              "name": "fabric.mod.json"
+            },
+            {
+              "fingerprint": 3241370242,
+              "name": "io"
+            },
+            {
+              "fingerprint": 1917291691,
+              "name": "logo.png"
+            },
+            {
+              "fingerprint": 171017574,
+              "name": "mappings-fabric.srg"
+            },
+            {
+              "fingerprint": 4037467559,
+              "name": "pack.mcmeta"
+            },
+            {
+              "fingerprint": 1579040452,
+              "name": "unilib.accesswidener"
+            },
+            {
+              "fingerprint": 396887021,
+              "name": "unilib"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "d86ac78234a9244eb20122963cc9489089e4dfe3",
+              "algo": 1
+            },
+            {
+              "value": "e69aae6fdf73594aa9658f069fe58502",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-09-01T00:00:00Z",
+              "gameVersionName": "Fabric"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Client"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020",
+              "gameVersion": "1.20",
+              "gameVersionReleaseDate": "2023-06-07T00:00:00Z",
+              "gameVersionName": "1.20"
+            }
+          ],
+          "gameVersions": [
+            "Fabric",
+            "Client",
+            "1.20.1",
+            "1.20"
+          ],
+          "fileFingerprint": 1105630613,
+          "modId": 1056812
+        },
+        "modrinthProject": {
+          "id": "nT86WUER",
+          "slug": "unilib",
+          "project_type": "mod",
+          "team": "hEsmctZP",
+          "title": "UniLib",
+          "description": "A common set of Utilities, designed for over 50 versions of Minecraft!",
+          "body": "# UniLib\n\nA common set of Utilities, designed for over 50 versions of Minecraft!\n\n[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)\n[![Codacy Badge](https://app.codacy.com/project/badge/Grade/5930b7c5fe5c4477ac53500d06705e06)](https://app.codacy.com/gl/CDAGaming/UniLib/dashboard?utm_source=gl&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)\n[![Pipeline Status](https://github.com/CDAGaming/UniLib-Mirror/actions/workflows/build.yml/badge.svg?branch=main)](https://gitlab.com/CDAGaming/UniLib/commits/main)\n\n[![CurseForge-Downloads](https://cf.way2muchnoise.eu/full_unilib_downloads.svg)](https://www.curseforge.com/minecraft/mc-mods/unilib)\n[![CurseForge-Availability](https://cf.way2muchnoise.eu/versions/unilib.svg)](https://www.curseforge.com/minecraft/mc-mods/unilib)\n\n[![Modrinth-Downloads](https://img.shields.io/modrinth/dt/nT86WUER)](https://modrinth.com/mod/unilib)\n[![Modrinth-Availability](https://img.shields.io/modrinth/game-versions/nT86WUER)](https://modrinth.com/mod/unilib)\n\n## General Notes\n\n* This mod identifies as a **Client Side-only** mod\n    * This means it **will not run** on the Server's side.\n    * Fabric and Quilt mod loaders will simply ignore the\n      mod, while other mod loaders may crash.\n* Some versions of the mod for Minecraft 1.14.x and above require\n  the [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api)\n  and the [Fabric mod loader](https://fabricmc.net/use/installer)\n* Some versions of the mod for Minecraft 1.13.x require\n  the [Rift API](https://www.curseforge.com/minecraft/mc-mods/rift)\n  and the [Rift mod loader](https://github.com/DimensionalDevelopment/Rift/releases)\n* Some versions of the mod for Minecraft 1.1.0 and below\n  require [Risugami's ModLoader](https://mcarchive.net/mods/modloader)\n\n## Features\n\nThis library mod offers various API utilities that have been developed over the years,\ninitially part of [CraftPresence](https://gitlab.com/CDAGaming/CraftPresence),\nthat have been designed to work on over 50 versions of Minecraft, from the earliest Alphas to the latest Releases.\n\nThese APIs range from utilities that can help with Rendering/UI design, Update Checker and Translation ease-of-access,\nas well as the APIs provided through the sibling-project, [UniCore](https://github.com/CDAGaming/UniCore)\n\n## Disclaimers & Additional Info\n\n### Minecraft Issues + Additional Build Info\n\nDespite best efforts, issues can occur due to the state of the Minecraft Codebase.\n\nThese issues can hinder certain portions of the backend in addition to cause certain parts of the mod to not work.\n\nWith this in mind, please note the following:\n\n* **Minecraft 1.16 and above**\n    * As more parts of the game become data-driven, some modded data is no longer able to be automatically retrieved\n      without first being in the world.\n* **Minecraft 1.15 and below**\n    * `MC-112292`: When interacting with the `RenderUtils#drawItemStack` method, used in the v2 Item Renderer, blocks\n      using certain renderers may fail to display properly.\n    * Additionally, on 1.15.x exclusively, z-level issues may occur on Screens using this method\n* **Miscellaneous Issues**\n    * Due to obfuscation issues in earlier versions of Minecraft, incorrect data may appear when using certain parts of\n      the mod.\n\nAdditionally, some settings or API calls may perform differently under certain MC versions.\n\n### Support\n\nNeed some assistance with one of my mods or wish to provide feedback?\n\nI can be contacted via the following methods:\n\n* [Email](mailto:cstack2011@yahoo.com)\n* [CurseForge](https://www.curseforge.com/minecraft/mc-mods/unilib)\n* [Discord :: ![Discord Chat](https://img.shields.io/discord/455206084907368457.svg)](https://discord.com/invite/BdKkbpP)\n\nAdditionally, codebase documentation for this mod is\navailable [here](https://cdagaming.gitlab.io/unilib-documentation/) with further guides available\non [the wiki](https://gitlab.com/CDAGaming/UniLib/-/wikis/Home)\n\n#### Licensing\n\nThis Mod is under the MIT License as well as the Apache 2.0 License\n\nThis project currently makes usage of the following dependencies internally:\n\n* [UniCore](https://github.com/CDAGaming/UniCore) by [CDAGaming](https://github.com/CDAGaming)\n* [Classgraph](https://github.com/classgraph/classgraph) by [lukehutch](https://github.com/lukehutch)\n* [Lenni Reflect](https://github.com/Lenni0451/Reflect) by [Lenni0451](https://github.com/Lenni0451)",
+          "published": "2024-07-03T22:13:05.382234Z",
+          "updated": "2024-09-16T18:18:03.703998Z",
+          "status": "approved",
+          "license": {
+            "id": "MIT",
+            "name": "MIT License",
+            "url": "https://gitlab.com/CDAGaming/UniLib/-/blob/main/LICENSE"
+          },
+          "client_side": "required",
+          "server_side": "unsupported",
+          "categories": [
+            "library",
+            "utility"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/nT86WUER/18a8e4a90f336acdfc10d670248495eb41315196.png",
+          "issues_url": "https://gitlab.com/CDAGaming/UniLib/-/issues",
+          "source_url": "https://gitlab.com/CDAGaming/UniLib/",
+          "wiki_url": "https://gitlab.com/CDAGaming/UniLib/wikis/home",
+          "discord_url": "https://discord.com/invite/BdKkbpP",
+          "donation_urls": [
+            {
+              "id": "paypal",
+              "platform": "Paypal",
+              "url": "https://www.paypal.com/cgi-bin/webscr?return=https://modrinth.com/mod/craftpresence&cn=Add+special+instructions+to+the+addon+author()&business=cstack2011%40yahoo.com&bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted&cancel_return=https://modrinth.com/mod/craftpresence&lc=US&item_name=CraftPresence+(from+modrinth.com)&cmd=_donations&rm=1&no_shipping=1&currency_code=USD"
+            }
+          ],
+          "gallery": []
+        },
+        "modrinthVersion": {
+          "id": "RHIc8YiP",
+          "project_id": "nT86WUER",
+          "author_id": "99RdWNq1",
+          "name": "[Fabric 1.20.1] UniLib v1.0.2",
+          "version_number": "1.0.2+1.20.1-fabric",
+          "changelog": "# UniLib Changes\n\n## v1.0.2 (08/23/2024)\n\n_A Detailed Changelog from the last release is\navailable [here](https://gitlab.com/CDAGaming/UniLib/-/compare/release%2Fv1.0.1...release%2Fv1.0.2)_\n\nSee the Mod Description or [README](https://gitlab.com/CDAGaming/UniLib) for more info regarding the mod.\n\n### Changes\n\n* (Backend) Updated Build Dependencies (Please see the appropriate repositories for changes)\n    * JVMDowngrader (`1.0.0` -> `1.1.2`)\n    * Shadow (`8.1.8` -> `8.3.0`)\n    * Unimined (`1.3.4` -> `1.3.9`)\n    * ClassGraph (`4.8.174` -> `4.8.175`)\n* `RenderUtils#drawTexture` now includes an optional `asFullTexture` param\n    * This flag defaults to `true` and is used to toggle additional GL flags to replicate the behaviors\n      of `drawGradient`\n* Added additional flags to `ScreenConstants#ColorData` to allow additional control over its behavior\n  in `ExtendedScreen`\n    * `texLevel (Default: 0.0D)`\n    * `colorLevel (Default: 300.0D)`\n    * `useFullTexture (Default: true)`\n    * `textureWidth (Default: 32.0D)`\n    * `textureHeight (Default: 32.0D)`\n    * Additional accessors have also been added for ease-of-access\n* Several `ScrollPane` and `EntryListPane` changes have been made to improve resource pack support and for ease-of-usage\n    * Added the ability to customize the `top`, `bottom`, and `height` definitions for the header and footer depth\n      decorations\n    * The Header and Footer depth decorations, as well as the Scrollbar elements, now all use customizable Texture\n      rendering instead of Gradient rendering\n\n### Fixes\n\n* Removed the `quilted_fabric_api` requirement from Quilt Jars\n    * Dependencies are now JIJd the same way as Fabric Jars are\n* Fixed documentation errors in `ScreenConstants#ColorData`\n* Fixed incorrect parameter type on `ExtendedScreen#drawBackground` with `drawGradient` calls\n* Fixed an incorrect calculation for the Scrollbar top coordinate in `ScrollPane`\n    * Also effects the `EntryListPane` implementation\n\n___\n\n### More Information\n\n#### Known Issues\n\nDespite compatibility often being ensured between versions,\ncaution is advised to ensure the best experience, while also baring in mind that features can be adjusted, removed, or\nadded/iterated upon between releases.\n\nPlease refer to the Mod Description or [README](https://gitlab.com/CDAGaming/UniLib) to view more info relating\nto known issues.\n\n#### Snapshot Build Info\n\nSome Versions of this Mod are for Minecraft Snapshots or Experimental Versions, and as such, caution should be noted.\n\nAny Snapshot Build released will be marked as **ALPHA** to match its Snapshot Status depending on tests done before\nrelease\nand issues found.\n\nSnapshot Builds, depending on circumstances, may also contain changes for a future version of the mod, and will be noted\nas so if this is the case with the `-Staging` label.\n",
+          "date_published": "2024-08-23T18:23:52.924935Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha512": "df697cd470ef8839aefe17fa4dade2f317f96c3f40c144926641d0c2b2fbaf7f8d258f534ff7af8b4d5bbbb8aedffa045f8ae47d74dd683a4fbfa3610a217cd5",
+                "sha1": "d86ac78234a9244eb20122963cc9489089e4dfe3"
+              },
+              "url": "https://cdn.modrinth.com/data/nT86WUER/versions/RHIc8YiP/UniLib-1.0.2%2B1.20.1-fabric.jar",
+              "filename": "UniLib-1.0.2+1.20.1-fabric.jar",
+              "primary": true,
+              "size": 1050381
+            }
+          ],
+          "dependencies": [],
+          "game_versions": [
+            "1.20",
+            "1.20.1"
+          ],
+          "loaders": [
+            "fabric"
+          ]
+        }
+      },
+      {
+        "name": "CraftPresence",
+        "version": "[Fabric 1.20.1] CraftPresence v2.5.0",
+        "optional": true,
+        "file": "CraftPresence-2.5.0+1.20.1-fabric.jar",
+        "type": "mods",
+        "description": "Completely Customize the way others see you play in Discord!",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 297038,
+        "curseForgeFileId": 5608315,
+        "curseForgeProject": {
+          "id": 297038,
+          "name": "CraftPresence",
+          "authors": [
+            {
+              "id": 30881044,
+              "name": "CDAGaming_",
+              "url": "https://www.curseforge.com/members/cdagaming_"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Completely Customize the way others see you play in Discord!",
+          "categories": [
+            {
+              "name": "Twitch Integration",
+              "slug": "twitch-integration",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/twitch-integration",
+              "dateModified": "2018-04-17T19:53:25.39Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 4671,
+              "iconUrl": "https://media.forgecdn.net/avatars/150/336/636595916053434614.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "API and Library",
+              "slug": "library-api",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/library-api",
+              "dateModified": "2014-05-23T03:21:44.06Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 421,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/36/635351496947765531.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Cosmetic",
+              "slug": "cosmetic",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/cosmetic",
+              "dateModified": "2014-05-08T17:42:35.597Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 424,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/39/635351497555976928.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 424,
+          "classId": 6,
+          "slug": "craftpresence",
+          "isFeatured": false,
+          "dateModified": "2024-09-05T19:52:15.88Z",
+          "dateCreated": "2018-06-29T03:59:38.017Z",
+          "dateReleased": "2024-09-05T19:48:47.723Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/craftpresence",
+            "wikiUrl": "https://gitlab.com/CDAGaming/CraftPresence/wikis/home",
+            "issuesUrl": "https://gitlab.com/CDAGaming/CraftPresence/issues",
+            "sourceUrl": "https://gitlab.com/CDAGaming/CraftPresence"
+          },
+          "logo": {
+            "id": 159374,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/159/374/256/256/636658415780463602.png",
+            "title": "636658415780463602.png",
+            "url": "https://media.forgecdn.net/avatars/159/374/636658415780463602.png",
+            "modId": 297038
+          },
+          "allowModDistribution": true,
+          "screenshots": [
+            {
+              "id": 231730,
+              "description": "Hypixel Display with Small Icon Modified. Server\nServer MSG Config: mc.hypixel.net;Playing on Hypixel!;hypixel",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/231/730/310/172/serverexample_hypixel.png",
+              "title": "Example Server Display (Hypixel)",
+              "url": "https://media.forgecdn.net/attachments/231/730/serverexample_hypixel.png",
+              "modId": 297038
+            },
+            {
+              "id": 231726,
+              "description": "Display for when on the Main Menu, using Default Settings",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/231/726/310/172/mainmenu.png",
+              "title": "Main Menu Display",
+              "url": "https://media.forgecdn.net/attachments/231/726/mainmenu.png",
+              "modId": 297038
+            },
+            {
+              "id": 231727,
+              "description": "Default Config; In a Singleplayer Game in the Overworld",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/231/727/310/172/sp_overworld.png",
+              "title": "Overworld Display",
+              "url": "https://media.forgecdn.net/attachments/231/727/sp_overworld.png",
+              "modId": 297038
+            },
+            {
+              "id": 231728,
+              "description": "Default Config; In a Singleplayer Game in the Nether",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/231/728/310/172/sp_nether.png",
+              "title": "Nether Display",
+              "url": "https://media.forgecdn.net/attachments/231/728/sp_nether.png",
+              "modId": 297038
+            },
+            {
+              "id": 231729,
+              "description": "Default Config; In a Singleplayer Game in the End",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/231/729/310/172/sp_end.png",
+              "title": "The End Display",
+              "url": "https://media.forgecdn.net/attachments/231/729/sp_end.png",
+              "modId": 297038
+            }
+          ],
+          "mainFileId": 5608625
+        },
+        "curseForgeFile": {
+          "id": 5608315,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "[Fabric 1.20.1] CraftPresence v2.5.0",
+          "fileName": "CraftPresence-2.5.0+1.20.1-fabric.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2024-08-08T16:47:47.907Z",
+          "fileLength": 1980923,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 1056812,
+              "relationType": 3
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 554819807,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 4261550274,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 2710524597,
+              "name": "com"
+            },
+            {
+              "fingerprint": 3975471259,
+              "name": "craftpresence.accesswidener"
+            },
+            {
+              "fingerprint": 1084661991,
+              "name": "craftpresence"
+            },
+            {
+              "fingerprint": 2247373401,
+              "name": "fabric.mod.json"
+            },
+            {
+              "fingerprint": 2434287703,
+              "name": "lib"
+            },
+            {
+              "fingerprint": 3041381440,
+              "name": "logo.png"
+            },
+            {
+              "fingerprint": 1879804526,
+              "name": "org"
+            },
+            {
+              "fingerprint": 2217006810,
+              "name": "pack.mcmeta"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "d34924e8df7679fed55da94e0d92c7e25cb9bab3",
+              "algo": 1
+            },
+            {
+              "value": "1bd02a647796d2f746264f7ec191458f",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-09-01T00:00:00Z",
+              "gameVersionName": "Fabric"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Client"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020",
+              "gameVersion": "1.20",
+              "gameVersionReleaseDate": "2023-06-07T00:00:00Z",
+              "gameVersionName": "1.20"
+            }
+          ],
+          "gameVersions": [
+            "Fabric",
+            "Client",
+            "1.20.1",
+            "1.20"
+          ],
+          "fileFingerprint": 2924390805,
+          "modId": 297038
+        },
+        "modrinthProject": {
+          "id": "DFqQfIBR",
+          "slug": "craftpresence",
+          "project_type": "mod",
+          "team": "G0fROR7V",
+          "title": "CraftPresence",
+          "description": "Completely Customize the way others see you play in Discord!",
+          "body": "# CraftPresence\n\nCompletely customize the way others see you play Minecraft via Discord's Rich Presence API & the DiscordIPC API\nby [jagrosh](https://github.com/jagrosh)!\n\n[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)\n[![Crowdin](https://badges.crowdin.net/craftpresence/localized.svg)](https://crowdin.com/project/craftpresence)\n[![Codacy Badge](https://app.codacy.com/project/badge/Grade/5e0667f7208b49ecab1a6affbfa6cbf7)](https://app.codacy.com/gl/CDAGaming/CraftPresence/dashboard?utm_source=gl&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)\n[![Pipeline Status](https://github.com/CDAGaming/CraftPresence-Mirror/actions/workflows/build.yml/badge.svg?branch=master)](https://gitlab.com/CDAGaming/CraftPresence/commits/master)\n\n[![CurseForge-Downloads](https://cf.way2muchnoise.eu/full_craftpresence_downloads.svg)](https://www.curseforge.com/minecraft/mc-mods/craftpresence)\n[![CurseForge-Availability](https://cf.way2muchnoise.eu/versions/craftpresence.svg)](https://www.curseforge.com/minecraft/mc-mods/craftpresence)\n\n[![Modrinth-Downloads](https://img.shields.io/modrinth/dt/DFqQfIBR)](https://modrinth.com/mod/craftpresence)\n[![Modrinth-Availability](https://img.shields.io/modrinth/game-versions/DFqQfIBR)](https://modrinth.com/mod/craftpresence)\n\n## General Notes\n\n* Beginning in v2.5.0, [UniLib](https://gitlab.com/CDAGaming/UniLib) is now a **required** dependency\n    * UniLib is a new library mod I have created to abstract common API functions for more general use cases as well as\n      future projects\n    * The mod can be downloaded [here](https://legacy.curseforge.com/minecraft/mc-mods/unilib/files/all)\n    * This mod **will crash** if UniLib is not found or if using an incompatible version\n* This mod identifies as a **Client Side-only** mod\n    * This means it **will not run** on the Server's side.\n    * Fabric and Quilt mod loaders will simply ignore the\n      mod, while other mod loaders may crash.\n* Some versions of the mod for Minecraft 1.14.x and above require\n  the [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api)\n  and the [Fabric mod loader](https://fabricmc.net/use/installer)\n* Some versions of the mod for Minecraft 1.13.x require\n  the [Rift API](https://www.curseforge.com/minecraft/mc-mods/rift)\n  and the [Rift mod loader](https://github.com/DimensionalDevelopment/Rift/releases)\n* Some versions of the mod for Minecraft 1.1.0 and below\n  require [Risugami's ModLoader](https://mcarchive.net/mods/modloader)\n\n## Features\n\nIn addition to having the ability to change your discord status from \"Playing Minecraft\",\nThis mod offers plenty of customization options to specify entirely how others see you play.\nFrom having your current biome show up, to which dimension your in, as well as which server you're in, and more.\nThe customization possibilities are limitless, with the only real limit being how creative you customize your display.\n\n### Launcher and Pack Integration Support\n\nCraftPresence will detect whether your Launch Directory contains:\n\n* A ATLauncher Instance (instance.json)\n* A valid Twitch/Overwolf/Curse/GDLauncher Manifest (manifest.json, minecraftinstance.json)\n* A MCUpdater Instance (instance.json)\n* A Modrinth Instance (profile.json)\n* A MultiMC Instance (instance.cfg)\n* A Technic installedPacks File (installedPacks)\n\nIf using any of these launchers, note the following:\n\n* Prior to v1.6.0, it'll put the packs name in your display as well as show its icon (when not in a\n  server)\n* From v1.6.0 until v2.0.0, it'll instead parse the Pack's name into the `&PACK&` placeholder, that you can configure\n  for\n  usage in the RPC\n* In v2.0, the pack's info is instead parsed into the `pack.name` and `pack.icon` placeholders, that you can configure\n  for\n  usage in the RPC\n\nAs an example, this is how the mod will convert a pack's name to an iconKey:\n\nExample: `All the Mods 7` would parse as `allthemods7`\n\nNote: MultiMC natively has an Icon Key Property that is used instead of converting from the Pack's Display Name\n\n## Commands\n\nCraftPresence currently offers the following Commands:\n\nKeep in mind the following:\n\n* Commands must be prefixed by either `/craftpresence` or `/cp`\n* In v1.5.0 and above, these commands are only usable via the Commands Gui, found within the Config Gui\n\n___\n\n* `/cp compile \"[expr]\"` - Test the output of a placeholder expression, via Starscript\n* `/cp search (type:typeName, [searchTerm], all)` - Search for valid placeholders available to use with Rich Presence\n* `/cp reload` - Reloads mod data\n* `/cp request` - View Join Request Info\n* `/cp export` - View export commands for mod data\n* `/cp view` - Help command to display the commands available to view and control a variety of display data\n    * `/cp view placeholders` - Displays all available placeholders for use in the RPC\n    * `/cp view currentData` - Displays your Current RPC Data, in text form\n    * `/cp view assets (custom | all)` - Displays all asset icon keys available to you\n    * `/cp view dimensions` - Displays all Dimension Names available for use, requires `Show Current Dimension` to be\n      enabled\n    * `/cp view biomes` - Displays all Biome Names available for use, requires `Show Current Biome` to be enabled\n    * `/cp view servers` - Displays all Server Addresses available for use, requires `Show Game State` to be enabled\n    * `/cp view screens` - Displays all Gui Names available for use, if Per-Gui is enabled\n    * `/cp view items` - Displays all Item Names available for use, if Per-Item is enabled\n    * `/cp view entities` - Displays all Entity Names available for use, if Per-Entity is enabled\n* `/cp reboot` - Reboots the RPC\n* `/cp shutdown` - Shutdown the RPC (Can be turned on from `/cp reboot`)\n* `/cp (help | ?)` - Help Command to display the above commands and these explanations\n\n## KeyBinds\n\nCraftPresence currently contains the following KeyBinds:\n\nNotes:\n\n* In v1.5.5 up to v1.8.0, KeyBinds are now customized in the Accessibility Settings in the Config Gui, and not the\n  normal controls menu\n* In v1.8.0 and above, KeyBinds can now be customized in either the dedicated menu in the Config Gui or the normal\n  control menu on applicable versions\n\n___\n\n* `Open Config Gui` - KeyBind to open the CraftPresence Config Gui (Default: GRAVE/TILDE Key)\n\n## About Placeholders and Functions\n\nIn some configuration areas, CraftPresence provides some placeholders and functions to make things easier:\n\nKeep in mind the following:\n\n* In v2.0.0, placeholders have been rewritten to be compatible\n  with [Starscript](https://github.com/MeteorDevelopment/starscript)\n    * The older list of this section can be\n      viewed [here](https://gitlab.com/CDAGaming/CraftPresence/-/wikis/Legacy-Placeholders-(v1.x))\n    * All Placeholders, functions, and code expressions must be surrounded with curly brackets (Example: `{foo.bar}`)\n    * In the event that you need to combine a placeholder with other data in a function argument, use the `getResult`\n      function\n    * Additional functions and standard variables are available\n      within [StandardLib](https://github.com/MeteorDevelopment/starscript/wiki)\n\n___\n\n### Placeholder List\n\nThe following placeholders are available for use anywhere in CraftPresence:\n\n* General Placeholders:\n    * `general.brand` - The Minecraft branding label\n    * `general.icon` - The default display icon\n    * `general.mods` - The amount of mods currently in your mods folder\n    * `general.title` - The Minecraft title label\n    * `general.version` - The Minecraft version label\n    * `general.protocol` - The Minecraft version protocol label\n* Menu Event Placeholders (Loading and Main Menu):\n    * `menu.message` - The main menu's display data, while applicable\n    * `menu.icon` - The main menu's display icon, while applicable\n* Pack Placeholders:\n    * `pack.name` - The currently detected pack's name\n    * `pack.icon` - The currently detected pack's icon\n    * `pack.type` - The currently detected pack's type\n* Player Placeholders:\n    * `player.name` - Your username\n    * `player.uuid.short` - Your UUID (Trimmed Format)\n    * `player.uuid.full` - Your UUID (Full Format, if valid UUID)\n    * `player.icon` - Your player head icon, while applicable\n    * `player.position.x` - Your current in-game X position\n    * `player.position.y` - Your current in-game Y position\n    * `player.position.z` - Your current in-game Z position\n    * `player.health.current` - Your current in-game health\n    * `player.health.max` - Your current in-game maximum health\n* Gui Placeholders:\n    * `screen.message` - The current Gui Screen's display data, while applicable\n    * `screen.name` - The current Gui Screen name\n    * `screen.icon` - The current Gui Screen icon\n    * `screen.default.icon` - The default Gui Screen icon\n* Biome Placeholders:\n    * `biome.message` - The current biome's display data, while in-game\n    * `biome.name` - The current biome name\n    * `biome.identifier` - The current biome identifier\n    * `biome.icon` - The current biome icon\n    * `biome.default.icon` - The default biome icon\n* Dimension Placeholders:\n    * `dimension.message` - The current dimension's display data, while in-game\n    * `dimension.name` - The current dimension name\n    * `dimension.identifier` - The current dimension identifier\n    * `dimension.icon` - The current dimension icon\n    * `dimension.default.icon` - The default dimension icon\n* Entity Placeholders:\n    * `entity.default.icon` - The default entity icon\n    * `entity.target.message` - The currently targeted entity's display data, while applicable\n    * `entity.target.name` - The currently targeted entity's name\n    * `entity.target.icon` - The currently targeted entity's icon\n    * `entity.riding.message` - The currently riding entity's display data, while applicable\n    * `entity.riding.name` - The currently riding entity's name\n    * `entity.riding.icon` - The currently riding entity's icon\n* World Placeholders:\n    * `world.difficulty` - The current world's difficulty\n    * `world.weather.name` - The current world's weather name\n    * `world.name` - The name of the current world\n    * `world.time.format_24` - The current world's in-game time (24-hour format)\n    * `world.time.format_12` - The current world's in-game time (12-hour format)\n    * `world.time.day` - The current world's in-game day count\n* Server Placeholders:\n    * `server.message` - The current server's display data, while in-game\n    * `server.icon` - The current server icon\n    * `server.default.icon` - The default server icon\n    * `server.players.current` - The server's current player count\n    * `server.players.max` - The server's maximum player count\n    * `server.address.full` - (MP) The raw current server address\n    * `server.address.short` - (MP) The formatted current server address\n    * `server.name` - (MP) The current server name\n    * `server.motd.raw` - (MP) The current raw server motd\n    * `server.minigame` - (Realm) The current realm minigame name\n* Item Placeholders:\n    * `item.message.default` - The default item display data, while applicable\n    * `item.message.holding` - The held item(s) display data, while applicable\n    * `item.message.equipped` - The equipped item(s) display data, while applicable\n    * `item.[slotId].name` - Current `slotId` item name\n    * `item.[slotId].message` - Current `slotId` item message\n* Integration - Replay Mod:\n    * `replaymod.time.current` - When in the Video Renderer, retrieves the `renderTimeTaken` field\n    * `replaymod.time.remaining` - When in the Video Renderer, retrieves the `renderTimeLeft` field\n* Extra Placeholders (Advanced Usage):\n    * `_general.instance` - The `Minecraft` Instance\n    * `_general.player` - The `Minecraft` Player Instance\n    * `_general.world` - The `Minecraft` World Instance\n    * `_config.instance` - The Mod Config Instance\n    * `_[moduleName].instance` - An instance of one of the modules CraftPresence has\n        * Module Order: `biome, dimension, entity, item, screen, server, <...>`\n    * `data.biome.instance` - An instance of the player's current biome\n    * `data.biome.class` - The class object for the player's current biome\n    * `data.dimension.instance` - An instance of the player's current dimension\n    * `data.dimension.class` - The class object for the player's current dimension\n    * `data.entity.target.instance` - An instance of the currently targeted entity\n    * `data.entity.target.class` - The class object for the currently targeted entity\n    * `data.entity.riding.instance` - An instance of the currently riding entity\n    * `data.entity.riding.class` - The class object for the currently riding entity\n    * `data.item.[slotId].instance` - An instance of the current `slotId`\n    * `data.item.[slotId].class` - The class object for the current `slotId`\n    * `data.screen.instance` - An instance of the current Gui Screen\n    * `data.server.motd.line_[number]` - Retrieves a specific line of `server.motd.raw`\n    * `data.[moduleName].time` - The timestamp at which a module has changed its primary state\n        * Use `data.general.time` for the current RPC Starting Timestamp\n\n### Function List\n\nThe following functions are available for use anywhere in CraftPresence:\n\n* `asIcon(input, whitespaceIndex ?: '')` - Converts a String into a Valid and Acceptable Icon Format\n* `asIdentifier(target, formatToId ?: false, avoid ?: false)` - Converts an Identifier into a properly formatted and\n  interpretable Name\n* `asProperWord(input, avoid ?: false, skipSymbolReplacement ?: false, caseCheckTimes ?: -1)` - Converts input into a\n  Properly Readable String\n* `capitalizeWords(input, timesToCheck ?: -1)` - Capitalizes the words within a specified string\n* `clampDouble(num, min, max)` - Clamps the Specified Number between a minimum and maximum limit\n* `clampFloat(num, min, max)` - Clamps the Specified Number between a minimum and maximum limit\n* `clampInt(num, min, max)` - Clamps the Specified Number between a minimum and maximum limit\n* `clampLong(num, min, max)` - Clamps the Specified Number between a minimum and maximum limit\n* `convertTime(input, originalPattern, newPattern)` - Convert the specified string into the specified date format, if\n  able\n* `convertTimeFormat(dateString, fromFormat, toFormat)` - Convert a Date String from one format to another format\n* `convertTimeZone(dateString, fromFormat, fromTimeZone, toTimeZone)` - Convert a Date String from one timezone to\n  another timezone\n* `dateToEpochMilli(dateString, format, timeZone ?: null)` - Convert Date String to Epoch Timestamp in milliseconds\n* `dateToEpochSecond(dateString, format, timeZone ?: null)` - Convert Date String to Epoch Timestamp in seconds\n* `epochMilliToDate(epochMilli, format, timeZone ?: null)` - Convert Epoch Timestamp to Date String in the given format\n  and\n  timezone\n* `epochSecondToDate(epochSecond, format, timeZone ?: null)` - Convert Epoch Timestamp to Date String in the given\n  format and\n  timezone\n* `executeMethod(classToAccess=Object|String|Class, instance=Object, methodName=String, <parameterType, parameter>...)` -\n  Invokes the specified Method in the Target Class via Reflection\n* `format(input=String, args=Object...)` - Returns a formatted string using the specified format string and arguments\n* `formatAddress(input, returnPort ?: false)` - Formats an IP Address based on Input\n* `getArrayElement(content=Array, index)` - Retrieves the array element from the specified content, or null if unable\n* `getAsset(input)` - Retrieves the Specified DiscordAsset data from an Icon Key, if present\n* `getAssetId(input)` - Retrieves the Parsed Icon ID from the specified key, if present\n* `getAssetKey(input)` - Retrieves the Parsed Icon Key from the specified key, if present\n* `getAssetType(input)` - Retrieves the Parsed Image Type from the specified key, if present\n* `getAssetUrl(input)` - Retrieves the Parsed Image Url from the specified key, if present\n* `getClass(reference=Object|String)` - Attempt to retrieve a class object, via the string path or object reference\n* `getComponent(data=DataComponentHolder, path=String)` - (MC 1.20.5+) Attempt to retrieve the Component Data with the\n  specified path\n* `getCurrentTime()` - Retrieve the current time, as an Instant\n* `getElapsedMillis()` - Retrieve the elapsed time, in milliseconds\n* `getElapsedNanos()` - Retrieve the elapsed time, in nanoseconds\n* `getElapsedSeconds()` - Retrieve the elapsed time, in seconds\n* `getField(classToAccess=Object|String|Class, instance=Object, fieldName=String...)` - Retrieves the\n  Specified Field(s) via Reflection\n* `getFields(classObj=Object|String|Class)` - Retrieve the available field names for a class object\n* `getFirst(args)` - Retrieve the first non-null string from the specified arguments, or return null\n* `getJsonElement(url|jsonString, path=Object...)` - Retrieves the json element from the specified content, or null if\n  unable\n* `getMethods(classObj=Object|String|Class)` - Retrieve the available method names for a class object\n* `getNamespace(input)` - Retrieve the namespace portion of an Identifier-Style Object\n* `getNbt(data=Entity|ItemStack, path=String...)` - Attempt to retrieve the NBT Tag with the specified path\n* `getOrDefault(target, alternative ?: '')` - Retrieve the primary value if non-empty; Otherwise, use the secondary\n  value\n* `getPath(input)` - Retrieve the path portion of an Identifier-Style Object\n* `getResult(input)` - Perform recursive conversion on the specified input\n* `hasField(classObj=Object|String|Class, fieldName)` - Retrieves whether the specified class contains the specified\n  field name\n* `isColor(input)` - Determines whether an inputted String classifies as a valid Color Code\n* `isCustomAsset(input)` - Determines if the Specified Icon Key is present under the Custom Assets List\n* `isUuid(input)` - Checks via Regex whether the specified String classifies as a valid Uuid\n* `isValidAsset(input)` - Determines if the Specified Icon Key is present under the Current Client ID\n* `isValidId(input)` - Determines if the specified Client ID is valid\n* `isWithinValue(value, min, max, contains_min ?: false, contains_max ?: false, check_sanity ?: true)` - Determines\n  whether the specified value is within the specified range\n* `length(input)` - Returns the length of the specified string\n* `lerpDouble(num, min, max)` - Linearly Interpolate between the specified values\n* `lerpFloat(num, min, max)` - Linearly Interpolate between the specified values\n* `mcTranslate(input=String, args=Object...)` - Translates an Unlocalized String, based on the game translations\n  retrieved for\n  the current language\n* `minify(input, length)` - Reduces the Length of a String to the Specified Length\n* `nullOrEmpty(input, allowWhitespace ?: false)` - Determines whether a String classifies as NULL or EMPTY\n* `randomAsset()` - Attempts to retrieve a Random Icon Key from the available assets\n* `randomString(args)` - Retrieves a random element from the specified arguments, as a string\n* `removeRepeatWords(input)` - Removes Duplicated Words within an inputted String\n* `roundDouble(num, places ?: 0)` - Rounds a Double to the defined decimal place, if possible\n* `snapToStep(num, valueStep)` - Rounds the Specified Value to the nearest value, using the Step Rate Value\n* `split(input, regex, limit ?: 0)` - Splits this string around matches of the given regular expression\n* `stripAllFormatting(input)` - Strips Color and Formatting Codes from the inputted String\n* `stripColors(input)` - Strips Color Codes from the inputted String\n* `stripFormatting(input)` - Strips Formatting Codes from the inputted String\n* `timeFromEpochMilli(epochMilli)` - Retrieve a Time Instant from the specified epoch time\n* `timeFromEpochSecond(epochSecond)` - Retrieve a Time Instant from the specified epoch time\n* `timeFromString(dateString, fromFormat, fromTimeZone ?: null)` - Format a Date String from one timezone and format\n  into a valid Instant instance\n* `timeToEpochMilli(data)` - Gets the number of milliseconds from the Java Epoch, derived from specified args\n* `timeToEpochSecond(data)` - Gets the number of seconds from the Java Epoch, derived from specified args\n* `timeToString(date, toFormat, toTimeZone ?: null)` - Format a Date String using the specified timezone and format.\n* `toCamelCase(input)` - Converts a String into a Valid and Acceptable Camel-Case Format\n* `translate(input=String, args=Object...)` - Translates an Unlocalized String, based on the mod translations retrieved\n  for\n  the current language\n\n## Disclaimers & Additional Info\n\n### Minecraft Issues + Additional Build Info\n\nDespite best efforts, issues can occur due to the state of the Minecraft Codebase.\n\nThese issues can hinder certain portions of the backend in addition to cause certain parts of the mod to not work.\n\nWith this in mind, please note the following:\n\n* **Minecraft 1.16 and above**\n    * As more parts of the game become data-driven, some modded data is no longer able to be automatically retrieved\n      without first being in the world.\n    * So far, Biome and Dimension Modules are effected by this change and only display default data, with extra data\n      needing to be discovered first.\n* **Minecraft 1.15 and below**\n    * `MC-112292`: When interacting with the `RenderUtils#drawItemStack` method, used in the v2 Item Renderer, blocks\n      using certain renderers may fail to display properly.\n    * Additionally, on 1.15.x exclusively, z-level issues may occur on Screens using this method\n* **Minecraft a1.1.2_01 and below**\n    * On these versions, the Biome and Dimension Modules are **stubbed** with default data, due to the logic for these\n      methods being missing (Having been initially implemented in Alpha 1.2.6)\n* **Miscellaneous Issues**\n    * Due to obfuscation issues in earlier versions of Minecraft, incorrect data may appear when using certain parts of\n      the mod.\n        * In this case, the Biome and Dimension Modules may fail to auto-detect some necessary information\n        * As a fallback, the mod is also designed to add selectable Module Data when said biome/dimension is first\n          discovered.\n        * The \"Add New\" option found in some of the module lists can also be used to work around this issue.\n\nAdditionally, some settings or API calls may perform differently under certain MC versions.\n\n### Icon Requesting\n\nNot seeing an Icon you like or have a suggestion for an Icon to add/modify on the default Client ID?\n\nIf so, you can make a request on my [Issue Tracker](https://gitlab.com/CDAGaming/CraftPresence/issues/), with the\nfollowing requirements:\n\n* If adding an Icon from a dimension, specify the Mod's link that the dimension derives from\n    * This is because specific Icon IDs must be used, which can be found by the mod or from checking your Logs/Chat\n      after entering the dimension as CraftPresence will tell you the ID expected\n* An Icon of size between `512x512` and `1024x1024` to be used (Either minimum or recommended size for best quality)\n    * Icons between these sizes can be used, but may not give a great final quality\n* If requesting an icon to be modified or removed from the Default Client ID, please specify a reason why\n    * Mostly just so it can be logged why it was changed for future reference\n\nAdditionally, you can also create your own Set of Icons by\nfollowing [this guide](https://gitlab.com/CDAGaming/CraftPresence/-/wikis/Making-your-Own-Client-ID-+-Using-your-own-Images)\n\n### Support\n\nNeed some assistance with one of my mods or wish to provide feedback?\n\nI can be contacted via the following methods:\n\n* [Email](mailto:cstack2011@yahoo.com)\n* [CurseForge](https://www.curseforge.com/minecraft/mc-mods/craftpresence)\n* [Discord :: ![Discord Chat](https://img.shields.io/discord/455206084907368457.svg)](https://discord.com/invite/BdKkbpP)\n\nAdditionally, codebase documentation for this mod is\navailable [here](https://cdagaming.gitlab.io/craftpresence-documentation/) with further guides available\non [the wiki](https://gitlab.com/CDAGaming/CraftPresence/-/wikis/Home)\n\n#### Licensing\n\nThis Mod is under the MIT License as well as the Apache 2.0 License\n\nThis project currently makes usage of the following dependencies internally:\n\n* [Starscript](https://github.com/MeteorDevelopment/starscript)\n  by [MeteorDevelopment](https://github.com/MeteorDevelopment)\n* [DiscordIPC API](https://github.com/jagrosh/DiscordIPC) by [jagrosh](https://github.com/jagrosh)\n* [UniLib](https://gitlab.com/CDAGaming/UniLib) by [CDAGaming](https://gitlab.com/CDAGaming)\n\n#### Discord Terms of Service\n\nAs with other RPC Mods, this Mod uses your in-game data to send display information to a 3rd party service (In this\nCase, Discord).\n\nThe terms of service relating to Creating a Discord ID for icons can be\nfound [here](https://discord.com/developers/docs/legal)\n\nThe terms of service for using Discord as a service can additionally be located [here](https://discord.com/terms)",
+          "published": "2022-08-08T16:27:11.909915Z",
+          "updated": "2024-09-05T19:49:00.904168Z",
+          "status": "approved",
+          "license": {
+            "id": "MIT",
+            "name": "MIT License",
+            "url": "https://gitlab.com/CDAGaming/CraftPresence/-/blob/master/LICENSE"
+          },
+          "client_side": "required",
+          "server_side": "unsupported",
+          "categories": [
+            "library",
+            "utility"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/DFqQfIBR/16d9958b2b764a82185ad53db94ea0f37d5a80d7_96.webp",
+          "issues_url": "https://gitlab.com/CDAGaming/CraftPresence/issues",
+          "source_url": "https://gitlab.com/CDAGaming/CraftPresence",
+          "wiki_url": "https://gitlab.com/CDAGaming/CraftPresence/wikis/home",
+          "discord_url": "https://discord.com/invite/BdKkbpP",
+          "donation_urls": [
+            {
+              "id": "paypal",
+              "platform": "Paypal",
+              "url": "https://www.paypal.com/cgi-bin/webscr?return=https://modrinth.com/mod/craftpresence&cn=Add+special+instructions+to+the+addon+author()&business=cstack2011%40yahoo.com&bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted&cancel_return=https://modrinth.com/mod/craftpresence&lc=US&item_name=CraftPresence+(from+modrinth.com)&cmd=_donations&rm=1&no_shipping=1&currency_code=USD"
+            }
+          ],
+          "gallery": [
+            {
+              "url": "https://cdn.modrinth.com/data/DFqQfIBR/images/8b5eca589751e35ebf63f344a7ef7a674586fa44_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/DFqQfIBR/images/40ce05eb588f87f83593eff6ff29567f1b92629d.png",
+              "featured": false,
+              "title": "Main Menu Display",
+              "description": "Display for when on the Main Menu, using Default Settings",
+              "created": "2022-08-08T16:27:11.075410Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/DFqQfIBR/images/8d9458a22fa9f498a1ff5b5a1f3d1c36802d3007_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/DFqQfIBR/images/197bbd5158cb5ddf43bf1d64be1aa650d8482e4d.png",
+              "featured": false,
+              "title": "Overworld Display",
+              "description": "Default Config; In a Singleplayer Game in the Overworld",
+              "created": "2022-08-08T16:27:11.075410Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/DFqQfIBR/images/ac40602b01b61db45f23e81a9630e12652d36217_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/DFqQfIBR/images/ac40602b01b61db45f23e81a9630e12652d36217.png",
+              "featured": false,
+              "title": "Nether Display",
+              "description": "Default Config; In a Singleplayer Game in the Nether",
+              "created": "2022-08-08T16:27:11.075410Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/DFqQfIBR/images/b6441eef900be26f86aa87ccb0f52f6594967beb_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/DFqQfIBR/images/f6c3d3083e6fb279f02f553a83e61e14ab2e7cbe.png",
+              "featured": false,
+              "title": "Example Server Display (Hypixel)",
+              "description": "Hypixel Display with Small Icon Modified. Server Server MSG Config: mc.hypixel.net;Playing on Hypixel!;hypixel",
+              "created": "2022-08-08T16:27:11.075410Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/DFqQfIBR/images/ee6b1a34105e8a4f725ab7d8341e47ef4ec915cc_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/DFqQfIBR/images/ee6b1a34105e8a4f725ab7d8341e47ef4ec915cc.png",
+              "featured": false,
+              "title": "The End Display",
+              "description": "Default Config; In a Singleplayer Game in the End",
+              "created": "2022-08-08T16:27:11.075410Z",
+              "ordering": 0.0
+            }
+          ]
+        },
+        "modrinthVersion": {
+          "id": "CbggnOEI",
+          "project_id": "DFqQfIBR",
+          "author_id": "99RdWNq1",
+          "name": "[Fabric 1.20.1] CraftPresence v2.5.0",
+          "version_number": "2.5.0+1.20.1-fabric",
+          "changelog": "# CraftPresence Changes\n\n## v2.5.0 (08/08/2024)\n\n_A Detailed Changelog from the last release is\navailable [here](https://gitlab.com/CDAGaming/CraftPresence/-/compare/release%2Fv2.4.3...release%2Fv2.5.0)_\n\nSee the Mod Description or [README](https://gitlab.com/CDAGaming/CraftPresence) for more info regarding the mod.\n\n### Changes\n\n* (Backend) Updated Build Dependencies (Please see the appropriate repositories for changes)\n    * Unimined (`1.2.14` -> `1.3.4`)\n    * JVMDowngrader (`0.7.2` -> `1.0.0`)\n    * Shadow (`8.1.7` -> `8.1.8`)\n    * Gradle (`8.8` -> `8.9`)\n    * ModPublisher (`2.1.4` -> `2.1.6`)\n    * ModFusioner (`1.0.12` -> `removed`)\n    * UniLib (`local` -> `1.0.1`)\n    * DiscordIPC (`0.9.2` -> `0.10.0`)\n* Several packaging changes have been made for ease-of-access and for future development:\n    * Added publishing support for [Nightbloom](https://nightbloom.cc/project/craftpresence)\n    * Re-Added support for [OG Forge](https://files.minecraftforge.net/) for MC 1.20.2+ Users\n    * Added support for Flint Loader for MC 1.21\n    * Deployed files are now split per-loader, rather than as one \"fused\" jar per MC version\n    * [UniLib](https://www.curseforge.com/minecraft/mc-mods/unilib) is now a required dependency\n* Removed several config options that were not applicable to CraftPresence or were redundant metadata:\n    * From `main`: `_README`, `_SOURCE`\n    * From `accessibility`: `tooltipBackground`, `tooltipBorder`, `guiBackground`, `altGuiBackground`, `renderTooltips`\n* Moved `Party Privacy` setting from `General` to `Presence Editor (PresenceData)`\n    * This makes this setting an instance property instead of a global setting\n    * Due to the changes behind this method, this property is also reset to its default\n* Improved LAN support for the `server` module\n    * Several fixes have been made for \"hosting\" LAN servers alongside fixes for LAN in general\n    * This also effects Essential Mod support, given the similar networking tech involved\n* Added an RPC Visualizer to the `Presence Editor` and `Display Settings` Screens\n    * Replicates the look and feel of Discord's Visualizer, allowing users an \"at-a-glance\" preview of their RPC before\n      saving\n    * Only displays if `Use As Main` is enabled or is the Default Module\n    * Can be disabled with the `Strip Extra Gui Elements` setting in `Accessibility`\n* Added support for Discord Activity Types\n    * Reference: [GitHub](https://github.com/discord/discord-api-docs/pull/7033)\n* Misc. Optimizations and Performance Improvements across several APIs\n    * A large portion of CraftPresence's APIs have now branched off into [UniLib](https://gitlab.com/CDAGaming/UniLib),\n      now being served as a required dependency for CraftPresence\n    * Many fixes and tweaks have been made over the last few months to make these APIs more usable for the public with\n      better reliability and stability, especially on older versions of Minecraft\n* (Backend) Adjusted `ShadowJar` relocation paths to avoid mod conflicts\n\n### Fixes\n\n_A portion of these fixes are related to API functions that have been transferred\nto [UniLib](https://gitlab.com/CDAGaming/UniLib)_\n\n* (Backend) Fixed `Config#transferFrom` not properly considering flag data (Schema, MC Version, etc.)\n    * This regression could cause config corruption, esp. when using the `HypherConverter` or `KeyConverter`\n* (Backend) Fixed the `RAW_TRANSLATOR` not setting the proper `stripFormatting` flags\n* Fixed `enabled` and `visible` state discrepancies on various UI Text Widgets\n* Fixed issues where Slot List scrolling was inconsistent on some Legacy MC versions compared to others\n* Fixed an issue in the BTA port where weather retrieval was not properly working\n* Fixed inconsistent world data retrieval on some Legacy MC versions compared to others\n* Fixed [an issue](https://gitlab.com/CDAGaming/CraftPresence/-/issues/224) where a crash can occur while registering\n  Translation Listeners\n* Fixed potential issues where `server.players.current` could be above `server.players.max`\n* (Backend) Fixed issues relating to text going off-screen with some `ScrollableTextWidget` elements\n    * Effected the `Advanced` and `Presence Editor` UIs\n\n___\n\n### More Information\n\n#### Known Issues\n\nDespite configuration compatibility often being ensured between versions,\ncaution is advised to ensure the best experience, while also baring in mind that features can be adjusted, removed, or\nadded/iterated upon between releases.\n\nPlease refer to the Mod Description or [README](https://gitlab.com/CDAGaming/CraftPresence) to view more info relating\nto known issues.\n\n#### Snapshot Build Info\n\nSome Versions of this Mod are for Minecraft Snapshots or Experimental Versions, and as such, caution should be noted.\n\nAny Snapshot Build released will be marked as **ALPHA** to match its Snapshot Status depending on tests done before\nrelease\nand issues found.\n\nSnapshot Builds, depending on circumstances, may also contain changes for a future version of the mod, and will be noted\nas so if this is the case with the `-Staging` label.\n",
+          "date_published": "2024-08-08T16:48:10.186166Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha512": "a2c798e5d5f75cc34022ac5ecc6ae319527429e40cd7e724a6d2d1118ffeb692a29dba9e8a4c049fd3f11644643935cb0406a383dd8c7d68553e1fd60e6cb7fb",
+                "sha1": "d34924e8df7679fed55da94e0d92c7e25cb9bab3"
+              },
+              "url": "https://cdn.modrinth.com/data/DFqQfIBR/versions/CbggnOEI/CraftPresence-2.5.0%2B1.20.1-fabric.jar",
+              "filename": "CraftPresence-2.5.0+1.20.1-fabric.jar",
+              "primary": true,
+              "size": 1980923
+            }
+          ],
+          "dependencies": [
+            {
+              "project_id": "nT86WUER",
+              "dependency_type": "required"
+            }
+          ],
+          "game_versions": [
+            "1.20",
+            "1.20.1"
+          ],
+          "loaders": [
+            "fabric"
+          ]
+        }
       }
     ],
     "ignoredUpdates": [],
     "ignoreAllUpdates": false,
     "vanillaInstance": true,
-    "lastPlayed": 1726683728276,
-    "numPlays": 106,
+    "lastPlayed": 1726693075678,
+    "numPlays": 107,
     "lastExportName": "Sunnie's RPG Tech",
     "lastExportVersion": "1.20.1",
     "lastExportAuthor": "Hitomiiv",
