@@ -80895,13 +80895,1147 @@
             "fabric"
           ]
         }
+      },
+      {
+        "name": "The Graveyard (FABRIC)",
+        "version": "The Graveyard 3.1 (FABRIC) for 1.20.1",
+        "optional": true,
+        "file": "The_Graveyard_3.1_(FABRIC)_for_1.20.1.jar",
+        "type": "mods",
+        "description": "A mod that adds structures, mobs, bosses and blocks themed aroung the graveyard.",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 514468,
+        "curseForgeFileId": 5113229,
+        "curseForgeProject": {
+          "id": 514468,
+          "name": "The Graveyard (FABRIC)",
+          "authors": [
+            {
+              "id": 102191917,
+              "name": "finallion_13",
+              "url": "https://www.curseforge.com/members/finallion_13"
+            }
+          ],
+          "gameId": 432,
+          "summary": "A mod that adds structures, mobs and blocks themed aroung the graveyard.",
+          "categories": [
+            {
+              "name": "World Gen",
+              "slug": "world-gen",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen",
+              "dateModified": "2017-10-16T21:40:11.473Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 406,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/26/635351494599748860.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Adventure and RPG",
+              "slug": "adventure-rpg",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/adventure-rpg",
+              "dateModified": "2014-05-08T17:42:09.54Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 422,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/37/635351497295252123.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Mobs",
+              "slug": "world-mobs",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen/world-mobs",
+              "dateModified": "2014-05-08T17:46:59.507Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 411,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/53/635351500195070414.png",
+              "parentCategoryId": 406,
+              "classId": 6
+            },
+            {
+              "name": "Biomes",
+              "slug": "world-biomes",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen/world-biomes",
+              "dateModified": "2014-05-08T17:34:59.587Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 407,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/22/635351492995856506.png",
+              "parentCategoryId": 406,
+              "classId": 6
+            },
+            {
+              "name": "Structures",
+              "slug": "world-structures",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen/world-structures",
+              "dateModified": "2014-05-08T17:37:17.173Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 409,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/24/635351494371736208.png",
+              "parentCategoryId": 406,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 409,
+          "classId": 6,
+          "slug": "the-graveyard-fabric",
+          "isFeatured": false,
+          "dateModified": "2024-04-07T16:56:37.903Z",
+          "dateCreated": "2021-08-11T15:21:54.913Z",
+          "dateReleased": "2024-04-07T16:49:36.117Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/the-graveyard-fabric",
+            "wikiUrl": "https://github.com/finallion/The_Graveyard_-FABRIC-/wiki",
+            "issuesUrl": "https://github.com/finallion/The_Grayeyard_-FABRIC-/issues",
+            "sourceUrl": "https://github.com/finallion/The_Grayeyard_-FABRIC-"
+          },
+          "logo": {
+            "id": 418040,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/418/40/256/256/637642921149456507.png",
+            "title": "637642921149456507.png",
+            "url": "https://media.forgecdn.net/avatars/418/40/637642921149456507.png",
+            "modId": 514468
+          },
+          "allowModDistribution": true,
+          "screenshots": [
+            {
+              "id": 436174,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/436/174/310/172/2022-02-26_18.png",
+              "title": "Small Grave",
+              "url": "https://media.forgecdn.net/attachments/436/174/2022-02-26_18.png",
+              "modId": 514468
+            },
+            {
+              "id": 436180,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/436/180/310/172/2022-02-26_18.png",
+              "title": "Nightmare",
+              "url": "https://media.forgecdn.net/attachments/436/180/2022-02-26_18.png",
+              "modId": 514468
+            },
+            {
+              "id": 436175,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/436/175/310/172/2022-02-26_18.png",
+              "title": "New themed Blocks",
+              "url": "https://media.forgecdn.net/attachments/436/175/2022-02-26_18.png",
+              "modId": 514468
+            },
+            {
+              "id": 436171,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/436/171/310/172/2022-02-26_18.png",
+              "title": "Desert Graveyard",
+              "url": "https://media.forgecdn.net/attachments/436/171/2022-02-26_18.png",
+              "modId": 514468
+            },
+            {
+              "id": 436172,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/436/172/310/172/2022-02-26_18.png",
+              "title": "Medium Graveyard",
+              "url": "https://media.forgecdn.net/attachments/436/172/2022-02-26_18.png",
+              "modId": 514468
+            },
+            {
+              "id": 436182,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/436/182/310/172/2022-02-26_18.png",
+              "title": "Acolyte",
+              "url": "https://media.forgecdn.net/attachments/436/182/2022-02-26_18.png",
+              "modId": 514468
+            },
+            {
+              "id": 436169,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/436/169/310/172/2022-02-26_18.png",
+              "title": "Haunted House",
+              "url": "https://media.forgecdn.net/attachments/436/169/2022-02-26_18.png",
+              "modId": 514468
+            },
+            {
+              "id": 436173,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/436/173/310/172/2022-02-26_18.png",
+              "title": "Mushroom Grave",
+              "url": "https://media.forgecdn.net/attachments/436/173/2022-02-26_18.png",
+              "modId": 514468
+            },
+            {
+              "id": 436181,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/436/181/310/172/2022-02-26_18.png",
+              "title": "Ghoul",
+              "url": "https://media.forgecdn.net/attachments/436/181/2022-02-26_18.png",
+              "modId": 514468
+            },
+            {
+              "id": 436170,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/436/170/310/172/2022-02-26_18.png",
+              "title": "Large Graveyard",
+              "url": "https://media.forgecdn.net/attachments/436/170/2022-02-26_18.png",
+              "modId": 514468
+            },
+            {
+              "id": 436179,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/436/179/310/172/2022-02-26_18.png",
+              "title": "Revenant",
+              "url": "https://media.forgecdn.net/attachments/436/179/2022-02-26_18.png",
+              "modId": 514468
+            }
+          ],
+          "mainFileId": 5243797
+        },
+        "curseForgeFile": {
+          "id": 5113229,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "The Graveyard 3.1 (FABRIC) for 1.20.1",
+          "fileName": "The_Graveyard_3.1_(FABRIC)_for_1.20.1.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2024-02-16T19:09:19.347Z",
+          "fileLength": 10272185,
+          "dependencies": [],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 2310483800,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 2470016069,
+              "name": "graveyard.accesswidener"
+            },
+            {
+              "fingerprint": 2834812083,
+              "name": "graveyard-common.mixins.json"
+            },
+            {
+              "fingerprint": 2153147013,
+              "name": "data"
+            },
+            {
+              "fingerprint": 3747353416,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 2365018619,
+              "name": "graveyard-common-refmap.json"
+            },
+            {
+              "fingerprint": 1454787662,
+              "name": "graveyard_logo.png"
+            },
+            {
+              "fingerprint": 260141451,
+              "name": "graveyard-fabric.mixins.json"
+            },
+            {
+              "fingerprint": 2877761368,
+              "name": "fabric.mod.json"
+            },
+            {
+              "fingerprint": 3516530932,
+              "name": "com"
+            },
+            {
+              "fingerprint": 1492344643,
+              "name": "architectury_inject_graveyard_common_eb2f8e7d2f004990ad97a2b123684aba_c854f72fe7b8d8009bae799016f547c25677bc3bf98a626d1052a60db5f0900egraveyard31devjar"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "a5cb5de7f0cb9931cae5526eb310e4c3017b7cfe",
+              "algo": 1
+            },
+            {
+              "value": "9263a6e1ca3b9c955b14278e3a11e4bd",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-09-01T00:00:00Z",
+              "gameVersionName": "Fabric"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Client"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Server"
+            }
+          ],
+          "gameVersions": [
+            "Fabric",
+            "Client",
+            "1.20.1",
+            "Server"
+          ],
+          "fileFingerprint": 3155120207,
+          "modId": 514468
+        },
+        "modrinthProject": {
+          "id": "QivVPB8W",
+          "slug": "the-graveyard-fabric",
+          "project_type": "mod",
+          "team": "kKhUZuLa",
+          "title": "The Graveyard (FABRIC)",
+          "description": "A mod that adds structures, mobs, bosses and blocks themed aroung the graveyard.",
+          "body": "<img src=https://i.imgur.com/pxXcH0Y.png width=\"143\" height=\"48\">\n<img src=https://i.imgur.com/uJRh2EV.png width=\"143\" height=\"48\">\n<p> </p>\n<img src=https://i.imgur.com/9Ni5XhG.png width=\"836\" height=\"503\">\n<p> </p>\n<p> The Graveyard adds new spooky biomes, structures, mobs and blocks to make your minecraft adventure more thrilling and challenging. </br>\nEvery structure, mob and biome was built with a lot of attention to detail to create an immersive experience for you. </p>\n\n<h2> Structures </h2>\n<ul>\n<li>Haunted House: uncover the secrets of this run down house.</li>\n<li>Small Grave: a final resting place encountered frequently while exploring.</li>\n<li>Small Graveyard: a cemetery that comes in multiple variants.</li>\n<li>Medium Graveyard: a quite large cemetery in the woods surrounding a minecraft temple. It holds a lot to explore and to gather, but nothing comes without a risk. Especially at night.</li>\n<li>Mushroom Grave: an overgrown grave, spawning in swamps, jungles and mushroom islands.</li>\n<li>Memorial Birch Tree: an imposing tree found in birch forests.</li>\n<li>Large Graveyard: an immense jigsaw structure generating in forests. But be warned - it is full of dangers.</li>\n<li>Crypt: an expansive labyrinth, full of traps, loot and dangers, hidden in the depths.</li>\n</ul>\n\n<h2> Boss - Corrupted Champion</h2>\n<ul>\n<li>The Corrupted Champion is the entombed remnant of an unknown hero, fallen into corruption. Its power arise from its bone staff, which was crafted from the bones of its innocent victims. With its power, the lich can controll the minds of its enemies and turn peaceful beings into abominations fighting along its side. But beware. Even if you manage to drain the staff's corruption, the fight isn't over.</li>\n\n \n<li>Phases:</li>\n\nSpell phase abilities: Bone Vortex Attack, Skull Cast Attack, Levitation Spell, Falling Corpses Spell, Summon Minions Spell, Labyrinth Heal Attack. </br>\nHunt phase abilities: Darkness encases the player while the Lich hunts its prey. Don't let it come to close.</br>\nDeformation phase.\n\n\n<li>How to summon the Corrupted Champion:</li>\n\nCollect the three bone staff pieces (Ominous Bone Staff Fragment) from the Ruins structure. Every Ruin has a unique fragment (upper, middle and lower bone staff fragment).</br>\nObtain a bone dagger from an Acolyte, or craft it yourself.</br>\nHold a glass bottle in your offhand and start killing villager with the bone dagger. You'll get a Vial of Blood. Fill the vial to the limit.</br>\nFind the Lich Prison structure, a large floating island above the oceans.</br>\nWait until it is night, place the bone staff pieces (from upper to lower) on the dark corrupted deepslate blocks in front of the altar (they should fairly stand out).</br>\nPour the Vial of Blood into the altar.</br>\n\nVoilà, you unleashed pure evil into the world, probably causing the death of thousands of innocent people and very likely your own.\n</ul>\n\n<h2> Mobs </h2>\n<ul>\n<li>Skeleton Creeper: a faster undead variant of the creeper. It may has lost his destructive powers, but its haunting appearance will blind you.</li>\n<li>Acolyte: a darker representative of the illager family. If he'll find you, your bones will serve him as a new weapon.</li>\n<li>Reaper: Ghosts? Here, in a spooky graveyard mod? No... The reaper takes this place.</li>\n<li>Ghoul: a deformed revenant, hold together only by his rage on the living.</li>\n<li>Revenant: the animated remains of a once human being.</li>\n<li>Nightmare: a deformed creature that moves quicker than it seems. Better stay away and never look at it.</li>\n<li>Wraith: haunting those who dare to desecrate its coffin.</li>\n<li>Corrupted Illager: a fast undead version of the illagers.</li>\n</ul>\n\n<h2> Blocks and Items</h2>\n<ul>\n<li>Corruption: ↸ᔑ∷ꖌ ᔑリ↸ ᒷ⍊╎ꖎ ᒲᔑℸ ̣ ℸ ̣ ᒷ∷</li>\n<li>Sarcophagus: a final resting place now turned into storage space.</li>\n<li>Coffin: a final wooden resting place in all wood variants.</li>\n<li>Glazed Urn: a beautiful ornated urn, that serves as storage.</li>\n<li>Small Urn: a simple urn, that serves as storage.</li>\n<li>Fire Brazier: a dark cryptic iron bowl, displaying soul flames or flames when ignited.</li>\n<li>Dark Iron Ingot: an ashen version of iron</li>\n<li>Dark Iron Block: decorative steel-like block</li>\n<li>Dark Iron Door/Trapdoor: dark version of the iron door and trapdoor, but no need for redstone to open them.</li>\n<li>Dark Iron Bars: like vanilla iron bars, but dark and matching the theme.</li>\n<li>Skeletons: a fragile decoration block in many different forms that can be found in graveyard structures.</li>\n<li>Gravestone: edit the gravestone to create a memorial for your lost minecraft dog or horse.</li>\n<li>Ceramics: vases to decorate the graveyards (not craftable).</li>\n<li>Bone Dagger: crafted with bones, this weapon is used in dark rituals. It may also be useful for breaking glass.</li>\n</ul>\n<p> </p>\n\n<h3>Join my Discord for help, request or ideas!</h3>\n<a href=\"https://discord.gg/8JgHeQ9eeQ\">\n<p> </p>\n<img src=\"https://i.imgur.com/5z3mhof.png\" width=\"60\" height=\"60\">\n</a>\n\n<p> </p>\n<h3>Bugs and Source code </h3>\n<p> </p>\n<a href=\"https://github.com/finallion/The_Grayeyard_-FABRIC-/issues\">Github issue tracker</a>\n\n\n<p> </p>\n<h3>Dependencies </h3>\n<p> </p>\n<a href=\"https://www.curseforge.com/minecraft/mc-mods/geckolib\">Geckolib for Fabric</a>\n<p> </p>\n<a href=\"https://modrinth.com/mod/fabric-api\">Fabric API</a>",
+          "published": "2022-06-05T13:49:22.346565Z",
+          "updated": "2024-02-24T10:31:37.430453Z",
+          "status": "approved",
+          "license": {
+            "id": "LGPL-3.0-only",
+            "name": "GNU Lesser General Public License v3.0 only"
+          },
+          "client_side": "required",
+          "server_side": "required",
+          "categories": [
+            "adventure",
+            "mobs",
+            "worldgen"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/QivVPB8W/0549285b940156bca595f49a05aaf22916e87b0f_96.webp",
+          "issues_url": "https://github.com/finallion/The_Grayeyard_-FABRIC-/issues",
+          "source_url": "https://github.com/finallion/The_Grayeyard_-FABRIC-",
+          "discord_url": "https://discord.gg/8JgHeQ9eeQ",
+          "donation_urls": [
+            {
+              "id": "bmac",
+              "platform": "Bmac",
+              "url": "https://buymeacoffee.com/Finallion"
+            }
+          ],
+          "gallery": [
+            {
+              "url": "https://cdn.modrinth.com/data/QivVPB8W/images/0d37bae42a4aa3d058e0c6b6abc250e6d2ddc520_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/QivVPB8W/images/c8084bab1fd23147fe2714b2a4824ef1f0a33922.png",
+              "featured": false,
+              "title": "Haunted House",
+              "created": "2022-06-05T13:49:12.712149Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/QivVPB8W/images/256fafe35ecd47e7f1464a7efed4d72382db315c_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/QivVPB8W/images/256fafe35ecd47e7f1464a7efed4d72382db315c.png",
+              "featured": false,
+              "title": "Large Graveyard",
+              "created": "2022-06-05T13:49:12.712149Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/QivVPB8W/images/4187d410997e3b51db11038fbb9e53902c72bdc4_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/QivVPB8W/images/4e74f4554d4cedddaec49d0330a42d5e2c68b137.png",
+              "featured": false,
+              "title": "Medium Graveyard",
+              "created": "2022-06-05T13:49:12.712149Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/QivVPB8W/images/8e42ffb95e9173e4e6073ec084b1b329454590c7_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/QivVPB8W/images/8e42ffb95e9173e4e6073ec084b1b329454590c7.png",
+              "featured": false,
+              "title": "Revenants",
+              "created": "2022-06-05T13:49:12.712149Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/QivVPB8W/images/8eb2959164f90b4b56903e5487386576bdff50cf_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/QivVPB8W/images/e4a0db97552fae9884312816812ad3936d720b2b.png",
+              "featured": false,
+              "title": "Custom Blocks",
+              "created": "2022-06-05T13:49:12.712149Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/QivVPB8W/images/d5bdfaa6d838e60fee85857ecb3cf40ee4a2bc85_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/QivVPB8W/images/d5bdfaa6d838e60fee85857ecb3cf40ee4a2bc85.png",
+              "featured": false,
+              "title": "Desert Graveyard",
+              "created": "2022-06-05T13:49:12.712149Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/QivVPB8W/images/f64f83a412b38d042524957ccfaed35c4816a2a4_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/QivVPB8W/images/f64f83a412b38d042524957ccfaed35c4816a2a4.png",
+              "featured": false,
+              "title": "Mushroom Grave",
+              "created": "2022-06-05T13:49:12.712149Z",
+              "ordering": 0.0
+            }
+          ]
+        },
+        "modrinthVersion": {
+          "id": "Hpn2GMza",
+          "project_id": "QivVPB8W",
+          "author_id": "tNo2siGn",
+          "name": "The Graveyard 3.1 (FABRIC) for 1.20.1",
+          "version_number": "3.1",
+          "changelog": "",
+          "date_published": "2024-02-24T10:31:38.146185Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha512": "d5c6d94109ec84910fa394116100203d0865c1b3856a269521dfbf5dd46ea55556af3446f509f7aef97d6e15636853b92258a98d695f275032177922496221e4",
+                "sha1": "a5cb5de7f0cb9931cae5526eb310e4c3017b7cfe"
+              },
+              "url": "https://cdn.modrinth.com/data/QivVPB8W/versions/Hpn2GMza/The_Graveyard_3.1_%28FABRIC%29_for_1.20.1.jar",
+              "filename": "The_Graveyard_3.1_(FABRIC)_for_1.20.1.jar",
+              "primary": true,
+              "size": 10272185
+            }
+          ],
+          "dependencies": [
+            {
+              "project_id": "8BmcQJ2H",
+              "dependency_type": "required"
+            }
+          ],
+          "game_versions": [
+            "1.20.1"
+          ],
+          "loaders": [
+            "fabric"
+          ]
+        }
+      },
+      {
+        "name": "Obscure API",
+        "version": "Obscure API 16",
+        "optional": true,
+        "file": "Obscure-API-16.jar",
+        "type": "mods",
+        "description": "Auxiliary Library",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 891234,
+        "curseForgeFileId": 4656918,
+        "curseForgeProject": {
+          "id": 891234,
+          "name": "Obscure API (Fabric)",
+          "authors": [
+            {
+              "id": 102714346,
+              "name": "Obscuria",
+              "url": "https://www.curseforge.com/members/obscuria"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Auxiliary Library",
+          "categories": [
+            {
+              "name": "Utility & QoL",
+              "slug": "utility-qol",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/utility-qol",
+              "dateModified": "2021-11-17T11:45:09.143Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 5191,
+              "iconUrl": "https://media.forgecdn.net/avatars/456/558/637727379086405233.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Cosmetic",
+              "slug": "cosmetic",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/cosmetic",
+              "dateModified": "2014-05-08T17:42:35.597Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 424,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/39/635351497555976928.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "API and Library",
+              "slug": "library-api",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/library-api",
+              "dateModified": "2014-05-23T03:21:44.06Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 421,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/36/635351496947765531.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 421,
+          "classId": 6,
+          "slug": "obscure-api-fabric",
+          "isFeatured": false,
+          "dateModified": "2024-02-02T08:14:41.953Z",
+          "dateCreated": "2023-07-20T10:13:39.613Z",
+          "dateReleased": "2023-07-21T17:08:15.89Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/obscure-api-fabric",
+            "wikiUrl": ""
+          },
+          "logo": {
+            "id": 851949,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/851/949/256/256/638254448196325420.png",
+            "title": "638254448196325420.png",
+            "url": "https://media.forgecdn.net/avatars/851/949/638254448196325420.png",
+            "modId": 891234
+          },
+          "allowModDistribution": false,
+          "screenshots": [],
+          "mainFileId": 4656918
+        },
+        "curseForgeFile": {
+          "id": 4656918,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "Obscure API 16",
+          "fileName": "Obscure-API-16.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2023-07-21T17:08:15.89Z",
+          "fileLength": 405700,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 306612,
+              "relationType": 3
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 2865431220,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 1406331410,
+              "name": "LICENSE_obscureapi"
+            },
+            {
+              "fingerprint": 3087822045,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 272163810,
+              "name": "com"
+            },
+            {
+              "fingerprint": 3840785841,
+              "name": "fabric.mod.json"
+            },
+            {
+              "fingerprint": 2174043945,
+              "name": "obscure_api.mixins.json"
+            },
+            {
+              "fingerprint": 3676426812,
+              "name": "obscureapi-refmap.json"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "0272d0e5ddddd63a57b27130f3e317efb60ef509",
+              "algo": 1
+            },
+            {
+              "value": "716510e995887044218a8ebbba962e55",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-09-01T00:00:00Z",
+              "gameVersionName": "Fabric"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Client"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Server"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-05-26T00:00:00Z",
+              "gameVersionName": "Quilt"
+            }
+          ],
+          "gameVersions": [
+            "Fabric",
+            "Client",
+            "1.20.1",
+            "Server",
+            "Quilt"
+          ],
+          "fileFingerprint": 2048513852,
+          "modId": 891234
+        },
+        "modrinthProject": {
+          "id": "fU7jbFHc",
+          "slug": "obscure-api",
+          "project_type": "mod",
+          "team": "TbsfsJTA",
+          "title": "Obscure API",
+          "description": "Auxiliary Library",
+          "body": "#### <center>Obscure API is a core for other Obscuria Collection mods.</center>\n<br />\n\n## <center>Obscuria Collection Mods</center>\n\n<center>\n<p style=\"text-align: center;\"><a href=\"https://modrinth.com/mod/obscure-api\"><img style=\"display: inline;\" src=\"https://i.imgur.com/AhHvRAA.png\" width=\"25%\" /></a> <a href=\"https://modrinth.com/mod/aquamirae\"><img style=\"display: inline;\" src=\"https://i.imgur.com/QiC0VcZ.png\" width=\"25%\" /></a> <a href=\"https://modrinth.com/mod/obscure-tooltips\"><img style=\"display: inline;\" src=\"https://i.imgur.com/qkyDZ6A.png\" width=\"25%\" /></a></p>\n<p style=\"text-align: center;\"><a href=\"https://modrinth.com/mod/loot-journal\"><img style=\"display: inline;\" src=\"https://i.imgur.com/1r2Ue5Y.png\" width=\"25%\" /></a> <img style=\"display: inline;\" src=\"https://i.imgur.com/xKaiQBp.png\" width=\"25%\" /> <img style=\"display: inline;\" src=\"https://i.imgur.com/xKaiQBp.png\" width=\"25%\" /></p>\n<p style=\"text-align: center;\"><a href=\"https://www.patreon.com/Obscuria\"><img style=\"display: inline;\" src=\"https://i.imgur.com/4lV9g9R.png\" width=\"75%\" /></a></p>\n<p style=\"text-align: center;\"><a href=\"https://discord.gg/jSHHJSUWdY\"><img style=\"display: inline;\" src=\"https://i.imgur.com/1Y7y8mO.png\" width=\"75%\" /></a></p>\n<p style=\"text-align: center;\">&nbsp;</p>\n</center>\n\n# <center>Sponsored by [NameHero](https://nhtrx.com/?a=1494&oc=54&c=209&p=r&s1=)</center>\n\n#### <center>Need your own server to play with friends? NameHero provides amazing hosting services with automatic server setup for any game version and an easy-to-use control panel for advanced customization. Create your own server in 5 minutes without any technical knowledge!</center>\n\n<center><a href=\"https://nhtrx.com/?a=1494&oc=54&c=209&p=r&s1=\" rel=\"nofollow\"><img style=\"display:inline\" src=\"https://i.imgur.com/MfOH9Vq.png\" width=\"75%\"/></a></center>",
+          "published": "2023-04-21T11:42:19.100394Z",
+          "updated": "2024-07-17T11:50:56.068228Z",
+          "status": "approved",
+          "license": {
+            "id": "LicenseRef-All-Rights-Reserved",
+            "name": ""
+          },
+          "client_side": "required",
+          "server_side": "required",
+          "categories": [
+            "library",
+            "utility"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/fU7jbFHc/f0a6e137f945eb676d46f6aec31681fe288d0ca9.png",
+          "issues_url": "https://discord.gg/By29HCKgPx",
+          "discord_url": "https://discord.gg/jSHHJSUWdY",
+          "donation_urls": [
+            {
+              "id": "patreon",
+              "platform": "Patreon",
+              "url": "https://www.patreon.com/Obscuria"
+            }
+          ],
+          "gallery": []
+        },
+        "modrinthVersion": {
+          "id": "IWDYxZre",
+          "project_id": "fU7jbFHc",
+          "author_id": "JYGX3M0u",
+          "name": "Obscure API 16",
+          "version_number": "16",
+          "changelog": "Fabric Port",
+          "date_published": "2023-07-23T16:34:12.991520Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha1": "0272d0e5ddddd63a57b27130f3e317efb60ef509",
+                "sha512": "f0998d69174063420078fe96ff904665a33f3950475536c8ca8f0bda45417ef94a75598d417af4302e92d6a59ead1ea7e6721062b538f981f5f4dd16e8c1c5b1"
+              },
+              "url": "https://cdn.modrinth.com/data/fU7jbFHc/versions/IWDYxZre/Obscure-API-16.jar",
+              "filename": "Obscure-API-16.jar",
+              "primary": true,
+              "size": 405700
+            }
+          ],
+          "dependencies": [
+            {
+              "version_id": "XheZ9iGK",
+              "project_id": "P7dR8mSH",
+              "dependency_type": "required"
+            }
+          ],
+          "game_versions": [
+            "1.20.1"
+          ],
+          "loaders": [
+            "fabric"
+          ]
+        }
+      },
+      {
+        "name": "Aquamirae",
+        "version": "Aquamirae 6 API16",
+        "optional": true,
+        "file": "Aquamirae-6.jar",
+        "type": "mods",
+        "description": "Ship graveyard with terrible deep sea creatures!",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 891257,
+        "curseForgeFileId": 4656204,
+        "curseForgeProject": {
+          "id": 891257,
+          "name": "Aquamirae (Fabric)",
+          "authors": [
+            {
+              "id": 102714346,
+              "name": "Obscuria",
+              "url": "https://www.curseforge.com/members/obscuria"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Ship graveyard with terrible deep sea creatures",
+          "categories": [
+            {
+              "name": "Biomes",
+              "slug": "world-biomes",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen/world-biomes",
+              "dateModified": "2014-05-08T17:34:59.587Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 407,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/22/635351492995856506.png",
+              "parentCategoryId": 406,
+              "classId": 6
+            },
+            {
+              "name": "Mobs",
+              "slug": "world-mobs",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen/world-mobs",
+              "dateModified": "2014-05-08T17:46:59.507Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 411,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/53/635351500195070414.png",
+              "parentCategoryId": 406,
+              "classId": 6
+            },
+            {
+              "name": "Adventure and RPG",
+              "slug": "adventure-rpg",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/adventure-rpg",
+              "dateModified": "2014-05-08T17:42:09.54Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 422,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/37/635351497295252123.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Structures",
+              "slug": "world-structures",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen/world-structures",
+              "dateModified": "2014-05-08T17:37:17.173Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 409,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/24/635351494371736208.png",
+              "parentCategoryId": 406,
+              "classId": 6
+            },
+            {
+              "name": "Armor, Tools, and Weapons",
+              "slug": "armor-weapons-tools",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/armor-weapons-tools",
+              "dateModified": "2014-05-08T17:44:39.057Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 434,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/47/635351498790409758.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 422,
+          "classId": 6,
+          "slug": "aquamirae-fabric",
+          "isFeatured": false,
+          "dateModified": "2024-07-02T10:09:10.693Z",
+          "dateCreated": "2023-07-20T10:51:23.94Z",
+          "dateReleased": "2023-07-21T07:05:56.82Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/aquamirae-fabric",
+            "issuesUrl": "https://discord.gg/By29HCKgPx",
+            "sourceUrl": "https://github.com/ObscuriaLithium/Aquamirae"
+          },
+          "logo": {
+            "id": 851972,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/851/972/256/256/638254470839980834.png",
+            "title": "638254470839980834.png",
+            "url": "https://media.forgecdn.net/avatars/851/972/638254470839980834.png",
+            "modId": 891257
+          },
+          "allowModDistribution": false,
+          "screenshots": [
+            {
+              "id": 800934,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/800/934/310/172/cover.jpeg",
+              "title": "Cover",
+              "url": "https://media.forgecdn.net/attachments/800/934/cover.jpeg",
+              "modId": 891257
+            },
+            {
+              "id": 698240,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/698/240/310/172/2022-05-29_02-1.png",
+              "title": "Ice Maze",
+              "url": "https://media.forgecdn.net/attachments/698/240/2022-05-29_02-1.png",
+              "modId": 891257
+            },
+            {
+              "id": 698236,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/698/236/310/172/2022-05-29_03-4.png",
+              "title": "Ghost of Captain Cornelia",
+              "url": "https://media.forgecdn.net/attachments/698/236/2022-05-29_03-4.png",
+              "modId": 891257
+            },
+            {
+              "id": 698227,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/698/227/310/172/2022-05-29_02.png",
+              "title": "Ice Maze",
+              "url": "https://media.forgecdn.net/attachments/698/227/2022-05-29_02.png",
+              "modId": 891257
+            },
+            {
+              "id": 698226,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/698/226/310/172/2022-05-06_00-3.png",
+              "title": "Frozen Ship",
+              "url": "https://media.forgecdn.net/attachments/698/226/2022-05-06_00-3.png",
+              "modId": 891257
+            },
+            {
+              "id": 698241,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/698/241/310/172/2022-05-29_02-2.png",
+              "title": "Tortured Soul",
+              "url": "https://media.forgecdn.net/attachments/698/241/2022-05-29_02-2.png",
+              "modId": 891257
+            },
+            {
+              "id": 698225,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/698/225/310/172/2021-10-19_07.png",
+              "title": "Thee-Bolt Helmet Overlay",
+              "url": "https://media.forgecdn.net/attachments/698/225/2021-10-19_07.png",
+              "modId": 891257
+            },
+            {
+              "id": 698239,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/698/239/310/172/2022-05-29_03-6.png",
+              "title": "Ghost of Captain Cornelia",
+              "url": "https://media.forgecdn.net/attachments/698/239/2022-05-29_03-6.png",
+              "modId": 891257
+            },
+            {
+              "id": 698235,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/698/235/310/172/2022-05-06_00-4.png",
+              "title": "Armor",
+              "url": "https://media.forgecdn.net/attachments/698/235/2022-05-06_00-4.png",
+              "modId": 891257
+            },
+            {
+              "id": 698242,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/698/242/310/172/2022-05-29_02-3.png",
+              "title": "Ice Maze",
+              "url": "https://media.forgecdn.net/attachments/698/242/2022-05-29_02-3.png",
+              "modId": 891257
+            },
+            {
+              "id": 698238,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/698/238/310/172/2021-10-12_04-2.png",
+              "title": "Frozen Chest",
+              "url": "https://media.forgecdn.net/attachments/698/238/2021-10-12_04-2.png",
+              "modId": 891257
+            },
+            {
+              "id": 698237,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/698/237/310/172/2022-05-29_03-5.png",
+              "title": "Mother of the Maze",
+              "url": "https://media.forgecdn.net/attachments/698/237/2022-05-29_03-5.png",
+              "modId": 891257
+            },
+            {
+              "id": 698234,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/698/234/310/172/2021-10-12_03-2.png",
+              "title": "Terrible Armor",
+              "url": "https://media.forgecdn.net/attachments/698/234/2021-10-12_03-2.png",
+              "modId": 891257
+            },
+            {
+              "id": 698233,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/698/233/310/172/2021-10-12_04-1.png",
+              "title": "Ice Maze",
+              "url": "https://media.forgecdn.net/attachments/698/233/2021-10-12_04-1.png",
+              "modId": 891257
+            },
+            {
+              "id": 698232,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/698/232/310/172/2022-05-29_03-3.png",
+              "title": "Maze Rose (Chakram)",
+              "url": "https://media.forgecdn.net/attachments/698/232/2022-05-29_03-3.png",
+              "modId": 891257
+            },
+            {
+              "id": 698231,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/698/231/310/172/2021-10-12_04.png",
+              "title": "Logbook",
+              "url": "https://media.forgecdn.net/attachments/698/231/2021-10-12_04.png",
+              "modId": 891257
+            },
+            {
+              "id": 698229,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/698/229/310/172/2021-10-12_03-1.png",
+              "title": "Terrible Armor",
+              "url": "https://media.forgecdn.net/attachments/698/229/2021-10-12_03-1.png",
+              "modId": 891257
+            }
+          ],
+          "mainFileId": 4656204
+        },
+        "curseForgeFile": {
+          "id": 4656204,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "Aquamirae 6 API16 (1.20.1)",
+          "fileName": "Aquamirae 6.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2023-07-21T07:05:56.82Z",
+          "fileLength": 16111383,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 306612,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 891234,
+              "relationType": 3
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 2865431220,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 1406331410,
+              "name": "LICENSE_aquamirae"
+            },
+            {
+              "fingerprint": 3833886100,
+              "name": "aquamirae-refmap.json"
+            },
+            {
+              "fingerprint": 1265246529,
+              "name": "aquamirae.mixins.json"
+            },
+            {
+              "fingerprint": 4034138125,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 1545893137,
+              "name": "com"
+            },
+            {
+              "fingerprint": 404279585,
+              "name": "data"
+            },
+            {
+              "fingerprint": 2659875720,
+              "name": "fabric.mod.json"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "13feb2c346d372b3bec57f1ad2e151d87f65e5d6",
+              "algo": 1
+            },
+            {
+              "value": "e817cdf90a103d1f48ddd96b8b0ddcd6",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-09-01T00:00:00Z",
+              "gameVersionName": "Fabric"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Client"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
+              "gameVersionName": "Server"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-05-26T00:00:00Z",
+              "gameVersionName": "Quilt"
+            }
+          ],
+          "gameVersions": [
+            "Fabric",
+            "Client",
+            "1.20.1",
+            "Server",
+            "Quilt"
+          ],
+          "fileFingerprint": 753585006,
+          "modId": 891257
+        },
+        "modrinthProject": {
+          "id": "k23mNPhZ",
+          "slug": "aquamirae",
+          "project_type": "mod",
+          "team": "sO83oKB2",
+          "title": "Aquamirae",
+          "description": "Ship graveyard with terrible deep sea creatures!",
+          "body": "<center><img style=\"display: inline;\" src=\"https://i.imgur.com/FXUH2cx.jpg\" width=\"95%\" /></center>\n<br/>\n\n*The once endless ocean, the waters of which were raised from the depths by gusty winds, the ocean that was sailed by brave voyagers and fearsome flotillas of pillagers, is now chained in ice and snow.*\n\n*Frozen in time... The ships of those who were unlucky froze in the merciless ice, at the same moment terrible creatures crawled out of the abyss into the light of day. Through the blizzard, only the rare sounds of the horns of those who still hope for rescue are heard. What could transform the once unbridled ocean so drastically?*\n\n### <center>Requires Obscure API</center>\n\n## <center>Features</center>\n\n- Ice location with unique generation. Maze on the surface, frozen ocean under the ice.\n- Generates in the vanilla Deep Frozen Ocean biome, making it compatible with all world generation mods.\n- Lots of different sized structures for survival.\n- Unique ambient: background sounds, music and particles.\n- Terrible deep-sea (and not only) creatures.\n- Ghost of Captain Cornelia: boss with complex animation and a set of deadly abilities.\n- Many weapons with various abilities.\n- Several sets of armor with unique effects of half-sets and full-sets.\n- Food, сonsumable items, items with unique properties and decorations.\n- Many customization options via config file.\n\n<center><img style=\"display: inline;\" src=\"https://media.forgecdn.net/attachments/465/324/2022-05-29_02.png\" width=\"49%\" /> <img style=\"display: inline;\" src=\"https://media.forgecdn.net/attachments/465/327/2022-05-29_02.png\" width=\"49%\" /></center>\n<center><img style=\"display: inline;\" src=\"https://media.forgecdn.net/attachments/465/339/2022-05-29_03.png\" width=\"49%\" /> <img style=\"display: inline;\" src=\"https://media.forgecdn.net/attachments/465/335/2022-05-29_03.png\" width=\"49%\" /></center>\n\n<p><iframe allowfullscreen=\"allowfullscreen\" src=\"https://www.youtube.com/embed/l2P5w9AkEiQ\" height=\"400\" width=\"100%\"></iframe></p>\n\n## <center>Obscuria Collection Mods</center>\n\n<center>\n<p style=\"text-align: center;\"><a href=\"https://modrinth.com/mod/obscure-api\"><img style=\"display: inline;\" src=\"https://i.imgur.com/AhHvRAA.png\" width=\"25%\" /></a> <a href=\"https://modrinth.com/mod/aquamirae\"><img style=\"display: inline;\" src=\"https://i.imgur.com/QiC0VcZ.png\" width=\"25%\" /></a> <a href=\"https://modrinth.com/mod/obscure-tooltips\"><img style=\"display: inline;\" src=\"https://i.imgur.com/qkyDZ6A.png\" width=\"25%\" /></a></p>\n<p style=\"text-align: center;\"><a href=\"https://modrinth.com/mod/loot-journal\"><img style=\"display: inline;\" src=\"https://i.imgur.com/1r2Ue5Y.png\" width=\"25%\" /></a> <img style=\"display: inline;\" src=\"https://i.imgur.com/xKaiQBp.png\" width=\"25%\" /> <img style=\"display: inline;\" src=\"https://i.imgur.com/xKaiQBp.png\" width=\"25%\" /></p>\n<p style=\"text-align: center;\"><a href=\"https://www.patreon.com/Obscuria\"><img style=\"display: inline;\" src=\"https://i.imgur.com/4lV9g9R.png\" width=\"75%\" /></a></p>\n<p style=\"text-align: center;\"><a href=\"https://discord.gg/jSHHJSUWdY\"><img style=\"display: inline;\" src=\"https://i.imgur.com/1Y7y8mO.png\" width=\"75%\" /></a></p>\n<p style=\"text-align: center;\">&nbsp;</p>\n</center>\n\n# <center>Sponsored by [NameHero](https://nhtrx.com/?a=1494&oc=54&c=209&p=r&s1=)</center>\n\n#### <center>Need your own server to play with friends? NameHero provides amazing hosting services with automatic server setup for any game version and an easy-to-use control panel for advanced customization. Create your own server in 5 minutes without any technical knowledge!</center>\n\n<center><a href=\"https://nhtrx.com/?a=1494&oc=54&c=209&p=r&s1=\" rel=\"nofollow\"><img style=\"display:inline\" src=\"https://i.imgur.com/MfOH9Vq.png\" width=\"75%\"/></a></center>",
+          "published": "2023-04-21T10:04:44.615725Z",
+          "updated": "2024-07-17T11:56:58.546562Z",
+          "status": "approved",
+          "license": {
+            "id": "LicenseRef-All-Rights-Reserved",
+            "name": ""
+          },
+          "client_side": "required",
+          "server_side": "required",
+          "categories": [
+            "adventure",
+            "equipment",
+            "worldgen"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/k23mNPhZ/a079cd089a737244861b41eea6c15b6e7091cc90_96.webp",
+          "issues_url": "https://discord.gg/By29HCKgPx",
+          "wiki_url": "https://github.com/ObscuriaLithium/Aquamirae/wiki",
+          "discord_url": "https://discord.gg/jSHHJSUWdY",
+          "donation_urls": [
+            {
+              "id": "patreon",
+              "platform": "Patreon",
+              "url": "https://www.patreon.com/Obscuria"
+            }
+          ],
+          "gallery": [
+            {
+              "url": "https://cdn.modrinth.com/data/k23mNPhZ/images/e144fc02877a08a5b604948429d5e418ceab6f64.webp",
+              "raw_url": "https://cdn.modrinth.com/data/k23mNPhZ/images/e144fc02877a08a5b604948429d5e418ceab6f64.webp",
+              "featured": true,
+              "title": "Cover",
+              "created": "2023-04-25T21:22:14.458241Z",
+              "ordering": 1.0
+            }
+          ]
+        },
+        "modrinthVersion": {
+          "id": "ouUaC54p",
+          "project_id": "k23mNPhZ",
+          "author_id": "JYGX3M0u",
+          "name": "Aquamirae 6 API16",
+          "version_number": "6",
+          "changelog": "Fabric Port",
+          "date_published": "2023-07-23T16:37:38.916041Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha1": "13feb2c346d372b3bec57f1ad2e151d87f65e5d6",
+                "sha512": "c047063fb7b54cf107554992a9341470c622c178a89a1135c9204b347034bf9dfc757f09f1f96fcc20852868c0c11fb18ca7151ec0e2b87556f516011b0f59b1"
+              },
+              "url": "https://cdn.modrinth.com/data/k23mNPhZ/versions/ouUaC54p/Aquamirae-6.jar",
+              "filename": "Aquamirae-6.jar",
+              "primary": true,
+              "size": 16111383
+            }
+          ],
+          "dependencies": [
+            {
+              "version_id": "IWDYxZre",
+              "project_id": "fU7jbFHc",
+              "dependency_type": "required"
+            },
+            {
+              "version_id": "XheZ9iGK",
+              "project_id": "P7dR8mSH",
+              "dependency_type": "required"
+            }
+          ],
+          "game_versions": [
+            "1.20.1"
+          ],
+          "loaders": [
+            "fabric"
+          ]
+        }
       }
     ],
     "ignoredUpdates": [],
     "ignoreAllUpdates": false,
     "vanillaInstance": true,
-    "lastPlayed": 1726694282317,
-    "numPlays": 111,
+    "lastPlayed": 1726695068767,
+    "numPlays": 113,
     "lastExportName": "Sunnie's RPG Tech",
     "lastExportVersion": "1.20.1",
     "lastExportAuthor": "Hitomiiv",

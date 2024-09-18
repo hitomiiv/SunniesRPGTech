@@ -75,6 +75,11 @@ mode = "fancy"
 				painting = true
 				arrow = true
 				husk = true
+				area_effect_cloud = true
+				pillager = true
+				polar_bear = true
+				vindicator = true
+				evoker = true
 
 			[light_sources.settings.entities.artifacts]
 				mimic = true
@@ -139,6 +144,10 @@ mode = "fancy"
 				prawn = true
 				bettafish = true
 				rainbow_trout = true
+				stingray = true
+				hammerhead_shark = true
+				mantaray = true
+				seahorse = true
 
 			[light_sources.settings.entities.smallships]
 				brigg = true
@@ -150,4 +159,21 @@ mode = "fancy"
 			[light_sources.settings.entities.spell_engine]
 				spell_area_effect = true
 				spell_projectile = true
+
+			[light_sources.settings.entities.graveyard]
+				skeleton_creeper = true
+				corrupted_vindicator = true
+				acolyte = true
+				corrupted_pillager = true
+
+			[light_sources.settings.entities.aquamirae]
+				spinefish = true
+				anglerfish = true
+				golden_moth = true
+				maw = true
+				tortured_soul = true
+				eel = true
+
+			[light_sources.settings.entities.obscure_api]
+				texture_fx = true
 
