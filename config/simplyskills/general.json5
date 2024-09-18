@@ -1,6 +1,7 @@
 {
 	"enableAscendancy": true,
 	"treeResetOnDeath": false,
+	"treeExpLossOnDeath": 0,
 	"disableDefaultPuffishTrees": false,
 	"enableBuildSharing": false,
 	"skillChronicleCooldown": 12000,

@@ -47,4 +47,4 @@
 		slow_speed = -0.65
 		#Base speed modifier applied to animals (-0.5 = half normal speed)
 		#Range: -1.0 ~ -0.1
-		pull_speed = -0.1
+		pull_speed = 0.0

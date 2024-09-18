@@ -539,6 +539,17 @@
         "value": 1000000
       }
     },
+    "spectrum:mental_presence": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
+      }
+    },
     "combatroll:count": {
       "enabled": false,
       "min": {
