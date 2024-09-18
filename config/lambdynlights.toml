@@ -82,6 +82,7 @@ mode = "fancy"
 				evoker = true
 				experience_orb = true
 				mooshroom = true
+				stray = true
 
 			[light_sources.settings.entities.artifacts]
 				mimic = true
@@ -169,6 +170,7 @@ mode = "fancy"
 				acolyte = true
 				corrupted_pillager = true
 				nameless_hanged = true
+				nightmare = true
 
 			[light_sources.settings.entities.aquamirae]
 				spinefish = true
