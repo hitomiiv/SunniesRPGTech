@@ -82137,13 +82137,446 @@
             "quilt"
           ]
         }
+      },
+      {
+        "name": "Dungeon Difficulty",
+        "version": "2.2.1+1.20.1",
+        "optional": true,
+        "file": "dungeon_difficulty-2.2.1+1.20.1.jar",
+        "type": "mods",
+        "description": "☠️ Increase the difficulty and get matching rewards.",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 645559,
+        "curseForgeFileId": 5441403,
+        "curseForgeProject": {
+          "id": 645559,
+          "name": "Dungeon Difficulty [Fabric]",
+          "authors": [
+            {
+              "id": 103343666,
+              "name": "daedelus_dev",
+              "url": "https://www.curseforge.com/members/daedelus_dev"
+            }
+          ],
+          "gameId": 432,
+          "summary": "☠️ Increase the difficulty and get matching rewards",
+          "categories": [
+            {
+              "name": "Armor, Tools, and Weapons",
+              "slug": "armor-weapons-tools",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/armor-weapons-tools",
+              "dateModified": "2014-05-08T17:44:39.057Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 434,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/47/635351498790409758.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Adventure and RPG",
+              "slug": "adventure-rpg",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/adventure-rpg",
+              "dateModified": "2014-05-08T17:42:09.54Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 422,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/37/635351497295252123.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Mobs",
+              "slug": "world-mobs",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen/world-mobs",
+              "dateModified": "2014-05-08T17:46:59.507Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 411,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/53/635351500195070414.png",
+              "parentCategoryId": 406,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 422,
+          "classId": 6,
+          "slug": "dungeon-difficulty",
+          "isFeatured": false,
+          "dateModified": "2024-10-07T18:48:29.083Z",
+          "dateCreated": "2022-07-16T22:35:31.187Z",
+          "dateReleased": "2024-10-07T18:43:43.97Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/dungeon-difficulty",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/ZsoltMolnarrr/PowerScale/issues",
+            "sourceUrl": "https://github.com/ZsoltMolnarrr/PowerScale"
+          },
+          "logo": {
+            "id": 574154,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/574/154/256/256/637936675334516657.png",
+            "title": "637936675334516657.png",
+            "url": "https://media.forgecdn.net/avatars/574/154/637936675334516657.png",
+            "modId": 645559
+          },
+          "allowModDistribution": true,
+          "screenshots": [
+            {
+              "id": 477541,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/477/541/310/172/example_nether_loot.png",
+              "title": "example_loot",
+              "url": "https://media.forgecdn.net/attachments/477/541/example_nether_loot.png",
+              "modId": 645559
+            },
+            {
+              "id": 501038,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/501/38/310/172/dd-title-single.png",
+              "title": "dd-logo-single",
+              "url": "https://media.forgecdn.net/attachments/501/38/dd-title-single.png",
+              "modId": 645559
+            },
+            {
+              "id": 477542,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/477/542/310/172/example_mobs.png",
+              "title": "example_mobs",
+              "url": "https://media.forgecdn.net/attachments/477/542/example_mobs.png",
+              "modId": 645559
+            },
+            {
+              "id": 477509,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/477/509/310/172/powerscale_brochure_small.png",
+              "title": "brochure",
+              "url": "https://media.forgecdn.net/attachments/477/509/powerscale_brochure_small.png",
+              "modId": 645559
+            },
+            {
+              "id": 501037,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/501/37/310/172/dd-logo-double.png",
+              "title": "dd-logo-double",
+              "url": "https://media.forgecdn.net/attachments/501/37/dd-logo-double.png",
+              "modId": 645559
+            }
+          ],
+          "mainFileId": 5792397
+        },
+        "curseForgeFile": {
+          "id": 5441403,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "dungeon_difficulty-2.2.1+1.20.1.jar",
+          "fileName": "dungeon_difficulty-2.2.1+1.20.1.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2024-06-18T15:24:36.8Z",
+          "fileLength": 354570,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 962162,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 306612,
+              "relationType": 3
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 1038916056,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 2226923820,
+              "name": "LICENSE_dungeon_difficulty"
+            },
+            {
+              "fingerprint": 3374797325,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 3167568745,
+              "name": "dungeon_difficulty-refmap.json"
+            },
+            {
+              "fingerprint": 2429506920,
+              "name": "dungeon_difficulty.mixins.json"
+            },
+            {
+              "fingerprint": 2349473384,
+              "name": "fabric.mod.json"
+            },
+            {
+              "fingerprint": 884737853,
+              "name": "net"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "58b47fc8ae65fbfb0fbbad214bae1ea7e605428d",
+              "algo": 1
+            },
+            {
+              "value": "6e97b351ebb216e7c5e30a3f3c25fc4d",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-09-01T00:00:00Z",
+              "gameVersionName": "Fabric"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            }
+          ],
+          "gameVersions": [
+            "Fabric",
+            "1.20.1"
+          ],
+          "fileFingerprint": 4162252525,
+          "modId": 645559
+        },
+        "modrinthProject": {
+          "id": "ENZmbSFZ",
+          "slug": "dungeon-difficulty",
+          "project_type": "mod",
+          "team": "3LWpH3z4",
+          "title": "Dungeon Difficulty",
+          "description": "☠️ Increase the difficulty and get matching rewards.",
+          "body": "![](https://cdn.modrinth.com/data/ENZmbSFZ/images/49610e16c8825d1354622e5d523b70573830f3ad.png \"\")\n\n[![Modloader](https://img.shields.io/badge/Loader-Fabric-ecebe6?labelColor=263768&style=for-the-badge)](https://fabricmc.net)\n![Availability](https://img.shields.io/badge/Available-1.18.2%20|%201.19%20|%201.19.1%20|%201.19.2%20|%201.19.3-ecebe6?labelColor=263768&style=for-the-badge)\n![Environment: Server](https://img.shields.io/badge/SERVER%20SIDE%20INSTALLATION-REQUIRED-ecebe6?labelColor=263768&style=for-the-badge)\n\n![Environment: Client](https://img.shields.io/badge/CLIENT%20SIDE%20INSTALLATION-REQUIRED-ecebe6?labelColor=263768&style=for-the-badge)\n[![Fabric API required](https://img.shields.io/badge/Fabric%20API-REQUIRED-ecebe6?labelColor=263768&style=for-the-badge)](https://www.curseforge.com/minecraft/mc-mods/fabric-api)\n[![Projectile Damage required](https://img.shields.io/badge/Projectile%20Damage-REQUIRED-ecebe6?labelColor=263768&style=for-the-badge)](https://www.curseforge.com/minecraft/mc-mods/projectile-damage-attribute)\n[![Discord](https://img.shields.io/discord/973561601519149057.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2&style=for-the-badge)](https://discord.gg/KN9b3pjFTM)\n\n### 🔧 = this mod | 🔩 = entity & loot attributes\n\n![](https://cdn.modrinth.com/data/ENZmbSFZ/images/0a3718915c8aa5f40dbec714f1f82e9625ef9adf.png \"\")\n\n# 📦 Features\n\n## 👨‍👩‍👧‍👦 Per player difficulty\nThe more players are online, the stronger mobs spawn.\n\n## ☠️ Zone specific difficulty\nMobs spawning at different locations (dimensions, biomes) have increased attributes (such as attack damage, health, armor) by different amount.\n\n(Generic example: all hostile mobs in the nether have more health, attack damage, armor)\n\n(Specific example: all creepers in the jungle have more health and movement speed)\n\n## ✨ Zone specific rewards\nTo match zone specific difficulty, items looted from mob drops and chests, have increased attributes (such as attack damage, projectile damage, armor, max health, etc...) by different amount.\nSome loot tables have specific buffs to their items.\n\n(Generic example: all looted items in the nether are stronger)\n\n(Specific example: all weapons looted in desert pyramid chests have more attack damage)\n\n# 🧐 Examples\n\n## Loot chests in the nether\n\n![](https://cdn.modrinth.com/data/ENZmbSFZ/images/e4d17c155b8ca56c602b68225896f32fd08f1eca.png \"\")\n\n## Mobs\n\n![](https://cdn.modrinth.com/data/ENZmbSFZ/images/516d1932391916515026669cf6071e5859de0ef7.png \"\")\n\n\n# 🔧 Configuration\n\nThis mod is fully configurable, for more details check out the [project readme](https://github.com/ZsoltMolnarrr/ProjectileDamage \"\").\n",
+          "published": "2022-07-16T22:43:08.064460Z",
+          "updated": "2024-10-07T18:43:41.833637Z",
+          "status": "approved",
+          "license": {
+            "id": "GPL-3.0-only",
+            "name": "GNU General Public License v3.0 only"
+          },
+          "client_side": "required",
+          "server_side": "required",
+          "categories": [
+            "adventure",
+            "equipment",
+            "worldgen"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/ENZmbSFZ/04dca592c0e4217f456bf32a00e4f7658bf39433_96.webp",
+          "issues_url": "https://github.com/ZsoltMolnarrr/PowerScale/issues",
+          "source_url": "https://github.com/ZsoltMolnarrr/PowerScale",
+          "wiki_url": "https://github.com/ZsoltMolnarrr/PowerScale",
+          "discord_url": "https://discord.gg/KN9b3pjFTM",
+          "donation_urls": [],
+          "gallery": [
+            {
+              "url": "https://cdn.modrinth.com/data/ENZmbSFZ/images/0787f5bf490facb406aedf2f9ad4c3abd26f3ef4_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/ENZmbSFZ/images/0a3718915c8aa5f40dbec714f1f82e9625ef9adf.png",
+              "featured": false,
+              "created": "2022-07-17T11:51:05.031443Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/ENZmbSFZ/images/516d1932391916515026669cf6071e5859de0ef7_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/ENZmbSFZ/images/516d1932391916515026669cf6071e5859de0ef7.png",
+              "featured": false,
+              "title": "example_mobs",
+              "created": "2022-07-17T12:41:56.659403Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/ENZmbSFZ/images/975dfdb694aa0f28c0d908fa4bc286aacf4ae08b_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/ENZmbSFZ/images/e4d17c155b8ca56c602b68225896f32fd08f1eca.png",
+              "featured": false,
+              "title": "example_loot",
+              "created": "2022-07-17T12:41:55.078013Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/ENZmbSFZ/images/d1996fc50fc25aa466806b04b1decdbf7bc75c2c_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/ENZmbSFZ/images/49610e16c8825d1354622e5d523b70573830f3ad.png",
+              "featured": false,
+              "created": "2022-09-25T13:50:44.056680Z",
+              "ordering": 0.0
+            }
+          ]
+        },
+        "modrinthVersion": {
+          "id": "nnllzcQl",
+          "project_id": "ENZmbSFZ",
+          "author_id": "CUHgJfv9",
+          "name": "2.2.1+1.20.1",
+          "version_number": "2.2.1+1.20.1",
+          "changelog": "No changelog was specified.",
+          "date_published": "2024-06-18T15:24:33.532085Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha1": "58b47fc8ae65fbfb0fbbad214bae1ea7e605428d",
+                "sha512": "1dd60539e09d99a3668ce6742ede679e00d655e4feda86cf34c8bca61e58ac21551077c23d01ec33271d365db14e7342929cbafbaf1cf96ac4f6d1f8dc1026cb"
+              },
+              "url": "https://cdn.modrinth.com/data/ENZmbSFZ/versions/nnllzcQl/dungeon_difficulty-2.2.1%2B1.20.1.jar",
+              "filename": "dungeon_difficulty-2.2.1+1.20.1.jar",
+              "primary": true,
+              "size": 354570
+            }
+          ],
+          "dependencies": [
+            {
+              "project_id": "AqaIIO6D",
+              "dependency_type": "required"
+            },
+            {
+              "project_id": "P7dR8mSH",
+              "dependency_type": "required"
+            }
+          ],
+          "game_versions": [
+            "1.20.1"
+          ],
+          "loaders": [
+            "fabric"
+          ]
+        }
+      },
+      {
+        "name": "Dynamic Progression and Difficulty",
+        "version": "5.2.0",
+        "optional": true,
+        "file": "dynamic_progression_and_difficulty-fabric-1.20.1-5.2.0.jar",
+        "type": "mods",
+        "description": "Dynamically balanced the progression and difficulty for new and experienced player on the same server.",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "modrinthProject": {
+          "id": "IDaHo4l8",
+          "slug": "dynamic-progression-and-difficulty",
+          "project_type": "mod",
+          "team": "vPXd1I53",
+          "title": "Dynamic Progression and Difficulty",
+          "description": "Dynamically balanced the progression and difficulty for new and experienced player on the same server.",
+          "body": "# ⚔️ Dynamic Player Progression and Difficulty (1.18.2)\n\n[![Dynamic Player Progression and Difficulty Downloads](http://cf.way2muchnoise.eu/full_650016_downloads.svg)](https://www.curseforge.com/minecraft/mc-mods/dynamic-player-progression-and-difficulty)\n[![Dynamic Player Progression and Difficulty Versions](http://cf.way2muchnoise.eu/versions/Minecraft_650016_all.svg)](https://www.curseforge.com/minecraft/mc-mods/dynamic-player-progression-and-difficulty)\n\nDynamically balanced the progression and difficulty for new and experienced player on the same\nserver.\nIn most cases it's difficult to balanced new players with experience players without frustrating one\ngroup.\n\n## ✨ Features\n\n- Dynamically adjust dealt damage (from the Player)\n- Dynamically adjust hurt damage (to the Player)\n- Dynamically adjust item damage and durability (per Weapon Class)\n- Experience points / levels for different kind of areas based on existing stats\n- Customization over config file\n- Weapon classes with weapon progression (more damage, faster, ...) and mod support\n- Use the existing user stats, which mean existing experienced players will start with a higher\n  level and not with level 1.\n\n## ℹ️ What does the mod do ?\n\nFor new players it will increase the dealt damage and decrease hurt damage to the player.\nFor more experience players it will slight increase the dealt damage per weapon class (over time)\nand increase the hurt damage to the player for a more challenging experience with additional getting\nmore experience and loot.\n\nWith each kill you will earn experience points for a specific areas and weapon classes, which is\nused to adjust the progression and difficulty per player dynamically.\n\nThis means new players will not get killed every few seconds and experience players will get a\nharder time to kill mobs and need to find new strategies and better equipment.\n\nDepending on your preferred weapons the durability of the items will be also automatically adjusted\nso that you can play with an axe or even with a hoe.\n\n## ℹ️ More Information\nPlease check https://github.com/MarkusBordihn/BOs-Dynamic-Player-Progression-and-Difficulty/wiki for additional information and examples.\n",
+          "published": "2024-01-08T11:50:36.608936Z",
+          "updated": "2024-02-24T19:09:39.179077Z",
+          "status": "approved",
+          "license": {
+            "id": "MIT",
+            "name": "MIT License",
+            "url": "https://github.com/MarkusBordihn/BOs-Dynamic-Player-Progression-and-Difficulty/blob/1.20.1/LICENSE.md"
+          },
+          "client_side": "required",
+          "server_side": "required",
+          "categories": [
+            "game-mechanics"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/IDaHo4l8/7a55385ed60d7311e60bf2b15a907984200a6eaa_96.webp",
+          "issues_url": "https://github.com/MarkusBordihn/BOs-Dynamic-Player-Progression-and-Difficulty/issues",
+          "source_url": "https://github.com/MarkusBordihn/BOs-Dynamic-Player-Progression-and-Difficulty",
+          "wiki_url": "https://github.com/MarkusBordihn/BOs-Dynamic-Player-Progression-and-Difficulty/wiki",
+          "donation_urls": [
+            {
+              "id": "patreon",
+              "platform": "Patreon",
+              "url": "https://www.patreon.com/Kaworru"
+            },
+            {
+              "id": "ko-fi",
+              "platform": "Ko-fi",
+              "url": "https://ko-fi.com/kaworru"
+            }
+          ],
+          "gallery": [
+            {
+              "url": "https://cdn.modrinth.com/data/IDaHo4l8/images/56cda23bc63c6f9f3475ff1bb0db08d0c3cce75b.png",
+              "raw_url": "https://cdn.modrinth.com/data/IDaHo4l8/images/56cda23bc63c6f9f3475ff1bb0db08d0c3cce75b.png",
+              "featured": false,
+              "title": "Item Class Stats",
+              "description": "Item Class stats shown within the item tool tips.",
+              "created": "2024-02-08T00:30:00.370763Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/IDaHo4l8/images/ac949f29783736943c7badf7e3c8af58d2efd1ae.png",
+              "raw_url": "https://cdn.modrinth.com/data/IDaHo4l8/images/ac949f29783736943c7badf7e3c8af58d2efd1ae.png",
+              "featured": false,
+              "title": "Player Stats Screen",
+              "description": "Player Stats Screen which shows the different kind of player and item class stats.",
+              "created": "2024-02-08T00:29:28.383868Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/IDaHo4l8/images/e1e8a62cf8d59aea2b0a9d8e25a5121efe2fbef4.png",
+              "raw_url": "https://cdn.modrinth.com/data/IDaHo4l8/images/e1e8a62cf8d59aea2b0a9d8e25a5121efe2fbef4.png",
+              "featured": false,
+              "title": "Stats Button",
+              "description": "Stats Button to access the player stats screen.",
+              "created": "2024-02-08T00:28:48.648516Z",
+              "ordering": 0.0
+            }
+          ]
+        },
+        "modrinthVersion": {
+          "id": "2PXPsimt",
+          "project_id": "IDaHo4l8",
+          "author_id": "BBto4U3G",
+          "name": "5.2.0",
+          "version_number": "5.2.0",
+          "changelog": "No changelog was specified.",
+          "date_published": "2024-02-23T19:20:14.718794Z",
+          "version_type": "beta",
+          "files": [
+            {
+              "hashes": {
+                "sha512": "ef49c3eb862ae0a4f05940cabdacd5790474f33d4fd8278480c05961d59cd345a795dda5198315eeb00b95ae20f5d7f4d241fbf9e5d42c30ca8c42fc0dc0fcf6",
+                "sha1": "c677741ea7c2cc7bbe13e162bc19e1f371874810"
+              },
+              "url": "https://cdn.modrinth.com/data/IDaHo4l8/versions/2PXPsimt/dynamic_progression_and_difficulty-fabric-1.20.1-5.2.0.jar",
+              "filename": "dynamic_progression_and_difficulty-fabric-1.20.1-5.2.0.jar",
+              "primary": true,
+              "size": 148682
+            }
+          ],
+          "dependencies": [
+            {
+              "project_id": "2RKFTmiB",
+              "dependency_type": "optional"
+            },
+            {
+              "project_id": "P7dR8mSH",
+              "dependency_type": "required"
+            }
+          ],
+          "game_versions": [
+            "1.20.1"
+          ],
+          "loaders": [
+            "fabric",
+            "quilt"
+          ]
+        }
       }
     ],
     "ignoredUpdates": [],
     "ignoreAllUpdates": false,
     "vanillaInstance": true,
-    "lastPlayed": 1726699743733,
-    "numPlays": 118,
+    "lastPlayed": 1728750635214,
+    "numPlays": 119,
     "lastExportName": "Sunnie's RPG Tech",
     "lastExportVersion": "1.20.1",
     "lastExportAuthor": "Hitomiiv",
@@ -82306,10 +82739,10 @@
   "minimumLauncherVersion": "21",
   "assetIndex": {
     "id": "5",
-    "sha1": "deff28247ad5a294b5edcab128507ea9b9a98c6d",
+    "sha1": "7d2efd6aac6f613d6c84ace0e3764d3757fd99fc",
     "size": 411980,
-    "url": "https://piston-meta.mojang.com/v1/packages/deff28247ad5a294b5edcab128507ea9b9a98c6d/5.json",
-    "totalSize": 626585123
+    "url": "https://piston-meta.mojang.com/v1/packages/7d2efd6aac6f613d6c84ace0e3764d3757fd99fc/5.json",
+    "totalSize": 627383633
   },
   "assets": "5",
   "downloads": {

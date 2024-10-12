@@ -83,6 +83,7 @@ mode = "fancy"
 				experience_orb = true
 				mooshroom = true
 				stray = true
+				allay = true
 
 			[light_sources.settings.entities.artifacts]
 				mimic = true
@@ -151,6 +152,8 @@ mode = "fancy"
 				hammerhead_shark = true
 				mantaray = true
 				seahorse = true
+				shrimp = true
+				jellyfish = true
 
 			[light_sources.settings.entities.smallships]
 				brigg = true
