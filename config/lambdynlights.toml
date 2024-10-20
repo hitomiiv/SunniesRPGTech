@@ -162,6 +162,7 @@ mode = "fancy"
 				geckotoalizard = true
 				dragon = true
 				griffon = true
+				firebird = true
 
 			[light_sources.settings.entities.spell_engine]
 				spell_area_effect = true
@@ -190,4 +191,7 @@ mode = "fancy"
 				silver_bullet_entity = true
 				cannonball_entity_type = true
 				dark_sorcerer = true
+
+			[light_sources.settings.entities.dummmmmmy]
+				target_dummy = true
 
