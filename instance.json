@@ -82570,13 +82570,374 @@
             "quilt"
           ]
         }
+      },
+      {
+        "name": "Runic Enchanting",
+        "version": "Runic Enchanting 1.1+1.20.1",
+        "optional": true,
+        "file": "runic_enchanting-1.1+1.20.1.jar",
+        "type": "mods",
+        "description": "Craft enchanted books using runes found throughout the world.",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 838923,
+        "curseForgeFileId": 4715520,
+        "curseForgeProject": {
+          "id": 838923,
+          "name": "Runic Enchanting",
+          "authors": [
+            {
+              "id": 36564201,
+              "name": "brotazoa",
+              "url": "https://www.curseforge.com/members/brotazoa"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Craft enchanted books using runes found throughout the world.",
+          "categories": [
+            {
+              "name": "Magic",
+              "slug": "magic",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/magic",
+              "dateModified": "2014-05-08T17:40:24.787Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 419,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/34/635351496247862494.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Structures",
+              "slug": "world-structures",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen/world-structures",
+              "dateModified": "2014-05-08T17:37:17.173Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 409,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/24/635351494371736208.png",
+              "parentCategoryId": 406,
+              "classId": 6
+            },
+            {
+              "name": "Adventure and RPG",
+              "slug": "adventure-rpg",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/adventure-rpg",
+              "dateModified": "2014-05-08T17:42:09.54Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 422,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/37/635351497295252123.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 419,
+          "classId": 6,
+          "slug": "runic-enchanting",
+          "isFeatured": false,
+          "dateModified": "2023-08-21T14:56:08.09Z",
+          "dateCreated": "2023-03-18T03:58:52.547Z",
+          "dateReleased": "2023-08-21T14:53:44.323Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/runic-enchanting"
+          },
+          "logo": {
+            "id": 791065,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/791/65/256/256/638147087325911719.png",
+            "title": "638147087325911719.png",
+            "url": "https://media.forgecdn.net/avatars/791/65/638147087325911719.png",
+            "modId": 838923
+          },
+          "allowModDistribution": true,
+          "screenshots": [
+            {
+              "id": 635518,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/635/518/310/172/banner_content.png",
+              "title": "Content_1.0",
+              "url": "https://media.forgecdn.net/attachments/635/518/banner_content.png",
+              "modId": 838923
+            },
+            {
+              "id": 635520,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/635/520/310/172/banner_rune_scribing_crafting.png",
+              "title": "Rune Scribing Table Crafting",
+              "url": "https://media.forgecdn.net/attachments/635/520/banner_rune_scribing_crafting.png",
+              "modId": 838923
+            },
+            {
+              "id": 635521,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/635/521/310/172/chalk_crafting.png",
+              "title": "Chalk Crafting",
+              "url": "https://media.forgecdn.net/attachments/635/521/chalk_crafting.png",
+              "modId": 838923
+            },
+            {
+              "id": 635522,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/635/522/310/172/chisel_crafting.png",
+              "title": "Chisel Crafting",
+              "url": "https://media.forgecdn.net/attachments/635/522/chisel_crafting.png",
+              "modId": 838923
+            },
+            {
+              "id": 635519,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/635/519/310/172/banner_rune_enchanting_crafting.png",
+              "title": "Rune Enchanting Table Crafting",
+              "url": "https://media.forgecdn.net/attachments/635/519/banner_rune_enchanting_crafting.png",
+              "modId": 838923
+            }
+          ],
+          "mainFileId": 4715520
+        },
+        "curseForgeFile": {
+          "id": 4715520,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "runic_enchanting-1.1+1.20.1.jar",
+          "fileName": "runic_enchanting-1.1+1.20.1.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2023-08-21T14:53:44.323Z",
+          "fileLength": 947713,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 306612,
+              "relationType": 3
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 3959942086,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 2701959229,
+              "name": ".cache"
+            },
+            {
+              "fingerprint": 1576789352,
+              "name": "LICENSE_runic_enchanting"
+            },
+            {
+              "fingerprint": 2586293470,
+              "name": "amorphia"
+            },
+            {
+              "fingerprint": 284007745,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 2257385801,
+              "name": "data"
+            },
+            {
+              "fingerprint": 1811407835,
+              "name": "fabric.mod.json"
+            },
+            {
+              "fingerprint": 3729855065,
+              "name": "resourcepacks"
+            },
+            {
+              "fingerprint": 3275405085,
+              "name": "runic_enchanting.mixins.json"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "cdb8eb0b1dd1249c086d0075647a55ef61b60702",
+              "algo": 1
+            },
+            {
+              "value": "ad1c7ad14a1ee06d3992e5d7c93958ec",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-09-01T00:00:00Z",
+              "gameVersionName": "Fabric"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            }
+          ],
+          "gameVersions": [
+            "Fabric",
+            "1.20.1"
+          ],
+          "fileFingerprint": 708108097,
+          "modId": 838923
+        },
+        "modrinthProject": {
+          "id": "GkpgRKV2",
+          "slug": "runic-enchanting",
+          "project_type": "mod",
+          "team": "RsoGz4IW",
+          "title": "Runic Enchanting",
+          "description": "Craft enchanted books using runes found throughout the world.",
+          "body": "![](https://cdn.modrinth.com/data/GkpgRKV2/images/86c14fbbda59f172ad4a33ffdb9d4e7a5c4297f8.png)\n\n**Runic Enchanting** adds a way to craft enchanted books using runes found throughout the world.\n\n  \n  \n![](https://raw.githubusercontent.com/brotazoa/runic_enchanting/master/img/banner_rune_enchanting.png)\n\nEvery enchantment can be crafted with a sequence of rune pages at the **Rune Enchanting Table**.\n\n  \n  \n![](https://raw.githubusercontent.com/brotazoa/runic_enchanting/master/img/banner_rune_scribing.png)\n\nRune pages are written at the **Rune Scribing Table**. Much like how the vanilla enchanting table behaves with bookshelves, the Rune Scribing Table needs **Rune Blocks** nearby. Inorder to craft a rune page the corresponding rune block must be within range of the Scribing Table.\n\n  \n  \n![](https://raw.githubusercontent.com/brotazoa/runic_enchanting/master/img/rune_block_in_the_wild.png)\n\nRune Blocks generate naturally in the Overworld and Nether dimensions. You can find a variety of Rune Structures on the surface, in caves, and even underwater. Each structure will have one or more rune blocks. This is a Life Rune carved onto a chiseled stone bricks block, which generated in a lush caves biome.\n\n  \n  \n![](https://raw.githubusercontent.com/brotazoa/runic_enchanting/master/img/rune_copy.png)\n\nRune blocks when mined will drop their respective chiseled block variant, even with the Silk Touch enchantment. To obtain rune blocks for the Scribing Table use **Chalk** on the block while holding paper in the offhand. This will make a **Rune Pattern** of that rune, which can be used to make additional rune blocks in the future.\n\n  \n  \n![](https://raw.githubusercontent.com/brotazoa/runic_enchanting/master/img/rune_paste.png)\n\nA rune pattern has no durability, so will never break, and is not used up in the process of making a rune block. Once a rune pattern is obtained it can be infinitely used to make new rune blocks. To make a rune block, use a **Chisel** on any chiseled block, like chiseled stone bricks, while holding the desired rune pattern in the offhand. This will convert the chiseled block into a rune block.\n\nRune Patterns can also be used at the Loom to draw patterns on banners, which can then be applied to shields.\n  \n<details><summary>Runes</summary>\n\n*   **Air Rune:** Found commonly in the Overworld\n*   **Armor Rune:** Found commonly in the Overworld\n*   **Cunning Rune:** Found uncommonly in the Nether\n*   **Damage Rune:** Found uncommonly in the Overworld, but commonly in the Nether\n*   **Destruction Rune:** Found rarely in the Overworld, and Nether\n*   **Earth Rune:** Found commonly in the Overworld\n*   **Equipment Rune:** Found commonly in the Overworld\n*   **Fire Rune:** Found commonly in the Nether\n*   **Force Rune:** Only found in the Deep Dark\n*   **Inventory Rune:** Never naturally generated, only found as a pattern in Desert Pyramids\n*   **Life Rune:** Found rarely in the Overworld\n*   **Luck Rune:** Found rarely in the Overworld\n*   **Melee Rune:** Found commonly in the Overworld\n*   **Preservation Rune:** Never naturally generated, only found as a pattern in the Woodland Mansion\n*   **Protection Rune:** Found uncommonly in the Overworld\n*   **Range Rune:** Found commonly in the Overworld\n*   **Revenge Rune:** Never naturally generated, only found as a pattern in Pillager Outposts\n*   **Speed Rune:** Found commonly in deserts\n*   **Spirit Rune:** Found rarely in the Nether\n*   **Time Rune:** Never naturally generated, only found as a pattern in Stronghold Libraries\n*   **Tool Rune:** Found commonly in the Overworld\n*   **Water Rune:** Found commonly in the Overworld\n\n</details>\n<details><summary>Mod Integrations</summary>\n\nAs of version 1.0-rc1, Runic Enchanting includes recipes for enchantments from these mods.\nIf you want to see Runic Enchanting support more mods, make a suggestion on GitHub or the Discord.\n\n*   [Charm](https://www.curseforge.com/minecraft/mc-mods/charm)\n*   [Enchanted Shulkers](https://modrinth.com/mod/enchantedshulkers)\n*   [Fabric Enchantments](https://www.curseforge.com/minecraft/mc-mods/fabric-enchantments)\n*   [Imperishable Items](https://modrinth.com/mod/imperishableitemsfabric)\n*   [MoEnchantments](https://modrinth.com/mod/moenchantments)\n\n</details>\n\nIf you have ideas, or want to talk about Runic Enchanting, consider joining the discord.\n\n[![](https://raw.githubusercontent.com/brotazoa/runic_enchanting/master/img/amorphia_modding_banner.png)](https://discord.gg/W5yXwW8yAA)\n\n[![](https://img.shields.io/discord/949008773308092457?color=7289DA&label=discord&logo=discord&logoColor=fff&style=for-the-badge)](https://discord.gg/W5yXwW8yAA)",
+          "published": "2023-03-17T20:18:56.637938Z",
+          "updated": "2023-08-21T14:52:53.410221Z",
+          "status": "approved",
+          "license": {
+            "id": "MIT",
+            "name": "MIT License"
+          },
+          "client_side": "required",
+          "server_side": "required",
+          "categories": [
+            "adventure",
+            "equipment",
+            "magic"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/GkpgRKV2/0e2869991062cc8127df20236037689b5f23758f_96.webp",
+          "issues_url": "https://github.com/brotazoa/runic_enchanting/issues",
+          "source_url": "https://github.com/brotazoa/runic_enchanting",
+          "discord_url": "https://discord.gg/W5yXwW8yAA",
+          "donation_urls": [],
+          "gallery": [
+            {
+              "url": "https://cdn.modrinth.com/data/GkpgRKV2/images/12afc832e7ecacfb2cc33269f2da1af517708d90_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/GkpgRKV2/images/12afc832e7ecacfb2cc33269f2da1af517708d90.png",
+              "featured": false,
+              "title": "Stone Rune Pillars",
+              "description": "Chiseled Stone Brick Rune Blocks",
+              "created": "2023-03-17T23:41:53.412883Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/GkpgRKV2/images/294626a29aa0e2e0b23259ced1fb602523a88d82_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/GkpgRKV2/images/294626a29aa0e2e0b23259ced1fb602523a88d82.png",
+              "featured": false,
+              "title": "Desert Rune Pillars",
+              "description": "Rune Blocks on Sandstone",
+              "created": "2023-03-17T23:42:48.461753Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/GkpgRKV2/images/2b4383caf5e51ecbf9052526df63bac4cbfc8320.png",
+              "raw_url": "https://cdn.modrinth.com/data/GkpgRKV2/images/2b4383caf5e51ecbf9052526df63bac4cbfc8320.png",
+              "featured": false,
+              "title": "Nether Rune Pillars",
+              "description": "Rune blocks in Blackstone, Quartz, and Nether Brick",
+              "created": "2023-03-17T23:43:53.144068Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/GkpgRKV2/images/41d62f0fbf692cf42a60ac98aa21e7213a7eb4e7.png",
+              "raw_url": "https://cdn.modrinth.com/data/GkpgRKV2/images/41d62f0fbf692cf42a60ac98aa21e7213a7eb4e7.png",
+              "featured": false,
+              "title": "Rune Scribing Table Crafting",
+              "description": "Crafting recipe for the Rune Scribing Table",
+              "created": "2023-03-18T04:10:49.007488Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/GkpgRKV2/images/5163b0e3f411a9b145bff882d9501286174e4868_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/GkpgRKV2/images/5163b0e3f411a9b145bff882d9501286174e4868.png",
+              "featured": false,
+              "title": "Deepslate Rune Pillars",
+              "description": "Deepslate rune blocks",
+              "created": "2023-03-17T23:43:24.831476Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/GkpgRKV2/images/7597520330a7ba096138b6a3527878d34f89e9eb_350.webp",
+              "raw_url": "https://cdn.modrinth.com/data/GkpgRKV2/images/86c14fbbda59f172ad4a33ffdb9d4e7a5c4297f8.png",
+              "featured": true,
+              "title": "1.0 Content",
+              "description": "Display of some blocks added by Runic Enchanting as of version 1.0",
+              "created": "2023-03-17T23:40:27.891950Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/GkpgRKV2/images/7ddf54625937656900d06622f92cda746329cd8b.png",
+              "raw_url": "https://cdn.modrinth.com/data/GkpgRKV2/images/7ddf54625937656900d06622f92cda746329cd8b.png",
+              "featured": false,
+              "title": "Chisel Crafting",
+              "description": "Crafting recipe for the Chisel",
+              "created": "2023-03-18T04:11:44.122271Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/GkpgRKV2/images/8a0e9be56275db9a24729f397d1b3367c3869497.png",
+              "raw_url": "https://cdn.modrinth.com/data/GkpgRKV2/images/8a0e9be56275db9a24729f397d1b3367c3869497.png",
+              "featured": false,
+              "title": "Rune Enchanting Table Crafting",
+              "description": "Crafting recipe for the Rune Enchanting Table",
+              "created": "2023-03-18T04:10:01.711777Z",
+              "ordering": 0.0
+            },
+            {
+              "url": "https://cdn.modrinth.com/data/GkpgRKV2/images/a3cf41138b5d43533107bcbf0243ed105cddf084.png",
+              "raw_url": "https://cdn.modrinth.com/data/GkpgRKV2/images/a3cf41138b5d43533107bcbf0243ed105cddf084.png",
+              "featured": false,
+              "title": "Chalk Crafting",
+              "description": "Crafting recipe for Chalk",
+              "created": "2023-03-18T04:11:22.479173Z",
+              "ordering": 0.0
+            }
+          ]
+        },
+        "modrinthVersion": {
+          "id": "sEmrnI7V",
+          "project_id": "GkpgRKV2",
+          "author_id": "OXWXOHSa",
+          "name": "Runic Enchanting 1.1+1.20.1",
+          "version_number": "1.1+1.20.1",
+          "changelog": "<ul>\n<li>Fix crash when placing Rune Scribing and Rune Enchanting tables at certain angles</li>\n</ul>",
+          "date_published": "2023-08-21T14:52:54.079935Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha1": "cdb8eb0b1dd1249c086d0075647a55ef61b60702",
+                "sha512": "37ffc6150b01b425350d7eacd503adead11c50af9bcf5c10dfb37110a808cc621c9444549c5524f95067b781b18cdbe893ec0e2ef7137c919a45dde661f6252e"
+              },
+              "url": "https://cdn.modrinth.com/data/GkpgRKV2/versions/sEmrnI7V/runic_enchanting-1.1%2B1.20.1.jar",
+              "filename": "runic_enchanting-1.1+1.20.1.jar",
+              "primary": true,
+              "size": 947713
+            }
+          ],
+          "dependencies": [
+            {
+              "project_id": "P7dR8mSH",
+              "dependency_type": "required"
+            }
+          ],
+          "game_versions": [
+            "1.20.1"
+          ],
+          "loaders": [
+            "fabric"
+          ]
+        }
       }
     ],
     "ignoredUpdates": [],
     "ignoreAllUpdates": false,
     "vanillaInstance": true,
-    "lastPlayed": 1728750635214,
-    "numPlays": 119,
+    "lastPlayed": 1729440899163,
+    "numPlays": 121,
     "lastExportName": "Sunnie's RPG Tech",
     "lastExportVersion": "1.20.1",
     "lastExportAuthor": "Hitomiiv",
@@ -82739,10 +83100,10 @@
   "minimumLauncherVersion": "21",
   "assetIndex": {
     "id": "5",
-    "sha1": "7d2efd6aac6f613d6c84ace0e3764d3757fd99fc",
+    "sha1": "d613ef2c854cd3d6a2beb9aa4f06e1f73621f3aa",
     "size": 411980,
-    "url": "https://piston-meta.mojang.com/v1/packages/7d2efd6aac6f613d6c84ace0e3764d3757fd99fc/5.json",
-    "totalSize": 627383633
+    "url": "https://piston-meta.mojang.com/v1/packages/d613ef2c854cd3d6a2beb9aa4f06e1f73621f3aa/5.json",
+    "totalSize": 627388373
   },
   "assets": "5",
   "downloads": {
