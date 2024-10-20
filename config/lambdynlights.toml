@@ -179,6 +179,7 @@ mode = "fancy"
 				corrupted_pillager = true
 				nameless_hanged = true
 				nightmare = true
+				ghoul = true
 
 			[light_sources.settings.entities.aquamirae]
 				spinefish = true
