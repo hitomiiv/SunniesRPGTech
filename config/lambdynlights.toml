@@ -94,6 +94,7 @@ mode = "fancy"
 			[light_sources.settings.entities.biomeswevegone]
 				man_o_war = true
 				oddion = true
+				pumpkin_warden = true
 
 			[light_sources.settings.entities.wildlife]
 				lark = true
@@ -154,6 +155,9 @@ mode = "fancy"
 				seahorse = true
 				shrimp = true
 				jellyfish = true
+				goldfinch = true
+				wren = true
+				rhino_beetle = true
 
 			[light_sources.settings.entities.smallships]
 				brigg = true
