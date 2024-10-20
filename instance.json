@@ -15850,240 +15850,6 @@
         }
       },
       {
-        "name": "Hearty Trinkets",
-        "version": "Hearty Trinkets 1.20.1-1.2.0",
-        "optional": true,
-        "file": "heartytrinkets-1.20.1-1.2.0.jar",
-        "type": "mods",
-        "description": "This Mod Brings Back the Old Tinkers Heart Canisters in a new Way. Place them in your belt in a Trinket Slot",
-        "disabled": false,
-        "userAdded": true,
-        "wasSelected": true,
-        "skipped": false,
-        "curseForgeProjectId": 567728,
-        "curseForgeFileId": 5465982,
-        "curseForgeProject": {
-          "id": 567728,
-          "name": "Hearty Trinkets",
-          "authors": [
-            {
-              "id": 12369017,
-              "name": "traverse_joe",
-              "url": "https://www.curseforge.com/members/traverse_joe"
-            }
-          ],
-          "gameId": 432,
-          "summary": "This Mod Brings Back the Old Tinkers Heart Canisters in a new Way. Place them in your belt in a Trinket Slot",
-          "categories": [
-            {
-              "name": "Adventure and RPG",
-              "slug": "adventure-rpg",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/adventure-rpg",
-              "dateModified": "2014-05-08T17:42:09.54Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 422,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/37/635351497295252123.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            },
-            {
-              "name": "Armor, Tools, and Weapons",
-              "slug": "armor-weapons-tools",
-              "url": "https://www.curseforge.com/minecraft/mc-mods/armor-weapons-tools",
-              "dateModified": "2014-05-08T17:44:39.057Z",
-              "gameId": 432,
-              "isClass": false,
-              "id": 434,
-              "iconUrl": "https://media.forgecdn.net/avatars/6/47/635351498790409758.png",
-              "parentCategoryId": 6,
-              "classId": 6
-            }
-          ],
-          "status": 4,
-          "primaryCategoryId": 422,
-          "classId": 6,
-          "slug": "hearty-trinkets",
-          "isFeatured": false,
-          "dateModified": "2024-06-23T22:50:29.697Z",
-          "dateCreated": "2022-01-15T04:34:04.613Z",
-          "dateReleased": "2024-06-23T22:45:18.57Z",
-          "links": {
-            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/hearty-trinkets",
-            "issuesUrl": "https://github.com/Traverse-Joe/HeartyTrinkets/issues",
-            "sourceUrl": "https://github.com/Traverse-Joe/HeartyTrinkets"
-          },
-          "logo": {
-            "id": 480074,
-            "description": "",
-            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/480/74/256/256/637778180446471169.png",
-            "title": "637778180446471169.png",
-            "url": "https://media.forgecdn.net/avatars/480/74/637778180446471169.png",
-            "modId": 567728
-          },
-          "allowModDistribution": true,
-          "screenshots": [],
-          "mainFileId": 5465982
-        },
-        "curseForgeFile": {
-          "id": 5465982,
-          "gameId": 432,
-          "isAvailable": true,
-          "displayName": "heartytrinkets-1.20.1-1.2.0.jar",
-          "fileName": "heartytrinkets-1.20.1-1.2.0.jar",
-          "releaseType": 1,
-          "fileStatus": 4,
-          "fileDate": "2024-06-23T22:45:18.57Z",
-          "fileLength": 84997,
-          "dependencies": [],
-          "alternateFileId": 0,
-          "modules": [
-            {
-              "fingerprint": 1321926040,
-              "name": "META-INF"
-            },
-            {
-              "fingerprint": 2749878126,
-              "name": "LICENSE_heartytrinkets"
-            },
-            {
-              "fingerprint": 2522636536,
-              "name": "assets"
-            },
-            {
-              "fingerprint": 3345054941,
-              "name": "com"
-            },
-            {
-              "fingerprint": 743547755,
-              "name": "data"
-            },
-            {
-              "fingerprint": 2694894139,
-              "name": "fabric.mod.json"
-            },
-            {
-              "fingerprint": 3869354816,
-              "name": "heartytrinkets-refmap.json"
-            },
-            {
-              "fingerprint": 4266520754,
-              "name": "heartytrinkets.mixins.json"
-            }
-          ],
-          "isServerPack": false,
-          "hashes": [
-            {
-              "value": "ed0c0ea900a4f1cda3a1ca6b425263cf019dfe90",
-              "algo": 1
-            },
-            {
-              "value": "bfc4e4fb431b0678d10eada791b5ac20",
-              "algo": 2
-            }
-          ],
-          "sortableGameVersions": [
-            {
-              "gameVersionPadded": "0",
-              "gameVersion": "",
-              "gameVersionReleaseDate": "2022-09-01T00:00:00Z",
-              "gameVersionName": "Fabric"
-            },
-            {
-              "gameVersionPadded": "0",
-              "gameVersion": "",
-              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
-              "gameVersionName": "Client"
-            },
-            {
-              "gameVersionPadded": "0000000001.0000000020.0000000001",
-              "gameVersion": "1.20.1",
-              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
-              "gameVersionName": "1.20.1"
-            },
-            {
-              "gameVersionPadded": "0",
-              "gameVersion": "",
-              "gameVersionReleaseDate": "2022-12-08T00:00:00Z",
-              "gameVersionName": "Server"
-            }
-          ],
-          "gameVersions": [
-            "Fabric",
-            "Client",
-            "1.20.1",
-            "Server"
-          ],
-          "fileFingerprint": 899611758,
-          "modId": 567728
-        },
-        "modrinthProject": {
-          "id": "lLoSS8hZ",
-          "slug": "hearty-trinkets",
-          "project_type": "mod",
-          "team": "U8uUuBa1",
-          "title": "Hearty Trinkets",
-          "description": "This Mod Brings Back the Old Tinkers Heart Canisters in a new Way. Place them in your belt in a Trinket Slot",
-          "body": "<p><span style=\"font-size: 24px;\"><strong><span style=\"font-size: 36px;\">Hearty Trinkets</span><br /></strong><span style=\"font-size: 14px;\"><em>This Mod Brings Back the Old Tinkers Heart Canisters in a new Way. Place them in your belt in a Trinket Slot</em></span></span></p>\n<p>&nbsp;</p>\n<p><strong>See It In Action</strong></p>\n<div class=\"spoiler\">\n<p><img src=\"https://imgur.com/WeQXuiW.gif\" alt=\"Hearty Trinket Showcase\" width=\"854\" height=\"480\" /></p>\n</div>\n<p>&nbsp;</p>\n<p><span style=\"font-size: 18px;\"><br />Custom Drops</span></p>\n<p><span style=\"font-size: 18px;\"><span style=\"font-size: 12px;\">Configure the Heart Drops in a custom json</span><br /><img src=\"https://imgur.com/k8lTJhp.png\" alt=\"Drops\" width=\"251\" height=\"349\" /><br /></span></p>\n<p><span style=\"font-size: 12px;\">Note: 1.19+ Blue Hearts No Longer Drop from Evoker but instead from the Warden!</span></p>\n<p>&nbsp;</p>\n<p><span style=\"font-size: 24px;\"><strong>Requires:</strong></span></p>\n<p><span style=\"font-size: 18px;\"><a title=\"Fabric API\" href=\"https://modrinth.com/mod/fabric-api\"><img src=\"https://media.forgecdn.net/avatars/thumbnails/185/822/64/64/636829723898798601.png\" alt=\"\" width=\"64\" height=\"64\" /></a>Fabric API</span></p>\n<p><span style=\"font-size: 18px;\"><a title=\"Trinkets(Fabric)\" href=\"https://modrinth.com/mod/trinkets\"><img src=\"https://media.forgecdn.net/avatars/thumbnails/392/688/64/64/637587073088891583.png\" alt=\"\" width=\"64\" height=\"64\" /></a>Trinkets(Fabric)</span></p>\n<p>&nbsp;</p>\n<p><a title=\"DISCORD\" href=\"https://discord.gg/tG5JKcW\"><em><img src=\"https://sparkcdnwus2.azureedge.net/sparkimageassets/XPDC2RH70K22MN-08afd558-a61c-4a63-9171-d3f199738e9f\" width=\"30\" height=\"30\" /></em></a><a href=\"https://twitter.com/traverse_joe\"><em><img src=\"https://static01.nyt.com/images/2014/08/10/magazine/10wmt/10wmt-articleLarge-v4.jpg?quality=75&amp;auto=webp&amp;disable=upscale\" width=\"40\" height=\"40\" /></em></a><a href=\"https://twitch.tv/traverse_joe\"><em><img src=\"https://pngimg.com/uploads/twitch/twitch_PNG51.png\" width=\"40\" height=\"40\" /></em></a></p>\n",
-          "published": "2024-03-12T07:10:11.615932Z",
-          "updated": "2024-06-23T22:56:09.339846Z",
-          "status": "approved",
-          "license": {
-            "id": "MIT",
-            "name": "MIT License"
-          },
-          "client_side": "required",
-          "server_side": "required",
-          "categories": [],
-          "icon_url": "https://cdn.modrinth.com/data/lLoSS8hZ/47a6366c83bf22857d34a5c99669c9036b963883.png",
-          "issues_url": "https://github.com/Traverse-Joe/HeartyTrinkets/issues",
-          "source_url": "https://github.com/Traverse-Joe/HeartyTrinkets",
-          "discord_url": "https://discord.gg/tG5JKcW",
-          "donation_urls": [
-            {
-              "id": "ko-fi",
-              "platform": "Ko-fi",
-              "url": "https://ko-fi.com/traverse_joe"
-            }
-          ],
-          "gallery": []
-        },
-        "modrinthVersion": {
-          "id": "SBXqFQpO",
-          "project_id": "lLoSS8hZ",
-          "author_id": "qjAOlhkP",
-          "name": "Hearty Trinkets 1.20.1-1.2.0",
-          "version_number": "1.20.1-1.2.0",
-          "changelog": "- Fixed Creative Mode Tab\n- Fixed Bugged Recipe\n- Added QOL Recipes from 1.20.2 version",
-          "date_published": "2024-06-23T22:56:09.980742Z",
-          "version_type": "release",
-          "files": [
-            {
-              "hashes": {
-                "sha512": "1d6c3c0c7bd28357aabab3f4ba5bf17544def0a05f0a5aed28c10fc4f44efe1bdefa6e71b547e472834ed4cda8be1bccc149fd1be63025e15ea77ce7852f741d",
-                "sha1": "ed0c0ea900a4f1cda3a1ca6b425263cf019dfe90"
-              },
-              "url": "https://cdn.modrinth.com/data/lLoSS8hZ/versions/SBXqFQpO/heartytrinkets-1.20.1-1.2.0.jar",
-              "filename": "heartytrinkets-1.20.1-1.2.0.jar",
-              "primary": true,
-              "size": 84997
-            }
-          ],
-          "dependencies": [
-            {
-              "project_id": "5aaWibi9",
-              "dependency_type": "required"
-            }
-          ],
-          "game_versions": [
-            "1.20.1"
-          ],
-          "loaders": [
-            "fabric"
-          ]
-        }
-      },
-      {
         "name": "Void Totem",
         "version": "voidtotem-fabric-1.20-3.0.1",
         "optional": true,
@@ -82648,13 +82414,252 @@
             "fabric"
           ]
         }
+      },
+      {
+        "name": "Spice of Fabric",
+        "version": "[1.20.1] 1.6.2",
+        "optional": true,
+        "file": "spiceoffabric-1.6.2+mc1.20.1.jar",
+        "type": "mods",
+        "description": "An iteration of Spice of Life built for Fabric",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 318416,
+        "curseForgeFileId": 4799753,
+        "curseForgeProject": {
+          "id": 318416,
+          "name": "Spice of Fabric (Fabric)",
+          "authors": [
+            {
+              "id": 23798694,
+              "name": "Siphalor",
+              "url": "https://www.curseforge.com/members/siphalor"
+            }
+          ],
+          "gameId": 432,
+          "summary": "An iteration of Spice of Life built for Fabric",
+          "categories": [
+            {
+              "name": "API and Library",
+              "slug": "library-api",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/library-api",
+              "dateModified": "2014-05-23T03:21:44.06Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 421,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/36/635351496947765531.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Food",
+              "slug": "mc-food",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-food",
+              "dateModified": "2014-05-08T17:45:26.55Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 436,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/49/635351499265510402.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 436,
+          "classId": 6,
+          "slug": "spice-of-fabric",
+          "isFeatured": false,
+          "dateModified": "2023-12-18T14:25:06.41Z",
+          "dateCreated": "2019-03-30T12:03:39.73Z",
+          "dateReleased": "2023-12-18T14:19:17.087Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/spice-of-fabric",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/Siphalor/spiceoffabric/issues",
+            "sourceUrl": "https://github.com/Siphalor/spiceoffabric"
+          },
+          "logo": {
+            "id": 197803,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/197/803/256/256/636895442197605296.png",
+            "title": "636895442197605296.png",
+            "url": "https://media.forgecdn.net/avatars/197/803/636895442197605296.png",
+            "modId": 318416
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 4966333
+        },
+        "curseForgeFile": {
+          "id": 4799753,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "[1.20.1] 1.6.2",
+          "fileName": "spiceoffabric-1.6.2+mc1.20.1.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2023-10-15T11:41:58.767Z",
+          "fileLength": 640068,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 551890,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 306612,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 248787,
+              "relationType": 2
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 1631940667,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 2743394611,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 3132625365,
+              "name": "data"
+            },
+            {
+              "fingerprint": 1501125404,
+              "name": "de"
+            },
+            {
+              "fingerprint": 2732999486,
+              "name": "fabric.mod.json"
+            },
+            {
+              "fingerprint": 2004588976,
+              "name": "spiceoffabric-refmap.json"
+            },
+            {
+              "fingerprint": 441797696,
+              "name": "spiceoffabric.mixins.json"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "92fc41b981db1e1fbc9f10918587de7edd60de28",
+              "algo": 1
+            },
+            {
+              "value": "6c3395bdd53787f5cb3437e16bb1f80e",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2022-09-01T00:00:00Z",
+              "gameVersionName": "Fabric"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000001",
+              "gameVersion": "1.20.1",
+              "gameVersionReleaseDate": "2023-06-12T14:26:38.477Z",
+              "gameVersionName": "1.20.1"
+            }
+          ],
+          "gameVersions": [
+            "Fabric",
+            "1.20.1"
+          ],
+          "fileFingerprint": 3327443171,
+          "modId": 318416
+        },
+        "modrinthProject": {
+          "id": "roxihOCb",
+          "slug": "spice-of-fabric",
+          "project_type": "mod",
+          "team": "U7rRn8vP",
+          "title": "Spice of Fabric",
+          "description": "An iteration of Spice of Life built for Fabric",
+          "body": "\n\n## About\n\nRecent Minecraft versions added new methods of automating your food productions. But:\n\n* Isn't it too easy to eat industrial Dried Kelp all the time?\n* Aren't Hoglin farms just blatantly broken?\n* Doesn't the game get boring if you only munch villager-traded Golden Carrots?\n\nThe solution is well known by now:\n\nAs you eat food, the nutrition value of the different kinds of food will decrease, so you're forced to have a diverse diet.\n\nBy default, the last 20 meals are considered when calculating the nutrition values and the drop in the nutrition will be pretty rapid.\n\nIf you're not a friend of that, then rest assured,\n_all used formulas are totally configurable._\nYou can either edit the config file manually or use ModMenu to access the config screen.\n\n## Carrot Mode\n\nThere's also the so-called \"Carrot Mode\" which is highly inspired by [Spice Of Life: Carrot Edition](https://minecraft.curseforge.com/projects/spice-of-life-carrot-edition)\n\nFor everyone who doesn't know the concept:\n\nOne starts with a lower than regular amount of hearts and through eating diverse foods you unlock more hearts.\n\n_This too, is highly configurable._\n\n## Food containers\n\nFood containers are items that can hold multiple foods at once like a shulker, bundle or backpack.\n\nThey allow you to directly eat from the foods by right-clicking just like you would normally eat.\n\nYou can enable the following containers in the config:\n- **Paper bag**: Is made from just paper and can store up to five stacks of food.\n- **Lunch box**: Is made from planks and gold and can store up to nine stacks of food.\n- **Picnic basket**: Is made from bamboo and can store up to nine stacks of food.\n\n**Server-side-only installations can enable them by installing Polymer on the server and enabling the `use-polymer` configuration.**\n\n## Translation status\n\n[![Translation status](https://weblate.siphalor.de/widgets/spice-of-fabric/-/multi-auto.svg)](https://weblate.siphalor.de/engage/spice-of-fabric/)\n\nContribute or improve translations [here](https://weblate.siphalor.de/engage/spice-of-fabric).\n\n## Dependencies\n\n**This mod requires [Fabric API](https://modrinth.com/mod/fabric-api) to be installed separately.**  \nIf you want to use Food containers \n\nContains Tweed API. Tweed redistributes [hjson-java](https://github.com/hjson/hjson-java) which is under the [MIT License](https://github.com/hjson/hjson-java/blob/master/LICENSE) currently copyrighted by Christian Zangl. This mod uses the [fork](https://github.com/PersonTheCat/hjson-java) made by [PersonTheCat](https://github.com/PersonTheCat).\n\nThis mod redistributes [exp4j](https://www.objecthunter.net/exp4j/) under the [Apache License 2.0](https://github.com/fasseg/exp4j/blob/master/LICENSE).\n\n## License\n\nThis mod and its source code are available under the MIT license.\nFeel free to learn from it and incorporate it in your own projects as long as you attribute me.\n",
+          "published": "2021-02-11T22:22:13.473842Z",
+          "updated": "2023-12-18T14:18:59.244359Z",
+          "status": "approved",
+          "license": {
+            "id": "MIT",
+            "name": "MIT License"
+          },
+          "client_side": "unsupported",
+          "server_side": "required",
+          "categories": [
+            "adventure",
+            "food",
+            "game-mechanics"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/roxihOCb/icon.png",
+          "issues_url": "https://github.com/Siphalor/spiceoffabric/issues",
+          "source_url": "https://github.com/Siphalor/spiceoffabric",
+          "discord_url": "https://discord.gg/6gaXmbj",
+          "donation_urls": [],
+          "gallery": []
+        },
+        "modrinthVersion": {
+          "id": "JQeNIIvU",
+          "project_id": "roxihOCb",
+          "author_id": "JJJqUOvE",
+          "name": "[1.20.1] 1.6.2",
+          "version_number": "1.6.2+mc1.20.1",
+          "changelog": "## Version 1.6.2\n\n- Fixes to the internal stats building.\n  Should resolve some issues with the food history and the actual diminishing returns getting out of sync.\n- Some internal code improvements\n- Translation updates:\n  - Small adjustments to Chinese by Rad233\n  - Russian translations by AVA-lol\n\nRelease by Siphalor",
+          "date_published": "2023-10-15T11:41:54.811862Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha512": "22259baf1f545feea132160008da008fd7d851c1595f3be321bed8c8861b4412276c26f1b2c15c6201611b36bd92fc29e627cf32b0787b855f1da9c8bae5f5df",
+                "sha1": "92fc41b981db1e1fbc9f10918587de7edd60de28"
+              },
+              "url": "https://cdn.modrinth.com/data/roxihOCb/versions/JQeNIIvU/spiceoffabric-1.6.2%2Bmc1.20.1.jar",
+              "filename": "spiceoffabric-1.6.2+mc1.20.1.jar",
+              "primary": true,
+              "size": 640068
+            }
+          ],
+          "dependencies": [
+            {
+              "project_id": "EsAfCjCV",
+              "dependency_type": "optional"
+            },
+            {
+              "project_id": "P7dR8mSH",
+              "dependency_type": "required"
+            },
+            {
+              "project_id": "xGdtZczs",
+              "dependency_type": "optional"
+            }
+          ],
+          "game_versions": [
+            "1.20.1"
+          ],
+          "loaders": [
+            "fabric"
+          ]
+        }
       }
     ],
     "ignoredUpdates": [],
     "ignoreAllUpdates": false,
     "vanillaInstance": true,
-    "lastPlayed": 1729440899163,
-    "numPlays": 121,
+    "lastPlayed": 1729442001013,
+    "numPlays": 122,
     "lastExportName": "Sunnie's RPG Tech",
     "lastExportVersion": "1.20.1",
     "lastExportAuthor": "Hitomiiv",
