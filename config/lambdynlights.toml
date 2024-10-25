@@ -85,6 +85,18 @@ mode = "fancy"
 				stray = true
 				allay = true
 				guardian = true
+				panda = true
+				skeleton_horse = true
+				ravager = true
+				piglin = true
+				piglin_brute = true
+				hoglin = true
+				strider = true
+				zombified_piglin = true
+				ghast = true
+				blaze = true
+				phantom = true
+				vex = true
 
 			[light_sources.settings.entities.artifacts]
 				mimic = true
@@ -159,6 +171,15 @@ mode = "fancy"
 				goldfinch = true
 				wren = true
 				rhino_beetle = true
+				iguana = true
+				badger = true
+				white_eye = true
+				towhee = true
+				cottonbird = true
+				morpho_butterfly = true
+				boar = true
+				deer = true
+				beaver = true
 
 			[light_sources.settings.entities.smallships]
 				brigg = true
@@ -169,6 +190,10 @@ mode = "fancy"
 				griffon = true
 				firebird = true
 				colelytra = true
+				acencia = true
+				courierbird = true
+				direwolf = true
+				moth = true
 
 			[light_sources.settings.entities.spell_engine]
 				spell_area_effect = true
@@ -182,6 +207,7 @@ mode = "fancy"
 				nameless_hanged = true
 				nightmare = true
 				ghoul = true
+				revenant = true
 
 			[light_sources.settings.entities.aquamirae]
 				spinefish = true
@@ -198,7 +224,11 @@ mode = "fancy"
 				silver_bullet_entity = true
 				cannonball_entity_type = true
 				dark_sorcerer = true
+				evil_forlorn = true
 
 			[light_sources.settings.entities.dummmmmmy]
 				target_dummy = true
+
+			[light_sources.settings.entities.create]
+				super_glue = true
 
