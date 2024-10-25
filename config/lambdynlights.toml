@@ -84,6 +84,7 @@ mode = "fancy"
 				mooshroom = true
 				stray = true
 				allay = true
+				guardian = true
 
 			[light_sources.settings.entities.artifacts]
 				mimic = true
@@ -167,6 +168,7 @@ mode = "fancy"
 				dragon = true
 				griffon = true
 				firebird = true
+				colelytra = true
 
 			[light_sources.settings.entities.spell_engine]
 				spell_area_effect = true
