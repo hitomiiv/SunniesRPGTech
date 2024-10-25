@@ -1,4 +1,5 @@
 {
   "disableOptifineWarning": false,
-  "useVanillaUseKey": false
+  "useVanillaUseKey": false,
+  "useIncendiaryEnchantment": true
 }
