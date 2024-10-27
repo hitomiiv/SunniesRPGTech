@@ -97,6 +97,9 @@ mode = "fancy"
 				blaze = true
 				phantom = true
 				vex = true
+				firework_rocket = true
+				trident = true
+				silverfish = true
 
 			[light_sources.settings.entities.artifacts]
 				mimic = true
@@ -232,4 +235,7 @@ mode = "fancy"
 
 			[light_sources.settings.entities.create]
 				super_glue = true
+
+			[light_sources.settings.entities.lootr]
+				lootr_minecart = true
 
