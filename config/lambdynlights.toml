@@ -180,6 +180,7 @@ mode = "fancy"
 				boar = true
 				deer = true
 				beaver = true
+				swallow = true
 
 			[light_sources.settings.entities.smallships]
 				brigg = true
